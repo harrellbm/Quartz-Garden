@@ -1,0 +1,28 @@
+---
+"Note Planted:": 2024-06-27
+"Last Tended:": 2024-07-01
+---
+#🌿Sapling  #😁Strongly-Agree #📚Definition #🟢Conviction 
+****
+> `Importance`: 100%
+ 
+***The Big Idea***: Life can be thought of along two major plains of activity Coram Deo (before God) and Coram Mundo (before Man). It is only when we keep these areas of activity in their proper place that we avoid either trying to climb up to God using our Active Righteousness. While also avoiding using the Passive Righteousness we receive through Christ as an excuse to ignore our neighbor. 
+
+****
+(Used June/July 2023 OS #📃Epistle)
+
+As Lutherans we are often familiar with the wonderful teaching of the Law and Gospel. We know that the Law shows us our sin and how far the world has fallen away from the good plan of God. But the Gospel speaks of the forgiveness and renewal that Jesus offers through His death and resurrection. It helps us to see how much we need Jesus and His life giving message of peace and hope.   
+
+There is an equally beautiful and important teaching that pairs with our understanding of Law and Gospel that I would like to describe today. It is the teaching of Two Kinds of Righteousness. While the teaching of Law and Gospel helps us understand the role of Jesus in saving us, Two Kinds of Righteousness (sometimes abbreviated 2KR) helps us understand our role as people saved by Jesus. 
+
+All throughout history many Christians have struggled to understand what our role is meant to be. If Jesus does everything to save us does that mean I can just be a couch potato? Or do I have to do something to assist Jesus in saving me? Or maybe assist in saving others?  What am I supposed to do? Or not do? How do I know? 
+
+2KR helps us place our role in the proper place. Righteousness is a word that pops up all over Scripture and means something very simple.  If something is righteous or someone has righteousness they are in a good (or a right) relationship with those around them. If I am righteous before God then that means I have a good, healthy, right relationship with Him.  On the other hand, if I am in a healthy, balanced relationship with the people around me, I am righteous before these other humans. 
+
+This basic difference between being righteous in our relationship with other humans and God is where the two kinds of righteousness come from. Because when we talk about being able to make our relationship with God better, the Law informs me that I am a sinner and that there is no way for me to make things right before God. In fact, if it was up to just me I would be doomed to hell, but through Jesus’ work I am able to receive grace and forgiveness. Paul puts it this way:  “For what does the Scripture say? “Abraham believed God, and it was counted to him as righteousness.”- Romans 4:3 When it comes to my role in fixing my relationship with God I can do nothing. All that I can do is cling to the promise of Jesus with simple childlike faith and through that I am given a heavenly righteousness that I could never achieve on my own. 
+
+However, that is not all there is to it. What about righteousness in our relationships with other humans? This is the second kind of righteousness and the one that teaches us what life is now about as God’s redeemed and restored people. In my relationship with God, I am passive and receive the incredible work of Jesus, but in my relationships with other humans, I am called to be active. Jesus reminds us that His love is the starting point of our relationship with one another: “This is my commandment, that you love one another as I have loved you.” - John 15:12. It is because of the love of Jesus that we can now enter into an active kind of righteousness. A righteousness where we set things straight, we work for the good of those around us and we seek reconciliation and restoration of all the things that are broken within our human relationships.
+
+When we look at life from this perspective there is indeed much to be done! Important and meaningful work to make the world and human society a more God pleasing and healthy place. Yet that kind of active righteousness is one kind and the passive righteousness I receive from Jesus is another. When we mix them up we get into all kinds of trouble. If my active righteousness can make me worthy before God or somehow fix things with God then I have no need for Jesus. Or if I sit back and relax because MY relationship with God is restored and ignore the work of sharing Jesus love and righteousness in an active way with those around me I am equally ignoring the importance of what Jesus has given me through His cross. 
+
+Therefore it is important to keep each type of righteousness where it is supposed to be. The passive righteousness given me by Jesus is the core and the foundation upon which my relationship with Jesus is restored and allows me to share that love with those around me. And then when I do share that love, I can begin to live a righteous life before all the humans around me. In this way I can be bold in affirming the value and importance of Christians acting like Christians, not because it makes us closer to God but because it is what my neighbor needs from me. If I refuse to share God’s love and live an actively righteous life, I still can freely receive the good news of the Gospel. But I have robbed those around me of the good I was placed on this earth to do. So it becomes clear that we are called to live lives of two kinds of righteousness. One of passive gracious acceptance of Jesus' love and forgiveness and one of creative and thoughtful care for those around me.**
