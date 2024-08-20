@@ -1,12 +1,13 @@
 ---
 "Note Planted:": 2024-06-28
-"Last Tended:": 2024-07-18
+"Last Tended:": 2024-08-07
 ---
 #🌱Seed  #🙂Agree
 ****
 > `Importance`: 10%
- 
-***The Big Idea***: Notes on the technical set up of this digital garden.
+
+>[!Summary] The Big Idea
+>Notes on the technical set up of this digital garden.
 
 ****
 

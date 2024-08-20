@@ -1,12 +1,13 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-18
+"Last Tended:": 2024-08-07
 ---
 #🪴Sprout #🙂Agree #🟢Conviction 
 ****
 > `Importance`: 70%
- 
-***The Big Idea***: There are so many pressures that get in the way of just being in Scripture each day.
+
+>[!Summary] The Big Idea
+>There are so many pressures that get in the way of just being in Scripture each day.
 
 ***Related Epistle***: [[Love the Lord Your God with all Your Heart]] 
 

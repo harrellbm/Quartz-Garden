@@ -1,8 +1,8 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-18
+"Last Tended:": 2024-08-19
 ---
-#🌱Seed #😁Strongly-Agree #🌲Evergreen #🟢Conviction 
+#🪴Sprout  #😁Strongly-Agree  #🌲Evergreen  #🟢Conviction 
 ****
 >`Importance`: 98%
  
@@ -10,7 +10,7 @@
 Todo: import links from google drive doc
 
 * * *
-## Big Picture Theological Principles and Frameworks
+## Big Picture Theological Principles and Frameworks 💡
 
 - Law and Gospel
 - Three uses of the law
@@ -86,6 +86,10 @@ Todo: import links from google drive doc
 	- [[Pedagogy of Space]]
 - [[The Tabernacle]]
 
+# Unhealthy Thelogical Views or Ideas 🤢
+
+- [[Moralistic Therapeutic Deism]]
+- [[Repristination]]
 ## Other Notes and Writings on Theological Topics
 
 - [[Creeping Idols]]

@@ -1,12 +1,13 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-18
+"Last Tended:": 2024-08-07
 ---
 #🌱Seed  #🙂Agree
 ****
 > `Importance`: 10%
- 
-***The Big Idea***: What are the basic traits that make something worth doing? 
+
+>[!Summary] The Big Idea
+> What are the basic traits that make something worth doing? 
 
 We live in a world that so often prizes the efficient, the finished, the mechanical, the profitable, the productive and the fast. Anything that makes more money faster or more success faster. And if it checks those boxes than it’s good or worth while. 
 

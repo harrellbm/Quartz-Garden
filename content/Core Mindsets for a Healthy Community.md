@@ -1,12 +1,13 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-18
+"Last Tended:": 2024-08-19
 ---
 #🌱Seed  #🙂Agree
 ****
 >`Importance`: 50%
- 
-***The Big Idea***: This is a collection of important mindsets for a healthy Christian community.
+
+>[!Summary] The Big Idea
+>This is a collection of important mindsets for a healthy Christian community.
 
 The categories we use to understand our world matter: [[A Categorical Mind]]
 
@@ -27,11 +28,5 @@ The categories we use to understand our world matter: [[A Categorical Mind]]
 - [[Other Minded]] - We are called as members of Christ’s body to look outside ourselves to the needs of others. “If one member suffers, all suffer together; if one member is honored, all rejoice together.” - 1 Cor. 12:26.
 
 - [[Humble Future Focus]] - Though we cannot see into the future, we expectantly plan and pray for the will of God to become manifest within our community. We can adopt the saying of James 4:15  "If the Lord wills, we will live and do this or that.
-
-Scriptural Mindset - Focus on Scripture as the foundation of life and practice. 
-- Trinitarian Mindset - Focus on the reality of our triune God and their economy of salvation.  Salvation comes From the Father Through the Son By the Holy Spirit.
-- Mission Mindset - Focus on sharing Christ and welcoming guests 
-- Discipleship Mindset- Focus on training up leaders 
-- Abundance Mindset  - Focus on the abundance of opportunities and resources that we have rather than bemoaning what we do not. 
 
 Todo: add mindsets outlined in the starfish and the spirit book

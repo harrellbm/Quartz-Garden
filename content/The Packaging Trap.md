@@ -1,12 +1,13 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-18
+"Last Tended:": 2024-08-07
 ---
 #🌱Seed  #🙂Agree
 ****
 > `Importance`: 50%
  
-***The Big Idea***: the faulty idea that the best or most effective solution to distributing an idea is to cleanly package it up in a curriculum or book or journal and send it out as a polished product. 
+>[!Summary] The Big Idea
+>The faulty idea that the best or most effective solution to distributing an idea is to cleanly package it up in a curriculum or book or journal and send it out as a polished product. 
 
 The biggest problem with this approach is that it completely closes off the collaboration loop. Anyone that is not a writer or editor has no ability to contribute or even dialogue with the authors in a meaningful manner. Instead the “other” is always a consumer either buying and endorsing the product wholesale or rejecting it. 
 

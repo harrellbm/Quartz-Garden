@@ -1,12 +1,12 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-18
+"Last Tended:": 2024-08-19
 ---
 #🌱Seed  #😐Neutral 
 ****
 > `Importance`: 10%
  
-> [!The Big Idea]
+> [!Summary] The Big Idea
 > A way of structuring a plan that breaks actions into the first three days, the first three weeks, the first three months, and the first three years. A way to kind of ease into a situation and have things basically organized. 
 
 In addition, this kind of plan is often broken up into different "frames", that help break each time period into specific areas of importance. 

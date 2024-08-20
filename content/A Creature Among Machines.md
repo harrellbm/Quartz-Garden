@@ -1,11 +1,12 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-17
+"Last Tended:": 2024-08-19
 ---
 #🌿Sapling #😁Strongly-Agree  #📝Essay 
 ****
 > `Importance`: 95%
 
+> [!quote] Scripture Focus
 >“There is a way that seems right to a man, but its end is the way to death.” 
 >- Proverbs 14:12
 
@@ -50,9 +51,33 @@ The untenability of these reductions can be seen all throughout our daily life. 
 
 A simple case study in this is sleep deprivation (a physical state). Anyone who is a parent (or finds themselves sleep deprived for other reasons) knows that this singular environmental factor deeply affects everything from patience levels to thinking speed. Yet one would scarcely argue that sleep is a comprehensive human driver. If we did, we could end up with some ridiculous theories of Human existence like “the human as hibernator.” Instead, a more comprehensive approach that can acknowledge the multifactor nature of human existence and motivation is needed.   
 
+# Starting from Parts or Wholeness? 
+
+How viewing the universe as a mechanism has temped us to think of ourselves as machines 
+Referring to book one of Christopher 
+
+Use Christoper Alexander idea of wholeness and centers
+
+This lines up with how scripture talks about humanity 
+
+Difference of description a key example 
+Elements of humanity more centers than parts 
+
+Also the way god reacts to sin in the Israelite community makes so much more sense from this perspective as does the corrosiveness of original sin 
+
+The corruption in the whole of one human can’t help but affect the whole of the next generation which is literally what God says 
+
+
+
 # A Creaturely Anthropology: The Intermingling and Dependence of Parts 
 
-Keeping this need for a more expansive view in mind, the writer proposes an alternative perspective to consider. Although it no doubt exists somewhere outside the author's knowledge base (Ecclesiastes 1:9), nonetheless for our purposes it will be called: *A Creaturely Anthropology*. 
+Christopher approaches from an empirical and architectural frame 
+
+But I seek to show how the idea of wholeness and centers can help us more effectively understand ourselves and the world around us that is harmonious with the way Scripture speaks and presents the human person 
+
+Relation of righteousness and shalom with wholeness 
+
+Keeping this need for a more expansive view in mind, the writer proposes an alternative perspective to consider. Although this perspective no doubt exists somewhere outside the author's knowledge base (Ecclesiastes 1:9), nonetheless for our purposes it will be called: *A Creaturely Anthropology*. 
 
 Unlike the anthropologies that seek a singular primary driver, this perspective conceptualizes the human person as an altogether complex, messy, and at many points mysterious creature. Rather than seeking to diminish perplexing parts of human experience, this perspective welcomes them. For it is only through the interrelation of all parts that we begin to understand the whole. In other words, a Creaturely Anthropology defines a human not as differentiated by a particular primary driver but as the interrelation and overlap of dependent parts. 
 
@@ -71,6 +96,24 @@ This proposed creaturely anthropology is therefore not focused on a purely ratio
 Yet so often alternative anthropological bases belittle or disqualify one metaphor or another as less important because it does not address their chosen primary driver. For example, reason and rational thought is not addressed by the metaphor of being built as living stones in 1 Peter 2:4-5. In fact it is against and in spite of the logical rejections of humans that God is accomplishing the beautiful construction of His people. 
 
 Having had a taste of application let us now turn to applying this creaturely  anthropology to a long standing philosophical issue and see how it allows us to approach things in a more well rounded and biblically founded fashion.
+
+# lenses of perception and organization based on universal common characteristics 
+
+Towards a workable perception of humanity 
+
+Since individual parts can get us lost in the forest so quickly 
+
+Starting from clean and clear common characteristics that are true of all humans in every culture and time allow the ability to stay focused on humanity as a whole 
+
+Two main characteristics are:
+- time bound 
+- Space bound 
+We are always so focused on transcending these boundaries but what if they are a core part of what makes us human and give us meaning 
+
+Maybe see how first commission backs this up or not 
+
+From there jumping into the metaphors that address particular parts of our existence 
+
 
 # Case Study: The Universal Problem of Internal and External Congruence 
 
@@ -169,12 +212,10 @@ Application to work a productivity 
 
 Application to architect, aesthetics, and the built environment 
 
-Application to beauty, art, and creativity**
+Application to beauty, art, and creativity
 
 [^1]: Oliveira, A. (2017). The Exponential Nature of Technology. In The Digital Mind: How Science is Redefining Humanity (pp. 3-18). Cambridge, MA: MIT Press. Retrieved from [https://doi.org/10.7551/mitpress/9780262036030.003.0002](https://doi.org/10.7551/mitpress/9780262036030.003.0002) on 29 February 2024.
 [^2]: Oliveira, A. (2017). The Exponential Nature of Technology. In The Digital Mind: How Science is Redefining Humanity (pp. 3-18). Cambridge, MA: MIT Press. Retrieved from [https://doi.org/10.7551/mitpress/9780262036030.003.0002](https://doi.org/10.7551/mitpress/9780262036030.003.0002) on 29 February 2024.
 [^3]: Watson, R. A.. "René Descartes." Encyclopedia Britannica, February 7, 2024. Retrieved from [https://www.britannica.com/biography/Rene-Descartes](https://www.britannica.com/biography/Rene-Descartes)  on 4 March 2024.
 [^4]: Senn, F. (2016). Embodied liturgy: lessons in Christian ritual. Retrieved from [https://archive.org/details/embodiedliturgyl0000senn/](https://archive.org/details/embodiedliturgyl0000senn/) on 4 March 2024.
 [^5]: Smith, S. (2009). Desiring the kingdom : worship, worldview, and cultural formation. Retrieved from [https://archive.org/details/desiringkingdomw0000smit/](https://archive.org/details/desiringkingdomw0000smit/) on 4 March 2024.
-
-****

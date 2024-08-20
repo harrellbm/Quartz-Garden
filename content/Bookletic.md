@@ -1,12 +1,13 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-18
+"Last Tended:": 2024-08-19
 ---
 #🍋Fruit #😁Strongly-Agree #📊Project
 ****
->`Importance`: 10%
- 
-***The Big Idea***: A personal project to build a package for the typesetting tool Typst that allows for easy formatting of bulletins and booklets.
+>`Importance`: 40%
+
+> [!The Big Idea]
+>  A personal project to build a package for the typesetting tool Typst that allows for easy formatting of bulletins and booklets.
 
 * * *
 ## Features 

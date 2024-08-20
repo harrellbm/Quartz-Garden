@@ -1,12 +1,13 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-11
+"Last Tended:": 2024-08-19
 ---
 #🌱Seed  #🙂Agree
 ****
 > `Importance`: 40%
  
-***The Big Idea***: The idea of gardening if foundational to [[Digital Gardening]]. It is an alterative way of "being" in digital space that is not time bound. It is opposed to the stream like interfaces of email, social media (Facebook, TickTok etc.), text, etc. that all bombard us with content that will pass us by if we don't keep up with the stream. 
+>[!Summary] The Big Idea
+The idea of gardening if foundational to [[Digital Gardening]]. It is an alterative way of "being" in digital space that is not time bound. It is opposed to the stream like interfaces of email, social media (Facebook, TickTok etc.), text, etc. that all bombard us with content that will pass us by if we don't keep up with the stream. 
 
 ****
 
@@ -176,7 +177,5 @@ This was a useful summary for me to get a handle on what this idea actually offe
 > Keeping your garden on the open web also sets you up to take part in the future of gardening. At the moment our gardens are rather solo affairs. We haven't figure out how to make them multi-player. _But_ there's an enthusiastic community of developers and designers trying to fix that. It's hard to say what kind of libraries, frameworks, and design patterns might emerge out of that effort, but it certainly isn't going to happen behind a Medium paywall.
 
 ## Idea sources
-
-[A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
-
-[The Garden and the Stream: A Technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
+- [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
+- [The Garden and the Stream: A Technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)

@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-15
+"Last Tended:": 2024-08-19
 ---
 #🌱Seed  #🙂Agree
 ****
@@ -10,6 +10,8 @@
 
 >[!Note]
 >This outline was started from a Copilot generated summary of his work
+
+[[Notes on the Nature of Order]]
 
 ****
 ## Christopher Alexander
