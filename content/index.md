@@ -1,3 +1,8 @@
+---
+title: " Base Camp 🏕️"
+aliases:
+  - Home
+---
 
 Hello! 👋🏻 
 My name is Brenden Harrell. I am a Husband, Father, Lutheran Pastor, and Tinkerer.
