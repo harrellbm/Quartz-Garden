@@ -1,74 +1,106 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-08-19
+"Last Tended:": 2024-09-12
 ---
 #🌱Seed  #🙂Agree
 ****
-> `Importance`: 10%
+> `Importance`: 20%
  
-***The Big Idea***:  I have not read or researched this line of thinking much but what I have seen so far I like. It seems like it pairs nicely with the idea that God is an orderly creator and that these patterns and beauty come from a sovereign source.  This would then be a more empirical approach on actually applying this kind of abstract idea to how we understand and build the spaces we inhabit.  This was generally verified with reading his essay [The Long Path that Leads from the Making of Our World to God](https://www.buildingbeauty.org/resource-center-entries/2019/8/6/christopher-alexander-the-long-path-that-leads-from-the-making-of-our-world-to-god) where he outlines how his work has always pulled him back to an understanding of the presence of God in the world and how building things to reflect God is an act of worship. This is really beautiful but he ends on a disappointing note. He end with the basic claim that this way of seeing the world an building within it really only gets people the the point of knowing God exists but not really who he is. Which I guess is an honest approximation of what the physical world can actually offer us. Knowing Jesus is and will always be an article of Faith but it is cool to think about how we shape the world around us can actually connect with our worship and our understanding of who God is. This seems to suggest to me that a Christian Architecture should not be a matter of taste or purely tradition but instead should be grown from the beauty of creation and our deep knowledge of God's character revealed to us in Scripture. 
 
->[!Note]
->This outline was started from a Copilot generated summary of his work
+> [!Summary] The Big Idea
+>  I have read through most of the first book of the nature of order and what I have seen so far I like. It seems like it pairs nicely with the idea that God is an orderly creator and that these patterns and beauty come from a sovereign source.  
 
+Alexander puts forward a more empirical approach to actually applying this kind of abstract idea of God and orderly beauty to how we understand and build the spaces we inhabit.  This was generally verified with reading his essay [The Long Path that Leads from the Making of Our World to God](https://www.buildingbeauty.org/resource-center-entries/2019/8/6/christopher-alexander-the-long-path-that-leads-from-the-making-of-our-world-to-god) where he outlines how his work has always pulled him back to an understanding of the presence of God in the world and how building things to reflect God is an act of worship. This is really beautiful, but he does clarify that this way of seeing the world and building within it really only gets people to the point of knowing God exists but not really who he is. 
+
+In addition, He does at certain points also get very close to blurring the line between matter and God. I think this is due to him trying to show the close relationship between the world and its creator with beautiful poetry like: “God, the substrate of the universe that is the origin of who and what we are.” However, still something to be aware of. 
+
+Another point that could be problematic from a Lutheran perspective is that he also uses the kind of “inner vision” of each person as the grounding of being able to perceive God in the world. I think when we map that to the law on all human hearts it can work well but if we oversell it and act like humans have some great ability to see rightly than we are not keeping in mind the fallenness of man.
+
+Similarly he makes the same point in this [interview](https://www.livingneighborhoods.org/library/glimpse.htm). He makes the strong argument however that he thinks seeing God as the foundation of matter is unavoidable from a scientific perspective but again does not claim to be able to prove specifics about who God is. This is a similar argument to C.S. Lewis in Mere Christianity. Which is an honest approximation of what the physical world can actually offer us. The physical world proclaims Gods glory (Pslam 8) but that is as far as it can go.
+
+This makes it clear that Knowing Jesus is and will always be an article of Faith, but it is cool to think about how we shape the world around us can actually connect with our worship and our understanding of who God is. This seems to suggest to me that a Christian [[Architecture]] should not be a matter of taste or purely tradition but instead should be grown from the beauty of creation and our deep knowledge of God's character revealed to us in Scripture. 
+
+Alexander makes a very similar connection stating that the motivation behind tending our built environment should be : “governed simply by the desire and firm intention to make beauty (which is to say, true life) around us.” This connection between beauty and [[The Quality of Life in Environments and Objects]] is one that I find quite compelling.
+
+Another article that talks about his faith: [God and the Architect](https://livingchurch.org/church-life/god-and-the-architect/)
+[General Interview with Christopher Alexander about his work and philosophy](https://www.patternlanguage.com/archive/kohn.html)
+
+A foundation of his approach that I am not sure I buy yet or will ever. Is the idea that internal feelings and reactions are tangible and objective. I think this makes sense when talking about the physical environment and how we feel and are affected by it but it seems like that does not transfer well to abstract or less grounded things. Because basically he askes questions like: Which door has more life in it? or Which garden is closer to God? and the idea is that people will respond in the same or very similar ways across cultures and life experiences because there is some kind of innate sense of good order. I think this can be understood as the law written on all hearts but as we know that is often cauterized or ignored and does not have the same kind of limitless potential he seems to have thought was possible from human feeling. 
+
+
+YouTube of interview with Christopher Alexander: [Christopher Alexander - Life in Buildings (Full)](https://www.youtube.com/watch?v=oKO3vYjZbcs)
+
+These are my notes from reading the Nature of Order Books:
 [[Notes on the Nature of Order]]
 
 ****
 ## Christopher Alexander
 
-**One-line encapsulation:** Christopher Alexander’s philosophy centers around creating harmonious, human-centered environments through architecture and design.
 
-**Background:**
+> [!Summary] Article Summary of His Work
+>Christopher Alexander is a practicing architect, builder, and Emeritus Professor of Architecture at the University of California, Berkeley. He is also the author of numerous [articles](http://natureoforder.com/library-of-articles.htm) and books, including [_The Nature of Order: An Essay on the Art of Building and the Nature of the Universe_](http://www.amazon.com/The-Nature-Order-Phenomenon-Environmental/dp/0972652914) (2004) -- a four-volume compilation representing 30 years of work and offering three vital perspectives on our world: (1) A scientific perspective; (2) a perspective based on beauty and grace; and (3) a commonsense perspective based on our intuitions about everyday life. The four books in the series include [_The Phenomenon of Life_](http://www.amazon.com/The-Nature-Order-Phenomenon-Environmental/dp/0972652914); _[The Process of Creating Life](http://www.amazon.com/The-Process-Creating-Life-Building/dp/0972652922/ref=pd_bxgy_b_text_y);_ _[A Vision of the Living World](http://www.amazon.com/The-Nature-Order-Environmental-Structure/dp/0972652930/ref=pd_bxgy_b_text_y);_ and [_The Luminous Ground_](http://www.amazon.com/The-Nature-Order-Environmental-Structure/dp/0972652949/ref=pd_bxgy_b_text_y). This series provides a new framework for perceiving and interacting with the world, a methodology for creating beautiful spaces, and a cosmology where art, architecture, science, religion and secular life all work comfortably together
+>
+>Through these books and the [PatternLanguage.com](http://www.patternlanguage.com/) website, Alexander and his colleagues at the Center for Environmental Structure have built a movement which, in their words, "lays the basis for an entirely new approach to architecture, building and planning, which will replace existing ideas and practices entirely."
+>
+>At the core of this movement is the idea that people should design houses, streets, and communities for themselves. This idea may imply a radical transformation of the architectural profession, but it emerges quite simply from the observation that most of the beautiful places of the world were not made by architects but by the people. In 2002-2003 Alexander has pursued his interest in the community development through two projects in particular: the revitalization (redevelopment) of downtown Duncanville, Texas, and the creation of a new community in the hills near Brookings, Oregon.
+>
+>## Biography 
+>
+>Christopher Alexander was born in Vienna, Austria in 1936. He was raised in England, and he holds a Bachelor's degree in Architecture and Master's Degree in Mathematics from Cambridge University, and a PhD in Architecture from Harvard University. In 1958 he moved to the United States, and he has lived in Berkeley, California since 1963. Alexander taught architecture at the University of California, Berkeley, where he is now an Emeritus Professor of Architecture. In 1967 he founded the Center for Environmental Structure, and he remains its President.
+>
+>He is the father of the Pattern Language movement in architecture as well as the [pattern movement](https://www.youtube.com/watch?v=98LdFA-_zfA) in computer science, and he is  principal author of the 1977 book [_A Pattern Language_](http://www.amazon.com/Pattern-Language-Buildings-Construction-Environmental/dp/0195019199), a seminal work that was perhaps the first complete book written in hypertext. In 2000, he founded the website [PatternLanguage.com](http://www.patternlanguage.com/), and he now serves as its Chairman of the Board.
+>
+>Alexander has designed and built more than two hundred buildings on five continents, laying the groundwork for a new form of architecture, one that looks far into the future yet has roots in ancient traditions. Much of his work has heavily utilized technological innovations designed to build a living architecture, especially for the use of concrete, shell design, and contracting procedures. He has served as a consultant to city, county, and national governments on every continent, and has advised corporations, government agencies, and architects and planners throughout the world.
+>
+>He was elected fellow of the American Academy of Arts and Sciences in 1996, is a fellow of the Swedish Royal Society, and has received innumerable architectural prizes and honors, including the first gold medal for research from the American Institute of Architects, awarded in 1970.
+>
+>His biography, _[Christopher Alexander: The Evolution of a New Paradigm in Architecture](http://www.amazon.com/Christopher-Alexander-Search-Paradigm-Architecture/dp/0853621993)_, by Stephen Grabow, was published in London and Boston in 1983, and his film biography, [_Places for the Soul: The Architecture of Christopher Alexander_,](http://www.amazon.com/Places-Soul-Architecture-Environmental-Healing/dp/0750659017) was released in 1990.
+>
+>## Perspectives
+>
+>**The Phenomenon of Life** (_Nature of Order_Book One). Alexander proposes a scientific view of the world in which all space-matter has perceptible degrees of life and sets this understanding of order as an intellectual basis for a new architecture. With this view as a foundation, we can ask precise questions about what must be done to create more life in our world -- whether in a room, a humble doorknob, a neighborhood, or even in a vast region. He introduces the concept of living structure, basing it upon his theories of centers and of wholeness, and defines the fifteen properties from which, according to his observations, all wholeness is built. Alexander argues that living structure is at once both personal and structural.
+>
+>**The Process of Creating Life** (_Nature of Order_ Book Two). In the 20th century our society was locked into deadly processes which created our current built environment, processes of which most people were not really aware and did not question. Despite their best efforts and intentions, architects and planners working within these processes, could not achieve a living built environment. In this book, Alexander puts forward a fully developed theory of living process. He defines conditions for a process to be living: that is, capable of generating living structure. He shows how such processes work, and how they may be created. At the core of the new theory is the theory of structure-preserving transformations. This concept, new in scientific thinking, is based on the concept of wholeness defined in Book 1: A structure-preserving transformation is one which preserves, extends, and enhances the wholeness of a system. Making changes in society, so that streets, buildings, rooms, gardens, towns may be generated by hundreds of such sequences, requires massive transformations. This book is the first blueprint of those transformations.
+>
+>**A Vision of a Living World** (_Nature of Order_Book Three). Providing hundreds of examples of buildings and places, this volume demonstrates proposes forms for large buildings, public spaces, communities, neighborhoods, which then lead to discussions about the equally important small scale of detail and ornament and color. With these examples, laypeople, architects, builders, artists, and students are able to make this new framework real for themselves, for their own lives, and understand how it works and its significance.
+>
+>**The Luminous Ground** (_Nature of Order_Book Four). The mechanistic thinking and the consequent investment-oriented tracts of houses, condominiums and offices in the 20th century have dehumanized our cities and our lives. How are spirit, soul, emotion, feeling to be introduced into a building, or a street, or a development project, in modern times? In this final text, Alexander breaks away completely from the one-sided mechanical model of buildings or neighborhoods as mere assemblages of technically generated interchangeable parts. He shows us conclusively that a spiritual, emotional, and personal basis must underlie every act of building. This radical view can conform to our most ordinary, daily intuitions. It may provide a path for those contemporary scientists who are beginning to see consciousness as the underpinning of all matter, and thus as a proper object of scientific study. And it will change, forever, our conception of what buildings are. 
+>
+>[_**A Pattern Language: The Living Structure of Places**_](http://www.amazon.com/Pattern-Language-Buildings-Construction-Environmental/dp/0195019199). Looking closely at the living structure in good and bad buildings, human artifacts, and natural systems, Alexander proposes that the living order depends on those features that closely connect with the human self. The quality of works of art, artifacts, and buildings is defined not merely in terms of living structure, but also in their capacity to affect human growth and human well-being.
+>
+>**The Overlapping Organization of Cities**. In his classic essay, ["A City is Not a Tree,"](http://www.bp.ntu.edu.tw/wp-content/uploads/2011/12/06-Alexander-A-city-is-not-a-tree.pdf)(1965) Alexander explains why separate functions have come to dominate the world of urban planning, and why this is an unhealthy way of building our cities. City-building, he holds, has become dominated by narrowly focused professions, mainly because human beings do not seem to possess the mental capacity to holistically perceive the complex social, environmental, and economic processes that collectively shape urban life. Referring to a variety of experiments, Alexander demonstrates how the human mind tends to separate elements and arrange them in categories and visually separate spaces. When people are faced with complex organization, they reorganize natural overlap into non-overlapping units. He refers to this non-overlapping structure as a "tree," and argues that the complex organization of cities is in fact more suited to "semi-lattices"-- which are healthy places, although extreme compartmentalization and dissociation of internal elements can lead to destruction. In a human, dissociation marks schizophrenia, and in a society it marks anarchy. For a city to remain receptive to life, social interaction, and human prosperity, it must unite the different strands of life within it. Planners and designers must therefore allow for a mix of functions and be open-minded to organic change. 
+>
+>**Interactions between Cars and Pedestrians**. While most people are either for cars or for pedestrians, Alexander believes the two can function as a pair. While the relationship between pedestrians and cars has always been an uneasy one, their simple separation is not a sustainable solution for making cities livable. He has instead developed a pattern for analyzing and improving the interactions between cars and people. In the ideal interaction between pedestrians and cars, both are vibrant, and the two zones are separate but touch everywhere. He describes five ways in which this can happen:
+>- Where cars are moving slowly, people and cars can mix up, meaning that at very low density traffic, there do not necessarily need to be sidewalks.
+>- Creating quiet places with good space for pedestrians and narrow slow space for cars. 
+>- Wide, densely traveled pedestrian streets may cross densely traveled roads with cars and buses, best at a right angle.
+>- Pedestrian lanes can be designed to be internal to a block. According to Alexander's observations, most points on pedestrian paths should be within 150 feet of the nearest road.
+>- Where cars dominate there should be easy access to beautiful and pure pedestrian space.
+> 
+> **Starting with What is Beautiful Now.** By beginning with spaces that are already beautiful, Alexander shows how we can adopt an organic process of city-building and discover the "right" order of places. Designing places in the right order has a major impact on the quality of community life. The right order for a place is often unexpected. To discover the right order of a particular place, we should begin by implementing any tiny improvements that are feasible _now_. Specific spots or segments in a city that work well do so for a reason, and because they are naturally used by the community, these spaces form the "spine" of the area and making good starting points for wider improvements. According to Alexander, small incremental changes will enhance the spirit of the place and encourage the accumulation of further changes. Using this approach, we can connect new spaces to already beautiful ones while allowing for change and adaptation through lived experience.
+> 
+**Harmonizing the Shape of Public Buildings**. The quality of public buildings depends on how they harmonize with their surrounding environment. A great public building makes the environment better, but its construction must draw upon the existing positive patterns in that environment. Alexander emphasizes that great buildings emerge without artifice and without egos, and that the volume and space around the building site must inspire the building's construction. His pattern language provides guidelines for how to proceed through such a process of inspiration in a logical but also emotional way.
+> 
+> **Triangulation: Arranging Overlapping Functions in Small Spaces.** Although he was not the first to use the term, Alexander has greatly enriched our understanding of how triangulation fits into larger patterns of urban life. Triangulation occurs when a space allows for two or more overlapping functions and thus facilitates additional activity and interaction between people. It often occurs in small spaces through the precise positioning of an object or two around a key location, such as a street corner, a bus stop, a newsstand. Such objects might serve a necessary activity, or might simply engage or entertain the passer by. Alexander explains how triangulation works, and also how it can create great public spaces.
+> 
+> ## Quotable
+> 
+> "In the past century, architecture has always been a minor science -- if it has been a science at all. Present day architects who want to be scientific, try to incorporate the ideas of physics, psychology, anthropology in their work . . . in the hope of keeping in tune with the "scientific" times. I believe we are on the threshold of a new era, when this relation between architecture and the physical sciences may be reversed -- when the proper understanding of the deep questions of space, as they are embodied in architecture will play a revolutionary role in the way we see the world and will do for the world view of the 21st and 22nd centuries, what physics did for the 19th and 20th."
+> 
+> "Every building, every room, every garden is better when all the patterns which it needs are compressed as far as it is possible for them to be. The building will be cheaper; the meaning in it will be denser."
+> 
+> "Above all, the shapes of the building must spring from the land, and buildings around, like a tree springing from a coppice -- it fits perfectly, the moment of inception."
+> 
+> "Good languages are in harmony with geography, climate and culture."
+> 
+> "I'll tell you a story. I was in India in 1961. I was living in a village most of the time. I studied that village, tried to understand what village life was all about. And I got back to Harvard, a few months later, and I got a letter from the government of [the town in India], saying 'We've got to re-locate our village because of the dam construction. Would you like to build it?'. I think about 2000 people were being moved. And I thought about it. And then I was very sad. And I wrote back, and I said, 'You know, I don't know enough about how to do it. Because I don't want to come in and simply build a village, because I don't think that will make life. I know that the life has got to come from the people, as well as what's going on physically, geometrically. My experience of living in the village is that I do not know enough about how to actually make that happen. And therefore I very very regretfully decline your kind offer.' And I was actually chagrined beyond measure, that I had to give that reply. But it was honest, and in fact, it was because of that letter that I wrote A Pattern Language. Because, I thought and thought, and I said, 'You know, this is crazy. What would I have to do, to put in people's hands the thing with which they could do this, so that it would be like a real village and not like an architect's fantasy?"
+> 
+> - [Source of Article Summary of Christopher Alexander’s work](https://www.pps.org/article/calexander)
+> 
 
-- Christopher Alexander (*1936) is an influential architect, urban planner, and theorist.
-- He was born in Vienna, Austria, and later became a naturalized U.S. citizen.
-- Alexander studied architecture at Cambridge University and Harvard University.
-- His work spans architecture, urban design, and the study of patterns in built environments.
-- Alexander is known for his holistic approach to design, emphasizing the importance of context and user experience.
 
-**School:**
 
-- Alexander’s thinking aligns with the “Pattern Language” movement.
-- The Pattern Language approach emphasizes creating functional, beautiful spaces that resonate with human needs and cultural context.
 
-**Most Impactful Ideas:**
 
-1. **Pattern Language:** Alexander introduced the concept of a “pattern language,” a set of design principles that address recurring problems in architecture and urban planning.
-2. **Design Patterns:** He identified specific design patterns (e.g., “windows over kitchen sinks”) that enhance livability and functionality.
-3. **Quality Without a Name:** Alexander sought to capture the elusive quality that makes certain spaces feel harmonious and alive.
-4. **User-Centered Design:** His work emphasizes involving users in the design process to create more meaningful environments.
-5. **Organic Architecture:** Alexander advocated for designs that grow naturally from their context, respecting local culture and ecology.
 
-**Primary Advice/Teachings:**
 
-1. **Start with People:** Understand the needs and desires of the people who will inhabit a space.
-2. **Patterns Over Style:** Prioritize functional patterns over stylistic trends.
-3. **Adaptability:** Design for flexibility and adaptability to changing needs.
-4. **Beauty and Wholeness:** Seek beauty and wholeness in every detail.
-5. **Empathetic Design:** Empathize with users and create spaces that resonate emotionally.
-
-**Notable Works:**
-
-1. **“A Pattern Language” (1977):** A seminal book outlining 253 design patterns for creating vibrant communities.
-2. **“The Timeless Way of Building” (1979):** Explores the essence of good design and the role of patterns.
-3. **“The Nature of Order” (2003-2004):** A four-volume work discussing the nature of beauty and order in architecture.
-
-**Quotes:**
-
-1. “Each pattern describes a problem that occurs over and over again in our environment and then describes the core of the solution to that problem.”
-2. “A building or a town will only be alive to the extent that it is governed by the timeless way.”
-3. “The quality of a building is in direct proportion to the size of the hole in the plan.”
-4. “The structure of a town must be guided by the life of the people.”
-5. “The process of creating life is the most profound mystery in the universe.”
-
-**Application:** Something is “Alexanderian” if it embodies user-centered design, functional patterns, and a deep respect for context.
-
-**Advice:**
-
-1. **Listen to the Context:** Understand the unique context of each project.
-2. **Design with Empathy:** Consider how people will experience the space.
-3. **Embrace Patterns:** Use proven design patterns to enhance functionality.
-4. **Seek Beauty:** Prioritize beauty and harmony in your creations.
-5. **Adapt and Evolve:** Design for flexibility and growth.
-
-Feel free to explore more about Christopher Alexander’s work and apply his principles to your own creative endeavors! 😊

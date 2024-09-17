@@ -1,15 +1,17 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-17
+"Last Tended:": 2024-09-17
 ---
 #🌿Sapling   #🙂Agree  #📝Essay 
 ****
 > `Importance`: 95%
 
+>[!Quote] 
 >“So we, though many, are one body in Christ, and individually members one of another.” 
 >- Romans 12:5
  
-**Thesis**: Ministry should be thought of, organized, and communicated in terms of created rhythms (i.e. liturgical patterns) rather than programs or contrived roles. 
+> [!abstract] Thesis 
+> Ministry should be thought of, organized, and communicated in terms of created rhythms (i.e. liturgical patterns) rather than programs or contrived roles. 
 
 > [!note]
 > Current form finished November 2023
@@ -52,7 +54,7 @@ Each of us have been habituated into particular patterns of church embodiment. W
 
 Using this terminology, we can reapproach the short example above.  The rhythm of church embodiment that states “a pastor wears vestments” had been transgressed.  For those whom this was a salient part of their imaginary, this caused consternation (regardless of its true status as adiaphora or not).  While those who did not have that pattern so deeply set, or valued, had no issue. 
 
-Another example is the Scriptural imperative to care for the health and faith formation of children. This Scriptural command is often answered with a rather restricted set of proposals. Start a Sunday school, nursery, confirmation program, youth group, etc. If a program is not proposed, then resources like busy bags, children’s sermons, devotionals, parenting classes, etc. are usually the next line of thought. All of these options in and of themselves are good things. But their liturgical embodiment tends to become a product in a line of offerings. If a family does not find the right line up of “products” for them, then the logical step is to find another church that does. In other words, the underlying social imaginary that says “I should go to church and find all the stuff my family wants/needs in one convenient package” is the real driver of decisions. This liturgy of church embodiment pictures an ideal utopia of perfectly balanced and diverse programs that people can pick and choose from to fit into their ideal schedule and lifestyle. While it may sound nice, this consumeristic narrative is foreign to the Scriptural task of raising up the next generation. Its direction of fit is all out of order. Christians should not simply be fitting church into their otherwise unchanged lives. Yet this pervasive internal picture easily ends up steering the ship from the shadows. 
+Another example is the Scriptural imperative to care for the health and [[faith formation]] of children. This Scriptural command is often answered with a rather restricted set of proposals. Start a Sunday school, nursery, confirmation program, youth group, etc. If a program is not proposed, then resources like busy bags, children’s sermons, devotionals, parenting classes, etc. are usually the next line of thought. All of these options in and of themselves are good things. But their liturgical embodiment tends to become a product in a line of offerings. If a family does not find the right line up of “products” for them, then the logical step is to find another church that does. In other words, the underlying social imaginary that says “I should go to church and find all the stuff my family wants/needs in one convenient package” is the real driver of decisions. This liturgy of church embodiment pictures an ideal utopia of perfectly balanced and diverse programs that people can pick and choose from to fit into their ideal schedule and lifestyle. While it may sound nice, this consumeristic narrative is foreign to the Scriptural task of raising up the next generation. Its direction of fit is all out of order. Christians should not simply be fitting church into their otherwise unchanged lives. Yet this pervasive internal picture easily ends up steering the ship from the shadows. 
 
 This is not only true in large church contexts.  The counter response to this is often equally subliminal. I have talked with many parishioners from small congregations that lament the impersonal and “cold” feeling of larger program oriented churches. They look with a certain amount of pride at the small nature of their congregation and their close knit relationships. Yet a very common struggle in this kind of context is isolationism and unwillingness to welcome outsiders. This seems to often stem from the fact that, one way or another, new people jeopardize the current relational landscape. There is also a natural capacity cap for Pastors and other lay leaders. Only so many of these close relationships can be maintained by one person. Meaning that there is, in essence, a physical cut off to the size of the congregation while maintaining the same liturgical pattern of embodiment. 
 
@@ -137,7 +139,7 @@ In his book *Creation and Fall* Dietrich Bonhoeffer describes the goal of Christ
 
 # Commissioned for Rhythms 
 
-We can further apply these categories using the systematic framework of the two commissions [^4]. The First Commission being Genesis 1:28 where God commissions humanity to flourish and have caring dominion over creation. The Second (or Great) Commission being the sending of Jesus in Matthew and Mark to make disciples through baptism and teaching.  These commissions fit nicely with natural and redeeming rhythms. It is through these two sendings of Humanity that we can anchor a basic understanding of how each type of rhythm should function. 
+We can further apply these categories using the systematic framework of [[the two commissions]] [^4]. The First Commission being Genesis 1:28 where God commissions humanity to flourish and have caring dominion over creation. The Second (or Great) Commission being the sending of Jesus in Matthew and Mark to make disciples through baptism and teaching.  These commissions fit nicely with natural and redeeming rhythms. It is through these two sendings of Humanity that we can anchor a basic understanding of how each type of rhythm should function. 
 
 As in all things, we must start with the Gospel. Through the message of Jesus’ grace and forgiveness, we are redeemed from the weight of the law. Breath restored to the breathless, life given to the walking dead. We are then released into our second commission to make disciples that observe “all that I have commanded you.” Namely, a life of love toward God and neighbor. This life of love can also be expressed as living according to humanity's first commission. In other words, the redeeming rhythms of God’s people usher us in through the Gospel, send us to be the church with the Great Commission and rightly order our natural rhythms according to the first commission.
 

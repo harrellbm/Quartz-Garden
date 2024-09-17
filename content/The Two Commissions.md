@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-13
+"Last Tended:": 2024-09-17
 ---
 #🌱Seed  #🙂Agree
 ****
@@ -22,7 +22,7 @@ Since the fall, humans have wandered far afield of our original purpose as co-cr
 
 “Hear, O Israel: 
 The Lord our God, the Lord is one. 
-You shall love the Lord your God with all your heart 
+You shall [[love the Lord your God with all your heart]] 
 and with all your soul and with all your might.”
   - Deuteronomy 6:4-5
 

@@ -1,12 +1,13 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-06-29
+"Last Tended:": 2024-09-12
 ---
 #🌱Seed  #🙂Agree
 ****
 >`Importance`: 10%
  
-***The Big Idea***: Quoted From: [Obsidian Search: Five Hidden Features - Obsidian Rocks
+> [!summary] The Big Idea
+Quoted From: [Obsidian Search: Five Hidden Features - Obsidian Rocks
 ](https://obsidian.rocks/obsidian-search-five-hidden-features/)
 
 * * *

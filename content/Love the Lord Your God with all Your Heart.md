@@ -1,12 +1,13 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-11
+"Last Tended:": 2024-09-12
 ---
 #🌿Sapling #🙂Agree #🟢Conviction 
 ****
 > `Importance`: 70%
  
-***The Big Idea***: How do we actually love God with our Whole heart?
+> [!summary] The Big Idea
+> How do we actually love God with our Whole heart?
 
 ***Related Epistle***: [[The Struggle to be in God's Word]]
 ****

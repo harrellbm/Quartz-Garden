@@ -1,12 +1,12 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-18
+"Last Tended:": 2024-09-17
 ---
 #🌿Sapling  #😁Strongly-Agree 
 * * *
 >`Importance`: 90%
 
-***The Big Idea***: 
+> [!summary] The Big Idea
 The idea of digital gardening has really resonated with me. The basic idea that notes and concepts and ideas are things that should be grown over time from just little seeds into fully developed ones is beautiful in its simplicity and connectivity to creation. This is all based on the [[Metaphor of the Stream vs the Garden]].
 
 So much of note taking, project management and organization are all about productivity and efficiency as the highest good.  But the idea of tending a garden of thoughts, ideas and knowledge is a method that looks to curiosity, creativity and organic exploration as the goal of the tending. Fruits then naturally emerge from the growing process just like the fruits of an actual garden. 
@@ -28,7 +28,7 @@ The main things I want to accomplish with my garden:
 ## Current State of the Garden 
 As I begin to experiment with this method I will be collecting things here as a bit of a process journal to help hammer out a more cohesive system for making the garden accessible for myself and others that may find it on the web. 
 
-### Obsidian Notes and Zotero Library 
+### Obsidian Notes and [[Zotero Library]] 
 The two main tools I have started using for creating and tending my garden are [Obsidian](https://obsidian.md/) and [Zotero](https://www.zotero.org/)
 
 - Obsidian is becoming the core note taking and garden networking platform for me. It hits a few important requirements for me:
@@ -48,11 +48,9 @@ The two main tools I have started using for creating and tending my garden are [
 These are running notes on useful things I have collected around these tools:
 	[[Obsidian Note-taking]]
 	[[Zotero Library]]
-
-
-## Notes on Setting up My Digital Garden
-[[Setting Up My Digital Garden]]
-[[The Organization of My Digital Garden]]
+## Notes on
+- [[Setting up My Digital Garden]] 
+- [[The Organization of My Digital Garden]]
 
 ## Additional Gardening Ideas
 

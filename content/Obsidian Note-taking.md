@@ -1,12 +1,19 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-06-29
+"Last Tended:": 2024-09-09
 ---
 #🌱Seed  #🙂Agree
 ****
 >`Importance`: 40%
- 
-***The Big Idea***: Stuff I have learned or what to remember about taking notes in Obsidian.
+
+ >[!Summary] The Big Idea
+ Stuff I have learned or what to remember about taking notes in Obsidian.
+
+> [!note] Notes
+> - The easiest way for me to sign into git for backing up to a private git repo is using VSCode
+> - I also find VSCode to be the easiest way to handle merge conflicts or other errors that pop up with files occasionally during backups. 
+> - That being said the git obsidian plugin is the best for day to day backups.
+
 
 * * *
 ### Related Notes

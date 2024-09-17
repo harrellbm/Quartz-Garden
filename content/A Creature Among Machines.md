@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-08-19
+"Last Tended:": 2024-09-17
 ---
 #🌿Sapling #😁Strongly-Agree  #📝Essay 
 ****
@@ -10,7 +10,8 @@
 >“There is a way that seems right to a man, but its end is the way to death.” 
 >- Proverbs 14:12
 
-**Thesis**: Human beings are not best understood as a compilation of parts with a main driver but as a holistic creature eluding any tight definition. 
+> [!abstract] Thesis
+> Human beings are not best understood as a compilation of parts with a main driver but as a holistic creature eluding any tight definition. 
 
 ****
 # A Brewing Crisis 

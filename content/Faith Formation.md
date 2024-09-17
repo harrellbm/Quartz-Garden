@@ -1,12 +1,13 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-08-19
+"Last Tended:": 2024-09-17
 ---
 #🌱Seed  #🙂Agree
 ****
 >`Importance`: 10%
  
-***The Big Idea***: Major things to teach students throughout the faith formation process
+>[!Summary] The Big Idea
+>Major things to teach students throughout the faith formation process
 
 Related Notes: [[Bible Learning Story]]
 
@@ -46,9 +47,9 @@ How to use tools and resources to solve a problem or investigate a question
 Bible connections Game
   
 
-Academic vs a Conversation with Scripture
+Academic vs a [[Conversation with Scripture]]
 
-Metaphor in scripture.  Not relying only on one but seeing the whole picture.
+[[Metaphor in scripture]].  Not relying only on one but seeing the whole picture.
 
 Start with Bible Project Jewish Meditation Literature:
 

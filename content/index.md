@@ -60,14 +60,12 @@ Here are some basic notes about how you could use this garden:
 # 🏞 Trailheads
 
 Good places to start a walk through this garden:
-#### Sacred Space, Liturgy and Rhythm
+#### [[Sacred Space]], Liturgy and Rhythm
 Stuff about worship and Christian living:
 - [[Embodiment of Community]]
-- [[Sacred Space]]
 - [[Notes on the Nature of Order]]
-#### Discipleship, Faith Formation and Pedagogy
+#### Discipleship, [[Faith Formation]] and [[Pedagogy]]
 Stuff about learning and growing as a community:
-- [[Faith Formation]]
 - [[Big Picture Theological Concepts]]
 - [[Foundations of Discipleship]]
 #### Human and Faith Centered Tech

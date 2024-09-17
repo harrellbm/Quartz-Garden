@@ -1,23 +1,23 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-13
+"Last Tended:": 2024-09-17
 ---
 #🌱Seed  #🙂Agree
 ****
 > `Importance`: 10%
  
-***The Big Idea***: 
-
-****
-Foundations for Discipleship
-“Can a blind man lead a blind man? 
+> [!quote]
+>“Can a blind man lead a blind man? 
 Will they not both fall into a pit? 
 A disciple is not above his teacher, 
 but everyone when he is fully trained will be like his teacher.”
-- Luke 6:39-40
+>- Luke 6:39-40
 
-Thesis: Discipleship and Christian formation is a holistic process that involves more than knowing the right things. 
-Towards an Integrated Life
+> [!abstract] Thesis
+>  Discipleship and Christian formation is a holistic process that involves more than knowing the right things. 
+
+****
+# Towards an Integrated Life
 What is the goal of discipleship? So often we get lost in the weeds of event planning, or the pressures of day to day ministry that taking time to reflect on the end goal of discipleship slips into the background. In our rush to do, we forget what we are meant to be.
 
 The following discussion embodies my written thoughts on this question. Through prayer, study and continued reflection, I have become increasingly convinced that being a Christian is so much more than just knowing the right things. For after all, “Even the demons believe—and shudder!” (James 2:19).

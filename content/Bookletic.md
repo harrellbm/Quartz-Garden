@@ -1,12 +1,12 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-08-19
+"Last Tended:": 2024-09-17
 ---
 #🍋Fruit #😁Strongly-Agree #📊Project
 ****
 >`Importance`: 40%
 
-> [!The Big Idea]
+> [!Summary] The Big Idea
 >  A personal project to build a package for the typesetting tool Typst that allows for easy formatting of bulletins and booklets.
 
 * * *
@@ -30,16 +30,19 @@ TODO: make a nice description of features
 
 ## Sig 0.2.0
 
-- [ ] Auto add last blank page for odd amount of pages
-- [ ] Add ability to left right pad page number 
-- [ ] Handle page to start numbering on 
-- [ ] Handle different style of numbering for different page ranges 
-- [ ] Idea of a dictionary for defining the page number stuff so you can provide multiple 
-- [ ] Update examples 
-- [ ] Update docstrings 
-- [ ] Update readme
-- [ ] Make a dedicated GitHub repository
+- [x] Auto add last blank page for odd amount of pages
+- [x] Add ability to left right pad page number 
+- [x] Handle page to start numbering on 
+- [x] Handle different style of numbering for different page ranges 
+- [x] Idea of a dictionary for defining the page number stuff so you can provide multiple 
+- [x] Update examples 
+- [x] Update docstrings 
+- [x] Update readme
+- [x] Make a dedicated GitHub repository
 
+## Sig 0.2.1
+
+- [ ] Handle page size by gathering overall page dimensions from built in context object rather than hardcoded.
 ## Sig 0.3.0
 
 - [ ] Ability to define page style per even and odd pages. Basically a sub dictionary that you can define setting for, all, even and odd pages for the layout 

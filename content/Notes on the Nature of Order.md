@@ -1,14 +1,22 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-08-14
+"Last Tended:": 2024-09-17
 ---
-#🌱Seed  #😐Neutral 
+#🌱Seed  #🙂Agree 
 ****
-> `Importance`: 10%
+> `Importance`: 30%
  
 > [!The Big Idea]
-> Christopher Alexander lays out a huge perspective on how the built environment interacts with the human wellbeing and functioning of society.  This also bleeds into claims on cosmology.
+> [[Christopher Alexander (Architect, Author)]] lays out a huge perspective on how the built environment interacts with the human wellbeing and functioning of society.  This also bleeds into claims on cosmology and the order of the universe and humanity.
 
+Website that has overviews of the Books:
+[Nature of Order Website](http://www.natureoforder.com/overview.htm)
+
+> [!NOTE] idea for research 
+> it seems to me there is great congruence between the ideas of quality of life and wholeness described by Alexander and the biblical principles of shalom and righteousness. It would be interesting to line them up next to each other and see just how similar and different they are. Because if you could sub in the idea of shalom in describing the process of creating living centers that would be a much more profound and far reaching understanding of our corom mundo work than the typical ministering to felt needs or providing public services. Rather all work could be seen as pushing toward peace and righteousness in a way that one day when Jesus returns will not be separated into temporal and spiritual or before man or before God when Jesus returns. But for now we just get to see the starting of there overlap
+
+***
+# Book One: The Phenomenon of Life
 So far I am impressed with his down to earth approach 
 
 This perspective is by definition anti post modern. He seeks to form a perspective that brings value judgements about the life and health of the built environment out of private opinion and into objective discussion that can be argued for and presented 
@@ -19,11 +27,11 @@ He then makes two overarching claims
 - all matter has some element of life and is more or less alive depending on how it is organized and used 
 - All matter and space has some sense of self. Not totally clear on what he means by this yet but think it has something to do with reflection of human nature in what we build
 
-Major argument is that decartes and u thought has basically made the world nothing more than a mechanical machine that can be explained based on what things do. He calls this the mechanistic worldview. This worldview makes it impossible to have any truth claims about anything besides pure mechanical functions. 
+Major argument is that Descartes and u thought has basically made the world nothing more than a mechanical machine that can be explained based on what things do. He calls this the mechanistic worldview. This worldview makes it impossible to have any truth claims about anything besides pure mechanical functions. 
 
 What he argues is that this basically creates a completely chaotic world where everyone has their own value arguments and just kinda chooses a random value to work from. This creates not way to actually have any coherent community or progress together because value is all about personal opinion rather than what is actually good or whole. 
 
-This applies to architecture with the real lived environment of our world just falling  into haphazard chaos with no way to have a conversation that finds real common ground.
+This applies to [[architecture]] with the real lived environment of our world just falling  into haphazard chaos with no way to have a conversation that finds real common ground.
 
 Lays out a new way of understanding science and scientific inquiry that includes being able to make truth claims about the value of things. The wholeness, life and harmony of objects are things that can be understood and investigated.
 
@@ -32,7 +40,7 @@ So order then is about a lot more than the laws of physics or mechanical forces
 > [!Perspective]
 > I think what excites me about this perspective so far is that it actually brings a practical understanding of biblical righteousness into the world we live in every day. Like from this perspective you could absolutely speak in terms of if something is right or not in a more wholistic sense than just morally or mechanically. 
 
-# The Quality of Life in the Built Environment
+## The Quality of Life in the Built Environment
 Defines life as not an organic living organism but that everything has some degree of life from a rock to a crab everything has life in it. Interesting take not sure I’m totally sold yet and need to think through how that fits with biblical descriptions of life 
 
 So I like it more than I thought it’s about the human feeling of life in things that we have a certain emotional resonance with things like waves that is not present in just any form of water. Not anything to do with an animistic sense of things actually being biologically alive but our human reaction to things 
@@ -51,7 +59,13 @@ This differentiation in degrees of life is argued to not be a private subjective
 > What we call “life” is a general condition which exists, to some degree or other, in every part of space: brick, stone, grass, river, painting, building, daffodil, human being, forest, city. And further: The key to this idea is that every part of space - every connected region of space, small or large - has some degree of life, and that this degree of life is well defined, objectively existing, and measurable. 
 > - Nature of Order, bk1., p. 77 
 
-# The Wholeness of Space
+> [!note] Perspective
+> An important note in the whole conversation of the quality of life and the ordering of centers is that humans can easily trick ourselves and redefine what is "life" or what we feel is right. Therefore it is important from a Christian perspective to acknowledge that we do have a kind of fundamental feeling of what is right and wrong, or what has more life in it. But it is vital to consult that feeling as a secondary measure to God's definition of what is rightly ordered or not. 
+> 
+> This means that the objectivity that he argues for in the prescience of life cannot stand only on personal senses but primarily on the word of God. 
+> 
+> Another way to connect this is that the quality of life is also a way to tangible see and perceive righteousness around us. In other words, we could say that things that are rightly order, or righteous, will by nature of their good order be full of more life and wholeness.
+## The Wholeness of Space
 Moving to the abstract idea that this quality of life is composed of ״the wholeness” and centers.
 
 The wholeness is the overall cohesiveness and interrelated nature of everything. Basically the idea that building function as a whole. Even the earth functions as a whole and therefore humans are affected by the environment in which we live and create. We are not unattached but are to a certain extent influenced and contingent on our environment. 
@@ -66,7 +80,7 @@ Argues that the strength of various entities that make up a whole can actually b
 > the wholeness is made of parts; the parts are created by the wholeness. 
 > - Nature of order, bk 1., p. 84
 
-# The Whole Made Up of Centers 
+## The Whole Made Up of Centers 
 > [!Quote] What is a Center?
 > Each one of these entities has, as its defining mark, the fact that it appears to exist as a local center within a larger whole. It is a phenomenon of centeredness in space. 
 > 
@@ -139,7 +153,7 @@ Key ideas connecting this all:
 > 2. Centers help one another: the existence and life of one center can intensify the life of another. 
 > 3. Centers are made of centers (this is the only way of describing their composition).
 > 4. A structure gets its life according to the density and intensity of centers which have been formed in it 
-> - nature of order, bk 1., p. 110
+> - Nature of Order, bk 1., p. 110
 
 A center is not made of other smaller different parts but centers are made of centers and make up other larger centers. The basic argument is that we cannot subdivide wholeness into discreet categories or smaller things but that all things share this common structure or forming into centers. 
 
@@ -178,9 +192,31 @@ Argues that centers change and support each other so that their level of life an
 
 
 
+> [!Quote] 
+> the idea of life as something which may occur in any spatial system, and suggested that the degree of life which appears in a things depends on the life of its component centers and their density. Thus, broadly, we have a theoretical scheme in which the life of a thing, or building, or system, depends on the extent to which the centers in this thing cohere and help each other. 
+> - Nature of Order, Bk 1., p. 144
 
+He continues to develop this line of thinking into a full blown system of analysis by outlining fifteen attributes or relationships that help centers create more life within each other. 
 
+This is the basic list: 
+> 1. Levels of Scale 
+> 2. Strong Centers
+> 3. Boundaries 
+> 4. Alternating Repetition 
+> 5. Positive Space 
+> 6. Good Shape
+> 7. Local Symmetries
+> 8. Deep Interlock and Ambiguity 
+> 9. Contrast 
+> 10. Gradients 
+> 11. Roughness 
+> 12. Echos 
+> 13. The Void 
+> 14. Simplicity and Inner Calm
+> 15. Not-Separateness
 
-
+Here are specific notes on each centers relationship: 
+[[The Ways Centers Help Each Other Have More Life]]
+ 
 
 ****

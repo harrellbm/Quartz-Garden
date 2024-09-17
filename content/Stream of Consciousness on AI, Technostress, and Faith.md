@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-24
-"Last Tended:": 2024-08-14
+"Last Tended:": 2024-09-17
 ---
 #🌱Seed  #🙂Agree
 ****
@@ -17,27 +17,16 @@ Digital overload not being able to cope with the amount of data and communicatio
 
 Technophobia physical and mental stress due to being confronted with new technology at a rate faster than you can manage or keep up with. 
 
-  
-
 Advent of LLM and ChatGPT, LangChain, Stable-Diffusion
-
-  
 
 How to we cope with change in a healthy way
 
-  
-
 How to we keep faith in the center in the face of techno salvation and techno end times
-
-  
 
 What is the proper place for technology 
 
-  
-
 Role of human memory in the face of machine memory  
 
-  
 
 The role of technology often comes down to the simple discussion of what kind of work can be offloaded from humans and entrusted to the technology. The ethical question then becomes SHOULD that work be offloaded? What are the benefits of offloading it? What do humans lose by not being directly responsible for this part of the work?
 
@@ -45,17 +34,12 @@ The role of technology often comes down to the simple discussion of what kind of
 
 Another line of inquiry is to think about the growing reality that we live in a world where a particular person needs to keep in their minds less and less information in order to be functional. How does living in a world where I don’t need to know much to survive affect the way we live and interact with each other and the world? 
 
-  
-
 I think that this helps us realize the importance of memory and learning Scripture. In a world where we can offload so much information and work to technology the truly important things are the things of faith and life flowing from that. 
 
 [[The Preservation of Tail Knowledge]]
 
-  
-
 The conversation that government and society affects or lives is one that is not unfamiliar. Laws and social movements put pressure on us and our loved ones to think and live a certain way. Technology is connected with this in part but I think we often fail to see the underlying narratives that drive the adoptions and development of many technologies. 
 
-  
 
 Avoiding Vendor lockin 
 
@@ -67,7 +51,6 @@ Open source philosophy 
 
 Is AI making your life easier or just giving you one more thing to do?
 
-  
 
 Why AI? Why now?
 

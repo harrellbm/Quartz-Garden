@@ -1,11 +1,12 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-17
+"Last Tended:": 2024-09-12
 ---
-#🌱Seed  #🙂Agree
+#🌱Seed  #🤢Strongly-Disagree 
 ****
 > `Importance`: 10%
  
-***The Big Idea***: Christian nationalism is a form of syncretism that sees rights, the nation of America and capitalisms on part with the gospel message and essential for living any kind of fulfilling life. 
+>[!Summary] The Big Idea 
+>Christian nationalism is a form of syncretism that sees rights, the nation of America and capitalisms on par with the gospel message and essential for living any kind of fulfilling life. 
 
 ****
