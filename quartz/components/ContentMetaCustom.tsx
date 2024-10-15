@@ -33,14 +33,14 @@ export default ((opts?: Partial<ContentMetaCustomOptions>) => {
 
       if (fileData.frontmatter['Note Planted:']) {
         
-        console.log("this is the file dates", fileData.frontmatter['Note Planted:'])
+        //console.log("this is the file dates", fileData.frontmatter['Note Planted:'])
         let date = fileData.frontmatter['Note Planted:']
         created = <div><b>Note Planted</b>: {date} <br/></div>
       }
 
       if (fileData.frontmatter['Last Tended:']) {
         
-        console.log("this is the file dates", fileData.frontmatter['Last Tended:']) 
+        //console.log("this is the file dates", fileData.frontmatter['Last Tended:']) 
         let date = fileData.frontmatter['Last Tended:']
         modified = <div><b>Last Tended</b>: {date} <br/></div>
       }

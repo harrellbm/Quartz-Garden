@@ -7,7 +7,24 @@ export const sharedPageComponents: SharedLayout = {
   header: [
     Component.PageTitle(),
   ],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'harrellbm/Quartz-Garden',
+        // from data-repo-id
+        repoId: 'R_kgDOMhMnDQ',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDOMhMnDc4Ciuq4',
+        // where to put the comment input box relative to the comments
+        // defaults to 'bottom'
+        inputPosition: "top",
+      }
+    }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/harrellbm/Quartz-Garden",
@@ -30,12 +47,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
+    Component.RecentNotes({title:"Recent Thoughts", showTags: false}),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Graph(),
     Component.Backlinks(), 
-    //Component.RecentNotes({title:"Recent Thoughts", showTags: false}),
   ],
 }
 
@@ -48,5 +65,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
-  right: [],
+  right: [
+    Component.Graph(),
+  ],
 }

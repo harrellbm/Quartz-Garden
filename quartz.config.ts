@@ -17,14 +17,14 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "harrellbm.github.io/Quartz-Garden",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
         header: "Special Elite",
         body: "Architects Daughter",
-        code: "Amatic SC",
+        code: "Patrick Hand SC",
       },
       colors: {
         lightMode: {
@@ -35,7 +35,7 @@ const config: QuartzConfig = {
           dark: "#3b4747",
           secondary: "#7a8f2b",
           tertiary: "#c0ce81",
-          highlight: "rgba(61, 61, 55, 0.15)",
+          highlight: "rgba(61, 61, 55, 0.05)",
         },
         darkMode: {
           light: "#3d3d37",
