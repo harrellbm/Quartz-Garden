@@ -1,12 +1,13 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-06-29
+"Last Tended:": 2024-10-15
 ---
 #🌱Seed  #🙂Agree
 ****
 >`Importance`: 10%
- 
-***The Big Idea***: Notes after a personal conversation with Bruce Hartung.
+
+> [!summary] The Big Idea
+ Notes after a personal conversation with Bruce Hartung.
 
 * * *
 

@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-09-17
+"Last Tended:": 2024-10-03
 ---
 #🌱Seed  #🙂Agree 
 ****
@@ -15,6 +15,7 @@ Website that has overviews of the Books:
 > [!NOTE] idea for research 
 > it seems to me there is great congruence between the ideas of quality of life and wholeness described by Alexander and the biblical principles of shalom and righteousness. It would be interesting to line them up next to each other and see just how similar and different they are. Because if you could sub in the idea of shalom in describing the process of creating living centers that would be a much more profound and far reaching understanding of our corom mundo work than the typical ministering to felt needs or providing public services. Rather all work could be seen as pushing toward peace and righteousness in a way that one day when Jesus returns will not be separated into temporal and spiritual or before man or before God when Jesus returns. But for now we just get to see the starting of there overlap
 
+Another set of notes on the Nature of Order Books: [Stefan’s Notes Key Concepts](http://nature-of-order.stefan-lesser.com/key-concepts)
 ***
 # Book One: The Phenomenon of Life
 So far I am impressed with his down to earth approach 
@@ -27,7 +28,7 @@ He then makes two overarching claims
 - all matter has some element of life and is more or less alive depending on how it is organized and used 
 - All matter and space has some sense of self. Not totally clear on what he means by this yet but think it has something to do with reflection of human nature in what we build
 
-Major argument is that Descartes and u thought has basically made the world nothing more than a mechanical machine that can be explained based on what things do. He calls this the mechanistic worldview. This worldview makes it impossible to have any truth claims about anything besides pure mechanical functions. 
+Major argument is that Descartes and other scientific thought has basically made the world nothing more than a mechanical machine that can be explained based on what things do. He calls this the mechanistic worldview. This worldview makes it impossible to have any truth claims about anything besides pure mechanical functions. 
 
 What he argues is that this basically creates a completely chaotic world where everyone has their own value arguments and just kinda chooses a random value to work from. This creates not way to actually have any coherent community or progress together because value is all about personal opinion rather than what is actually good or whole. 
 
@@ -71,16 +72,20 @@ Moving to the abstract idea that this quality of life is composed of ״the whole
 The wholeness is the overall cohesiveness and interrelated nature of everything. Basically the idea that building function as a whole. Even the earth functions as a whole and therefore humans are affected by the environment in which we live and create. We are not unattached but are to a certain extent influenced and contingent on our environment. 
 
 > [!Quote] General idea of wholeness 
-> the wholeness in any part of space is the structure defined by all the various coherent entities that exist in that part of space, and the way these entities are nested in and overlap each other. - Nature of Order, bk 1., p. 81
+> the wholeness in any part of space is the structure defined by all the various coherent entities that exist in that part of space, and the way these entities are nested in and overlap each other. 
+> - Nature of Order, bk 1., p. 81
 
 Argues that the strength of various entities that make up a whole can actually be mathematically calculated making them real aspects of the space in which they exist rather than just some random concept or differentiation. 
 
 
 > [!Quote] 
+> these parts and entities are rarely pre-existing. They are more often themselves *created* by the wholeness….
 > the wholeness is made of parts; the parts are created by the wholeness. 
 > - Nature of order, bk 1., p. 84
 
 ## The Whole Made Up of Centers 
+This leads to a different way of conceptualizing wholeness that can be called:  [[Center Composed Wholeness]]
+
 > [!Quote] What is a Center?
 > Each one of these entities has, as its defining mark, the fact that it appears to exist as a local center within a larger whole. It is a phenomenon of centeredness in space. 
 > 
@@ -90,10 +95,10 @@ Argues that the strength of various entities that make up a whole can actually b
 > - Nature of Order, bk 1., p. 84
 
 More expanded notes on centers: 
-[[Thinking of Spacial Relationships as Centers]] 
+[[Thinking of Spatial Relationships as Centers]] 
 
 
-> [!Quotes] What is Wholeness?
+> [!Quote] What is Wholeness?
 > My answer is that the wholeness is not merely a way of focusing on the gestalt of a thing, but is instead a real structure, an actual “thing” in itself….
 > This wholeness gets its strength from the coherent spatial centers of which it is made. If there are roses around a front door of a cottage, that is what you remember.
 > - Nature of Order, bk 1., p. 90
@@ -121,12 +126,6 @@ The importance of this is that it is focused on the deep meaningful and function
 
 He argues that this is a neutral structure that does not base the goodness and beauty of a space on a philosophy or opinion but the objective presence or lack of life giving wholeness. 
 
-
-
-> [!Quote] Quick definition of Wholeness 
-> the system of centers created by the spatial configuration of the (space).
-> -Nature of Order, bk 1., p. 98
-
 He argues that the wholeness exerts influence on every level of scale down to how elections function all the way up to the cultural context of a country or part of the world. Therefore the wholeness can affect culture and culture can create and define different centers. Like Asian cultures being comfortable squatting with western ones not so much 
 
 Centers are also embodied in social life like how meals are eaten, or welcoming and leave taking happens. As well as by changing and event like entities like sun beams or momentary meetings. 
@@ -140,11 +139,13 @@ Centers are also embodied in social life like how meals are eaten, or welcoming 
 > I believe that *all* centers that appear in space - whether they originate in biology, in physical forces, in pure geometry, in color - *are* alike simply in that they all animate space. It is this animated space that has its functional effect upon the world, that determines the way things work, that governs the presence of harmony and life. 
 > - Nature of Order, Bk 1., p. 106
 
-I like the idea of wholeness and centers over all. the one thing that I think I have an issue with is the divorce of wholeness from morality. I think that using this from a Christian perspective means that there is a difference between healthy and unhealthy “wholeness” because an unhealthy wholeness will by nature create a system of centers that is unhealthy like wise with healthy. So you can’t just totally just jump off into the eastern “the world is what it is” kind of mentality which I don’t think is his point but we will see as we go
 
-I think I see why he makes the point that it is neutral. Because he argues that the idea of wholeness is a neutral structure present every where in the world. So good or bad there is always a wholeness because it is a structured way of seeing things not a moral or value driven concept 
+> [!NOTE] Perspective 
+I like the idea of wholeness and centers over all. the one thing that I think I have an issue with is the divorce of wholeness from morality. I think that using this from a Christian perspective means that there is a difference between healthy and unhealthy “wholeness” because an unhealthy wholeness will by nature create a system of centers that is unhealthy, like wise with healthy. So you can’t just totally just jump off into the eastern “the world is what it is” kind of mentality. Which is not his point as he gets into explaining how to create and sustain more life and beauty in the world but still something to keep in mind. 
+>
+>I think I see why he makes the point that it is neutral. Because he argues that the idea of wholeness is a neutral structure present every where in the world. So good or bad there is always a whole thing because it is a structured way of seeing things not a moral or value driven concept 
 
-Off of this he argues that the quality of life is also a structural phenomenon that can be discerned from within a wholeness. 
+Off of this he argues that the quality of life is also a structural phenomenon that can be discerned from within a wholeness (that is a thing which is whole, which would be everything).
 
 Key ideas connecting this all: 
 

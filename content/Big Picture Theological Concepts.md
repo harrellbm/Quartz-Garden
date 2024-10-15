@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-09-17
+"Last Tended:": 2024-10-15
 ---
 #🪴Sprout  #😁Strongly-Agree  #🌲Evergreen  #🟢Conviction 
 ****
@@ -46,7 +46,7 @@
 	- [[Metaphor in Scripture]]
 	- [[Quiet Muttering]]
 	- [[A Conversation with God (Epistle)]]
-	- [[Conversation with Scripture]]
+	- [[Reading Scripture Devotionally]]
 	- [[The Struggle to be in God's Word]]
 	- [[Love the Lord Your God with all Your Heart]]
 	- [[Ways to Engage Scripture]]
@@ -76,7 +76,7 @@
 - Marks of the Church (Word and Sacraments). Preaching
 - Visible and Invisible Church
 - Jesus as Prophet, Priest and King
-- Two Natures of Christ, Athenasian Creed, person of Christ
+- Two Natures of Christ, Athanasian Creed, person of Christ
 - Economic trinity from the father through the son by the Holy Spirit. We can also pray to the Father through the son in the Holy Spirit 
 - Immanent Trinity. Co equal, eternal etc. 
 - Original Sin
@@ -94,7 +94,7 @@
 	- [[Aesthetic]]
 - [[The Tabernacle]]
 
-# Unhealthy Thelogical Views or Ideas 🤢
+# Unhealthy Theological Views or Ideas 🤢
 
 - [[Moralistic Therapeutic Deism]]
 - [[Repristination]]
@@ -111,7 +111,7 @@
 - [[Potential Subjects to cover in Epistles]]
 - [[The Starting Point of Theology and Cosmology]]
 - [[My Thoughts on Cosmology]]
-- [[Towards a Creaturely Anthropology]]
+- [[A Grounded Cosmology and a Creaturely Anthropology]]
 - [[A Creature Among Machines]]
 - [[Foundations of Discipleship]]
 - [[The Starting Point of Theology and Cosmology]]

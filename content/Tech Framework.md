@@ -7,7 +7,7 @@
 >`Importance`: 10%
 
 >[!Summary] Thesis
-Technology is not value neutral. Every piece of technology works to realize a particular picture of human thriving and existence.
+>Technology is not value neutral. Every piece of technology works to realize a particular picture of human thriving and existence.
 
 * * *
 ### Related Notes 

@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-09-17
+"Last Tended:": 2024-09-28
 ---
 #🌱Seed  #🙂Agree 
 ****
@@ -57,3 +57,16 @@ Space and time are also good foundational concepts
 I like he idea of centers when it comes to describing space 
 
 And rhythm when it comes to describing time 
+
+Interesting connection between life and the world from biblical perspective 
+- Prov 4:23 heart source of life 
+- Deut 12:23 and Lev 17:11,14 Life of animals and humans in their blood 
+- psalm 36:9 connection between life and light 
+- Psalm 56:13 light of life actually put together 
+- Prov 6:23 life light and teaching 
+- John 1:4 Jesus as life and light 
+- John 6:33 Jesus gives life to the world 
+- John 10:10 steal kill and destroy but Jesus to give life need to find that verse 
+- John 8:12 Jesus uses light of life 
+- Psalm 96 worship of the whole earth 
+- 

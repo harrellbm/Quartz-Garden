@@ -1,12 +1,14 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-07
+"Last Tended:": 2024-10-02
 ---
-#🌱Seed  #🙂Agree
+#🌱Seed  #😐Neutral 
 ****
 >`Importance`: 10%
- 
-***The Big Idea***: Ideas coming out of thinking of organizations and groups using [[Systems Theory]].
+
+
+> [!Summary] The Big Idea 
+> Ideas coming out of thinking of organizations and groups using [[Systems Theory]].
 
 * * *
 

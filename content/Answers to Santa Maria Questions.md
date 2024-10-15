@@ -1,13 +1,14 @@
 ---
 "Note Planted:": 2024-06-24
-"Last Tended:": 2024-08-07
+"Last Tended:": 2024-10-02
 ---
 #🌱Seed  #🙂Agree
 ****
 >`Importance`: 30%
- 
-***The Big Idea***: 
-Answers sent to call committee of Santa Maria
+
+> [!Summary] The Big Idea 
+> Answers sent to call committee of Santa Maria
+
 Todo: split out ideas in here into their own notes
 
 * * *

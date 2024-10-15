@@ -1,14 +1,15 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-11
+"Last Tended:": 2024-10-15
 ---
 #🌱Seed  #🙂Agree
 ****
 > `Importance`: 10%
  
-***The Big Idea***: 
+> [!summary] The Big Idea
+> Reading Scripture devotionally can be thought as having a conversation between God's word and our personal reaction to what God is saying.
 
-An activity sheet to help uses these questions I condensed down from this note: [[Activity-A Conversion with Scripture]]
+Related Note: [[Activity-A Conversion with Scripture]]
 ****
 # Conversation with Scripture
 

@@ -60,6 +60,10 @@ Here are some basic notes about how you could use this garden:
 # 🏞 Trailheads
 
 Good places to start a walk through this garden:
+
+> [!hint]
+> Click a link and see where it goes!
+
 #### [[Sacred Space]], Liturgy and Rhythm
 Stuff about worship and Christian living:
 - [[Embodiment of Community]]

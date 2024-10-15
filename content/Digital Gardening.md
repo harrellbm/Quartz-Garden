@@ -7,7 +7,7 @@
 >`Importance`: 90%
 
 > [!summary] The Big Idea
-The idea of digital gardening has really resonated with me. The basic idea that notes and concepts and ideas are things that should be grown over time from just little seeds into fully developed ones is beautiful in its simplicity and connectivity to creation. This is all based on the [[Metaphor of the Stream vs the Garden]].
+>The idea of digital gardening has really resonated with me. The basic idea that notes and concepts and ideas are things that should be grown over time from just little seeds into fully developed ones is beautiful in its simplicity and connectivity to creation. This is all based on the [[Metaphor of the Stream vs the Garden]].
 
 So much of note taking, project management and organization are all about productivity and efficiency as the highest good.  But the idea of tending a garden of thoughts, ideas and knowledge is a method that looks to curiosity, creativity and organic exploration as the goal of the tending. Fruits then naturally emerge from the growing process just like the fruits of an actual garden. 
 

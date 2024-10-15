@@ -1,12 +1,13 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-06-29
+"Last Tended:": 2024-09-28
 ---
 #🌱Seed  #🙂Agree
 ****
 >`Importance`: 10%
- 
-***The Big Idea***: Type of [[Pedagogy]]
+
+> [!Summary] The Big Idea
+> Large group Lecute is a type of [[Pedagogy]]
 
 * * *
 

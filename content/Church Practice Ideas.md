@@ -1,12 +1,14 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-08-19
+"Last Tended:": 2024-10-02
 ---
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree  #🌲Evergreen 
 ****
 >`Importance`: 40%
- 
-***The Big Idea***: This note is a hub for a variety of ideas and concepts surrounding practices that could be applied in a church community setting.
+
+
+> [!Summary] The Big Idea
+> This note is a hub for a variety of ideas and concepts surrounding practices that could be applied in a church community setting.
 
 * * *
 

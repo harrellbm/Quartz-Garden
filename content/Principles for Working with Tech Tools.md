@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-09-17
+"Last Tended:": 2024-10-02
 ---
 #🌱Seed  #🙂Agree 
 ****
@@ -15,8 +15,10 @@ In order to healthily engage with, learn and employ technology I have found a fe
 
 1. Avoiding Vendor lock-in 
 	1. Be aware of tech churn. Always start with a plan of exit.
-	2. Be aware of data storage format and reliability. don't get stuff locked in a format that is impossible to get out of. 
+	2. Be aware of where your data is stored and how you could be cut off from it or lose it. 
+	3. Be aware of data storage format and reliability. don't get stuff locked in a format that is impossible to get out of. 
 2. Favor Open source for general tools and services. 
 3. Favor Big name companies for security and data sensitive tools. 
 
 ****
+[Article on a Dude’s attempt to deGoogle his life](https://www.christianpacaud.com/notes/degooglisation.html)

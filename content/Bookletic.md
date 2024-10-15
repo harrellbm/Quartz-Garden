@@ -1,10 +1,10 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-09-17
+"Last Tended:": 2024-10-15
 ---
-#🍋Fruit #😁Strongly-Agree #📊Project
+#🍋Fruit   #😁Strongly-Agree   #📊Project
 ****
->`Importance`: 40%
+>`Importance`: 50%
 
 > [!Summary] The Big Idea
 >  A personal project to build a package for the typesetting tool Typst that allows for easy formatting of bulletins and booklets.
@@ -40,33 +40,31 @@ TODO: make a nice description of features
 - [x] Update readme
 - [x] Make a dedicated GitHub repository
 
-## Sig 0.2.1
-
-- [ ] Handle page size by gathering overall page dimensions from built in context object rather than hardcoded.
 ## Sig 0.3.0
 
-- [ ] Ability to define page style per even and odd pages. Basically a sub dictionary that you can define setting for, all, even and odd pages for the layout 
-	- [ ] Adjust horizontal is the most important to put page numbers on outside or inside edge of pages 
-	- [ ] Document change 
-	- [ ] Add page number layout setting for setting custom font for page number 
-	- [ ] Add defaults for all different settings so that you only have to define the settings you want to change 
-	- [ ] Make it possible to have no page number by only defining with style with none and range with start page (no need to define alt start)
-- [ ] Write manual (use AI) and tidy typst package 
-- [ ] Make post in showcase in discord
-- [ ] Remove hardcoding of page size. Maybe use query to get the document size?
-- [ ] Abstract out composing page to its own function 
-- [ ] Update examples 
-- [ ] Update docstrings 
-- [ ] Update readme
+- [x] Ability to alternate page numbers left and right on facing pages making it possible to put page numbers on the outside or inside of the pages.
+- [x] Use the native page function to define paper type, and outside margins
+- [x] Make it possible to have no page number by only defining p-num-start for the page range and p-num-pattern as none (no need to define alt start)
+- [x] Update examples 
+- [x] Update docstrings 
+- [x] Update readme
+- [x] post to packages repo
 
 ## Sig 0.4.0
 
+- [ ] Abstract out composing page to its own function 
 - [ ] Make it possible to add none to page pattern to remove page number for even and odd pages 
 - [ ] Tab page number (a number that has a shape under it)
-- [ ] Add marks for signature stitching holes or stable guides
+- [ ] Add marks for signature stitching holes or staple guides
+- [ ] Ability to define page style per even and odd pages. Basically a sub dictionary that you can define setting for: all, even and odd pages for the layout 
+	- [ ] Allow alternating page number patterns Adjust horizontal is the most important to put page numbers on outside or inside edge of pages 
+	- [ ] Add page number layout setting for setting custom font for page number 
+	- [ ] Add defaults for all different settings so that you only have to define the settings you want to change 
+- [ ]  Write manual (use AI) and tidy typst package 
+- [ ] Make post in showcase in discord
 
 ## Booklet function
-wrapper of sig function that adds convince features like auto break into pages. But only handles a single signature
+wrapper of sig function that adds convenience features like auto break into pages. But only handles a single signature
 
 - [ ] More robust convenience boarder settings 
 - [ ] auto breaks content into pages 
@@ -79,7 +77,7 @@ same as booklet but has options for multi signature set ups 
 ## Wishlist 
 
 - Support for 8 16 and 32 page signatures 
-- Need to add back in flipping pages to create the more complex signatures 
+- Need to add back in flipping pages from zine example package to create the more complex signatures 
 
 [Printer spread key](https://images.app.goo.gl/9MMFTRDs9dqZdS7f7)
 
@@ -90,8 +88,6 @@ same as booklet but has options for multi signature set ups 
 [Fold 16 page zine](https://m.youtube.com/watch?v=bkUxrDfgv8U) 
 
 [Book typesetting rules](https://pin.it/5aJkzmh04) 
-
-  
 
 ## Background and boarders 
 

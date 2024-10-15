@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-23
+"Last Tended:": 2024-10-09
 ---
 #🌱Seed  #🙂Agree 
 ****
@@ -49,7 +49,7 @@ Book: A Secular Age - Charles Taylor moment of world away from Christian culture
 2. Decline of religious faith and practice 
 3. The condition in which Christian belief is no longer self-evident 
 
-Exclusive humanism- the idea humans are in their own now and there is no God or anything to help out.
+Exclusive humanism- the idea humans are on their own now and there is no God or anything to help out.
 
 It is a move from an enchanted to a disenchanted world. The person used to be porous but moved to buffered and not open to influence or outside forces and spirits.
 

@@ -1,12 +1,13 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-02
+"Last Tended:": 2024-09-17
 ---
 #🍋Fruit  #😁Strongly-Agree #🟢Conviction 
 ****
 > `Importance`: 10%
  
-***The Big Idea***: An #📝Essay on my thoughts defining an understanding of Sacred Space. 
+> [!summary] The Big Idea
+> An #📝Essay that develops some thoughts about Sacred Space. 
 
 ****
 # Living in the Expanse

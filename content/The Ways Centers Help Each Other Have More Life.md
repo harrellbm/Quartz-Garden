@@ -1,13 +1,13 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-09-15
+"Last Tended:": 2024-10-15
 ---
 #🌱Seed  #😐Neutral 
 ****
 > `Importance`: 40%
  
 >[!Summary] The Big Idea
->One of the major points of Christopher Alexander’s idea of centers from the Nature of Order is that centers can help each other have greater life. He outline fifteen ways in which this can be concretely achieved or observed. 
+>One of the major points of Christopher Alexander’s idea of centers from *the Nature of Order - The Phenomenon of Life* is that centers can help each other have greater life. He outlines fifteen ways in which this can be concretely achieved or observed. 
 
 See [[The Quality of Life in Environments and Objects]] for a full description of his definition of life which is differentiated from organic life. 
 
@@ -31,7 +31,7 @@ See [[The Quality of Life in Environments and Objects]] for a full description o
 > - Nature of Order, Bk. 1, p. 144
 
 > [!NOTE] Personal Experience 
->So far these have been very eye opening. Especially something simple like levels of scale had made it possible to look at some thing and be able to actually think about if the proportions of it are correct or not. I think this is a good get of language to actually be able to talk about the composition of things.
+>So far these have been very eye opening. Especially something simple like levels of scale has made it possible to look at some thing and be able to actually think about if the proportions of it are correct or not. I think this is a good set of language to actually be able to talk about the composition of things.
 
 ****
 # 1. Levels of Scale 
@@ -170,5 +170,36 @@ Sometimes interlock is physically done as a center hooks in with another.
 
 But also Spacial ambiguity can form interlock between centers. Which means that the surrounding area belongs both to the center and its surroundings. His example is a porch that has space that is “outside” but also is a part of the building at the same time creating a connection between the building and its surroundings. 
 
-- P. 195 - 197
+- found on page 195 - 197
 # 9. Contrast 
+
+Contrast can be in more than just color, it can be in function, material, or even the thing and the empty space around it.
+
+ But argues that contrast needs to be intentional and actually help centers have more life together. There is a kind of contrast that creates separation and disunity rather than promoting life and the wholeness of the centers. 
+ 
+Exercise for understanding the fifteen properties: 
+
+> [!Quote] 
+> Draw diagrams, make experiments, in which you try to make something, sketch something, which has the property in it. But it is not enough to catch the property as you believe it is defined. To succeed, you must make a thing which has the property, *and which gains deeper feeling because of the presence of the property*. Only when you have managed that, can you be sure that the meaning of the property has not eluded you.
+> - Nature of Order, bk. 1, p. 203
+
+# 10. Gradients 
+
+The gradual change of some kind of characteristic across space. Things like color, size or material are examples of things that can be formed into a gradient. 
+
+> [!Quote]
+> In something that has life, there are graded fields of variation throughout the whole, often moving from the center to the boundary, or from the boundary to the center. Indeed, gradients are essentially and necessarily connected to the existence of a living center. Almost always the strengthened field-like character of the center is caused, in part, by the fact that an organization of smaller centers creates gradients which “point to” some new and larger virtual center.
+> - Nature of Order, bk 1., p. 207
+
+# 11. Roughness
+Idea that a truly good design or plan should naturally adapt to the larger concerns of function and/or other environmental pressure. Making a final design that looks more rough but functions better and is more holistically beautiful.
+
+
+> [!Quote] 
+> the seemingly rough solution - which seems superficially inaccurate - is in fact *more* precise, not less so, because it comes about as a result of paying attention to what matters most, and letting go of what matters less….
+> The seemingly rough arrangement is more precise because it comes from a much more careful guarding of the essential centers in the design. 
+> - Nature of Order, bk 1., p. 211
+
+He argues that this can only be achieved with a relaxed and carefree attitude that is not obsessed with proving oneself to be the best or having a restricted plan that is unchanging.  
+
+# 12. Echos

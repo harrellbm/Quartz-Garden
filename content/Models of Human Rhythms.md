@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-11
+"Last Tended:": 2024-10-09
 ---
 #🌱Seed  #🙂Agree
 ****
@@ -282,13 +282,13 @@ Tv as unwinding but not really. It is a ton of stimulation to our brain and sens
 
   
 
-#### Enculturation and Repristination
+#### Enculturation and [[Repristination]]
 
 How the rhythms we see modeled are not always from a singular cultural source. 
 
   
 
-Address danger of REPRISTINATION
+Address danger of [[REPRISTINATION]]
 
   
 
@@ -327,7 +327,7 @@ Goal of being intentional with the model of rhythm is to seek to be faithful to 
 
 How do we measure the effect of a repeated action? Being  addicted to meth seems to be on one extreme while always patting your pocket to make sure you have Keys before leaving is on the other. One completely alters life and it’s purpose and desires while the other is a small functional practice to try to avoid forgetting an important object. Both form the person but one has the power to change a person’s whole outlook while the other is really only going to help one be a little less forgetful or likely to get locked out of the house. 
 
-### Ritual, Practice, Liturgy 
+### [[Ritual, Practice, Liturgy]] 
 
 I’m not sure I buy this anymore. 
 
@@ -641,7 +641,7 @@ Vocation (table of duties) as redeeming rhythms of relationships. First commissi
     
 - Witness, confessing
     
-- Scripture, sermon, storytelling
+- Scripture, sermon, [[storytelling]]
     
 - Doing good, service
     
@@ -884,7 +884,7 @@ Passing on information, or valuable things from one generation to the next
 
 ## By Relationships
 
-### Two kinds of righteousness 
+### [[Two kinds of righteousness]] 
 
 Rhythms only make sense within the context of relationships 
 

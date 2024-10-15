@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-09-17
+"Last Tended:": 2024-10-15
 ---
 #🌱Seed  #🙂Agree
 ****
@@ -47,7 +47,7 @@ How to use tools and resources to solve a problem or investigate a question
 Bible connections Game
   
 
-Academic vs a [[Conversation with Scripture]]
+Academic vs a [[Reading Scripture Devotionally]]
 
 [[Metaphor in scripture]].  Not relying only on one but seeing the whole picture.
 
