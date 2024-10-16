@@ -43,16 +43,17 @@ export const defaultContentPageLayout: PageLayout = {
     //Component.TagList(),
   ],
   left: [
-    Component.MobileOnly(Component.Spacer()),
+    
     Component.Search(),
     Component.Darkmode(),
+    Component.MobileOnly(Component.Spacer()),
     Component.DesktopOnly(Component.Explorer()),
-    Component.RecentNotes({title:"Recent Thoughts", showTags: false}),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Graph(),
+    Component.DesktopOnly(Component.Graph()),
     Component.Backlinks(), 
+    Component.RecentNotes({title:"Recent Thoughts", showTags: false})
   ],
 }
 
