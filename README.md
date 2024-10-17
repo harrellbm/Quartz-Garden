@@ -1,8 +1,10 @@
-# Pastor Brenden's Digital Garden
+# Welcome to my little biosphere in the tangle of the world wide web. 
 
-This is my experimental garden.I am starting to plant it and we shall see where it goes.
+This is my attempt to create a [digital garden](https://jzhao.xyz/posts/networked-thought) full of notes, ideas and writings that i
+I have been writing over the last six years. 
 
-I am currenlty using Obsidian to write, edit and manage my notes in markdown format. These files are then uploaded here and build into a website using the Quartz framework. You can see the site here: [https://harrellbm.github.io/Quatrz-Garden/](https://harrellbm.github.io/Quartz-Garden/).
+It has already grown from its very rough infancy into a fledgling garden.
 
-> Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+I am currenlty using Obsidian to write, edit and manage my notes in markdown format. I then upload those files here and use the very nice quartz framework to build them into a website. You can see the site here: [https://harrellbm.github.io/Quatrz-Garden/](https://harrellbm.github.io/Quartz-Garden/).
+
+🔗 Read the documentation for Quartz and start your own here: https://quartz.jzhao.xyz/
