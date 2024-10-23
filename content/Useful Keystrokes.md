@@ -1,6 +1,9 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-08-14
+"Last Tended:": 2024-10-17
+aliases:
+  - Hotkeys
+  - Keyboard Shortcuts
 ---
 #🌱Seed  #😐Neutral 
 ****
@@ -23,3 +26,5 @@
 `Ctrl + P` - Print current document.
 
 `Ctrl + F` - Open search bar for current document.
+
+`WindowKey + .` - Open the system's emoji keyboard

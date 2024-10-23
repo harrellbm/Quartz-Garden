@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-10-15
+"Last Tended:": 2024-10-23
 ---
 #🌱Seed  #🙂Agree #🌳Thought-Tree
 ****
@@ -50,10 +50,7 @@ Two Poor Mindsets about Change
 - Change as inherently good. Fast pace and relentless end up focusing on changing toward very overly specific and sometimes very short sighted objectives. 
 
 Two valid forms of change 
-- Structure preserving transformation or Smooth Change
-	- This change is basically the idea that all life giving change comes from an unfolding process that starts with the current structure of the whole and makes step by step changes to enhance and extend the wholeness. This process respects the current structure and basically seeks to change the least amount of big/strong/living centers in order to maximize the positive effects of the change. Because if you introduce a new strong center but destroy two others you really haven’t improved anything. 
-	- Notes that I am reading through and hope to get my hands on a full copy soon: [Link to Nature of Order Book 2 Cliff notes](http://nature-of-order.stefan-lesser.com/book-2-cliff-notes)Christopher Alexander lays out the process for how he sees structure preserving change come about.
-	- Using the 15 properties of good centers or the geometry that gives them more life as also the names of structure preserving transformation that injects that particular type of strengthening into the system of centers - [list of these transformations](http://nature-of-order.stefan-lesser.com/b2-c2-fifteen-transformations)
+- ![[Structure Preserving Transformation or Smooth Change]]
 - Radical or Disruptive change 
 	- Disruption by DeYmaz is a good example of a book that lays this kind of change out. Bolsinger, Canoeing the Mountains another example.
 	- The idea with this type of change is that change gets rid of the old to make space for the new. 

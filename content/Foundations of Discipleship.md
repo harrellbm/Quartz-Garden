@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-09-17
+"Last Tended:": 2024-10-23
 ---
 #🌱Seed  #🙂Agree
 ****
@@ -25,7 +25,9 @@ The following discussion embodies my written thoughts on this question. Through 
 So much of modernity has shrunk humanity down to brains on sticks.  If you just think the right things or think hard enough you can be, do, or achieve anything -  or so the sayings go. Yet we are so much more than that. Humans are unique embodied creatures.  Dependent beings living every moment from breath to breath.  Therefore, in order to understand discipleship, we must first start by grasping the Biblical description of human existence and purpose. 
 
 This topic in and of itself could take up many pages.  It seeks the core of our existence and the purpose for living.  Things no one can quite get away from, no matter the life one may choose.  Because of this, we will use three defining moments from salvation history to anchor our description of humanity.  
-# [[The Two Commissions]]
+
+# The Two Commissions
+![[The Two Commissions]]
 The God given purpose of human living.
 # The Full Picture
 As we pull these pieces together, the call to become a disciple of Jesus takes on flesh and bone.  To be a disciple means to be a co-creator and a lover.  A follower that answers the ancient call of the creator to live life in the Gospel. This call speaks of a compelling, even enrapturing experience and dependence on God. 
@@ -35,7 +37,7 @@ Yet this description does not always ring true in experience. Ever since the enl
 This discussion has aimed to illuminate the deep seated, earthy, gut wrenching nature of the call to follow Christ. Humans are not primarily shaped by thoughts.  Some of our most foundational years of development are years we do not even remember.  Humans are rather primarily co-creators and lovers.  It is through these lenses that we seek to plan and enact future Christian discipleship. 
 
 # Discipleship as Christian Formation 
-	The Hebrew word to know (Yada) continues the line of anthropology we have started down. To know is to experience.  Without experience there is no true knowledge.  If this is true, and humans are primarily co-creators and lovers, then the orientation and direction of Christian instruction and practice should take on a much different shape than a data dump. But what shape is that? 
+The Hebrew word to know (Yada) continues the line of anthropology we have started down. To know is to experience.  Without experience there is no true knowledge.  If this is true, and humans are primarily co-creators and lovers, then the orientation and direction of Christian instruction and practice should take on a much different shape than a data dump. But what shape is that? 
 
 As co-creators we are physical beings connected to a physical earth.  Earthen vessels tilling and caring for the ground from which we were formed. We are connected to the rhythms of nature (just ask a teacher if they can tell when the moon is full).  We reorient and reconfigure the materials of this earth to create and build.  Our Lutheran theology prepares us nicely to understand the implications of this reality. 
 
@@ -73,20 +75,21 @@ If we are seeking to shape the desires of our people through embodied practices.
 
 While those practices do shape us to a certain extent, they are not quite the practices we are after. James K. A. Smith introduces a helpful hierarchy to understand different kinds of practices. 
 
-	•	Rituals - Everyone has rituals. Habits that happen regularly like: putting gas in the car, reading the news, etc. Anything we do regularly counts as a ritual.  
+•	Rituals - Everyone has rituals. Habits that happen regularly like: putting gas in the car, reading the news, etc. Anything we do regularly counts as a ritual.  
 
-	•	Practices - Out of our rituals there are a number of regular activities that rise to the level of being a practice. Athletes and musicians practice to become better at their craft. So too, our practices are aimed toward a particular goal. For example we go to work for the goal of making money. 
+•	Practices - Out of our rituals there are a number of regular activities that rise to the level of being a practice. Athletes and musicians practice to become better at their craft. So too, our practices are aimed toward a particular goal. For example we go to work for the goal of making money. 
 
-	•	Liturgies - The most specific kind of regular activity is liturgy. Like practices, liturgies are aimed toward an end goal. They are more specific however and are aimed at the end goal of fulfilling our identity and vision of the good life. 
+•	Liturgies - The most specific kind of regular activity is liturgy. Like practices, liturgies are aimed toward an end goal. They are more specific however and are aimed at the end goal of fulfilling our identity and vision of the good life. 
 
 Liturgies are the most potent of practices. They define who we are and where we are headed. Therefore we seek to shape the liturgies of our people.
 Thick and Thin Habits 
 Another way to conceptualize the practices we are after is the idea of thick and thin habits. 
 
-	•	Thin Habits - These are habits that are not done for themselves but for some other end. For example, we pay bills to avoid being sent to a debt collector. The regular habit of paying bills doesn’t, in and of itself, affect the way we think about ourselves or our purpose in life. 
+•	Thin Habits - These are habits that are not done for themselves but for some other end. For example, we pay bills to avoid being sent to a debt collector. The regular habit of paying bills doesn’t, in and of itself, affect the way we think about ourselves or our purpose in life. 
 
-	•	Thick Habits - These habits are what we are after. They bring meaning into our life and push us toward our image of an ideal life. 
-Forming Thick Habits and Liturgies 
+•	Thick Habits - These habits are what we are after. They bring meaning into our life and push us toward our image of an ideal life. 
+
+## Forming Thick Habits and Liturgies 
 As we continue to think through how we access the chain of formation and promote deep change of desire. We can turn to the liturgy we practice every Sunday. Church liturgy is a pattern for living. It carries us along on the journey of the church year. In it we receive all the good gifts of God. Sunday liturgy composes and compiles so many elements from the story of Scripture and helps us begin to practice the thick habits of faith.  
 
 The movement of discipleship should therefore be animated and flow out from our Sunday liturgy. The thick habits of our daily life should be informed and corrected by the words and practices of Scripture. To this end, what follows is a short list of thick habits to think through bringing into our discipleship efforts:
@@ -114,3 +117,8 @@ Move Away from Scholarship to Discipleship 
 To summarize, the end goal of discipleship is about forming and shaping the deepest levels of our heart in ways only the Holy Spirit can.
 
 “If Scholarship is the goal of discipleship, then we end up with scholars who make more scholars who know right answers. If joining Jesus is the goal of discipleship, then we end up with disciples who make more disciples who participate in the redemption and restoration of all things.” 
+
+# How should we think?
+![[Core Mindsets for a Healthy Community]]
+# Starting Small and Growing from There
+![[The Edge of the Wedge]]

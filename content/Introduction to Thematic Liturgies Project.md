@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-18
+"Last Tended:": 2024-10-23
 ---
 #🌿Sapling  #😁Strongly-Agree  #📊Project  #📝Essay  
 ****
@@ -54,17 +54,14 @@ Keeping in mind the tension of tradition and translation, we come to the need to
 
 To state this distinction another way, all liturgy grounded in the true word of God and the right celebration of God’s gifts (sacramental and other) are without question efficacious (sacramental efficacy).  It makes no difference how engaging, interesting or personally compelling an individual finds it.  Liturgy delivers the goods of God’s promises with 100% assurance.  Ritual efficacy, on the other hand, deals in our human experience of a particular liturgical form’s ability to engage us.  It is no secret that almost every person finds different styles of worship music more or less effective for their personal engagement in meaningful worship.  Not only this but fields such as neuroscience point out the benefits of multisensory engagement for memory and retention of material in sermons and bible reading.  By maintaining the distinction between sacramental efficacy and ritual efficacy we can critically engage our practice of liturgy affirming the value and place for all faithful forms, while also acknowledging the nuances of human engagement.       
 
-## Variety versus Reguarity 
+## Variety versus Regularity 
 
 A practice done regularly makes a habit, and a habit has a way of sticking within a person.  This basic human truth is an important consideration as we seek to grow our people using liturgical forms.  There needs to be a sense of continuity and repetition for things to sink into people.  However, this need to habituate people into a regular pattern of worship and practice, should not exclude the legitimacy and importance of variety.  Scripture alone brings to light a huge variety in musical and ritual expression.  We should seek to bring our people into this fullness not at the expense of regularity but in concert with it.  One noteworthy example of this is the practice of lament.  Lament comes directly out of the pages of Scripture but is something the church rarely practices.  We possess this very powerful practice to wrestle and deal with grief and brokenness.  Yet we often leave it on the shelf and rob our people of it.   
 
 ## Real Loss
+![[Real Loss]]
 
-No matter how well intentioned or effective.  All translation and change brings loss.[^6]  This is most easily seen in the psalms themselves.  No amount of skill can preserve the full poetic quality of each psalm as it is translated into english or any other language.  Things are lost in translation.  Whether these losses are significant or not, it is important that they be carefully ascertained.  This is true on a broader scale with liturgy as well.  Any change, no matter how small, will lose something.
 
-This conviction makes it clear that changing and/or generating liturgical forms is not something to be taken lightly.   In fact, many argue that the risk of loss is too great to allow for variety in liturgical forms.  This project, however, does not agree with this assessment.  While loss is real and needs to be appreciated and acknowledged, it should not bind the church from worshiping God with all the skill and talent He has placed within His body.  
-
-Rather than dismissing loss, or turning it into a crippling fear, this project seeks to engage tradition thoughtfully to bring to life liturgical forms that help pull people into the depths of Christ’s richness and unlock interaction with our scriptural and churchly heritage.
 
 ## Living Word, Living Worship
 
@@ -286,7 +283,6 @@ Canticles - Songs taken directly out of the Scriptural narrative. Used various p
 [^3]: **Joel Okamoto,”The Word of the Cross and the Story of Everything” Concordia Journal Summer 2019 Volume number, Issue number (Year): page number(s).Concordia Journal Summer 2019 54.**
 [^4]:  **James Smith, Desiring the Kingdom: Worship, Worldview, and Cultural Formation (Grand Rapids: Baker Academic, 2009), 75-88.**
 [^5]: **Marriot, Article on Liturgy and discipleship, 10. [link](https://drive.google.com/file/d/1d5CYDp1PlyT-sHoIG9Wx41NfbU37ws7s/view?usp=sharing)**
-[^6]: **Tod Bolsinger, Canoeing the Mountains: Christian Leadership in Uncharted Territory (Downer Grove:IVP Books, 2015), 120-122.**
 [^7]: **James Smith, Desiring the Kingdom, 155-59.**
 [^8]:  **John Witvliet, The Biblical Psalms in Christian Worship, 11-15.**
 [^9]:  **Ibid., 4.**
