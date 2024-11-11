@@ -15,7 +15,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
         <p>
-          I would love to hear what you think about the ideas you find in this garden. Leave a comment here directly or find me with the linked contact information below. You can also be informed when I upload new content using the RSS feed:
+          I would love to hear what you think about the ideas you find in this garden. You can find me with the linked contact information below:
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
