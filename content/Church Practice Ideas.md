@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-10-02
+"Last Tended:": 2024-11-11
 ---
 #🌱Seed  #🙂Agree  #🌲Evergreen 
 ****
@@ -36,6 +36,8 @@
 [[Working Genius Based Project Lifecycle]]
 
 [[Basic Philosophies of Community Rhythm and Project Lifecycle]]
+
+[[Five Year Cap Mission Planting]]  
 
 ## Loose Ideas 
 

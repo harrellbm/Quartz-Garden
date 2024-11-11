@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-08-07
+"Last Tended:": 2024-11-10
 ---
 #🌱Seed  #🙂Agree
 ****
@@ -30,7 +30,8 @@ Focus on teaching the actual methods of inquiry and skills needed to complete a 
 Inquiry-Oriented and Mastery-Based Methods are the main goal.
 
 [[Gerhard Method of Theological Study]]
-  
+
+[[Zone of Proximal Development]]
 
 ## Content based [[Pedagogy]]
 

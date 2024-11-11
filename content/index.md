@@ -1,4 +1,6 @@
 ---
+"Note Planted:": 2024-06-27
+"Last Tended:": 2024-11-11
 title: " Base Camp 🏕️"
 aliases:
   - Home
@@ -57,26 +59,4 @@ Here are some basic notes about how you could use this garden:
 - Look at a particular note tag and see what other notes have the same tag.
 - If you run into a 404 page it means I haven't made that note yet or haven't uploaded it. If it is interesting to you reach out to me and start a conversation about it.  
 
-# 🏞 Trailheads
-
-Good places to start a walk through this garden:
-
-> [!hint]
-> Click a link and see where it goes!
-
-#### [[Sacred Space]], Liturgy and Rhythm
-Stuff about worship and Christian living:
-- [[Embodiment of Community]]
-- [[Notes on the Nature of Order]]
-#### Discipleship, [[Faith Formation]] and [[Pedagogy]]
-Stuff about learning and growing as a community:
-- [[Big Picture Theological Concepts]]
-- [[Foundations of Discipleship]]
-#### Human and Faith Centered Tech
-Stuff about how we should use and think about tech:
-- [[Tech Framework]]
-- [[A Creature Among Machines]]
-- [[Principles for Working with Tech Tools]]
-#### Projects
-Stuff I have built or am working on. 
-- [[Bookletic]]
+![[Garden Trailheads#🏞 Trailheads]]

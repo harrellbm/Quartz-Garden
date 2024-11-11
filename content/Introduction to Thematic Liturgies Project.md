@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-10-23
+"Last Tended:": 2024-11-05
 ---
 #🌿Sapling  #😁Strongly-Agree  #📊Project  #📝Essay  
 ****
@@ -56,12 +56,10 @@ To state this distinction another way, all liturgy grounded in the true word of 
 
 ## Variety versus Regularity 
 
-A practice done regularly makes a habit, and a habit has a way of sticking within a person.  This basic human truth is an important consideration as we seek to grow our people using liturgical forms.  There needs to be a sense of continuity and repetition for things to sink into people.  However, this need to habituate people into a regular pattern of worship and practice, should not exclude the legitimacy and importance of variety.  Scripture alone brings to light a huge variety in musical and ritual expression.  We should seek to bring our people into this fullness not at the expense of regularity but in concert with it.  One noteworthy example of this is the practice of lament.  Lament comes directly out of the pages of Scripture but is something the church rarely practices.  We possess this very powerful practice to wrestle and deal with grief and brokenness.  Yet we often leave it on the shelf and rob our people of it.   
+A practice done regularly makes a habit, and a habit has a way of sticking within a person.  This basic human truth is an important consideration as we seek to grow our people using liturgical forms.  There needs to be a sense of continuity and repetition for things to sink into people.  However, this need to habituate people into a regular pattern of worship and practice, should not exclude the legitimacy and importance of variety.  Scripture alone (not to mention liturgical history) brings to light a huge variety of musical and ritual expression.  We should seek to bring our people into this fullness, not at the expense of regularity, but in concert with it.  One noteworthy example of this is the practice of lament.  Lament comes directly out of the pages of Scripture but is something the church rarely practices.  We possess this very powerful practice to wrestle and deal with grief and brokenness.  Yet we often leave it on the shelf and rob our people of it.   
 
 ## Real Loss
 ![[Real Loss]]
-
-
 
 ## Living Word, Living Worship
 
@@ -283,6 +281,7 @@ Canticles - Songs taken directly out of the Scriptural narrative. Used various p
 [^3]: **Joel Okamoto,”The Word of the Cross and the Story of Everything” Concordia Journal Summer 2019 Volume number, Issue number (Year): page number(s).Concordia Journal Summer 2019 54.**
 [^4]:  **James Smith, Desiring the Kingdom: Worship, Worldview, and Cultural Formation (Grand Rapids: Baker Academic, 2009), 75-88.**
 [^5]: **Marriot, Article on Liturgy and discipleship, 10. [link](https://drive.google.com/file/d/1d5CYDp1PlyT-sHoIG9Wx41NfbU37ws7s/view?usp=sharing)**
+[^6]: **Tod Bolsinger, Canoeing the Mountains: Christian Leadership in Uncharted Territory (Downer Grove:IVP Books, 2015), 120-122.**
 [^7]: **James Smith, Desiring the Kingdom, 155-59.**
 [^8]:  **John Witvliet, The Biblical Psalms in Christian Worship, 11-15.**
 [^9]:  **Ibid., 4.**

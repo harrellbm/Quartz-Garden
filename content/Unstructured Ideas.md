@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-08-07
+"Last Tended:": 2024-11-10
 ---
 #🌱Seed  #🙂Agree
 ****
@@ -23,7 +23,6 @@
 
 [[Joining Jesus Notes]]
 
-[[Notes]]
 # Random notes 
 
 Personal motivators 

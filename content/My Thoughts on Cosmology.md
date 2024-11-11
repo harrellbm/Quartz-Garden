@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-09-28
+"Last Tended:": 2024-11-11
 ---
 #🌱Seed  #🙂Agree 
 ****
@@ -11,19 +11,19 @@
 
 # Big Picture Perspectives
 
-- **Evolutionary Cosmology** - the idea that the world works as survival of the fittest 
+- **Evolutionary [[Cosmology]]** - the idea that the world works as survival of the fittest 
 - **Wholeness and Centers** - as defined by Christopher Alexander. The idea that the world is composed of abstract layered centers. The density and configuration of these centers define how much life and health there is in a part of the world. 
 - **Mechanistic Cosmology**- the idea that the world is one big machine or that processes can be broken down into their constituent parts and the mechanism of what makes things work isolated and understood.
 - **Dualistic Cosmology** - the idea that matter is bad and spirit is good. 
 - Post-Modernism - 
-- **Platonic Cosmology** - the idea that everything has a kind of disembodied "ideal" that it is leaning toward. The best things are the things that most closely meet the ideal. 
-- **Two Kingdoms and [Two Kinds of Righteousness] - The distinction between humanity's relationship with God and humanity's relationship with the world and other humans.  
-- [The Two Commissions]
-- Meta-Narrative Cosmology - overarching story of the Bible  or can also think of the overarching story of other religions or perspectives. 
+- **Platonic [[Cosmology]]** - the idea that everything has a kind of disembodied "ideal" that it is leaning toward. The best things are the things that most closely meet the ideal. 
+- **Two Kingdoms and [[Two Kinds of Righteousness]] - The distinction between humanity's relationship with God and humanity's relationship with the world and other humans.  
+- [[The Two Commissions]]
+- Meta-Narrative [[Cosmology]] - overarching story of the Bible  or can also think of the overarching story of other religions or perspectives. 
 
 Not a fan of evolutionary cosmology
 
-Mechanistic cosmology has crept into a lot of ways I used to approach the world but centers thinking is starting to change that. Currently experimenting and testing out how useful centers can be in the way I interact with the world and understand it.  
+Mechanistic [[cosmology]] has crept into a lot of ways I used to approach the world but centers thinking is starting to change that. Currently experimenting and testing out how useful centers can be in the way I interact with the world and understand it.  
 
 ****
 

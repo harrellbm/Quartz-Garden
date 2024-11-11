@@ -1,17 +1,20 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-01
+"Last Tended:": 2024-10-28
 ---
 #🌱Seed  #🙂Agree #✒️Poem 
 ****
 > `Importance`: 10%
  
-***The Big Idea***: Unfinished Poem about Jesus the Word of life and His movement through history.
+> [!summary] The Big Idea
+> Unfinished Poem about Jesus the Word of life and His movement through history.
 
 ****
-> “The Bible is more than prosaic rituals; it is a love letter, a story of adventure & victory, a multigenre conglomeration that God called “good,” full of mystery, romance, comedy, prophesy, even poetry.” - Alabaster Co. A Reflection on Poetry in Scripture
+> [!cite]  *A Reflection on Poetry in Scripture* - Alabaster Co.
+> “The Bible is more than prosaic rituals; it is a love letter, a story of adventure & victory, a multigenre conglomeration that God called “good,” full of mystery, romance, comedy, prophesy, even poetry.”
 
-> In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things were made through him, and without him was not any thing made that was made. In him was life, and the life was the light of men. - John 1:1-4
+> [!quote] John 1:1-4
+> In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things were made through him, and without him was not any thing made that was made. In him was life, and the life was the light of men.
 
 The word speaks and it is so. Describe creation and the forming of man like a potter forms a vessel.  Imagery of dirt and mud. Breath of life
 

@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-10-15
+"Last Tended:": 2024-11-11
 ---
 #🪴Sprout  #😁Strongly-Agree  #🌲Evergreen  #🟢Conviction 
 ****
@@ -13,13 +13,12 @@
 ## Big Picture Theological Principles and Frameworks 💡
 
 - Law and Gospel
-- Three uses of the law
-	- Curb 
-	- Mirror
-	- Guide
+- [[Three Uses of the Law]]
 - Two kingdoms
 - [[Two Kinds of Righteousness]]
-- Two commissions and cycle of gospel living
+	- [[Corom Deo]]
+	- [[Corom Mundo]]
+- [[The Two Commissions]] and cycle of gospel living
 - Meta narrative of the Bible (or the Story of Everything)
 - The Personal (Jesus), Spoken, and Written Word of God
 	- [[Word Made Flesh]]
@@ -29,11 +28,12 @@
 - Everyone is a Theologian
 - the Paradosis (What is passed down) and Corpus Doctrinae (Body of Doctrine)
 - Theologian of the cross vs theologian of glory
-- Inculturation
+- [[The Process of Inculturation]]
 - What is Liturgy
 - Rhythms of Life and Faith
 - Vocation
-- Function of Doctrine
+- Function of Doctrine as a common language 
+- Church Militant and the Church Triumphant
 - Beauty, space and creativity
 - Holiness of God
 - Lament and tough emotions
@@ -93,34 +93,12 @@
 	- [[Pedagogy of Space]]
 	- [[Aesthetic]]
 - [[The Tabernacle]]
+- [[The Solas of the Reformation]]
+- [[Bible Translations]]
 
 # Unhealthy Theological Views or Ideas 🤢
 
 - [[Moralistic Therapeutic Deism]]
 - [[Repristination]]
 - [[Christian Nationalism]]
-## Other Notes and Writings on Theological Topics
 
-- [[Creeping Idols]]
-- [[Core Mindsets for a Healthy Community]]
-- [[Lament Epistle Series]]
-- [[The Theology of Dirt]]
-- [[Practices of Faith]]
-- [[Confessions and Decentralization]]
-- [[Kingdom of God Preaching]]
-- [[Potential Subjects to cover in Epistles]]
-- [[The Starting Point of Theology and Cosmology]]
-- [[My Thoughts on Cosmology]]
-- [[A Grounded Cosmology and a Creaturely Anthropology]]
-- [[A Creature Among Machines]]
-- [[Foundations of Discipleship]]
-- [[The Starting Point of Theology and Cosmology]]
-- [[My Thoughts on Cosmology]]
-- [[Abstract Basis of Life]]
-- [[Embodiment of Community]]
-- [[A Categorical Mind]]
-
-
-## Notes on Books of the Bible 
-
-- [[The Book of Habakkuk]]

@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-09-17
+"Last Tended:": 2024-11-10
 ---
 #🌱Seed  #😐Neutral 
 ****
@@ -23,4 +23,5 @@
 - Have then look at music and show if it goes up or down with their hands as they sing
 - For older kids, Write out words on a white board and then tap the words as you sing to help them get to flow of the music
 
+Related Notes: [[Aspersion Service]]
 ****

@@ -1,12 +1,13 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-01
+"Last Tended:": 2024-10-28
 ---
 #🌿Sapling  #😁Strongly-Agree #📚Definition #🟢Conviction 
 ****
 > `Importance`: 100%
- 
-***The Big Idea***: Life can be thought of along two major plains of activity Coram Deo (before God) and Coram Mundo (before Man). It is only when we keep these areas of activity in their proper place that we avoid either trying to climb up to God using our Active Righteousness. While also avoiding using the Passive Righteousness we receive through Christ as an excuse to ignore our neighbor. 
+
+> [!summary] The Big Idea
+> Life can be thought of along two major plains of activity Coram Deo (before God) and Coram Mundo (before Man). It is only when we keep these areas of activity in their proper place that we avoid either trying to climb up to God using our Active Righteousness. While also avoiding using the Passive Righteousness we receive through Christ as an excuse to ignore our neighbor. 
 
 ****
 (Used June/July 2023 OS #📃Epistle)
@@ -25,4 +26,4 @@ However, that is not all there is to it. What about righteousness in our relatio
 
 When we look at life from this perspective there is indeed much to be done! Important and meaningful work to make the world and human society a more God pleasing and healthy place. Yet that kind of active righteousness is one kind and the passive righteousness I receive from Jesus is another. When we mix them up we get into all kinds of trouble. If my active righteousness can make me worthy before God or somehow fix things with God then I have no need for Jesus. Or if I sit back and relax because MY relationship with God is restored and ignore the work of sharing Jesus love and righteousness in an active way with those around me I am equally ignoring the importance of what Jesus has given me through His cross. 
 
-Therefore it is important to keep each type of righteousness where it is supposed to be. The passive righteousness given me by Jesus is the core and the foundation upon which my relationship with Jesus is restored and allows me to share that love with those around me. And then when I do share that love, I can begin to live a righteous life before all the humans around me. In this way I can be bold in affirming the value and importance of Christians acting like Christians, not because it makes us closer to God but because it is what my neighbor needs from me. If I refuse to share God’s love and live an actively righteous life, I still can freely receive the good news of the Gospel. But I have robbed those around me of the good I was placed on this earth to do. So it becomes clear that we are called to live lives of two kinds of righteousness. One of passive gracious acceptance of Jesus' love and forgiveness and one of creative and thoughtful care for those around me.**
+Therefore it is important to keep each type of righteousness where it is supposed to be. The passive righteousness given me by Jesus is the core and the foundation upon which my relationship with Jesus is restored and allows me to share that love with those around me. And then when I do share that love, I can begin to live a righteous life before all the humans around me. In this way I can be bold in affirming the value and importance of Christians acting like Christians, not because it makes us closer to God but because it is what my neighbor needs from me. If I refuse to share God’s love and live an actively righteous life, I still can freely receive the good news of the Gospel. But I have robbed those around me of the good I was placed on this earth to do. So it becomes clear that we are called to live lives of two kinds of righteousness. One of passive gracious acceptance of Jesus' love and forgiveness and one of creative and thoughtful care for those around me.

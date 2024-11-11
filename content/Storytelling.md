@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-05
+"Last Tended:": 2024-11-10
 ---
 #🌱Seed  #🙂Agree
 ****
@@ -18,3 +18,6 @@
 To me stories are one of the best ways to present new ideas and learn as I have learned in my creative preaching class in seminary
 
 Todo: type up resources from that class I have in paper form 
+
+# In conversation
+[[Story Questions and Existential Questions]]
