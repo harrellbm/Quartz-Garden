@@ -29,6 +29,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/harrellbm/Quartz-Garden",
       "Email": "brendenharrell1@gmail.com",
+      "RSS Feed": "https://harrellbm.github.io/Quartz-Garden/index.xml",
     },
   }),
 }
