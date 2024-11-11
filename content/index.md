@@ -1,6 +1,4 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-11
 title: " Base Camp 🏕️"
 aliases:
   - Home
