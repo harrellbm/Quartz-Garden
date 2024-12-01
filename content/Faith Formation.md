@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-11
+"Last Tended:": 2024-11-21
 ---
 #🌱Seed  #🙂Agree
 ****
@@ -12,6 +12,11 @@
 Related Notes: [[Bible Learning Story]]
 
 * * *
+
+# Faith Milestone Progressions
+- [Faith Milestones for Immanuel St. Charles](https://www.immanuelstcharles.org/faith-milestones/)
+- TODO: gather mile stones from OS
+- TODO: gather mile stones from resource Joel shared
 
 What is Prayer
 

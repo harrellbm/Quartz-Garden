@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-09-09
+"Last Tended:": 2024-11-19
 ---
 #🌱Seed  #🙂Agree
 ****
@@ -13,18 +13,20 @@
 > - The easiest way for me to sign into git for backing up to a private git repo is using VSCode
 > - I also find VSCode to be the easiest way to handle merge conflicts or other errors that pop up with files occasionally during backups. 
 > - That being said the git obsidian plugin is the best for day to day backups.
+> - [Fontbase](https://fontba.se/) is a nice app for being able to add fonts to your system easy that you can then use in Obsidian.
 
-
-* * *
-### Related Notes
+Related Notes:
 [[Mobile Obsidian Backup]]
-
 [[Note-Taking Methods]]
-
 [[Embed Search Results in a Note]]
-
-
-### Interesting Obsidian Plugins
+* * *
+# Plugins I am Using
+- Callout Manager 
+- Editing Toolbar
+- Git
+- Linter
+- Update time on edit
+# Interesting Obsidian Plugins
 
 [quickadd](obsidian://show-plugin?id=quickadd)
 

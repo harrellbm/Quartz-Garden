@@ -1,12 +1,13 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-11
+"Last Tended:": 2024-11-18
 ---
-#🌱Seed  #🙂Agree
+#🪴Sprout   #🙂Agree
 ****
 > `Importance`: 10%
  
-***The Big Idea***: An #📃Epistle used for OS in Jan 2023 covering a basic look at healthy Christian living.  
+> [!note]
+> An #📃Epistle used for OS in Jan 2023 covering a basic look at healthy Christian living.  
 
 ****
 

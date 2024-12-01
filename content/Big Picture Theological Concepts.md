@@ -1,8 +1,8 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-11
+"Last Tended:": 2024-11-19
 ---
-#🪴Sprout  #😁Strongly-Agree  #🌲Evergreen  #🟢Conviction 
+#🌲Evergreen  #😁Strongly-Agree  #🟢Conviction 
 ****
 >`Importance`: 98%
  

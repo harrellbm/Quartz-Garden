@@ -1,8 +1,8 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-10-15
+"Last Tended:": 2024-11-30
 ---
-#🌱Seed  #😐Neutral 
+#🌱Seed  #🙂Agree  #🟡Consideration 
 ****
 > `Importance`: 40%
  
@@ -203,3 +203,5 @@ Idea that a truly good design or plan should naturally adapt to the larger conce
 He argues that this can only be achieved with a relaxed and carefree attitude that is not obsessed with proving oneself to be the best or having a restricted plan that is unchanging.  
 
 # 12. Echos
+
+

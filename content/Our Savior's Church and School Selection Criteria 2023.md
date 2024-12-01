@@ -1,8 +1,8 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-17
+"Last Tended:": 2024-12-01
 ---
-#🍋Fruit   #😁Strongly-Agree #📊Project 
+#🍋Fruit   #😁Strongly-Agree #📊Project  #🟢Conviction 
 ****
 > `Importance`: 10%
  

@@ -1,13 +1,13 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-11
+"Last Tended:": 2024-11-18
 ---
 #🌱Seed  #🙂Agree 
 ****
 > `Importance`: 10%
  
 > [!Summary] The Big Idea
-> My thoughts on how the world works.
+> My thoughts on how the world works. Very unorganized at this point and in process.
 
 # Big Picture Perspectives
 

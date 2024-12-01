@@ -1,13 +1,15 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-08-20
+"Last Tended:": 2024-12-01
 ---
-#🌱Seed  #😐Neutral 
+#🪴Sprout  #😟Disagree  #🟡Consideration 
 ****
 > `Importance`: 10%
  
 >[!Summary] The Big Idea
->This distinction is not as helpful in practice as it seemed when I first read about it from Smith and wrote it out. The idea that liturgy is rhythm and that liturgy is doing the redeemed world right (from Marriott) are much more compelling and useful definitions of liturgy.
+>This distinction is not as helpful in practice as it seemed when I first read about it from Smith and wrote it out. 
+>
+>The idea that liturgy is rhythm and that liturgy is doing the redeemed world right (from Marriott) are much more compelling and useful definitions of liturgy.
 
 ****
 

@@ -1,12 +1,14 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-08-19
+"Last Tended:": 2024-11-18
 ---
 #🌱Seed  #🙂Agree
 ****
 > `Importance`: 50%
  
-***The Big Idea***: Being obsessed with the number of people in worship can be a very unhealthy way to measure a churches health. While it is a valid metric here are a few others that can give a different perspective.
+> [!summary] The Big Idea
+> Being obsessed with the number of people in worship can be a very unhealthy way to measure a churches health. While it is a valid metric here are a few others that can give a different perspective.
+
 ****
 
 - Percentage of congregation involved in Bible Study - From Kober, _Built on the Rock_.

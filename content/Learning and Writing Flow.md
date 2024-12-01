@@ -1,12 +1,13 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-10
+"Last Tended:": 2024-11-19
 ---
 #🌱Seed  #🙂Agree
 ****
 >`Importance`: 20%
  
-***The Big Idea***: 
+> [!summary] The Big Idea
+> The various apps I use for learning and keeping my self (kind of) organized.
 
 * * *
 - Omnivore for newsletters, subscriptions and quick stashing online content that is interesting 
@@ -14,6 +15,7 @@
 - Obsidian for notes management 
 - Typst for formal typesetting of content once complete 
 - Google docs for general docs and sharing collaboration 
+- Substack for reading different authors that put out longer form writing
 
 [[Notes from Hartung Conversation 4-12-23]]
 [[Gerhard Method of Theological Study]]

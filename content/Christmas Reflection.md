@@ -1,12 +1,13 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-17
+"Last Tended:": 2024-12-01
 ---
-#🌱Seed  #🙂Agree
+#🍋Fruit  #🙂Agree
 ****
 > `Importance`: 10%
  
-***The Big Idea***:  Used in OS #📃Epistle Dec 2022 
+> [!note]
+> Used in OS #📃Epistle Dec 2022 
 
 Ah the wonderful, busy, crazy Christmas season is here! As we think about spending time with our families and preparing for traditions. I would like to take a few moments to reflect on this time of year with you.  
 

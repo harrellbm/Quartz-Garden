@@ -1,4 +1,6 @@
 ---
+"Note Planted:": 2024-06-27
+"Last Tended:": 2024-11-30
 title: " Base Camp 🏕️"
 aliases:
   - Home
@@ -7,7 +9,7 @@ aliases:
 Hello! 👋🏻 
 My name is Brenden Harrell. I am a Husband, Father, Lutheran Pastor, and Tinkerer.
 
-You have stubbled upon an experiment of mine. I have grown increasingly dissatisfied with the exhausting, overwhelming and overstimulating digital spaces we inhabit. Content is constantly being pushed, or marketed, to us in new shiny wrappers. Why not try something different?
+You have stumbled upon an experiment of mine. I have grown increasingly dissatisfied with the exhausting, overwhelming and overstimulating digital spaces we inhabit. Content is constantly being pushed, or marketed, to us in new shiny wrappers. Why not try something different?
 
 My hope is that this site will be more like a little quiet wilderness. A place to slow down, explore, start conversations, and collaborate. That is why I have named it - *The Aspen Grove*.
 

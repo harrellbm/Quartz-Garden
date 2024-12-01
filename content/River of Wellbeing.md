@@ -1,12 +1,12 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-18
+"Last Tended:": 2024-12-01
 ---
-#🌱Seed  #😁Strongly-Agree #📚Definition 
+#🪴Sprout   #😁Strongly-Agree  #📚Definition 
 ****
 > `Importance`: 90%
  
-> [!The Big Idea]
+> [!Summary] The Big Idea
 > **The River Of Wellbeing** – The left and right side of our brain can be imagined as the two banks of a river, the *River of Wellbeing*
 
 ****

@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-10-23
-"Last Tended:": 2024-10-23
+"Last Tended:": 2024-11-19
 ---
 A little background in my training will help to lay the ground work for this brief document. The leadership books Pastor Allen has suggested like *Canoeing the Mountains,* *Leadership and Self Deception*, etc. are the leadership frameworks I was trained in over the course of my Seminary training. All of these book grapple with the reality that we live in a different world than existed even twenty years ago. We now live in a "Post-Christian" or "Post-Constantinian" world. 
 

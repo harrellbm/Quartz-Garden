@@ -1,23 +1,23 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-17
+"Last Tended:": 2024-11-18
 aliases:
   - Church Entryway
 ---
-#🌱Seed  #🙂Agree
+#🪴Sprout   #🙂Agree
 ****
 > `Importance`: 10%
  
-***The Big Idea***: 
-The entryway is a unique place within a church.  It is the place where many good mornings and farewells are exchanged.  It is the first space a visitor will see.  The traditional term for a church entryway is the Narthex.  The early church dedicated this space to those wishing to become a part of the Christian community.  The narthex is the first (and in many cases the only) space visitors were allowed to enter.  The narthex is the portal from the outside world into the slice of heaven ushered in by the word and sacrament ministry held within. 
-
-Modern psychological research has further confirmed the wisdom of the early church’s use of the narthex. Humans form first impressions rapidly. Many studies have found that it can take as little as seven seconds for first impressions to begin cementing.  In our context, that is just about as long as it takes to enter through the interior doors of our entryway.    
-
-What does a visitor see as they step through our doors?
-
-Our entryway has a unique anatomy.  As it stands now it is composed of three main areas: the initial tiled entryway, the walkway to the sanctuary, and the seating area. 
-
-All of these areas seek to fulfill a large range of functions. In doing so we have diluted the main purpose of an entryway/narthex. Rather than a place of welcoming, it currently stands as a long, nondescript, hallway.  A patchwork conglomeration of signs, pamphlets, tables, chairs and whatever else gets thrown into it from season to season. Nothing stands out. There is no unifying theme, nor does the space flow in a particular direction, or guide the eye.
+> [!summary] The Big Idea
+> The entryway is a unique place within a church.  It is the place where many good mornings and farewells are exchanged.  It is the first space a visitor will see.  The traditional term for a church entryway is the Narthex.  The early church dedicated this space to those wishing to become a part of the Christian community.  The narthex is the first (and in many cases the only) space visitors were allowed to enter.  The narthex is the portal from the outside world into the slice of heaven ushered in by the word and sacrament ministry held within. 
+>
+> Modern psychological research has further confirmed the wisdom of the early church’s use of the narthex. Humans form first impressions rapidly. Many studies have found that it can take as little as seven seconds for first impressions to begin cementing.  In our context, that is just about as long as it takes to enter through the interior doors of our entryway.    
+>
+> What does a visitor see as they step through our doors?
+>
+> Our entryway has a unique anatomy.  As it stands now it is composed of three main areas: the initial tiled entryway, the walkway to the sanctuary, and the seating area. 
+>
+> All of these areas seek to fulfill a large range of functions. In doing so we have diluted the main purpose of an entryway/narthex. Rather than a place of welcoming, it currently stands as a long, nondescript, hallway.  A patchwork conglomeration of signs, pamphlets, tables, chairs and whatever else gets thrown into it from season to season. Nothing stands out. There is no unifying theme, nor does the space flow in a particular direction, or guide the eye.
 
 ****
 
@@ -69,8 +69,8 @@ The entryway seems to have three main functions at this point.  The first is as
 As described in the introduction to this proposal, the primary function of our entryway should be to welcome visitors.  It is the place of first impression as well as the initial space where connections can begin to form.   
 
 In addition to this, gathering, sharing information, and creating atmosphere are secondary functions of value.  
-## [[Aesthetic]] 
-Thinking about [[Aesthetic]]  is also important.
+## Aesthetic
+![[Aesthetic#A Christian Aesthetic]] 
 ### What does the space look like now?
 
 Beginning with colors, our entryway has: reds, pink, black, dark grey, light grey, green, blue, purple, various woods, and cream stone. 

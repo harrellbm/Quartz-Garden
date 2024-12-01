@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-09-17
+"Last Tended:": 2024-12-01
 ---
 #🌿Sapling  #🙂Agree  #🌲Evergreen 
 ****
@@ -14,10 +14,9 @@
 These are pieces of information I will attach to the beginning of each note that helps give clearer context to how I view the ideas and information contained. 
 
 1. **Note Dates**:
-	>Important dates to help frame the note’s life cycle:
-	>- Date a note was planted. 
-	>- Date note was last tended 
-
+	Important dates to help frame the note’s life cycle:
+	- Date a note was planted. 
+	- Date note was last tended 
 >[!Note] 
 >Both dates are auto added/updated using the "Update time on edit" community plugin.
 2. **Epistemic Disclosure**:
@@ -63,7 +62,7 @@ This is an example of the current metadata I have composed to start each note. F
 ****
  >`Importance`: 10%
  
-***The Big Idea***: 
-A new interesting idea.
+>[!Summary] The Big Idea
+> A new interesting idea.
 
 * * *

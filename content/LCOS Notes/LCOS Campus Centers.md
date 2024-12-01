@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-10
+"Last Tended:": 2024-11-20
 ---
 #🌱Seed  #🙂Agree 
 ****
@@ -19,6 +19,7 @@ Basic concepts of centers and wholeness from:
 - [[Notes on the Nature of Order]]
 ****
 # Centers
+- todo add a current use and historical use for each room in each building
 ## Physical Centers
 - [[Indoor Space]]
 	- [[Building One]]

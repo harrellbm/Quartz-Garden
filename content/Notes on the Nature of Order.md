@@ -1,12 +1,12 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-10-03
+"Last Tended:": 2024-12-01
 ---
-#🌱Seed  #🙂Agree 
+#🪴Sprout  #🙂Agree  #🟡Consideration 
 ****
 > `Importance`: 30%
  
-> [!The Big Idea]
+> [!Summary] The Big Idea
 > [[Christopher Alexander (Architect, Author)]] lays out a huge perspective on how the built environment interacts with the human wellbeing and functioning of society.  This also bleeds into claims on cosmology and the order of the universe and humanity.
 
 Website that has overviews of the Books:
@@ -218,6 +218,25 @@ This is the basic list:
 
 Here are specific notes on each centers relationship: 
 [[The Ways Centers Help Each Other Have More Life]]
- 
+
+
+> [!Quote]
+> If we are to use the theory of centers — and the concept of life — as the basis of all architecture, it would be reassuring to know that wholeness, together with the properties which bring centers to life, is a necessary feature of material reality, not merely a psychological aspect of things which arises during perception of works of art.
+> - Nature of Order, Bk. 1, p. 244
+
+
+> [!Quote] 
+> In general, the "strength" of any center — its degree of life — is a measure of its organization. One might measure this by its lifetime as a structure, or by its ability to resist disruption, or by its influence on the wholes around it. By almost any of these measures, the stronger a center is, the more powerful its impact on other nearby centers,
+> - Nature of Order, bk 1., p. 246
+
+
 
 ****
+# Book Two: The Process of Creating Life 
+
+[[Structure Preserving Transformation or Smooth Change]]
+
+[[Structure Preserving Transformations Nature of Order Book 2 Chapter 2.pdf]]
+
+[[System of Patterns Nature of Order Book 2 Chapter 11.pdf]]
+

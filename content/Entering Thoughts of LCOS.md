@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2024-08-20
+"Last Tended:": 2024-11-18
 ---
 #🌱Seed  #🙂Agree 
 ****
@@ -10,11 +10,7 @@ Happy October! 
 
 With the smell of cardboard and packing tape fresh in my mind, I am happy to be writing you as your soon to be installed Pastor. 
 
-![[The Two Commissions]]
-
-  
-
-
+[[The Two Commissions]]
 
 Try to provide some personal and communicable structure to an otherwise chaotic time. 
 
