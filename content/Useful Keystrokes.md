@@ -1,10 +1,7 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-10-17
-aliases:
-  - Hotkeys
-  - Keyboard Shortcuts
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-09","aliases":["Hotkeys","Keyboard Shortcuts"],"publish":true,"PassFrontmatter":true}
 ---
+
 #🌱Seed  #😐Neutral 
 ****
 > `Importance`: 10%
@@ -28,3 +25,7 @@ aliases:
 `Ctrl + F` - Open search bar for current document.
 
 `WindowKey + .` - Open the system's emoji keyboard
+
+`Shift + Tab` - Move tab to the left. Basically "undo tab"
+
+`Ctrl + B` - Toggle bold
