@@ -1,19 +1,20 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-12-01
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-10","publish":true,"PassFrontmatter":true}
+---
+
 ---
 #🪴Sprout  #🙂Agree  #🟡Consideration 
 ****
 > `Importance`: 30%
  
 > [!Summary] The Big Idea
-> [[Christopher Alexander (Architect, Author)]] lays out a huge perspective on how the built environment interacts with the human wellbeing and functioning of society.  This also bleeds into claims on cosmology and the order of the universe and humanity.
+> [[Christopher Alexander (Architect, Author)\|Christopher Alexander (Architect, Author)]] lays out a huge perspective on how the built environment interacts with the human wellbeing and functioning of society.  This also bleeds into claims on [[Cosmology\|cosmology]] and the order of the universe and humanity.
 
 Website that has overviews of the Books:
 [Nature of Order Website](http://www.natureoforder.com/overview.htm)
 
 > [!NOTE] idea for research 
-> it seems to me there is great congruence between the ideas of quality of life and wholeness described by Alexander and the biblical principles of shalom and righteousness. It would be interesting to line them up next to each other and see just how similar and different they are. Because if you could sub in the idea of shalom in describing the process of creating living centers that would be a much more profound and far reaching understanding of our corom mundo work than the typical ministering to felt needs or providing public services. Rather all work could be seen as pushing toward peace and righteousness in a way that one day when Jesus returns will not be separated into temporal and spiritual or before man or before God when Jesus returns. But for now we just get to see the starting of there overlap
+> it seems to me there is great congruence between the ideas of quality of life and wholeness described by Alexander and the biblical principles of shalom and righteousness. It would be interesting to line them up next to each other and see just how similar and different they are. Because if you could sub in the idea of shalom in describing the process of creating living centers that would be a much more profound and far reaching understanding of our [[Corom Mundo\|corom mundo]] work than the typical ministering to felt needs or providing public services. Rather all work could be seen as pushing toward peace and righteousness in a way that one day when Jesus returns will not be separated into temporal and spiritual or before man or before God when Jesus returns. But for now we just get to see the starting of there overlap
 
 Another set of notes on the Nature of Order Books: [Stefan’s Notes Key Concepts](http://nature-of-order.stefan-lesser.com/key-concepts)
 ***
@@ -32,7 +33,7 @@ Major argument is that Descartes and other scientific thought has basically made
 
 What he argues is that this basically creates a completely chaotic world where everyone has their own value arguments and just kinda chooses a random value to work from. This creates not way to actually have any coherent community or progress together because value is all about personal opinion rather than what is actually good or whole. 
 
-This applies to [[architecture]] with the real lived environment of our world just falling  into haphazard chaos with no way to have a conversation that finds real common ground.
+This applies to [[Architecture\|architecture]] with the real lived environment of our world just falling  into haphazard chaos with no way to have a conversation that finds real common ground.
 
 Lays out a new way of understanding science and scientific inquiry that includes being able to make truth claims about the value of things. The wholeness, life and harmony of objects are things that can be understood and investigated.
 
@@ -47,7 +48,7 @@ Defines life as not an organic living organism but that everything has some degr
 So I like it more than I thought it’s about the human feeling of life in things that we have a certain emotional resonance with things like waves that is not present in just any form of water. Not anything to do with an animistic sense of things actually being biologically alive but our human reaction to things 
 
 A way to talk about this is felt life:
-[[The Quality of Life in Environments and Objects]]
+[[The Quality of Life in Environments and Objects\|The Quality of Life in Environments and Objects]]
 
 This quality is put forward as an objective empirical quality that is a structure within space itself. It is in the organization and arrangement of matter that gives something more or less life in it. 
 
@@ -84,7 +85,7 @@ Argues that the strength of various entities that make up a whole can actually b
 > - Nature of order, bk 1., p. 84
 
 ## The Whole Made Up of Centers 
-This leads to a different way of conceptualizing wholeness that can be called:  [[Center Composed Wholeness]]
+This leads to a different way of conceptualizing wholeness that can be called:  [[Center Composed Wholeness\|Center Composed Wholeness]]
 
 > [!Quote] What is a Center?
 > Each one of these entities has, as its defining mark, the fact that it appears to exist as a local center within a larger whole. It is a phenomenon of centeredness in space. 
@@ -95,7 +96,7 @@ This leads to a different way of conceptualizing wholeness that can be called:  
 > - Nature of Order, bk 1., p. 84
 
 More expanded notes on centers: 
-[[Thinking of Spatial Relationships as Centers]] 
+[[Thinking of Spatial Relationships as Centers\|Thinking of Spatial Relationships as Centers]] 
 
 
 > [!Quote] What is Wholeness?
@@ -217,11 +218,11 @@ This is the basic list:
 > 15. Not-Separateness
 
 Here are specific notes on each centers relationship: 
-[[The Ways Centers Help Each Other Have More Life]]
+[[The Ways Centers Help Each Other Have More Life\|The Ways Centers Help Each Other Have More Life]]
 
 
 > [!Quote]
-> If we are to use the theory of centers — and the concept of life — as the basis of all architecture, it would be reassuring to know that wholeness, together with the properties which bring centers to life, is a necessary feature of material reality, not merely a psychological aspect of things which arises during perception of works of art.
+> If we are to use the theory of centers — and the concept of life — as the basis of all [[Architecture\|architecture]], it would be reassuring to know that wholeness, together with the properties which bring centers to life, is a necessary feature of material reality, not merely a psychological aspect of things which arises during perception of works of art.
 > - Nature of Order, Bk. 1, p. 244
 
 
@@ -234,7 +235,7 @@ Here are specific notes on each centers relationship:
 ****
 # Book Two: The Process of Creating Life 
 
-[[Structure Preserving Transformation or Smooth Change]]
+[[Structure Preserving Transformation or Smooth Change or Unfolding\|Structure Preserving Transformation or Smooth Change or Unfolding]]
 
 [[Structure Preserving Transformations Nature of Order Book 2 Chapter 2.pdf]]
 
