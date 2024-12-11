@@ -1,18 +1,21 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-19
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-11","publish":true,"PassFrontmatter":true}
+---
+
 ---
 #🌱Seed  #🙂Agree
 ****
 >`Importance`: 50%
  
-***The Big Idea***: the space around us teaches and pushes us toward a particular way of life and relating with one another.
+> [!summary] The Big Idea
+> The space around us teaches and pushes us toward a particular way of life and relating with one another.
 
 Related Notes: 
-- [[Architecture]]
-- [[Design Principles]] 
-- [[Sacred Space]]
-- [[Random Notes on Sacred Space]]
+- [[Architecture\|Architecture]]
+- [[Design Principles\|Design Principles]] 
+- [[Sacred Space\|Sacred Space]]
+- [[Random Notes on Sacred Space\|Random Notes on Sacred Space]]
+- [[Christopher Alexander (Architect, Author)\|Christopher Alexander (Architect, Author)]]
 
 * * *
 Todo: line sacred space essay 

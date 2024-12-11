@@ -1,7 +1,7 @@
 ---
-"Note Planted:": 2024-06-28
-"Last Tended:": 2024-10-16
+{"Note Planted:":"2024-06-28","Last Tended:":"2024-12-11","publish":true,"PassFrontmatter":true}
 ---
+
 #🌿Sapling   #🙂Agree   #📊Project 
 ****
 > `Importance`: 10%
@@ -60,7 +60,7 @@ Code: Amatic SC
 - [ ] post all epistles 
 - [ ] post all formal essays
 - [ ] edit the footer to be clearer and simpler invite for people to reach out about an idea 
-- [ ]  change [[Index|home]] to base camp on breadcrumbs
+- [ ]  change [[Index\|home]] to base camp on breadcrumbs
 - [ ]  figure out formatting on tags page. i.e. remove note tags under the listing
 - [ ] Style comments box to match the rest of the page in both light and dark mode
 - [ ] Figure out analytics as well

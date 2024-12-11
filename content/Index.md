@@ -1,5 +1,5 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-10","title":"Base Camp 🏕️","aliases":["Home","index"],"publish":true,"PassFrontmatter":true}
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-11","title":"Base Camp 🏕️","aliases":["Home","index"],"publish":true,"PassFrontmatter":true}
 ---
 
 Hello! 👋🏻 
@@ -13,7 +13,7 @@ I have grown increasingly dissatisfied with the exhausting, overwhelming and ove
 My hope is that this site will be more like a little quiet wilderness. A place to slow down, explore, start conversations, and collaborate. That is why I have named it - *The Aspen Grove*.
 
 > [!hint]
-> If you like getting straight to the point. You can skip all my babble and see how this site works here: [[Index# How to Use this Garden\|# How to Use this Garden]]
+> If you like getting straight to the point. You can skip all my babble and see how this site works here: [[Index#How to Use this Garden\|Index#How to Use this Garden]]
 # The Calm after the Storm 
 *(Or the story behind the name)*
 

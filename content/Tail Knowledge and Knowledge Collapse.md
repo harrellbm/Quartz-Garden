@@ -1,12 +1,13 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-12-01
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-11","publish":true,"PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
 ****
 > `Importance`: 30%
  
-***The Big Idea***: The idea that the accessibility and accessing of knowledge can be roughly quantified using the bell curve of a normal distribution. What this means is that as a society the more accessed a piece of knowledge is the easier it is to access again. This puts the most accessed knowledge in the body of the curve leaving the "tails" of the curve less accessed and harder to find in the future. The main observation from this idea is that knowledge that is "in the tails" is in danger of being lost or forgotten and could lead to a cycle of narrowing societal knowledge otherwise know as knowledge collapse.
+> [!summary] The Big Idea
+> The idea that the accessibility and accessing of knowledge can be roughly quantified using the bell curve of a normal distribution. What this means is that as a society the more accessed a piece of knowledge is the easier it is to access again. This puts the most accessed knowledge in the body of the curve leaving the "tails" of the curve less accessed and harder to find in the future. The main observation from this idea is that knowledge that is "in the tails" is in danger of being lost or forgotten and could lead to a cycle of narrowing societal knowledge otherwise know as knowledge collapse.
 
 ****
 

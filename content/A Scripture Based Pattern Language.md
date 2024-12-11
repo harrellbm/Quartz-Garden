@@ -1,13 +1,14 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-19
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-11","publish":true,"PassFrontmatter":true}
+---
+
 ---
 #🪴Sprout  #🙂Agree  #🟡Consideration  
 ****
 > `Importance`: 10%
  
 >[!Summary] The Big Idea
-> The idea of a pattern language was originally laid out by [[Christopher Alexander (Architect, Author)]]. He developed this idea deeply over the course of his career for the use of constructing building and other physical spaces. I believe that it can also be very useful for forming a clear shared picture of life together as a congregation within a local community. 
+> The idea of a pattern language was originally laid out by [[Christopher Alexander (Architect, Author)\|Christopher Alexander (Architect, Author)]]. He developed this idea deeply over the course of his career for the use of constructing building and other physical spaces. I believe that it can also be very useful for forming a clear shared picture of life together as a congregation within a local community. 
 
 
 > [!Quote] 
@@ -21,11 +22,11 @@ Here are some examples of Pattern languages for various Projects:
 	- [[Site Analysis and Project Language for the SantAnna Garden.pdf]]
 	- [[An Office Pattern Language.pdf]]
 *** 
-I think the reason we often have a hard time applying scriptural directives, commands and or methods is that we have gotten caught in western mechanistic thinking [[A Holistic versus Mechanistic Perspective]].
+I think the reason we often have a hard time applying scriptural directives, commands and or methods is that we have gotten caught in western mechanistic thinking [[A Holistic versus Mechanistic Perspective\|A Holistic versus Mechanistic Perspective]].
 
 A pattern language is a tool to try and bridge us back to thinking and applying things according to patterns like our ancestors naturally did. Some example is Luther’s treatment of the Ten Commandments expanding each commandments to logical and ordinary applications. Or Paul’s arguments from nature that he assumes are self evident.
 
-Alexander worked from a concept he defined as [[Deep Feeling]].  This is not normal touchy feely emotion but is a sense of how a space works on or affects the person who encounters it. This puts the direction of causation in the external environment moving to the person. This is why he argues deep feeling is an objective realty rather than the inside out idea of emotions. He conceptualized this human reaction to a space’s “life” as a kind of objective steady reaction across cultures and individuals. See: [[The Quality of Life in Environments and Objects]]. Which I think can be helpful as far as it goes but as a community of faith our primary grounding is the word of God.
+Alexander worked from a concept he defined as [[Deep Feeling\|Deep Feeling]].  This is not normal touchy feely emotion but is a sense of how a space works on or affects the person who encounters it. This puts the direction of causation in the external environment moving to the person. This is why he argues deep feeling is an objective realty rather than the inside out idea of emotions. He conceptualized this human reaction to a space’s “life” as a kind of objective steady reaction across cultures and individuals. See: [[The Quality of Life in Environments and Objects\|The Quality of Life in Environments and Objects]]. Which I think can be helpful as far as it goes but as a community of faith our primary grounding is the word of God.
 
 Therefore while a pattern language for use in a congregation can take into account deep feeling, wholeness and the needs of individuals as Alexander defines them. They should not be the primary foundation.
 
@@ -35,7 +36,7 @@ From that foundation more specific and smaller patterns can be developed that de
 
 This follows the principle of the “primary process” that Alexander defined as differentiation which basically means that a good development or “unfolding” process should start from the big picture whole and then slowly differentiate and strengthen smaller wholes with each step. An example is how a human grows from a single cell but then grows by splitting or differentiating new cells.
 
-This whole idea of a pattern language needs to be put squarely where it belongs in the [[Corom Mundo]] realm of relating with other humans and the world. It does not speak about our salvation relationship with Jesus.
+This whole idea of a pattern language needs to be put squarely where it belongs in the [[Corom Mundo\|Corom Mundo]] realm of relating with other humans and the world. It does not speak about our salvation relationship with Jesus.
 To clarify it is not our way to Heaven but a clear description of how we want our life together to look and how we stay focused on the primary mission of sharing the gospel. 
 
 Another way to think about the function of the pattern language is that every decision we make to move something forward or choose between options is driven by some kind of implicit pattern that is being worked toward. A big picture lifecycle pattern is the “work hard and then retire at ease.” If someone is working toward embodying this pattern they will make very different decisions than someone who is not. A pattern language helps make this kind of decision making intentional and specific. 

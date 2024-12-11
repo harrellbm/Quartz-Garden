@@ -1,4 +1,8 @@
 ---
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-11","publish":true,"PassFrontmatter":true}
+---
+
+---
 "Note Planted:": 2024-06-27
 "Last Tended:": 2024-09-17
 ---
@@ -15,6 +19,6 @@ In the instance of curriculum so often the packaging is either unusable within a
 
 Not only that but packaging immediately lends itself to the temptation to make money or market it like any other product off the internet. This approach quickly leaves the realm of sharing good ideas and practices in good faith to being just one more get rich quick scheme or fame booster. 
 
-The counter balance to this would be: [[Collaborative Distribution]].
+The counter balance to this would be: [[Collaborative Distribution\|Collaborative Distribution]].
 
 ****
