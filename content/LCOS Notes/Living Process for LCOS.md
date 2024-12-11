@@ -1,20 +1,21 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-20
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-11","publish":true,"PassFrontmatter":true}
 ---
- #🌱Seed  #🙂Agree  #🌳Thought-Tree 
+
+---
+#🌱Seed  #🙂Agree  #🌳Thought-Tree 
 ****
 > `Importance`: 10%
  
 >[!Summary] The Big Idea
-> Note Tree for various aspects as they develop [[LCOS Campus Centers]]
-> first part of the process undertaken: [[Opening LCOS Visioning Process]]
+> Note Tree for various aspects as they develop [[LCOS Notes/LCOS Campus Centers\|LCOS Campus Centers]]
+> first part of the process undertaken: [[LCOS Notes/Opening LCOS Visioning Process\|Opening LCOS Visioning Process]]
 
 Related Notes: 
-[[LCOS Campus Centers]]
-[[Notes on the Nature of Order]]
-[[Thinking of Spatial Relationships as Centers]]
-[[LCOS Pastoral Practices and Perspective]]
+[[LCOS Notes/LCOS Campus Centers\|LCOS Campus Centers]]
+[[Notes on the Nature of Order\|Notes on the Nature of Order]]
+[[Thinking of Spatial Relationships as Centers\|Thinking of Spatial Relationships as Centers]]
+[[LCOS Notes/LCOS Pastoral Practices and Perspective\|LCOS Pastoral Practices and Perspective]]
 ****
 
 > [!quote] John 6:32-33
@@ -36,9 +37,9 @@ This document seeks to develop and enact a cyclical living process that can be u
 
 The elements of this effort are twofold:
 1. The laying out and initiation of a living process to guide the rhythm of our life together as a whole.
-2. The construction of a pattern language that will help us to continually ask and answer the question "Is this supporting or hurting our mission?" with tangible responses. [[A Scripture Based Pattern Language]]
+2. The construction of a pattern language that will help us to continually ask and answer the question "Is this supporting or hurting our mission?" with tangible responses. [[A Scripture Based Pattern Language\|A Scripture Based Pattern Language]]
 
-Background reasons for using this approach can be found in this document: [[Mission and Visioning Potholes]]
+Background reasons for using this approach can be found in this document: [[Mission and Visioning Potholes\|Mission and Visioning Potholes]]
 # A possible integration of my thoughts on rhythm with the idea of centers 
 
 Rhythms are the basic way of seeing the world 
@@ -51,11 +52,15 @@ Creation account
 - Day two is the creation of a spacial reality 
 - Then other days flesh this out with land sea and animals 
 - humans are spatial and time bound creatures in line with the rest of the creation 
+Presence or God 
+- spatially in temple starting at garden of Eden 
+- time wise sabbath starting at the end of creation 
+Centers and rhythms can then be thought of as was to reflect God and his presence some thing better reflect than others and some totally miss the mark 
 
 ****
 # Process Flow 
 - Word of God as Narrative and unfiltered  Pattern source 
-- We also have the “law on our heart” which correlates the Alexander’s idea of [[Deep Feeling]]. We all have an inherent sense of if something is rightly ordered or not we just sometimes ignore it or allow our minds to warp it. It is the good or bad order of the world around us actually effecting us viserally. Not our emotional response to things 
+- We also have the “law on our heart” which correlates the Alexander’s idea of [[Deep Feeling\|Deep Feeling]]. We all have an inherent sense of if something is rightly ordered or not we just sometimes ignore it or allow our minds to warp it. It is the good or bad order of the world around us actually effecting us viserally. Not our emotional response to things 
 - Doctrine as regularized grammar 
 	- This is more abstract and has to do with what we believe 
 	- Think doctrine that God hears and answers prayer 
@@ -67,7 +72,28 @@ Creation account
 	- Form can be embodied in the shape of a physical center or a Chronemic rhythm.  
 	- For example a heart beat is based on both the physical make up of the heart that makes it possible as well as the rhythmic employment of each chamber
 # Living Process
+Basically the idea that we want to facilitate a paradigm shift from mechanistic mentality of being after the right structure or mechanism but rather we are after the right pattern or wholeness 
 
+Changing the way we think of our work and future not as plans and goals 
+
+But as giving thanks for what we are and acting to bring to life the patterns we value 
+
+We are after to good order of the world and our lives accepting to the will of God 
+
+Not good order as defined by the world and culture 
+
+Or even the good order of the past only 
+
+But the good order of God’s will as best as we can understand and enact his patterns in the world around us 
+
+The work of the church as an unfolding whole 
+
+Mechanistic cosmology as the Aristotle of our day. Go look up Luther on Aristotle in Heidelberg dispute 
+
+
+Get opening discusión from unfolding whole 
+
+Also get mechanistic discussion from phenomena of life 
 ## Outline
 1. What is going well now?
 	1. What keeps you at LCOS?
@@ -119,9 +145,110 @@ Creation account
 - Form language for specific meaningful forms and geometries 
 - Review and discussion of demographics information
 - Wardley Map - [talk about Wardley Map](https://www.youtube.com/watch?v=2IW9L1uNMCs)
-- [[Life of an Environment Interview Questions]]
-- [[Relationship Check]]
-- [[Story Questions and Existential Questions]]
+- [[Life of an Environment Interview Questions\|Life of an Environment Interview Questions]]
+- [[Relationship Check\|Relationship Check]]
+- [[Story Questions and Existential Questions\|Story Questions and Existential Questions]]
 # Pattern Language 
 
-![[A Scripture Based Pattern Language]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/A-Scripture-Based-Pattern-Language" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+---
+#🪴Sprout  #🙂Agree  #🟡Consideration  
+****
+> `Importance`: 10%
+ 
+>[!Summary] The Big Idea
+> The idea of a pattern language was originally laid out by [[Christopher Alexander (Architect, Author)\|Christopher Alexander (Architect, Author)]]. He developed this idea deeply over the course of his career for the use of constructing building and other physical spaces. I believe that it can also be very useful for forming a clear shared picture of life together as a congregation within a local community. 
+
+
+> [!Quote] 
+> If you can’t draw a picture of it, it isn’t a pattern. 
+> - Christopher Alexander
+
+Here are some examples of Pattern languages for various Projects:
+- Composed by Alexander:
+	- [[Pattern Language for the New Eishin School.pdf]]
+- Composed by Students:
+	- [[Site Analysis and Project Language for the SantAnna Garden.pdf]]
+	- [[An Office Pattern Language.pdf]]
+*** 
+I think the reason we often have a hard time applying scriptural directives, commands and or methods is that we have gotten caught in western mechanistic thinking [[A Holistic versus Mechanistic Perspective\|A Holistic versus Mechanistic Perspective]].
+
+A pattern language is a tool to try and bridge us back to thinking and applying things according to patterns like our ancestors naturally did. Some example is Luther’s treatment of the Ten Commandments expanding each commandments to logical and ordinary applications. Or Paul’s arguments from nature that he assumes are self evident.
+
+Alexander worked from a concept he defined as [[Deep Feeling\|Deep Feeling]].  This is not normal touchy feely emotion but is a sense of how a space works on or affects the person who encounters it. This puts the direction of causation in the external environment moving to the person. This is why he argues deep feeling is an objective realty rather than the inside out idea of emotions. He conceptualized this human reaction to a space’s “life” as a kind of objective steady reaction across cultures and individuals. See: [[The Quality of Life in Environments and Objects\|The Quality of Life in Environments and Objects]]. Which I think can be helpful as far as it goes but as a community of faith our primary grounding is the word of God.
+
+Therefore while a pattern language for use in a congregation can take into account deep feeling, wholeness and the needs of individuals as Alexander defines them. They should not be the primary foundation.
+
+Therefore the construction of a faith based pattern language should start with Scripture. Patterns can then be drawn from areas that are clear with often repeated concepts for living and relating to others being given more weight than those that do not occur as often. 
+
+From that foundation more specific and smaller patterns can be developed that derive from these scriptural patterns but take into account the specifics of a community’s needs, culture, opportunities, etc. to guide a wholistic approach of deep feeling and good order. This secondary level allows for the needs and feelings of the actual community members to be integrated into the pattern language. While also remaining grounded in Scripture. 
+
+This follows the principle of the “primary process” that Alexander defined as differentiation which basically means that a good development or “unfolding” process should start from the big picture whole and then slowly differentiate and strengthen smaller wholes with each step. An example is how a human grows from a single cell but then grows by splitting or differentiating new cells.
+
+This whole idea of a pattern language needs to be put squarely where it belongs in the [[Corom Mundo\|Corom Mundo]] realm of relating with other humans and the world. It does not speak about our salvation relationship with Jesus.
+To clarify it is not our way to Heaven but a clear description of how we want our life together to look and how we stay focused on the primary mission of sharing the gospel. 
+
+Another way to think about the function of the pattern language is that every decision we make to move something forward or choose between options is driven by some kind of implicit pattern that is being worked toward. A big picture lifecycle pattern is the “work hard and then retire at ease.” If someone is working toward embodying this pattern they will make very different decisions than someone who is not. A pattern language helps make this kind of decision making intentional and specific. 
+
+Also it helps bridge our theology and doctrine to the real world needs and feelings of people in a practical way. 
+
+## Structures to Start From
+
+Use two commissions as basic identification of mission toward the created world and gospel mission 
+
+From Gospel DNA by Michael Newman
+- A deep and passionate love and care for **People**.
+- **Multiplication** of love, followers, and overall focus on spreading the Gospel.
+- Commitment to walking humbly in the **Truth** of Scripture.
+- Ability to be **Adaptable** and continually learning and growing.
+- Willingness to Self-Sacrifice for the upbuilding of the body of Christ and our witness to the world. 
+
+Table of duties maybe another option take things in a more vocational direction or the confessional documents 
+Use two commissions as basic identification of mission toward the created world and gospel mission 
+
+The use Bonhoeffer's Chapter of Life Together that Talks about Ministry. This is from the perspective of the Priesthood of all Believers and not necessarily from the perspective of the Pastoral office.  
+- The Ministry of Holding Ones Tongue - Life Together, p. 91 
+- The Ministry of Meekness - Life Together, p. 94
+- The Ministry of Listening - Life Together, p. 97
+- The Ministry of Helpfulness - Life Together, p. 99
+- The Ministry of Bearing - Life Together, p. 101
+- The Ministry of Proclaiming - Life Together, p. 103
+- The Ministry of Authority - Life Together, p. 108
+
+# Levels of Community Scale
+The broad levels of scale from which to approach different conversations about the physical community surrounding and forming LCOS. 
+## Level 0: California Central Coast
+### Level 1: Larger Santa Maria Area
+#### Level 2: Orcutt Community Proper
+##### Level 3: Immediate neighborhoods Surrounding LCOS
+###### Level 4: Church and Preschool Communities
+
+# Levels of Scale for God's Church
+The broad levels of scale from which to approach different conversations about the Fellowship of Christians surrounding and forming LCOS. 
+## Level 0: The Whole Church throughout Time and Space
+### Level 1: The Whole Church across the World   Today
+#### Level 2: Those Believers we are in Direct Fellowship with because of Agreement in Doctrine and Practice
+##### Level 3: Those Believers we meet and interact with Personally from Our surrounding area and Community connections
+###### Level 4: Our direct Church Family at LCOS
+
+Interview or conversation with people
+What are things you feel like your board or group has to do?
+
+What are things your board or group does well to support our mission?
+
+What are things your board or group does that do not further our mission? Especially things that have been "drifted" into.
+
+What are things you want to see your board or group do in the future to grow and further our mission? 
+
+-  What keeps you at LCOS?
+	- The warm and supporting people
+	- The willingness of people to help out
+	- 
+
+</div></div>
+
