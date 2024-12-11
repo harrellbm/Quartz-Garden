@@ -1,7 +1,7 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-09-17
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-11","publish":true,"PassFrontmatter":true}
 ---
+
 #🌿Sapling #🙂Agree
 ****
 >`Importance`: 10%
@@ -11,9 +11,9 @@
 
 * * *
 ### Related Notes 
-- [[Stream of Consciousness on AI, Technostress, and Faith]]]
-- [[Ritual Technology]]
-- [[Metaphor of the Stream vs the Garden]]
+- [[Stream of Consciousness on AI, Technostress, and Faith\|Stream of Consciousness on AI, Technostress, and Faith]]
+- [[Ritual Technology\|Ritual Technology]]
+- [[Metaphor of the Stream vs the Garden\|Metaphor of the Stream vs the Garden]]
 
 
 All tech sells based off of a narrative 

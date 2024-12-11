@@ -1,10 +1,11 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-30
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-11","publish":true,"PassFrontmatter":true}
+---
+
 ---
 #🪴Sprout   #😁Strongly-Agree  
 ****
-> `Importance`: 10%
+> `Importance`: 40%
  
 >[!Summary] The Big Idea
 >Sometime we can react to new technology or tools in two unhelpful ways:
@@ -27,4 +28,9 @@ In order to healthily engage with, learn and employ technology, I have found a f
 	- For example, think of trying to use a point of sales system made for a business to collect church offerings. They are similar but do not solve the same fundament problems. 
 
 ****
+Helpful Articles:
 [Article on a Dude’s attempt to deGoogle his life](https://www.christianpacaud.com/notes/degooglisation.html)
+
+[Article on the development of Religion of Technology and how it’s left a void in society today](https://open.substack.com/pub/theconvivialsociety/p/secularization-comes-for-the-religion?r=3is6vw&utm_medium=ios)
+
+[Article on How Technology has lead to the loss of the Night Sky](https://open.substack.com/pub/theconvivialsociety/p/what-did-we-lose-when-we-lost-the?r=3is6vw&utm_medium=ios)
