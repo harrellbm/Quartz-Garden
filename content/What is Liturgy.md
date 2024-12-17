@@ -15,16 +15,29 @@ Related Notes:
 [[Introduction to Thematic Liturgies Project\|Introduction to Thematic Liturgies Project]]
 [[Thoughts on Liturgy and Rhythm\|Thoughts on Liturgy and Rhythm]]
 ***
-The book or concord is clear that the idea of Liturgy falls within the category of human traditions, rites and ceremonies. Being written in a context where church rites had become more like magic incantations (the phrase "Hocus Pocus" literally coming from the words of institution in the latin mass) it makes sense that the reformers had to reorient the church to the true source of our salvation and faith. Liturgy is not what saves people. **Only faith in the saving work of Jesus saves people!**
+# Liturgy as Human Tradition
+The book or concord is clear that the idea of Liturgy falls within the category of human traditions, rites and ceremonies. Being written in a context where church rites had become more like magic incantations (the phrase "Hocus Pocus" literally coming from the words of institution in the latin mass) it makes sense that the reformers had to reorient the church to the true source of our salvation and faith. Liturgy is not what saves people. **Only faith in the saving work of Jesus saves people!** What follows is a helpful distinction to keep this balanced.
 
-A helpful distinction to keep this balanced is [[Ritual Efficacy versus Sacramental Efficacy\|Ritual Efficacy versus Sacramental Efficacy]]  
 
-In addition, the writers of the Book of Concord outline a number of valid purposes for observing liturgical traditions:
-- Restraining the Flesh.
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Ritual-Efficacy-versus-Sacramental-Efficacy#Ritual-Efficacy-versus-Sacramental-Efficacy" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## Ritual Efficacy versus Sacramental Efficacy
+
+Keeping in mind the tension of tradition and translation, we come to the need to differentiate between ritual efficacy and sacramental efficacy.[^5]   On the one hand, the word of God is always efficacious.  For example, a sermon can be given in the most monotone and dull method, written in the most cliche and boring style, yet it is still God’s living and active word at work among His people.  The word of God will do what the world of God will do by the power of the Holy Spirit apart from, and often in spite of, our human efforts.  The deep reality of the words sacramental efficacy is somewhat at odds, however, with our experience of ritual efficacy.  The sermon described above will be met with eye rolls and sighs as even willing listeners struggle to not fall asleep.  This same idea can be fleshed out in many other examples that all lead to the need to evaluate and work toward ritually effective forms of liturgy.  
+
+To state this distinction another way, all liturgy grounded in the true word of God and the right celebration of God’s gifts (sacramental and other) are without question efficacious (sacramental efficacy).  It makes no difference how engaging, interesting or personally compelling an individual finds it.  Liturgy delivers the goods of God’s promises with 100% assurance.  Ritual efficacy, on the other hand, deals in our human experience of a particular liturgical form’s ability to engage us.  It is no secret that almost every person finds different styles of worship music more or less effective for their personal engagement in meaningful worship.  Not only this but fields such as neuroscience point out the benefits of multisensory engagement for memory and retention of material in sermons and bible reading.  By maintaining the distinction between sacramental efficacy and ritual efficacy we can critically engage our practice of liturgy affirming the value and place for all faithful forms, while also acknowledging the nuances of human engagement.       
+
+</div></div>
+  
+
+The writers of the Book of Concord also outlined a number of valid purposes for observing liturgical traditions:
+- Restraining the flesh.
 - Disciplining nonliterate people.
-- Good order of the church community.
-- Help people focus on the Holy things of God
-- Help instruct people about how to live and what to do when
+- Good order of the Church community.
+- Help people focus on the Holy things of God.
+- Help instruct people about how to live and what to do when.
 
 > [!quote] Book of Concord, Augsburg Confession, Section 15, p. 226
 >  Traditions have the purpose of demonstrating and illustrating things for the people. 
@@ -33,7 +46,10 @@ In addition, the writers of the Book of Concord outline a number of valid purpos
 > Therefore, the core purpose of liturgical practice is to teach and learn the faith in practical and down to earth ways. If a piece of liturgy is not being used for this purpose it has lost it's way. Likewise if a piece of Liturgy is thrown away without consideration for what it was meant to teach an equally poor course of action has been chose.
 
 ****
-Below is a further discussion of how this can function in our faith and practice:
+# Liturgy as Reflection of Scriptural Rhythms
+While one side of the coin is thinking about the human traditions that are a part of liturgical practice. The deeper reality that all this is pushing toward is the fact that Scripture pictures and encourages a particular mode of being. Humans were created to live and relate with God and one another in particular God pleasing ways. All of this flows from the good order of Creation God set in place in the garden of Eden and is restoring through Jesus Christ. 
+
+Therefore, truly good and healthy liturgical practice must derive primarily from the witness of scripture with human tradition as a secondary source.  Below is a further discussion of how this can function in our faith and practice:
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Patterns-of-Liturgy-The-Rhythm-of-Life#The-Rhythm-of-Life" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
