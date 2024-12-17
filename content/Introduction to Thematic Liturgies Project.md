@@ -1,7 +1,7 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-19
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-17","publish":true,"PassFrontmatter":true}
 ---
+
 #🌿Sapling  #😁Strongly-Agree  #📊Project  #📝Essay  
 ****
 > `Importance`: 70%
@@ -40,7 +40,7 @@ For this to be successful, these abstract concepts must reach our people.  The 
 
 This participation in worship takes on two main aspects throughout the pages of Scripture.  One is remembrance and connection to story; the second is the creative worship response.  Connection to story is important because we come into God’s story.  He has defined and laid out the course of the salvation narrative.  Therefore, we should not be trying to fit Him into our lives, but humbly entering His.  His story started long before our birth and encompasses many more lives than our own.  Being connected to God’s story is to be connected with His community: the Church.  We read words that are not our words, but become ours.  We sing songs that are not our songs, but become ours.  We do and say and think and act in ways that are not ours, but become ours as we are connected to the heritage of our faith.  Communal worship is a space to encounter, learn, connect, and participate in this grand old story.  
 
-The creative worship response is a related yet distinct way the body of Christ participates in worship.  Whenever God’s people have encountered Him the natural response has always been creative.  After crossing through the Red Sea the Isralites sang a new song.  After Mary encountered the angel and the wonders of the Christmas story she sang a new song.  The giving of the covenant on mount Siani was followed by the outpouring of God given creative power to build and decorate the tabernacle and its instruments.  Encountering God is an occasion to bring forth the creative expression of praise and wonder.  Not only this, but times of darkness and despair are also times for creative response in lament.  God’s people have always responded to God creatively, whether He feels close or far, this creative impulse should by no means be neglect.  
+The creative worship response is a related yet distinct way the body of Christ participates in worship.  Whenever God’s people have encountered Him the natural response has always been creative.  After crossing through the Red Sea the Israelites sang a new song.  After Mary encountered the angel and the wonders of the Christmas story she sang a new song.  The giving of the covenant on mount Sinai was followed by the outpouring of God given creative power to build and decorate the tabernacle and its instruments.  Encountering God is an occasion to bring forth the creative expression of praise and wonder.  Not only this, but times of darkness and despair are also times for creative response in lament.  God’s people have always responded to God creatively, whether He feels close or far, this creative impulse should by no means be neglect.  
 
 ## Engaging Worship from Our Place in the Story
 
@@ -48,18 +48,48 @@ Our place in God’s story sits uniquely after His crucifixion and resurrection,
 
 Yet we need to be careful to also hold on to translation.  Our people are a product of their time.  The things of beauty and meaning from tradition do not always land the same way they used to among Christians in a different time dealing with different struggles and life experiences.  Consequently, it is of utmost importance that liturgy be translated into forms that reach our people so that they can actually be formed by it.  This is a pull in two directions.  Striving to proclaim the alien ideas and power of God’s Gospel in its fullness, while also being sensitive to the hearer.   
 
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Ritual-Efficacy-versus-Sacramental-Efficacy#Ritual-Efficacy-versus-Sacramental-Efficacy" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
 ## Ritual Efficacy versus Sacramental Efficacy
 
 Keeping in mind the tension of tradition and translation, we come to the need to differentiate between ritual efficacy and sacramental efficacy.[^5]   On the one hand, the word of God is always efficacious.  For example, a sermon can be given in the most monotone and dull method, written in the most cliche and boring style, yet it is still God’s living and active word at work among His people.  The word of God will do what the world of God will do by the power of the Holy Spirit apart from, and often in spite of, our human efforts.  The deep reality of the words sacramental efficacy is somewhat at odds, however, with our experience of ritual efficacy.  The sermon described above will be met with eye rolls and sighs as even willing listeners struggle to not fall asleep.  This same idea can be fleshed out in many other examples that all lead to the need to evaluate and work toward ritually effective forms of liturgy.  
 
 To state this distinction another way, all liturgy grounded in the true word of God and the right celebration of God’s gifts (sacramental and other) are without question efficacious (sacramental efficacy).  It makes no difference how engaging, interesting or personally compelling an individual finds it.  Liturgy delivers the goods of God’s promises with 100% assurance.  Ritual efficacy, on the other hand, deals in our human experience of a particular liturgical form’s ability to engage us.  It is no secret that almost every person finds different styles of worship music more or less effective for their personal engagement in meaningful worship.  Not only this but fields such as neuroscience point out the benefits of multisensory engagement for memory and retention of material in sermons and bible reading.  By maintaining the distinction between sacramental efficacy and ritual efficacy we can critically engage our practice of liturgy affirming the value and place for all faithful forms, while also acknowledging the nuances of human engagement.       
 
+</div></div>
+
+
 ## Variety versus Regularity 
 
 A practice done regularly makes a habit, and a habit has a way of sticking within a person.  This basic human truth is an important consideration as we seek to grow our people using liturgical forms.  There needs to be a sense of continuity and repetition for things to sink into people.  However, this need to habituate people into a regular pattern of worship and practice, should not exclude the legitimacy and importance of variety.  Scripture alone (not to mention liturgical history) brings to light a huge variety of musical and ritual expression.  We should seek to bring our people into this fullness, not at the expense of regularity, but in concert with it.  One noteworthy example of this is the practice of lament.  Lament comes directly out of the pages of Scripture but is something the church rarely practices.  We possess this very powerful practice to wrestle and deal with grief and brokenness.  Yet we often leave it on the shelf and rob our people of it.   
 
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
 ## Real Loss
-![[Real Loss]]
+
+>[!Quote] The Big Idea
+>No matter how well intentioned or effective.  All translation and change brings loss.
+
+From: **Tod Bolsinger, Canoeing the Mountains: Christian Leadership in Uncharted Territory (Downer Grove: IVP Books, 2015), 120-122.**
+
+****
+
+ This is most easily seen in the psalms themselves.  No amount of skill can preserve the full poetic quality of each psalm as it is translated into English or any other language.  Things are lost in translation.  Whether these losses are significant or not, it is important that they be carefully ascertained.  This is true on a broader scale with liturgy as well.  Any change, no matter how small, will lose something.
+
+This conviction makes it clear that changing and/or generating liturgical forms is not something to be taken lightly.   In fact, many argue that the risk of loss is too great to allow for variety in liturgical forms.  This project, however, does not agree with this assessment.  While loss is real and needs to be appreciated and acknowledged, it should not bind the church from worshiping God with all the skill and talent He has placed within His body.  
+
+Rather than dismissing loss, or turning it into a crippling fear, this project seeks to engage tradition thoughtfully to bring to life liturgical forms that help pull people into the depths of Christ’s richness and unlock interaction with our scriptural and churchly heritage.
+
+</div></div>
+
 
 ## Living Word, Living Worship
 
@@ -288,7 +318,7 @@ Canticles - Songs taken directly out of the Scriptural narrative. Used various p
 [^10]: **Timothy Maschke, Gathering Guests: A Guide to Worship in the Lutheran Church (Saint Louis: Concordia Publishing House, 2003), 111.**
 [^11]: **Ibid., 111.**
 [^12]: **Ibid., 109.**
-[^13]: **Ibid., 112.  Also see [[Variety in Gospel Metaphors]]).**
+[^13]: **Ibid., 112.  Also see [[Variety in Gospel Metaphors\|Variety in Gospel Metaphors]]).**
 [^14]: **Ibid., 113.**
 [^15]: **Joel Biermann, A Case for Character: Towards a Lutheran Virtue Ethics (Minneapolis: Fortress Press, 2014), 118-133.**
 [^16]: **Maschke, Gathering Guests, 117-8.**

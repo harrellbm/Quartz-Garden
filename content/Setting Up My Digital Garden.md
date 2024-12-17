@@ -29,8 +29,7 @@ From a top layer look I am using the basic Stack of:
 - using [quatrz](https://github.com/jackyzha0/quartz) for static site generation (work comp had restrictions but no issue on home laptop)
 	- Had issues getting npx to work was able to use `node quartz/bootstrap-cli.mjs` followed by the command instead 
 	- very easy to just us `-d` option to specify the envelop repo I cloned back down
-- Todo: write down all the settings I have used
-- Todo: start by uploading my finished essays and linking them and creating definition pages 
+
 
 > [!NOTE]
 > You can change the icon and banner of your Quartz site by changing the image files under quartz/static to whatever icon you want 
@@ -57,11 +56,10 @@ Code: Amatic SC
 	- https://discord.com/channels/927628110009098281/1153011755975458928/1153032260803633172https://discord.com/channels/927628110009098281/1153011755975458928/1153032260803633172
 - [ ] Figure out how to help people use the RSS feed 
 - [ ] Maybe set up a better meta data tag to make it possible to display properties of page.
-- [ ] post all epistles 
-- [ ] post all formal essays
 - [ ] edit the footer to be clearer and simpler invite for people to reach out about an idea 
 - [ ]  change [[index\|home]] to base camp on breadcrumbs
-- [ ]  figure out formatting on tags page. i.e. remove note tags under the listing
 - [ ] Style comments box to match the rest of the page in both light and dark mode
 - [ ] Figure out analytics as well
-- [ ] 
+- [ ] make graph look better by tweaking settings
+- [ ] document setting up quartz sync and also 
+- [ ] Todo: write down all the settings I have used
