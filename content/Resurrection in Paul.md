@@ -1,7 +1,7 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-18
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-18","publish":true,"PassFrontmatter":true}
 ---
+
 #🌱Seed  #😐Neutral 
 ****
 > `Importance`: 10%
@@ -11,7 +11,7 @@
 
 ****
 
-> [!NOTE] Important from Josh Leborious
+> [!NOTE] Imported from Josh Leborious
 > # Resurrection in Paul’s Writings
 > 1. The claim is that Jesus&#39; resurrection from the dead is foundational to Paul&#39;s own faith and life, and to his theology as well.
 > 	a. Be aware of two issues in biblical studies.

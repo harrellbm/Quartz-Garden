@@ -1,5 +1,5 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-11","title":"Base Camp 🏕️","aliases":["Home","index"],"publish":true,"PassFrontmatter":true}
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-17","title":"Base Camp 🏕️","aliases":"Home,Base Camp","publish":true,"PassFrontmatter":true}
 ---
 
 Hello! 👋🏻 

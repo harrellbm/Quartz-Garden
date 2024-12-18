@@ -2,7 +2,6 @@
 {"Note Planted:":"2024-06-27","Last Tended:":"2024-12-11","publish":true,"PassFrontmatter":true}
 ---
 
----
 #🌱Seed  #🙂Agree
 ****
 >`Importance`: 10%
