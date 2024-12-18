@@ -18,6 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "harrellbm.github.io/Quartz-Garden",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
