@@ -1,4 +1,4 @@
-import { formatDate, getDate } from "./Date"
+import { Date, getDate } from "./Date"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import readingTime from "reading-time"
 import { classNames } from "../util/lang"
@@ -6,43 +6,51 @@ import { i18n } from "../i18n"
 import { JSX } from "preact"
 import style from "./styles/contentMeta.scss"
 
-interface ContentMetaCustomOptions {
+interface ContentMetaOptions {
   /**
    * Whether to display reading time
    */
+  showDates: boolean
   showReadingTime: boolean
   showComma: boolean
+  showCustomField: boolean
+  customField: Array<string>
 }
 
-const defaultOptions: ContentMetaCustomOptions = {
+const defaultOptions: ContentMetaOptions = {
+  showDates: true,
   showReadingTime: true,
   showComma: false,
+  showCustomField: false,
+  customField: ['Note Planted:', 'Last Tended:']
 }
 
-export default ((opts?: Partial<ContentMetaCustomOptions>) => {
+export default ((opts?: Partial<ContentMetaOptions>) => {
   // Merge options with defaults
-  const options: ContentMetaCustomOptions = { ...defaultOptions, ...opts }
+  const options: ContentMetaOptions = { ...defaultOptions, ...opts }
 
   function ContentMetadata({ cfg, fileData, displayClass }: QuartzComponentProps) {
     const text = fileData.text
 
     if (text) {
       const segments: (string | JSX.Element)[] = []
-      let created 
-      let modified
 
-      if (fileData.frontmatter['Note Planted:']) {
-        
-        //console.log("this is the file dates", fileData.frontmatter['Note Planted:'])
-        let date = fileData.frontmatter['Note Planted:']
-        created = <div><b>Note Planted</b>: {date} <br/></div>
+      if (options.showDates) {
+        if (fileData.dates) {
+          segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
+        }
       }
 
-      if (fileData.frontmatter['Last Tended:']) {
-        
-        //console.log("this is the file dates", fileData.frontmatter['Last Tended:']) 
-        let date = fileData.frontmatter['Last Tended:']
-        modified = <div><b>Last Tended</b>: {date} <br/></div>
+      if (options.showCustomField) {
+        for (let i in options.customField) {
+          let key = options.customField[i]
+          //console.log("This is the field key ", key)
+          if (fileData.frontmatter[key] != undefined) {
+            let data = fileData.frontmatter[key]
+            //console.log("This is the field data ", data) 
+            segments.push(<span><b> {key} </b>: {data} <br/></span>)
+          }
+        }
       }
 
       // Display reading time if enabled
@@ -51,16 +59,12 @@ export default ((opts?: Partial<ContentMetaCustomOptions>) => {
         const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
           minutes: Math.ceil(minutes),
         })
-        segments.push(displayedTime)
+        segments.push(<span>{displayedTime}</span>)
       }
 
-      const segmentsElements = segments.map((segment) => <span>{segment}</span>)
-      
       return (
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
-          {created}
-          {modified}
-          {segmentsElements}
+          {segments}
         </p>
       )
     } else {
