@@ -19,7 +19,7 @@ A link to his archive that connects with this idea:
 
 
 
-#🌱Seed  #🙂Agree  #🟡Consideration 
+#🌱Seed   #🙂Agree   #🟡Consideration 
 ****
 > `Importance`: 40%
  

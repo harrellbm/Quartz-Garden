@@ -13,7 +13,7 @@
 
 > [!tip]
 > Start on more structured ideas:
-> [[Tech Framework\|Tech Framework]]
+> [[A Theology of Technology\|A Theology of Technology]]
 > [[Principles for Working with Tech Tools\|Principles for Working with Tech Tools]]
 
 

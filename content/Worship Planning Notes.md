@@ -1,8 +1,8 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-19
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-19","publish":true,"PassFrontmatter":true}
 ---
-#🌱Seed  #😐Neutral 
+
+#🌱Seed   #🙂Agree   #🟡Consideration   
 ****
 > `Importance`: 10%
  
@@ -23,5 +23,5 @@
 - Have then look at music and show if it goes up or down with their hands as they sing
 - For older kids, Write out words on a white board and then tap the words as you sing to help them get to flow of the music
 
-Related Notes: [[Aspersion Service]]
+Related Notes: [[Aspersion Service\|Aspersion Service]]
 ****

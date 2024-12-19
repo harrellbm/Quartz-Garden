@@ -1,8 +1,8 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-18
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-19","publish":true,"PassFrontmatter":true}
 ---
-#🌱Seed  #🙂Agree  #🌲Evergreen 
+
+#🌱Seed   #🙂Agree   #🌲Evergreen   #🟡Consideration 
 ****
 >`Importance`: 40%
 
@@ -12,31 +12,31 @@
 
 * * *
 # Ideas
-[[Crossroads Art Session]]
+[[Crossroads Art Session\|Crossroads Art Session]]
 
-[[Year after Highschool Bible college model]]
+[[Year after Highschool Bible college model\|Year after Highschool Bible college model]]
 
-[[Joining Jesus Notes]]
+[[Joining Jesus Notes\|Joining Jesus Notes]]
 
-[[Community Walk-in Space]]
+[[Community Walk-in Space\|Community Walk-in Space]]
 
-[[Five Year Cap Mission Planting]]  
+[[Five Year Cap Mission Planting\|Five Year Cap Mission Planting]]  
 
-[[Children Focused Worship Service]]
+[[Children Focused Worship Service\|Children Focused Worship Service]]
 # Exercises  and Resources
 
-[[Relational Health Framework]]
+[[Relational Health Framework\|Relational Health Framework]]
 
-[[Scripture Concerning Pastoral Role]]
+[[Scripture Concerning Pastoral Role\|Scripture Concerning Pastoral Role]]
 
-[[Answers to Santa Maria Questions]]
+[[LCOS Notes/Answers to Santa Maria Questions\|Answers to Santa Maria Questions]]
 
-[[Church Health Metrics (Other than Butts in Pews)]]
+[[Church Health Metrics (Other than Butts in Pews)\|Church Health Metrics (Other than Butts in Pews)]]
 
-[[Practices of Faith]]
+[[Practices of Faith\|Practices of Faith]]
 
-[[3333 Plan Structure]]
+[[3333 Plan Structure\|3333 Plan Structure]]
 
-[[Working Genius Based Project Lifecycle]]
+[[Working Genius Team and Project Lifecycle\|Working Genius Team and Project Lifecycle]]
 
-[[Basic Philosophies of Community Rhythm and Project Lifecycle]]
+[[Basic Philosophies of Community Rhythm and Project Lifecycle\|Basic Philosophies of Community Rhythm and Project Lifecycle]]

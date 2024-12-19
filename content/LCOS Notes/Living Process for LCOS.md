@@ -8,11 +8,11 @@
 > `Importance`: 10%
  
 >[!Summary] The Big Idea
-> Note Tree for various aspects as they develop [[LCOS Notes/LCOS Campus Centers\|LCOS Campus Centers]]
+> Note Tree for various aspects as they develop [[LCOS Notes/LCOS Community Notes\|LCOS Community Notes]]
 > first part of the process undertaken: [[LCOS Notes/Opening LCOS Visioning Process\|Opening LCOS Visioning Process]]
 
 Related Notes: 
-[[LCOS Notes/LCOS Campus Centers\|LCOS Campus Centers]]
+[[LCOS Notes/LCOS Community Notes\|LCOS Community Notes]]
 [[Notes on the Nature of Order\|Notes on the Nature of Order]]
 [[Thinking of Spatial Relationships as Centers\|Thinking of Spatial Relationships as Centers]]
 [[LCOS Notes/LCOS Pastoral Practices and Perspective\|LCOS Pastoral Practices and Perspective]]
