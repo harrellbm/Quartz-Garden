@@ -1,22 +1,22 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-02
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-19","publish":true,"PassFrontmatter":true}
 ---
-#🌱Seed  #🙂Agree
+
+#🍋Fruit   #😁Strongly-Agree   #🟢Conviction 
 ****
-> `Importance`: 40%
+> `Importance`: 90%
  
-***The Big Idea***: A guided meditation through Psalm 8. Presented to Springfield Winkle in March 2023 also used as OS #📃Epistle in the same month.
+> [!summary] The Big Idea
+> A guided meditation through Psalm 8. 
+
+> [!note]
+> Presented to Springfield Pastor's Winkle in March 2023. Also used as OS #📃Epistle in the same month.
 
 ****
 
 If your life is anything like mine, there often seems to be something unexpected or stressful on the horizon. When these things happen you can feel your body begin to tense up as you brace for the impact of the next thing and the next thing.  It is easy to begin to lose hope when life puts you through the ringer.  Yet God has given us resources to make it through times like these in one piece. On our own, we quickly begin to fall apart, ground down by stress or pulled a million directions. But the word of God invites us to come to a place of rest, out of the chaos of our lives. 
 
-  
-
 On the seventh day God rested from creating the world, and from that moment rest became something special. It is the expression of a good God bringing everything into harmony and alignment. Things that can often feel far away from our lived experience. Yet the rest of God is not some far off ideal, but a gift offered to us every day through the words of Scripture.  It is through God’s word that we encounter the rest of God.  His words are reality shaping and reorienting. They pull us out of our brokenness and into the light of Christ.    
-
-  
 
 So wherever you are, or whatever you are going through. I invite you to spend a little time with me reading the very words of God. Come find rest in Jesus, the only sure place it can be found.
 

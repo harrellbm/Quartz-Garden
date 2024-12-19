@@ -1,53 +1,30 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-10-15
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-19","publish":true,"PassFrontmatter":true}
 ---
-#🌱Seed  #🙂Agree
+
+#🌱Seed   #🙂Agree   #🟢Conviction 
 ****
 > `Importance`: 10%
  
 > [!summary] The Big Idea
-> Reading Scripture devotionally can be thought as having a conversation between God's word and our personal reaction to what God is saying.
+> Reading Scripture devotionally can be thought of as having a conversation between God's word and our personal reaction to what God is saying.
 
-Related Note: [[Activity-A Conversion with Scripture]]
+Related Note: [[Activity-A Conversion with Scripture\|Activity-A Conversion with Scripture]]
 ****
 # Conversation with Scripture
-
 Historical context and study of the text is important for understanding a text but we need to be careful to not make reading scripture all about studying it as an object.  When we study an object it is at arm’s length and does not affect who we are.  
-
-  
 
 Instead we should think of reading Scripture as a conversation between yourself and the text.  We seek to understand what the Author intended to say in a dynamic back and forth.  We pay attention to what is happening in the text as well as what is happening inside ourselves.  For example, what is the author saying and why?  And then, what reaction does that make me feel?    
 
-  
-
-General Questions with which to approach the text
-
-  
+## General Questions with which to approach the text
 
 - What symbols/metaphors are present in the text?
-
-  
-
-- Does the text speak to me personally or do I feel distant from its voice?
-
-  
-
-- What do I resonate with and why?
-
-  
-
+- Does the text speak to me personally or do I feel distant from its voice?  
+- What do I resonate with and why? 
 - What action does the voice in the text suggest I take? Or maybe that’s a question that confuses me.  
-
-  
-
 - What do I notice in the text that interests me?  What questions does the text raise for me?  How am I interpreting the voice(s) in the text?  What notes would be helpful for future teaching of this text?
 
-  
-
-Questions for Devotional reading of Scripture
-
-  
+## Questions for Devotional reading of Scripture
 
 - What do you notice in the text?
 - What do you value in the text?
@@ -62,17 +39,9 @@ Questions for Devotional reading of Scripture
 - What does this text make impossible or at least very difficult?
 - What would it be like if I lived my life like this?
 
-  
-
-  
-
-Meditation on the Psalms
-
-  
+## Meditation on the Psalms
 
 Read the psalm, and as you read the psalm, read yourself.  Practice your self-awareness.  These are conversation enabling questions between you and the text. 
-
-  
 
 - According to the speaker, where is God?
 - How does the speaker describe God?
@@ -83,19 +52,12 @@ Read the psalm, and as you read the psalm, read yourself.  Practice your self-a
 - What are some things that you value about what the speaker is saying? 
 - When confronted with the words of the speaker, what should I do? Should I do anything?
 - What you are doing as you read?
-
 - Am I agreeing, questioning, empathizing, pushing back, getting bored, praising God, making certain connections, confused, filled with joy and so on?
-
 - What does this psalm assume about the way the world is?
-
 - What are the key features of the world that this psalm tries to deal with, respond to, make sense of?
 - What vision of the future animates the speaker? What new sense does the psalm seek to add to the world that often seems chaotic and senseless?
-
 - What assumptions does the speaker make about God? Are his beliefs surprising to you or old hat?
 - How does this psalm challenge your imagination or fire it up?
-
 - What can people do or imagine, thanks to this psalm, that they could not before?
-
 - Conversely, what does this psalm make impossible, or at least very difficult?
-
 - What activities and experiences that were previously part of the human experience become all but impossible in the wake of this new thing?

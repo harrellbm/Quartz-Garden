@@ -1,32 +1,25 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-01
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-19","publish":true,"PassFrontmatter":true}
 ---
-#🌱Seed  #🙂Agree
+
+#🌱Seed  #🙂Agree   #🟢Conviction 
 ****
 > `Importance`: 10%
  
-***The Big Idea***: A collection of a few various ways to engage Scripture.
+> [!summary] The Big Idea
+> A collection of a few various ways to engage Scripture.
 
 ****
-
-Engage scripture as a conversation with God. Our relationship is with a living active loving word that came to free us from sin, death and the devil.
-
-Engage the whole body, move, hear, speak, draw. The aim is to absorb the story of scripture into our own story. God’s story is our story and vice versa.
-
-  
-
-Listening styles:
+# Christian Meditation 
+This is a very deep and broad way to engage scripture. Here are some notes about it: [[Christian Meditation\|Christian Meditation]]
+# Listening styles:
 
 Ethos - relationships with speaker
 
 Logos - logical flow of material
 
 Pathos - feelings evoked by material and speaker
-
-  
-
-Basic Learning styles:
+# Basic Learning styles:
 
 Auditory - listen to spoken word
 
@@ -34,25 +27,17 @@ Visual - see images or illustrations
 
 Kinetic - physical engagement of body
 
-  
-
-Types of Memory:
+# Types of Memory:
 
 Semantic - logical word based memory of facts or figures
 
 Autobiographical - memory that connects to your story of life. Or the way you process the world around you
 
-  
-
 Story is the type of material that sticks in our minds the easiest and stays the longest.
-
-  
 
 A major question we need to keep asking is how does this hook up to the greater story and images of Scripture?
 
-  
-
-General passive engagement:
+# General passive engagement:
 
 Listen to reading
 
@@ -60,9 +45,7 @@ Listen in car
 
 Read English
 
-  
-
-Personal engagement:
+# Personal engagement:
 
 Listen to reading and draw what you hear
 
@@ -88,10 +71,7 @@ Hand write scripture out
 
 ⁃ Journal personal thoughts and things that stick out from a verse
 
-  
-  
-
-Nitty Gritty engagement:
+# Nitty Gritty engagement:
 
 Research book as a whole
 
@@ -100,5 +80,3 @@ Research section
 Research verse or phrase
 
 Study in original language
-
-**

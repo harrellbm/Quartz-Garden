@@ -1,13 +1,13 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-18
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-19","publish":true,"PassFrontmatter":true}
 ---
-#🌱Seed  #🙂Agree  #🟢Conviction 
+
+#🌱Seed   #🙂Agree   #🟢Conviction 
 ****
-> `Importance`: 10%
+> `Importance`: 50%
  
 > [!summary] The Big Idea
-> During Martin Luther’s time as a monk he would have no doubt used this[[Lectio Divina]] method. And in fact he adapted the steps to follow the pattern of reading scripture he saw pop up over and over throughout Psalm 119.
+> During Martin Luther’s time as a monk he would have no doubt used the [[Lectio Divina\|Lectio Divina]] method. And in fact he adapted the steps to follow the pattern of reading scripture he saw pop up over and over throughout Psalm 119.
 
 ****
 
