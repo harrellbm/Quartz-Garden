@@ -1,8 +1,8 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-12-01
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-19","publish":true,"PassFrontmatter":true}
 ---
-#🌱Seed  #🙂Agree
+
+#🌱Seed   #🙂Agree
 ****
 >`Importance`: 10%
  
@@ -32,5 +32,5 @@ Quoted From: [Obsidian Search: Five Hidden Features - Obsidian Rocks
 > Like I said it _is_ a bit limited, you can’t use any of the Search Settings that we discussed above (unless you use [the Query Control plugin](https://github.com/nothingislost/obsidian-query-control)). But you _can_ use search operators, so your queries can be as complex as you’d like.
 
 ## Related Notes
-- [[Obsidian Note-taking]]
-- [[Note-Taking Methods]]
+- [[Obsidian Note-taking\|Obsidian Note-taking]]
+- [[Note-Taking Methods\|Note-Taking Methods]]

@@ -1,12 +1,13 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-12-01
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-19","publish":true,"PassFrontmatter":true}
 ---
-#🌱Seed  #🙂Agree
+
+#🌱Seed   #🙂Agree   #🟡Consideration 
 ****
 >`Importance`: 10%
  
-***The Big Idea***: This is a method for reading the Bible taught by the 1600s Lutheran Gerhard. It is laid out in his book called *A Method of Theological Study*.
+> [!summary] The Big Idea
+> This is a method for reading the Bible taught by the 1600s Lutheran Gerhard. It is laid out in his book called *A Method of Theological Study*.
 
 * * *
 ## Cursory reading 

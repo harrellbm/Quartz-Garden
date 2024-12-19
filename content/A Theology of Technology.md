@@ -1,20 +1,23 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-11","publish":true,"PassFrontmatter":true}
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-19","publish":true,"PassFrontmatter":true}
 ---
 
-#🌿Sapling #🙂Agree
+#🌿Sapling  #🙂Agree   #🟢Conviction 
 ****
 >`Importance`: 10%
 
 >[!Summary] Thesis
->Technology is not value neutral. Every piece of technology works to realize a particular picture of human thriving and existence.
+>Technology is not value neutral. Every piece of technology works to realize a particular picture of human thriving and existence. Therefore it is not outside the realm of theology or applying Scriptural truth. 
 
-* * *
+There is no such thing as a completely "neutral" tool. Even a hammer is made with a particular kind of work in mind.
 ### Related Notes 
+- [[Principles for Working with Tech Tools\|Principles for Working with Tech Tools]]
 - [[Stream of Consciousness on AI, Technostress, and Faith\|Stream of Consciousness on AI, Technostress, and Faith]]
 - [[Ritual Technology\|Ritual Technology]]
 - [[Metaphor of the Stream vs the Garden\|Metaphor of the Stream vs the Garden]]
+- [[Religion of Technology\|Religion of Technology]]
 
+* * *
 
 All tech sells based off of a narrative 
 
