@@ -1,5 +1,5 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-16","publish":true,"PassFrontmatter":true}
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-18","publish":true,"PassFrontmatter":true}
 ---
 
 #🌱Seed   #😐Neutral   #🟡Consideration
@@ -13,6 +13,7 @@
 A link to his archive that connects with this idea:
 [Geometry and Fifteen Fundamental Properties](https://christopher-alexander-ces-archive.org/research/geometry-and-fifteen-fundamental-properties/)
 
+Reading notes and other collected resources I have so far:
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/The-Ways-Centers-Help-Each-Other-Have-More-Life" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -22,6 +23,7 @@ A link to his archive that connects with this idea:
 #🌱Seed   #🙂Agree   #🟡Consideration 
 ****
 > `Importance`: 40%
+# The Ways Centers Help Each Other Have More Life
  
 >[!Summary] The Big Idea
 >One of the major points of Christopher Alexander’s idea of centers from *the Nature of Order - The Phenomenon of Life* is that centers can help each other have greater life. He outlines fifteen ways in which this can be concretely achieved or observed. 

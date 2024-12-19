@@ -1,10 +1,11 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-18","publish":true,"PassFrontmatter":true}
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-19","publish":true,"PassFrontmatter":true}
 ---
 
 #🌱Seed   #🙂Agree   #🟡Consideration 
 ****
 > `Importance`: 40%
+# The Ways Centers Help Each Other Have More Life
  
 >[!Summary] The Big Idea
 >One of the major points of Christopher Alexander’s idea of centers from *the Nature of Order - The Phenomenon of Life* is that centers can help each other have greater life. He outlines fifteen ways in which this can be concretely achieved or observed. 
