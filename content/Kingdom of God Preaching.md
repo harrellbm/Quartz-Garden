@@ -1,19 +1,24 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-19
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-24","publish":true,"PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
 ****
 > `Importance`: 10%
  
-***The Big Idea***: Jesus starts preaching with the simple message:
+> [!summary] The Big Idea
+> Jesus starts preaching with the simple message:
 
-> Matthew 4:17–18 (ESV): Repent, for the kingdom of heaven is at hand.” 
+****
+
+> [!quote] Matthew 4:17–18 (ESV)
+> Repent, for the kingdom of heaven is at hand.” 
 
 Just a chapter earlier this is the same core message John the Baptist preaches as well.
 
 What if this is the core message we should be preaching from rather than law and gospel not just trashing law gospel but focusing on this a lot more? 
 
-**Question for study**: how was this core message used throughout the preaching of Jesus?
+> [!question] Question for Study
+> How was this core message used throughout the preaching of Jesus?
 
-****
+

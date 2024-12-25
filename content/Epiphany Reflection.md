@@ -1,13 +1,15 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-17
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-24","publish":true,"PassFrontmatter":true}
 ---
-#🌱Seed  #🙂Agree
+
+#🍋Fruit   #🙂Agree
 ****
 > `Importance`: 10%
  
-***The Big Idea***:  Used as OS #📃Epistle Jan 2023
+> [!note]
+> Used as OS #📃Epistle Jan 2023
 
+****
 Even though we have passed Christmas, I hope that this epistle finds you still in the light of the Christmas Season!  I am so thankful to serve among such a kind community here at Our Saviors. All of your Christmas greetings and generosity to me and my family have been greatly appreciated. I give thanks to God for all of you and pray that He continues to grow you in His service this new year!
 
 An Epiphany reflection I would like to share with you starts in my childhood. I have always had a special place in my heart for the celebration of Epiphany. So much effort and focus is put into Christmas (and rightfully so). Yet Epiphany is the completion of the Church’s Christmas celebrations.
@@ -22,6 +24,3 @@ So in the end, the giving really only goes one way: from God to me and you. Ever
 
 >“The aim of our charge is love that issues from a pure heart and a good conscience and a sincere faith.” 
 >- 1 Timothy 1:5
-
-
-****

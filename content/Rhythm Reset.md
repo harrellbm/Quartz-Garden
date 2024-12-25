@@ -1,14 +1,15 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-19
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-24","publish":true,"PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
 ****
 > `Importance`: 10%
  
-***The Big Idea***: I often find the deed to restart rhythms because I fall into bad ones or other things start to take over more than they should 
+> [!summary] The Big Idea
+> I often find the deed to restart rhythms because I fall into bad ones or other things start to take over more than they should 
 
-***Related Notes***: [[Patterns of Liturgy-The Rhythm of Life]], [[Models of Human Rhythms]], [[Personal Reflections on My Personal Rhythms]], [[Thoughts on Liturgy and Rhythm]]
+***Related Notes***: [[Patterns of Liturgy-The Rhythm of Life\|Patterns of Liturgy-The Rhythm of Life]], [[Models of Human Rhythms\|Models of Human Rhythms]], [[Private/Personal Reflections on My Personal Rhythms\|Personal Reflections on My Personal Rhythms]], [[Thoughts on Liturgy and Rhythm\|Thoughts on Liturgy and Rhythm]]
 ****
 
 Prov 4:7 wisdom is supreme. Whatever you work to get work to get wisdom and understanding 

@@ -1,12 +1,12 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-17","publish":true,"PassFrontmatter":true}
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-23","publish":true,"PassFrontmatter":true}
 ---
 
-#🌿Sapling  #😁Strongly-Agree  #📊Project  #📝Essay  
+#🌿Sapling  #🙂Agree   #🟡Consideration   #📊Project   #📝Essay  
 ****
 > `Importance`: 70%
  
-> [!The Big Idea]
+> [!Summary] The Big Idea
 > This project hopes to be a resource as well as a place to collaborate and learn the art of crafting thematic liturgical forms.
 > ### Initial Goal 
 > To write an initial set of 55 liturgical settings to cover a little over a year.  Each service will be organized around either a psalm or narrative from Scripture.  The elements of the service will be written and organized using traditional worship forms as models.

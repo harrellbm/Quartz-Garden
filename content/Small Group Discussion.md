@@ -1,15 +1,15 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-06-29
+{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-24","publish":true,"PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
 ****
 >`Importance`: 10%
  
-***The Big Idea***: Type of [[Pedagogy]]
+> [!summary] The Big Idea
+> Type of [[Pedagogy\|Pedagogy]]
 
 * * *
-
 
 **Place on Continuum**: Small Group Discussion
 

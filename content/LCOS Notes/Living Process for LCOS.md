@@ -156,7 +156,6 @@ Also get mechanistic discussion from phenomena of life
 
 
 
----
 #🪴Sprout  #🙂Agree  #🟡Consideration  
 ****
 > `Importance`: 10%
