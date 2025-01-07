@@ -30,7 +30,7 @@ An interview with him about his work in general:
 
 A foundation of his approach that I did not like at first was the idea of [[Deep Feeling\|Deep Feeling]]. Which at first sounds very subjective and hocki. But he actually goes to great length to explain that the idea is the external environment works to create an internal feeling and reaction that is tangible and objective. I think this makes sense when talking about the physical environment and how we feel and are affected by it but it seems like that does not transfer well to abstract or less grounded things. Because basically he askes questions like: Which door has more life in it? or Which garden is closer to God? and the idea is that people will respond in the same or very similar ways across cultures and life experiences because there is some kind of innate sense of good order arising from the physical geometry of a space. From a Christian perspective, I think this can be understood as the law written on all hearts, but as we know, that is often cauterized or ignored and does not have the same kind of limitless potential he seems to have thought was possible from human feeling. 
 
-Here are some summaries of core ideas that come out of his way of thinking: [Foundational Ideas](https://nature-of-order.stefan-lesser.com/helpful-foundational-ideas)
+Here are some summaries of core ideas that come out of his way of thinking: [Helpful Foundational Ideas](https://nature-of-order.stefan-lesser.com/helpful-foundational-ideas)
 
 YouTube of interview with Christopher Alexander: [Christopher Alexander - Life in Buildings (Full)](https://www.youtube.com/watch?v=oKO3vYjZbcs)
 

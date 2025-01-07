@@ -16,7 +16,12 @@ Related Notes:
 [[Thoughts on Liturgy and Rhythm\|Thoughts on Liturgy and Rhythm]]
 ***
 # Liturgy as Human Tradition
-The book or concord is clear that the idea of Liturgy falls within the category of human traditions, rites and ceremonies. Being written in a context where church rites had become more like magic incantations (the phrase "Hocus Pocus" literally coming from the words of institution in the latin mass) it makes sense that the reformers had to reorient the church to the true source of our salvation and faith. Liturgy is not what saves people. **Only faith in the saving work of Jesus saves people!** What follows is a helpful distinction to keep this balanced.
+
+> [!quote] Book of Concord, Augsburg Confession, Section 15, p. 226
+>  Traditions have the purpose of demonstrating and illustrating things for the people. 
+
+The book or concord is clear that the idea of Liturgy falls within the category of human traditions, rites and ceremonies. Being written in a context where church rites had become more like magic incantations (i.e. the phrase "Hocus Pocus" literally coming from the Words of Institution in the Latin mass) it makes sense that the reformers had to reorient the church to the true source of our salvation and faith. Liturgy is not what saves people. **Only faith in the saving work of Jesus saves people!** What follows is a helpful distinction to keep this balanced.
+
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Ritual-Efficacy-versus-Sacramental-Efficacy#Ritual-Efficacy-versus-Sacramental-Efficacy" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -39,8 +44,6 @@ The writers of the Book of Concord also outlined a number of valid purposes for 
 - Help people focus on the Holy things of God.
 - Help instruct people about how to live and what to do when.
 
-> [!quote] Book of Concord, Augsburg Confession, Section 15, p. 226
->  Traditions have the purpose of demonstrating and illustrating things for the people. 
 
 > [!important]
 > Therefore, the core purpose of liturgical practice is to teach and learn the faith in practical and down to earth ways. If a piece of liturgy is not being used for this purpose it has lost it's way. Likewise if a piece of Liturgy is thrown away without consideration for what it was meant to teach an equally poor course of action has been chose.

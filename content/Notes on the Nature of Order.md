@@ -1,7 +1,8 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-10","publish":true,"PassFrontmatter":true}
+"Note Planted:": 2024-06-27
+"Last Tended:": 2025-01-07
+publish: true
 ---
-
 ---
 #🪴Sprout  #🙂Agree  #🟡Consideration 
 ****
@@ -230,7 +231,10 @@ Here are specific notes on each centers relationship:
 > In general, the "strength" of any center — its degree of life — is a measure of its organization. One might measure this by its lifetime as a structure, or by its ability to resist disruption, or by its influence on the wholes around it. By almost any of these measures, the stronger a center is, the more powerful its impact on other nearby centers,
 > - Nature of Order, bk 1., p. 246
 
+The method by which he observes the world 
+[[Tests of Wholeness\|Tests of Wholeness]]
 
+TODO: redo notes from 246 on
 
 ****
 # Book Two: The Process of Creating Life 
