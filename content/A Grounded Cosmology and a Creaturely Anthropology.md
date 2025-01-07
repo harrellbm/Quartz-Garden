@@ -134,7 +134,7 @@ Here are a few other helpful links from Stefan's very helpful digital garden:
 # Mechanistic [[Cosmology\|Cosmology]] and the Death of Theological Wholeness 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/A-Holistic-versus-Mechanistic-Perspective" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -152,7 +152,13 @@ Here are a few other helpful links from Stefan's very helpful digital garden:
 
 A metaphor for this is to think of two frogs on a table. One is alive and whole the other is split open and pinned on the board. Which frog gives you a better example of what a frog really is? The dissected frog can teach you a lot about the mechanics of how a frog works internally. But if that is all you ever have access to you never really will have a good idea of what a frog is like, or how it sounds, or where it lives, or any of the other things that makes a frog "a frog" as a whole created creature.   
 
-Related Notes: [[Structure Preserving Transformation or Smooth Change or Unfolding\|Structure Preserving Transformation or Smooth Change or Unfolding]], [[Notes on the Nature of Order\|Notes on the Nature of Order]], [[The Quality of Life in Environments and Objects\|The Quality of Life in Environments and Objects]], [[Center Composed Wholeness\|Center Composed Wholeness]], [[The Ways Centers Help Each Other Have More Life\|The Ways Centers Help Each Other Have More Life]], [[Thinking of Spatial Relationships as Centers\|Thinking of Spatial Relationships as Centers]]
+Related Notes: 
+[[Structure Preserving Transformation or Smooth Change or Unfolding\|Structure Preserving Transformation or Smooth Change or Unfolding]], 
+[[Notes on the Nature of Order\|Notes on the Nature of Order]],
+[[The Quality of Life in Environments and Objects\|The Quality of Life in Environments and Objects]],
+[[Center Composed Wholeness\|Center Composed Wholeness]],
+[[The Ways Centers Help Each Other Have More Life\|The Ways Centers Help Each Other Have More Life]],
+[[Thinking of Spatial Relationships as Centers\|Thinking of Spatial Relationships as Centers]]
 ****
 
 # Application of this Principle to our Approach to Scripture
