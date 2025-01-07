@@ -13,7 +13,7 @@ I have grown increasingly dissatisfied with the exhausting, overwhelming and ove
 My hope is that this site will be more like a little quiet wilderness. A place to slow down, explore, start conversations, and collaborate. That is why I have named it - *The Aspen Grove*.
 
 > [!hint]
-> If you like getting straight to the point. You can skip all my babble and see how this site works here: [[index#How to Use this Garden\|How to Use this Garden]]
+> If you like getting straight to the point. You can skip all my babble and see how this site works here skip down to the section called: "How to Use this Garden"
 # The Calm after the Storm 
 *(Or the story behind the name)*
 
