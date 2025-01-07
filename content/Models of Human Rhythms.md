@@ -1,7 +1,7 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-19
+{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-07","publish":true,"PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
 ****
 > `Importance`: 10%
@@ -13,7 +13,7 @@
 > “For while bodily training is of some value, godliness is of value in every way, as it holds promise for the present life and also for the life to come.”
  >- 1 Timothy 4:8
 
-***Related Notes***: [[Patterns of Liturgy-The Rhythm of Life]], [[Personal Reflections on My Personal Rhythms]], [[Rhythm Reset]], [[Thoughts on Liturgy and Rhythm]], [[Basic Philosophies of Community Rhythm and Project Lifecycle]]
+***Related Notes***: [[Patterns of Liturgy-The Rhythm of Life\|Patterns of Liturgy-The Rhythm of Life]], [[Private/Personal Reflections on My Personal Rhythms\|Personal Reflections on My Personal Rhythms]], [[Rhythm Reset\|Rhythm Reset]], [[Thoughts on Liturgy and Rhythm\|Thoughts on Liturgy and Rhythm]], [[Basic Philosophies of Community Rhythm and Project Lifecycle\|Basic Philosophies of Community Rhythm and Project Lifecycle]]
 ****
 # The Philosophy of Rhythm 
 
@@ -282,13 +282,13 @@ Tv as unwinding but not really. It is a ton of stimulation to our brain and sens
 
   
 
-#### Enculturation and [[Repristination]]
+#### Enculturation and [[Repristination\|Repristination]]
 
 How the rhythms we see modeled are not always from a singular cultural source. 
 
   
 
-Address danger of [[REPRISTINATION]]
+Address danger of [[Repristination\|REPRISTINATION]]
 
   
 
@@ -327,7 +327,7 @@ Goal of being intentional with the model of rhythm is to seek to be faithful to 
 
 How do we measure the effect of a repeated action? Being  addicted to meth seems to be on one extreme while always patting your pocket to make sure you have Keys before leaving is on the other. One completely alters life and it’s purpose and desires while the other is a small functional practice to try to avoid forgetting an important object. Both form the person but one has the power to change a person’s whole outlook while the other is really only going to help one be a little less forgetful or likely to get locked out of the house. 
 
-### [[Ritual, Practice, Liturgy]] 
+### [[Ritual, Practice, Liturgy\|Ritual, Practice, Liturgy]] 
 
 I’m not sure I buy this anymore. 
 
@@ -641,7 +641,7 @@ Vocation (table of duties) as redeeming rhythms of relationships. First commissi
     
 - Witness, confessing
     
-- Scripture, sermon, [[storytelling]]
+- Scripture, sermon, [[Storytelling\|storytelling]]
     
 - Doing good, service
     
@@ -884,7 +884,7 @@ Passing on information, or valuable things from one generation to the next
 
 ## By Relationships
 
-### [[Two kinds of righteousness]] 
+### [[Two Kinds of Righteousness\|Two kinds of righteousness]] 
 
 Rhythms only make sense within the context of relationships 
 

@@ -1,8 +1,8 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-12-01
+{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-07","publish":true,"PassFrontmatter":true}
 ---
-#🌱Seed  #🙂Agree
+
+#🌱Seed   #🙂Agree   #🟡Consideration 
 ****
 > `Importance`: 30%
  

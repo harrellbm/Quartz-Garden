@@ -1,9 +1,9 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-11
+{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-07","publish":true,"PassFrontmatter":true}
 ---
 
-#🌱Seed  #😐Neutral #🌲Evergreen 
+
+#🌲Evergreen
 ****
 > `Importance`: 10%
  
@@ -13,12 +13,11 @@
 ****
 # 🏞 Trailheads
 
-Here are some good places to start a walk through this garden:
+Every trail needs to start somewhere! Here are some good places to start a walk through this garden.
 
 > [!hint]
 > Click a link and see where it goes!
+### A list of notes on related topics: [[Note Collections\|Note Collections]]
 
-![[Note Collections#🍱Note Collections]]
-
-![[Loose Leaf Notes#🍃Loose Leaf Notes]]
+### Or more free form notes: [[Loose Leaf Notes\|Loose Leaf Notes]]
 

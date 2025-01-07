@@ -1,12 +1,13 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-08-19
+{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-07","publish":true,"PassFrontmatter":true}
 ---
+
 #🪴Sprout   #🙂Agree
 ****
 > `Importance`: 60%
  
-***The Big Idea***: There is a better way to think about and go about ministry than always relying on programs. 
+> [!summary] The Big Idea
+> There is a better way to think about and go about ministry than always relying on programs. 
 
 ****
 Example of learning rhythm with Cana eating 
@@ -21,9 +22,9 @@ Colossians 3:9–17 (CSB): since you have put off﻿ the old self﻿ with its pr
 
 THE CHRISTIAN LIFE
 
-12 Therefore, as God’s chosen ones, holy and dearly loved, put on compassion, kindness, humility, gentleness, and patience, 13 bearing with one another and forgiving one another if anyone has a grievance against another. Just as the Lord has forgiven you, so you are also to forgive. 14 Above all, put on love, which is the perfect bond of unity. 15 And let the peace of Christ, to which you were also called﻿ in one body, rule your hearts. And be thankful. 16 Let the word of Christ dwell richly among you, in all wisdom teaching and admonishing one another through psalms, hymns, and spiritual songs, singing to God with gratitude in your hearts. 17 And whatever you do, in word or in deed, do everything in the name﻿ of the Lord Jesus, giving thanks to God the Father through him.
+12 Therefore, as God’s chosen ones, holy and dearly loved, put on compassion, kindness, humility, gentleness, and patience, 13 bearing with one another and forgiving one another if anyone has a grievance against another. Just as the Lord has forgiven you, so you are also to forgive. 14 Above all, put on love, which is the perfect bond of unity. 15 And let the peace of Christ, to which you were also called﻿ in one body, rule your hearts. And be thankful. 16 Let the word of Christ dwell richly among you, in all wisdom teaching and admonishing one another through psalms, hymns, and spiritual songs, singing to God with gratitude in your hearts. 17 And whatever you do, in word or in deed, do everything in the name﻿ of the Lord Jesus, giving thanks to God the Father through him. - Colossians 3:12-17
 
-22 But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, 23 gentleness, self-control; against such things there is no law. Gal 5:22-23
+22 But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, 23 gentleness, self-control; against such things there is no law. - Gal 5:22-23
 
 Rhythm can be the embodiment of character 
 

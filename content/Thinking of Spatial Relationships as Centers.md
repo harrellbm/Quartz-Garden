@@ -1,7 +1,7 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-18
+{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-07","publish":true,"PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree #🟡Consideration 
 ****
 > `Importance`: 10%
@@ -11,7 +11,7 @@
 > 
 > The basic idea is that you can identify a kind of fuzzy zone (which he calls a center) around which there is a certain continuity and harmony around a particular function or structure.
 
-Each center is in itself a whole. This is in line with the idea of [[Center Composed Wholeness]]
+Each center is in itself a whole. This is in line with the idea of [[Center Composed Wholeness\|Center Composed Wholeness]]
 
 > [!Quote] Basic Definition
 > A local center of activity: a living system. It is a focused entity. 
@@ -43,21 +43,21 @@ I have found that overall this is a very helpful way of understanding and talkin
 
 Centers are not stand alone features but are formed by the configuration of the whole. So in order to define what scale of center to look at you have to first start with a “whole” that is really a center of a larger scale. The larger whole of human experience would be the earth. 
 
-If the configuration of the whole changes the centers will shift even if most of the spacial configuration is similar. Meaning that even small changes can create big impacts on an overall system. The while then comes first and centers “settle out” of the whole with its configuration.
+If the configuration of the whole changes the centers will shift even if most of the spatial configuration is similar. Meaning that even small changes can create big impacts on an overall system. The while then comes first and centers “settle out” of the whole with its configuration.
 
 In other words centers are “induced” by the composition of the whole. 
 
 This is in contrast to the usual perspective that a whole is made up of parts in a simple kind of arithmetic.
 
 - symmetry 
-- connnectedness
-- comvexity
+- connectedness
+- convexity
 - homogeneity 
 - boundaries 
 - sharp change of feature 
 These are all factors that can strengthen the presence of a center 
 
-If composed and aligned well Centers can give each other strength: [[The Ways Centers Help Each Other Have More Life]]
+If composed and aligned well Centers can give each other strength: [[The Ways Centers Help Each Other Have More Life\|The Ways Centers Help Each Other Have More Life]]
 
 *** 
 Another set of notes about centers:

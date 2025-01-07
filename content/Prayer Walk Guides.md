@@ -1,7 +1,7 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-10-15
+{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-07","publish":true,"PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
 ****
 > `Importance`: 10%
@@ -44,13 +44,13 @@ There could be two main types:
 
 # Collected Notes from other Materials and Writings:
 
-- [[Reading Scripture Devotionally]]
-- [[Activity-A Conversion with Scripture]]
-- [[Metaphor in Scripture]]
-- [[A Conversation with God (Epistle)]]
-- [[Quiet Muttering]]
-- [[Psalms-The Language of Our Heart]]
-- [[Sacred Space]]
-- [[Lectio Divina]]
-- [[Oratio, Meditatio, Tentatio]]
-- [[Treasure of Heaven Sermon Outline]]
+- [[Reading Scripture Devotionally\|Reading Scripture Devotionally]]
+- [[Activity-A Conversion with Scripture\|Activity-A Conversion with Scripture]]
+- [[Metaphor in Scripture\|Metaphor in Scripture]]
+- [[A Conversation with God (Epistle)\|A Conversation with God (Epistle)]]
+- [[Quiet Muttering\|Quiet Muttering]]
+- [[Psalms-The Language of Our Heart\|Psalms-The Language of Our Heart]]
+- [[Sacred Space\|Sacred Space]]
+- [[Lectio Divina\|Lectio Divina]]
+- [[Oratio, Meditatio, Tentatio\|Oratio, Meditatio, Tentatio]]
+- [[Treasure of Heaven Sermon Outline\|Treasure of Heaven Sermon Outline]]

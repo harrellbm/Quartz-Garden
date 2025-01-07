@@ -1,20 +1,21 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-10
+{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-07","publish":true,"PassFrontmatter":true}
 ---
+
 #🌱Seed  #😐Neutral 
 ****
 > `Importance`: 10%
  
-> [!The Big Idea]
+> [!summary]
+> Notes from the National Youth workers conference held in New Orleans 2024
 
 Related notes: 
-- [[Seven Practices of Healthy Youth Ministry]]
-- [[Notes on Fundraising, Travel, Risk Management and Logistics]]
-- [[Scaffolding Dance as Parents]]
-- [[Supportive Adults]]
-- [[Notes from Partnering with Parents]]
-- [[Notes from The communal shape of the Christian Life ]]
+- [[Seven Practices of Healthy Youth Ministry\|Seven Practices of Healthy Youth Ministry]]
+- [[Notes on Fundraising, Travel, Risk Management and Logistics\|Notes on Fundraising, Travel, Risk Management and Logistics]]
+- [[Scaffolding Dance as Parents\|Scaffolding Dance as Parents]]
+- [[Supportive Adults\|Supportive Adults]]
+- [[Notes from Partnering with Parents\|Notes from Partnering with Parents]]
+- [[Notes from The communal shape of the Christian Life \|Notes from The communal shape of the Christian Life ]]
 ****
 
 # Dr. Nafzger Bible study 
@@ -34,7 +35,7 @@ People without a story?
 ## the Christian story 
 1. Creation ⬇️ 
 2. A good creation goes bad ❌
-3. God forms his people and sends them 
+3. God forms his people and sends them ➡️
 4. Jesus comes and redeems ✝️
 5. Sends his people out again waiting for Jesus ➡️
 6. Jesus come back and sets it all right ⬇️

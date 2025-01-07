@@ -1,17 +1,17 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-09-17
+{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-07","publish":true,"PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
 ****
 > `Importance`: 10%
  
 >[!Summary] The Big Idea
->
+> I want to eventually write a more through treatment of Digital Gardening and how it can be used as a different way to approach inhabiting digital space in a positive and generative way. 
 
 ****
-[[Digital Gardening]]
-[[Inhabiting Shared Space]]
-[[Tech Framework]]
-[[Patterns of Liturgy-The Rhythm of Life]]
-[[Models of Human Rhythms]]
+[[Digital Gardening\|Digital Gardening]]
+[[Inhabiting Shared Space\|Inhabiting Shared Space]]
+[[A Theology of Technology\|A Theology of Technology]]
+[[Patterns of Liturgy-The Rhythm of Life\|Patterns of Liturgy-The Rhythm of Life]]
+[[Models of Human Rhythms\|Models of Human Rhythms]]

@@ -1,12 +1,13 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-17
+{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-07","publish":true,"PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree #🗣Sermon 
 ****
 > `Importance`: 10%
  
-***The Big Idea***: 
+> [!summary]
+> Outline of a sermon given at OS
 
 ****
 
@@ -26,7 +27,7 @@ I think part of that difficulty is that we usually read things we don’t have t
 
 But scripture is like that storehouse full of all kinds of treasures. It’s not meant to just be quickly read and then moved on. We are supposed to sit with it and let it soak into us 
 
-A while ago I taught you guys about one way to read scripture called [[Lectio Divina]]. It is a beautiful way to read scripture using four steps: 
+A while ago I taught you guys about one way to read scripture called [[Lectio Divina\|Lectio Divina]]. It is a beautiful way to read scripture using four steps: 
 
 Lectio - read
 
@@ -38,7 +39,7 @@ Complatio - contemplate 
 
 This is one really good way to help us sit with Scripture and let it teach us 
 
-During Martin Luther’s time as a monk would have no doubt used this lectio divina method. And in fact he adapted the steps to follow the pattern of reading scripture he saw pop up over and over throughout Psalm 119 - [[Oratio, Meditatio, Tentatio]]
+During Martin Luther’s time as a monk would have no doubt used this lectio divina method. And in fact he adapted the steps to follow the pattern of reading scripture he saw pop up over and over throughout Psalm 119 - [[Oratio, Meditatio, Tentatio\|Oratio, Meditatio, Tentatio]]
 
 Psalm 119 is the longest of the Psalms and has a line of poetry for every letter of the Hebrew alphabet. Throughout Luther points out three main things the Psalmist does over and over with Gods word 
 

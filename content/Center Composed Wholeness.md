@@ -1,7 +1,7 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-10-03
+{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-07","publish":true,"PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree 
 ****
 > `Importance`: 10%
@@ -17,7 +17,7 @@ Usually most western scientific thinking pictures everything made up of parts. I
 
 But the idea of wholeness composed of centers is a top down approach. Wholeness with this definition sees the world as a coherent whole out of which arises the smaller parts. This is more like Michelangelo’s approach to sculpting where he just “got rid” of the extra stone to reveal the figure that was already there. 
 
-Taking this a step further then. Defining these smaller parts as centers like here: [[Thinking of Spatial Relationships as Centers]]
+Taking this a step further then. Defining these smaller parts as centers like here: [[Thinking of Spatial Relationships as Centers\|Thinking of Spatial Relationships as Centers]]
 
 Allows us to think of wholeness along many different scales because each center is itself a whole composed of and forming its own smaller centers. 
 
