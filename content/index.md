@@ -1,5 +1,5 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-17","title":"Base Camp 🏕️","aliases":"Home,Base Camp","publish":true,"PassFrontmatter":true}
+{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-14","title":"Base Camp 🏕️","aliases":["Home","Base Camp"],"publish":true,"tags":["🌲Evergreen"],"PassFrontmatter":true}
 ---
 
 Hello! 👋🏻 
@@ -13,7 +13,7 @@ I have grown increasingly dissatisfied with the exhausting, overwhelming and ove
 My hope is that this site will be more like a little quiet wilderness. A place to slow down, explore, start conversations, and collaborate. That is why I have named it - *The Aspen Grove*.
 
 > [!hint]
-> If you like getting straight to the point. You can skip all my babble and see how this site works here skip down to the section called: "How to Use this Garden"
+> If you like getting straight to the point. You can skip all my babble and see how this site works by skipping down to the section called: "How to Use this Garden"
 # The Calm after the Storm 
 *(Or the story behind the name)*
 
@@ -62,11 +62,6 @@ Here are some basic suggestions for using this garden:
 - Look at a particular note tag and see what other notes have the same tag.
 	- #🟢Conviction or #📝Essay are good ones to try first.
 - If you run into a 404 page it means I haven't made that note yet or haven't uploaded it. If it is interesting to you reach out to me and start a conversation about it.  
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Garden-Trailheads#Trailheads" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 # 🏞 Trailheads
 
 Every trail needs to start somewhere! Here are some good places to start a walk through this garden.
@@ -76,7 +71,3 @@ Every trail needs to start somewhere! Here are some good places to start a walk 
 ### A list of notes on related topics: [[Note Collections\|Note Collections]]
 
 ### Or more free form notes: [[Loose Leaf Notes\|Loose Leaf Notes]]
-
-
-
-</div></div>

@@ -1,5 +1,5 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-31","publish":true,"PassFrontmatter":true}
+{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-02","publish":true,"PassFrontmatter":true}
 ---
 
 #🌱Seed  #😁Strongly-Agree #📓Journal 
@@ -134,17 +134,6 @@ I think the idea of zoom for this first account is less helpful than just the fa
 > [!done]
 > Ended on Gen 1:2 Lol not moving fast today
 
-
-# Third Time
-## 12.31.24
-Read through all in one sitting this time. Was outside facing east in the morning. Definitely a different emotional and physical atmosphere with that. 
-
-It strikes me that we can kind of think of technology in all its forms in regards to the curses of sin. Every piece of technology either helps to ward of sickness, the toil of work or even provide security from the danger of the sinful other. It makes sense how tech can so easily turn into an idol when it literally is trying to undo the effects of sin without ever really dealing with the root of it.
-
-> [!done]
-> Ended on at the end of Gen 3
-
-
 # Finishing Second Time
 ## 1.2.25
 Started with Chapter three this time since I have spent a lot of time in the first two but not as much in the third.
@@ -158,5 +147,31 @@ Everything is put on track for a hard toilsome and painful life until death come
 > [!done]
 > Read all of Chapter three
 
-Need to read From Chapter 1:3 through end of second chapter to finish second time.
+# 1.8.25
+> [!done]
+> Finished Chapter 1
 
+## 1.13.25
+I had never really put together that the second account starts the same way other genealogies start. In verse "in the generations of the heavens and the earth" is the same formulation as it is for Abraham, Noah and many other genealogies. What this adds for me right now is that the second account functions as the core method of understanding the origin of human existence which makes sense since that is the main focus of it as well. It also illuminates and expands the first description of human creation in the image of God. 
+
+I also wonder if the first could be thought of from God's perspective and the second from humans? that seems to be an accurate scale for each. The first is the big grand creations of everything from the very foundations of light and separation of water. while the second is focused on the creation of man and then woman as a harmonious community linked and placed within the garden. Man is seen here as indispensable for the garden to even grow and for naming the animals. 
+
+The word for rib is also interesting it is only used as "rib" in this particular account. All other times it talks about the side of a building or a side room or even side planks on things. Which seems to me to suggest more like God took a chunk out of Adam's side rather than the clean little rib bone we often think of. Also would make sense when Adam says this is bone of my bone and flesh of my flesh. God took out both bone and flesh from Adams side. A bit of a different image in your head for sure.
+
+> [!done]
+> Finished Chapter 2
+# Third Time
+## 12.31.24
+Read through all in one sitting this time. Was outside facing east in the morning. Definitely a different emotional and physical atmosphere with that. 
+
+It strikes me that we can kind of think of technology in all its forms in regards to the curses of sin. Every piece of technology either helps to ward of sickness, the toil of work or even provide security from the danger of the sinful other. It makes sense how tech can so easily turn into an idol when it literally is trying to undo the effects of sin without ever really dealing with the root of it.
+
+> [!done]
+> Ended on at the end of Gen 3
+
+# Third Time
+## 1.8.25
+Read the first few lines in pure Hebrew. It never stood out to me before but the inclusion in verse two where you almost get the expanding of verse 1. With God creating the heavens and the earth and then you start verse two with the earth being formless and void. and the spirit of God hovering over the water. The first word is earth and the last word is water. 
+
+> [!done]
+> Stopped at Gen 1:3

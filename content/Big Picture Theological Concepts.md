@@ -58,6 +58,7 @@
 - Embodied practices (crosses, breath prayer, etc.)
 - 6 Chief Parts of the Catechism
 - Means of Grace and Sacraments
+	- [[The Lord's Supper\|The Lord's Supper]]
 - Economic and Immanent Trinity 
 - Justification and other Gospel metaphors
 - New Heaven and New Earth. Eschatology  

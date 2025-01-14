@@ -1,7 +1,8 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-05","publish":true,"PassFrontmatter":true}
+"Note Planted:": 2024-06-27
+"Last Tended:": 2025-01-08
+publish: true
 ---
-
 #🌱Seed   #😐Neutral   #🟡Consideration
 ****
 > `Importance`: 10%
@@ -32,6 +33,7 @@ Used the list of common good shapes in nature of order book 1 p.183
 - Think 
 - Thin
 - Draw free lines and then color or shade in some of the resulting shapes using two different colors. 
+- Follows from exercise above. Choose individual shapes from resulting from the free draw. Then set up small thumbnail boxes on the page and put on shape in it. Optionally you can color with two contrasting colors. 
 
 # Grid and Hashes 
 - Draw a simple straight line grid 
@@ -40,6 +42,8 @@ Used the list of common good shapes in nature of order book 1 p.183
 # Circle 
 - Draw circles together squishing them together 
 # Half circle 
+- Draw
+# Oval or Ellipse 
 - Draw
 # Square
 - Draw
