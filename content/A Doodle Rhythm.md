@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2025-01-08
+"Last Tended:": 2025-01-15
 publish: true
 ---
 #🌱Seed   #😐Neutral   #🟡Consideration
@@ -77,4 +77,4 @@ Used the list of common good shapes in nature of order book 1 p.183
 # Drawing Exercises 
 - Draw a book cover 
 - Draw daily beauty around you 
-- 
+- look at an object in the room and try to condense it down to the most basic shapes and colors that compose it 
