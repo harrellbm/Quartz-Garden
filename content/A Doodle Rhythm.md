@@ -1,6 +1,6 @@
 ---
 "Note Planted:": 2024-06-27
-"Last Tended:": 2025-01-15
+"Last Tended:": 2025-01-16
 publish: true
 ---
 #🌱Seed   #😐Neutral   #🟡Consideration
@@ -78,3 +78,4 @@ Used the list of common good shapes in nature of order book 1 p.183
 - Draw a book cover 
 - Draw daily beauty around you 
 - look at an object in the room and try to condense it down to the most basic shapes and colors that compose it 
+- Use a “finder” a piece of paper that has a square or rectangle cut out in it to notice a particular scene around you. Draw that scene 

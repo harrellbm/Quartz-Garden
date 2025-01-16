@@ -1,7 +1,7 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-09-17
+{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-16","publish":true,"PassFrontmatter":true}
 ---
+
 #🍋Fruit  #😁Strongly-Agree #🟢Conviction 
 ****
 > `Importance`: 10%
@@ -40,7 +40,7 @@ Light through a window, or the reflection off a lake?
 
 Each and every day we step in and out of many spaces. We eat, sleep, work, rest, and play in space. As embodied creatures, we inhabit a physical world and experience it through space.  Restaurants, malls, even our homes and workplaces are all spaces designed for particular activities.  
 
-> As God created the cosmos we read this description of space’s origin: 
+As God created the cosmos we read this description of space’s origin: 
 > And God said, 
 > “Let there be an expanse in the midst of the waters, 
 > and let it separate the waters from the waters.” 
@@ -67,7 +67,6 @@ To get a sense of what this looks like, imagine having a conversation with someo
 
 Now imagine that conversation in different spaces:
 
-  
 
 Imagine sitting across from each other 
 
@@ -95,8 +94,8 @@ The answer to this question is woven throughout the fabric of Scripture. Story a
 
 In a world that is often dark and broken, Sacred space is something all together otherworldly. One story that captures the power and majesty of Sacred space comes to us from Exodus 3:
 
-Now Moses was tending the flock of Jethro his father-in-law, the priest of Midian, and he led the flock to the far side of the wilderness and came to Horeb, the mountain of God. There the angel of the Lord appeared to him in flames of fire from within a bush. Moses saw that though the bush was on fire it did not burn up. So Moses thought, 
-
+> Now Moses was tending the flock of Jethro his father-in-law, the priest of Midian, and he led the flock to the far side of the wilderness and came to Horeb, the mountain of God. There the angel of the Lord appeared to him in flames of fire from within a bush. Moses saw that though the bush was on fire it did not burn up. So Moses thought, 
+>
 > “I will go over and see this strange sight—why the bush does not burn up.” When the Lord saw that he had gone over to look, God called to him from within the bush, “Moses! Moses!” And Moses said, “Here I am.” “Do not come any closer,” God said. “Take off your sandals, for the place where you are standing is holy ground.” Then he said, “I am the God of your father, the God of Abraham, the God of Isaac and the God of Jacob.” At this, Moses hid his face, because he was afraid to look at God. 
 > - Exodus 3:1-6
 
@@ -128,7 +127,6 @@ The physical encounter of baptism and communion bring us face to face with the H
 > - Psalm 114:7
 
 So we hear the call of the ancient prophets, the call to enter the presence of the Almighty with awe.  If we take this reality seriously, it changes things. As we meet every Sunday as God’s people, gathered in God’s space.  We step before the throne to meet Him and hear His words to us. The ethereal audience with the Alpha and the Omega is ours every Sunday. 
-
 This truth is profound. 
 
 Yet we cannot relegate sacred space only to the sanctuary, leaving it behind as if the tabernacle still stands. Rather, as we hear the call of the prophet to tremble, the words of Jesus come next: “follow me.” Jesus takes us by the hand to follow Him, to take the love, the grace, the very presence of God and to bring it with us out into all the normal everyday spaces we step into. 
@@ -137,5 +135,5 @@ As we continue to ponder the implications of these realities, questions for furt
 
 All of this comes back down to what sacred space is all about.  God meeting with Humans. The creator of the universe stooping down to hear our prayers, to sit with us, to celebrate and to cry with us. The veil is torn! God is here. 
 
-May Jesus accompany you no matter where you go. 
+May Jesus accompany you no matter where you go. May He bless your building and shaping, your inhabiting and abiding.
 Amen.
