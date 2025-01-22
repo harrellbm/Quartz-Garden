@@ -1,15 +1,18 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-19
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
+
 ****
->`Importance`: 20%
- 
+
+> `Importance`: 20%
+
 > [!summary] The Big Idea
 > The various apps I use for learning and keeping my self (kind of) organized.
 
 * * *
+
 - Omnivore for newsletters, subscriptions and quick stashing online content that is interesting 
 - Zotero for physical book, and more long term resource cataloging. So basically add stuff to Zotero when it has reached the level of being actually useful rather than just interesting 
 - Obsidian for notes management 
@@ -17,6 +20,6 @@
 - Google docs for general docs and sharing collaboration 
 - Substack for reading different authors that put out longer form writing
 
-[[Notes from Hartung Conversation 4-12-23]]
-[[Gerhard Method of Theological Study]]
+[[Notes from Hartung Conversation 4-12-23\|Notes from Hartung Conversation 4-12-23]]
+[[Gerhard Method of Theological Study\|Gerhard Method of Theological Study]]
 

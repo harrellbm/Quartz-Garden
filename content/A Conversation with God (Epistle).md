@@ -1,14 +1,17 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-08-19
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
+
 ****
+
 > `Importance`: 10%
- 
+
 ***The Big Idea***: Used as OS #📃Epistle in Series *Mediation on Scripture*, October 2021.
 
 ****
+
 Life gets busy.  I often find myself forgetting to spend time reading and digesting Scripture.  All of us can find a thousand reasons why we don't have time, or don't know where to start, when it comes to slowing down and spending time in God's word. 
 
 Yet Scripture is God's word to us.  It is the most sure and stable place to turn and hear God speaking to us.  Over the next few months, I want to share some thoughts about ways we can approach Scripture.  Not just as a chore or something that goes over our heads, but the real deep meaningful words of God. 

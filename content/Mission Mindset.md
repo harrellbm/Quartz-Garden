@@ -1,10 +1,12 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-12-01
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree  #🟢Conviction 
+
 ****
->`Importance`: 10%
+
+> `Importance`: 10%
 
 > [!summary] The Big Idea
 > As God’s people we have been sent to out to the four corners of the world to proclaim the Gospel and welcome Christ’s children home.  

@@ -1,16 +1,18 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-19","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🌱Seed   #🙂Agree   #🟡Consideration 
-****
->`Importance`: 40%
 
+****
+
+> `Importance`: 40%
 
 > [!Summary] The Big Idea
 > This note is a hub for a variety of ideas and concepts surrounding practices that could be applied in a church community setting.
 
 * * *
+
 # Ideas
 [[Crossroads Art Session\|Crossroads Art Session]]
 

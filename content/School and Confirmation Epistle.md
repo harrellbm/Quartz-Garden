@@ -1,11 +1,13 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-17
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
+
 ****
+
 > `Importance`: 10%
- 
+
 ***The Big Idea***: Used in OS #📃Epistle September 2023
 
 Our Savior’s is full of the hum of school life once again.  It is exciting to be embarking on another school year where the love and grace of Jesus can be shared with our school children big and small. It is such a blessing to be able to provide a Christ centered education for these children as a Church and School community.  
@@ -16,7 +18,7 @@ The lives of our young people are not only being shaped within our School but al
 
 As we embark on this journey together, we appreciate your continued support in prayer and encouragement as we share the good gifts of Jesus.  The gifts that He has freely given to each of us. 
 
->“Freely you have received; freely give.” 
->- Matthew 10:8b
+> “Freely you have received; freely give.” 
+> - Matthew 10:8b
 
 ****

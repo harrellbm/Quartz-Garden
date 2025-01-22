@@ -1,24 +1,28 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-17","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-12-09","Last Tended":"2024-12-30","PassFrontmatter":true}
 ---
 
 #🌿Sapling   #😁Strongly-Agree   #🟢Conviction 
+
 ****
+
 > `Importance`: 10%
- 
->[!Summary] The Big Idea
-> Liturgy is latin for "the work of the people." They are the wonderful way by which we get to practice our faith together as a community. They are an interesting meeting of embodied Biblical truth and human tradition. 
+
+> [!Summary] The Big Idea
+> Liturgy is Latin for "the work of the people." They are the wonderful way by which we get to practice our faith together as a community. They are an interesting meeting of embodied Biblical truth and human tradition. 
 
 Related Notes:
 [[Embodiment of Community\|Embodiment of Community]]
 [[Foundations of Discipleship\|Foundations of Discipleship]]
 [[Introduction to Thematic Liturgies Project\|Introduction to Thematic Liturgies Project]]
 [[Thoughts on Liturgy and Rhythm\|Thoughts on Liturgy and Rhythm]]
+
 ***
+
 # Liturgy as Human Tradition
 
 > [!quote] Book of Concord, Augsburg Confession, Section 15, p. 226
->  Traditions have the purpose of demonstrating and illustrating things for the people. 
+> Traditions have the purpose of demonstrating and illustrating things for the people. 
 
 The book or concord is clear that the idea of Liturgy falls within the category of human traditions, rites and ceremonies. Being written in a context where church rites had become more like magic incantations (i.e. the phrase "Hocus Pocus" literally coming from the Words of Institution in the Latin mass) it makes sense that the reformers had to reorient the church to the true source of our salvation and faith. Liturgy is not what saves people. **Only faith in the saving work of Jesus saves people!** What follows is a helpful distinction to keep this balanced.
 
@@ -44,11 +48,11 @@ The writers of the Book of Concord also outlined a number of valid purposes for 
 - Help people focus on the Holy things of God.
 - Help instruct people about how to live and what to do when.
 
-
 > [!important]
 > Therefore, the core purpose of liturgical practice is to teach and learn the faith in practical and down to earth ways. If a piece of liturgy is not being used for this purpose it has lost it's way. Likewise if a piece of Liturgy is thrown away without consideration for what it was meant to teach an equally poor course of action has been chose.
 
 ****
+
 # Liturgy as Reflection of Scriptural Rhythms
 While one side of the coin is thinking about the human traditions that are a part of liturgical practice. The deeper reality that all this is pushing toward is the fact that Scripture pictures and encourages a particular mode of being. Humans were created to live and relate with God and one another in particular God pleasing ways. All of this flows from the good order of Creation God set in place in the garden of Eden and is restoring through Jesus Christ. 
 

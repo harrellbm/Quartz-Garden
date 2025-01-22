@@ -1,15 +1,18 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-19","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🍋Fruit   #🙂Agree   #🟢Conviction 
+
 ****
+
 > `Importance`: 80%
 
 > [!quote] Alabaster Co., A Reflection on Poetry in Scripture
 > “The Bible is more than prosaic rituals; it is a love letter, a story of adventure & victory, a multigenre conglomeration that God called “good,” full of mystery, romance, comedy, prophecy, even poetry.”
 
 ****
+
 # Our Heart Language
 The Psalms can be thought of as the Christian’s handbook for navigating life[^1].  In it God’s people of old have expressed their joys and woes, struggles and convictions.  They speak the language of a godly life in all its rich beauty and pain.  A language we as God’s people should learn to speak ourselves.  However, “we are often guilty of speaking the strange words of a lament or enthronement Psalm without serious attempts to help worshipers understand what they are saying.”[^2]
 

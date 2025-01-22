@@ -1,15 +1,17 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-21
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
-#🌱Seed  #🙂Agree
-****
->`Importance`: 10%
- 
->[!Summary] The Big Idea
->Major things to teach students throughout the faith formation process
 
-Related Notes: [[Bible Learning Story]]
+#🌱Seed  #🙂Agree
+
+****
+
+> `Importance`: 10%
+
+> [!Summary] The Big Idea
+> Major things to teach students throughout the faith formation process
+
+Related Notes: [[Bible Learning Story\|Bible Learning Story]]
 
 * * *
 
@@ -38,7 +40,7 @@ Practice researching
 
 
 Meditative practice of reading Scripture 
-[[Lectio Divina]]
+[[Lectio Divina\|Lectio Divina]]
 
 Practice meditating on Scripture
 
@@ -52,9 +54,9 @@ How to use tools and resources to solve a problem or investigate a question
 Bible connections Game
   
 
-Academic vs a [[Reading Scripture Devotionally]]
+Academic vs a [[Reading Scripture Devotionally\|Reading Scripture Devotionally]]
 
-[[Metaphor in scripture]].  Not relying only on one but seeing the whole picture.
+[[Metaphor in Scripture\|Metaphor in scripture]].  Not relying only on one but seeing the whole picture.
 
 Start with Bible Project Jewish Meditation Literature:
 

@@ -1,9 +1,11 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-10
+{"publish":true,"Note Planted":"2024-11-10","Last Tended":"2024-10-30","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree 
+
 ****
+
 > `Importance`: 10%
 
 > [!cite] Genesis 1.:28
@@ -11,8 +13,8 @@
 ‘Be fruitful and multiply and fill the earth and subdue it, 
 and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.’”
 
->[!Summary] The Big Idea
->
+> [!Summary] The Big Idea
 
-Related Notes: [[Fruitfulness]], [[Multiplication and Filling the Earth]], [[Dominion Over Creation]]
+Related Notes: [[LCOS Notes/Rhythms and Patterns/Fruitfulness\|Fruitfulness]], [[LCOS Notes/Rhythms and Patterns/Multiplication and Filling the Earth\|Multiplication and Filling the Earth]], [[LCOS Notes/Rhythms and Patterns/Dominion Over Creation\|Dominion Over Creation]]
+
 ****

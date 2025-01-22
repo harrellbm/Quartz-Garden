@@ -1,11 +1,13 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-24","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree
+
 ****
+
 > `Importance`: 10%
- 
+
 > [!summary] The Big Idea
 > Jesus starts preaching with the simple message:
 
@@ -20,5 +22,3 @@ What if this is the core message we should be preaching from rather than law and
 
 > [!question] Question for Study
 > How was this core message used throughout the preaching of Jesus?
-
-

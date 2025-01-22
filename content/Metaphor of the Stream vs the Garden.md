@@ -1,13 +1,15 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-08-19
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
+
 ****
+
 > `Importance`: 40%
- 
->[!Summary] The Big Idea
-The idea of gardening if foundational to [[Digital Gardening]]. It is an alterative way of "being" in digital space that is not time bound. It is opposed to the stream like interfaces of email, social media (Facebook, TickTok etc.), text, etc. that all bombard us with content that will pass us by if we don't keep up with the stream. 
+
+> [!Summary] The Big Idea
+The idea of gardening is foundational to [[Digital Gardening\|Digital Gardening]]. It is an alterative way of "being" in digital space that is not time bound. It is opposed to the stream like interfaces of email, social media (Facebook, TickTok etc.), text, etc. that all bombard us with content that will pass us by if we don't keep up with the stream. 
 
 ****
 
@@ -19,13 +21,13 @@ A garden offers a nice in between. Ideas don't have to be perfectly polished and
 
 This was a useful summary for me to get a handle on what this idea actually offers: 
 
->[!Quote]
+> [!Quote]
 > ## [The Six Patterns of Gardening](https://maggieappleton.com/garden-history#the-six-patterns-of-gardening)
->
->After reading all the existing takes on the term, observing a wide variety of gardens, and collecting some of the [best examples](https://github.com/MaggieAppleton/digital-gardeners), I've identified a few key qualities they all share.
->
->There are a few guiding principles, design patterns and structures people are rallying around. This amounts to a kind of digital gardening [Pattern Language](https://maggieappleton.com/pattern-languages).
->
+> 
+> After reading all the existing takes on the term, observing a wide variety of gardens, and collecting some of the [best examples](https://github.com/MaggieAppleton/digital-gardeners), I've identified a few key qualities they all share.
+> 
+> There are a few guiding principles, design patterns and structures people are rallying around. This amounts to a kind of digital gardening [Pattern Language](https://maggieappleton.com/pattern-languages).
+> 
 > ### 1. Topography over Timelines
 > 
 > Gardens are organized around **contextual relationships and associative links**; the concepts and themes within each note determine how it's connected to others.

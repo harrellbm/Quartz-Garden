@@ -1,19 +1,22 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-07","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🌿Sapling #😁Strongly-Agree  #📝Essay 
+
 ****
+
 > `Importance`: 95%
 
 > [!quote] Scripture Focus
->“There is a way that seems right to a man, but its end is the way to death.” 
->- Proverbs 14:12
+> “There is a way that seems right to a man, but its end is the way to death.” 
+> - Proverbs 14:12
 
 > [!abstract] Thesis
 > Human beings are not best understood as a compilation of parts with a main driver but as a holistic creature eluding any tight definition. 
 
 ****
+
 # A Brewing Crisis 
 
 We live in a world slumbering on the edge of yet another technological revolution. Artificial Intelligence is jumping out of the pages of science fiction (or so we are told) into more and more everyday forms. At the time of writing, the Sora model can now generate videos that need intensive investigation to determine if they are real or artificially generated. Not to mention well known Large Language Models like ChatGPT or Gemini are but one type of iteration on the underlying technology of Neural Networks. Theorists have clearly outlined the exponential nature of technological change.[^1]  Meaning that our projections of emerging AI should not follow a mindset of small regular improvements, but that of a snowball effect. This trend has already played out in the development of AI up to this point. Initial theorization and experimentation with the basic concepts behind today's top AI models started in 1949 with Donald Hebb.[^2] Here we are seventy five years later quickly passing a tipping point. No longer are developments measured in decades, or years, but every month there is a new announcement of a breakthrough and additional capability of some sort. Regardless of if these technologies ever reach the mythical level of Hal 9000, or not, the trajectory and pace of change is clear. 

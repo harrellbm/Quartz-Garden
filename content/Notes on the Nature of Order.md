@@ -1,11 +1,13 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-07","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🪴Sprout  #🙂Agree  #🟡Consideration 
+
 ****
+
 > `Importance`: 30%
- 
+
 > [!Summary] The Big Idea
 > [[Christopher Alexander (Architect, Author)\|Christopher Alexander (Architect, Author)]] lays out a huge perspective on how the built environment interacts with the human wellbeing and functioning of society.  This also bleeds into claims on [[Cosmology\|cosmology]] and the order of the universe and humanity.
 
@@ -16,7 +18,9 @@ Website that has overviews of the Books:
 > it seems to me there is great congruence between the ideas of quality of life and wholeness described by Alexander and the biblical principles of shalom and righteousness. It would be interesting to line them up next to each other and see just how similar and different they are. Because if you could sub in the idea of shalom in describing the process of creating living centers that would be a much more profound and far reaching understanding of our [[Corom Mundo\|corom mundo]] work than the typical ministering to felt needs or providing public services. Rather all work could be seen as pushing toward peace and righteousness in a way that one day when Jesus returns will not be separated into temporal and spiritual or before man or before God when Jesus returns. But for now we just get to see the starting of there overlap
 
 Another set of notes on the Nature of Order Books: [Stefan’s Notes Key Concepts](http://nature-of-order.stefan-lesser.com/key-concepts)
+
 ***
+
 # Book One: The Phenomenon of Life
 So far I am impressed with his down to earth approach 
 
@@ -55,7 +59,6 @@ This is a quality that we can perceive with our gut feeling when we ask. Which h
 
 This differentiation in degrees of life is argued to not be a private subjective judgement but an objective and homogeneous interpretation common to humans as a whole 
 
-
 > [!Quote] the Fundamental Hypothesis 
 > What we call “life” is a general condition which exists, to some degree or other, in every part of space: brick, stone, grass, river, painting, building, daffodil, human being, forest, city. And further: The key to this idea is that every part of space - every connected region of space, small or large - has some degree of life, and that this degree of life is well defined, objectively existing, and measurable. 
 > - Nature of Order, bk1., p. 77 
@@ -66,6 +69,7 @@ This differentiation in degrees of life is argued to not be a private subjective
 > This means that the objectivity that he argues for in the prescience of life cannot stand only on personal senses but primarily on the word of God. 
 > 
 > Another way to connect this is that the quality of life is also a way to tangible see and perceive righteousness around us. In other words, we could say that things that are rightly order, or righteous, will by nature of their good order be full of more life and wholeness.
+
 ## The Wholeness of Space
 Moving to the abstract idea that this quality of life is composed of ״the wholeness” and centers.
 
@@ -76,7 +80,6 @@ The wholeness is the overall cohesiveness and interrelated nature of everything.
 > - Nature of Order, bk 1., p. 81
 
 Argues that the strength of various entities that make up a whole can actually be mathematically calculated making them real aspects of the space in which they exist rather than just some random concept or differentiation. 
-
 
 > [!Quote] 
 > these parts and entities are rarely pre-existing. They are more often themselves *created* by the wholeness….
@@ -97,12 +100,10 @@ This leads to a different way of conceptualizing wholeness that can be called:  
 More expanded notes on centers: 
 [[Thinking of Spatial Relationships as Centers\|Thinking of Spatial Relationships as Centers]] 
 
-
 > [!Quote] What is Wholeness?
 > My answer is that the wholeness is not merely a way of focusing on the gestalt of a thing, but is instead a real structure, an actual “thing” in itself….
 > This wholeness gets its strength from the coherent spatial centers of which it is made. If there are roses around a front door of a cottage, that is what you remember.
 > - Nature of Order, bk 1., p. 90
-
 
 > [!Quote]
 > The wholeness of any portion of the world is this system of larger and smaller centers, in their connection and overlap. 
@@ -114,11 +115,9 @@ Centers are not connected to categories and words we have to define things direc
 
 The importance of this is that it is focused on the deep meaningful and functional areas in a space that are not easily changed by just little design details but give the space its character feeling, and functional structure. These don’t always have convenient names 
 
-
 > [!Quote] 
 > (Centers) control the real behavior of the thing, the life which develops there, the real human events which happen, and the feelings people have about living there. 
 > Nature of Order, bk 1., p. 95
-
 
 > [!Quote] Wholeness as a Fundamental Structure
 > I propose a view of physical reality which is dominated by the existence of this one particular structure, W, the wholeness. In any given region of space, some subregions have higher intensity as centers, others have less. Many subregions have weak intensity or non at all. The overall configuration of the nested centers, together with their relative intensities, comprise a single structure. I define this structure as “the” wholeness of that region. 
@@ -130,20 +129,17 @@ He argues that the wholeness exerts influence on every level of scale down to ho
 
 Centers are also embodied in social life like how meals are eaten, or welcoming and leave taking happens. As well as by changing and event like entities like sun beams or momentary meetings. 
 
-
 > [!Summary] 
 > Basically he is trying to get at a system that can talk about the interaction and formation of the built environment with human life and culture on every level. These are ridiculously complex things on their own so it makes sense that trying to understand their interactions is as difficult and abstract as it is so far. 
-
 
 > [!Quote] 
 > I believe that *all* centers that appear in space - whether they originate in biology, in physical forces, in pure geometry, in color - *are* alike simply in that they all animate space. It is this animated space that has its functional effect upon the world, that determines the way things work, that governs the presence of harmony and life. 
 > - Nature of Order, Bk 1., p. 106
 
-
 > [!NOTE] Perspective 
 I like the idea of wholeness and centers over all. the one thing that I think I have an issue with is the divorce of wholeness from morality. I think that using this from a Christian perspective means that there is a difference between healthy and unhealthy “wholeness” because an unhealthy wholeness will by nature create a system of centers that is unhealthy, like wise with healthy. So you can’t just totally just jump off into the eastern “the world is what it is” kind of mentality. Which is not his point as he gets into explaining how to create and sustain more life and beauty in the world but still something to keep in mind. 
->
->I think I see why he makes the point that it is neutral. Because he argues that the idea of wholeness is a neutral structure present every where in the world. So good or bad there is always a whole thing because it is a structured way of seeing things not a moral or value driven concept 
+> 
+> I think I see why he makes the point that it is neutral. Because he argues that the idea of wholeness is a neutral structure present every where in the world. So good or bad there is always a whole thing because it is a structured way of seeing things not a moral or value driven concept 
 
 Off of this he argues that the quality of life is also a structural phenomenon that can be discerned from within a wholeness (that is a thing which is whole, which would be everything).
 
@@ -158,11 +154,9 @@ Key ideas connecting this all:
 
 A center is not made of other smaller different parts but centers are made of centers and make up other larger centers. The basic argument is that we cannot subdivide wholeness into discreet categories or smaller things but that all things share this common structure or forming into centers. 
 
-
 > [!Quote] 
 > The nature of these centers can therefore be understood only reflexively, or recursively. This is one reason wholeness looks so mysterious to those who are wedded to mechanistic thought. 
 > - Nature of Order, bk 1., p. 116
-
 
 > [!Quote] 
 > *Centers are always made of other centers.* A center is *not* a point, *not* a perceived center of gravity. It is rather a field of organized force in an object or part of an object which makes that object or part exhibit centrality. This field-like centrality is fundamental to the idea of wholeness. 
@@ -172,26 +166,19 @@ Argues that the circularity of wholeness and centers is not a logical mistake bu
 
 Another way to see centers is as a “field of force in space.” Centers are more than just nested centers but also help each other in an organized structure to create the field effect of centeredness. 
 
-
 > [!Quote] Definition of Centers as Fields
 > Each center is a field of other centers.
 > - Nature of Order, bk 1., p. 120
-
-
 
 > [!Quote]
 > A rough rule of thumb, we may keep hold of the idea that centers are coherent entities, often marked by local symmetry, by differentiation, by the presence of a boundary, and by convexity, which coordinate to cause a field effect. 
 > - Nature of Order, bk 1., p. 121
 
-
 Argues that centers change and support each other so that their level of life and what they “are” is completely different when surrounded by different centers. 
-
 
 > [!Quote] 
 > The concept of life or living structure - as something caused by the density of living centers in any given wholeness - explains life and function in a large variety of cases 
 > - Nature of Order, bk 1., p. 134
-
-
 
 > [!Quote] 
 > the idea of life as something which may occur in any spatial system, and suggested that the degree of life which appears in a things depends on the life of its component centers and their density. Thus, broadly, we have a theoretical scheme in which the life of a thing, or building, or system, depends on the extent to which the centers in this thing cohere and help each other. 
@@ -200,6 +187,7 @@ Argues that centers change and support each other so that their level of life an
 He continues to develop this line of thinking into a full blown system of analysis by outlining fifteen attributes or relationships that help centers create more life within each other. 
 
 This is the basic list: 
+
 > 1. Levels of Scale 
 > 2. Strong Centers
 > 3. Boundaries 
@@ -219,11 +207,9 @@ This is the basic list:
 Here are specific notes on each centers relationship: 
 [[The Ways Centers Help Each Other Have More Life\|The Ways Centers Help Each Other Have More Life]]
 
-
 > [!Quote]
 > If we are to use the theory of centers — and the concept of life — as the basis of all [[Architecture\|architecture]], it would be reassuring to know that wholeness, together with the properties which bring centers to life, is a necessary feature of material reality, not merely a psychological aspect of things which arises during perception of works of art.
 > - Nature of Order, Bk. 1, p. 244
-
 
 > [!Quote] 
 > In general, the "strength" of any center — its degree of life — is a measure of its organization. One might measure this by its lifetime as a structure, or by its ability to resist disruption, or by its influence on the wholes around it. By almost any of these measures, the stronger a center is, the more powerful its impact on other nearby centers,
@@ -235,6 +221,7 @@ The method by which he observes the world
 TODO: redo notes from 246 on
 
 ****
+
 # Book Two: The Process of Creating Life 
 
 [[Structure Preserving Transformation or Smooth Change or Unfolding\|Structure Preserving Transformation or Smooth Change or Unfolding]]

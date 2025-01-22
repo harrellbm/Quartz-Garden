@@ -1,9 +1,11 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-10-02
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
+
 ****
+
 > `Importance`: 10%
 
 > [!summary] The Big Idea
@@ -20,8 +22,9 @@ Basically we can think along two axises: time and space.
 
 ## Space
 Spacial Configuration: like in 
-[[The Quality of Life in Environments and Objects]]
+[[The Quality of Life in Environments and Objects\|The Quality of Life in Environments and Objects]]
 
 
-Related Notes: [[Models of Human Rhythms]], [[Patterns of Liturgy-The Rhythm of Life]]
+Related Notes: [[Models of Human Rhythms\|Models of Human Rhythms]], [[Patterns of Liturgy-The Rhythm of Life\|Patterns of Liturgy-The Rhythm of Life]]
+
 ****

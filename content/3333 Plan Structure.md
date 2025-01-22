@@ -1,11 +1,13 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-18
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #😐Neutral 
+
 ****
+
 > `Importance`: 10%
- 
+
 > [!Summary] The Big Idea
 > A way of structuring a plan that breaks actions into the first three days, the first three weeks, the first three months, and the first three years. A way to kind of ease into a situation and have things basically organized. 
 
@@ -14,6 +16,7 @@ In addition, this kind of plan is often broken up into different "frames", that 
 I think this might be a little over kill for a useful plan just in the fact that it is hard to know what is realistically possible in three years. I think a one year time horizon is easier to conceptualize for me. 
 
 ****
+
 # First Three Days
 
 ## HR Frame

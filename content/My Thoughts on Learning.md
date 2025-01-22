@@ -1,16 +1,18 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-11","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-11-10","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🌱Seed  #😐Neutral 
-****
-> `Importance`: 10%
- 
->[!Summary] The Big Idea
-> I have been thinking a lot about learning and [[Pedagogy\|pedagogy]]. I can't say its all organized yet but here are a lot of random pieces that I have thought about.
-> 
 
 ****
+
+> `Importance`: 10%
+
+> [!Summary] The Big Idea
+> I have been thinking a lot about learning and [[Pedagogy\|pedagogy]]. I can't say its all organized yet but here are a lot of random pieces that I have thought about.
+
+****
+
 [[Types of Pedagogy\|Types of Pedagogy]]
 [[Basic Philosophies of Community Rhythm and Project Lifecycle\|Basic Philosophies of Community Rhythm and Project Lifecycle]]
 [[Bible Study Structures\|Bible Study Structures]]

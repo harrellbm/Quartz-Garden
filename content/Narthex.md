@@ -1,22 +1,22 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-18
-aliases:
-  - Church Entryway
+{"aliases":"Church Entryway","publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🪴Sprout   #🙂Agree
+
 ****
+
 > `Importance`: 10%
- 
+
 > [!summary] The Big Idea
 > The entryway is a unique place within a church.  It is the place where many good mornings and farewells are exchanged.  It is the first space a visitor will see.  The traditional term for a church entryway is the Narthex.  The early church dedicated this space to those wishing to become a part of the Christian community.  The narthex is the first (and in many cases the only) space visitors were allowed to enter.  The narthex is the portal from the outside world into the slice of heaven ushered in by the word and sacrament ministry held within. 
->
+> 
 > Modern psychological research has further confirmed the wisdom of the early church’s use of the narthex. Humans form first impressions rapidly. Many studies have found that it can take as little as seven seconds for first impressions to begin cementing.  In our context, that is just about as long as it takes to enter through the interior doors of our entryway.    
->
+> 
 > What does a visitor see as they step through our doors?
->
+> 
 > Our entryway has a unique anatomy.  As it stands now it is composed of three main areas: the initial tiled entryway, the walkway to the sanctuary, and the seating area. 
->
+> 
 > All of these areas seek to fulfill a large range of functions. In doing so we have diluted the main purpose of an entryway/narthex. Rather than a place of welcoming, it currently stands as a long, nondescript, hallway.  A patchwork conglomeration of signs, pamphlets, tables, chairs and whatever else gets thrown into it from season to season. Nothing stands out. There is no unifying theme, nor does the space flow in a particular direction, or guide the eye.
 
 ****
@@ -70,7 +70,20 @@ As described in the introduction to this proposal, the primary function of our e
 
 In addition to this, gathering, sharing information, and creating atmosphere are secondary functions of value.  
 ## Aesthetic
-![[Aesthetic#A Christian Aesthetic]] 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Aesthetic#A-Christian-Aesthetic" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# A Christian Aesthetic
+
+> [!summary] The Big Idea
+> We as God’s church have a unique perspective and relationship with the ideas of beauty and aesthetic.  Unlike businesses we do not brand or decorate with the purpose of selling people something.  Nor do we play popularity contests to try and draw the most people with what is flashy or trendy.  Rather, the foundation of what things should look like, and how art and decorations function in our spaces, comes from the way God uses these things in the history of His people.  The story of building the Tabernacle is a particularly important story for how we envision and shape sacred space.  It is from that story we see God himself placing value on the creation of beautiful space for the worship and gathering of His people.  Gold, silver, precious stones, and fine linen are just a few of the valuable materials used in the creation of this sacred space.  While an entry way does not warrant that level of ornamentation, it is important that we frame our discussion with the reality that beauty is something that matters in the way we design sacred space.
+
+****
+
+</div></div>
+ 
 ### What does the space look like now?
 
 Beginning with colors, our entryway has: reds, pink, black, dark grey, light grey, green, blue, purple, various woods, and cream stone. 

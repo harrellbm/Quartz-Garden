@@ -1,15 +1,18 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-16","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-12-16","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🌱Seed   #🙂Agree   #📓Journal 
+
 ****
+
 > `Importance`: 10%
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > Obadiah deals with judgment toward Edom because of taking advantage of the downfall of Israel. Offers hope for Israel to return.
 
 ****
+
 Obadiah is the shortest book in the Bible with only 21 verse
 
 Talks about Edom (the decedents of Esau as the archetype of prideful nations that have taken advantage of Israel)

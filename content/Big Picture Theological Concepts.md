@@ -1,15 +1,18 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-07","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🌲Evergreen  #😁Strongly-Agree  #🟢Conviction 
+
 ****
->`Importance`: 98%
- 
->[!Summary] The Big Idea
+
+> `Importance`: 98%
+
+> [!Summary] The Big Idea
 > A Collection of various theological thoughts.
 
 * * *
+
 ## Big Picture Theological Principles and Frameworks 💡
 
 - [[Law and Gospel\|Law and Gospel]]

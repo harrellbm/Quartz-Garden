@@ -1,0 +1,25 @@
+---
+{"publish":true,"Note Planted":"2024-12-01","Last Tended":"2025-01-22","PassFrontmatter":true}
+---
+
+#🌱Seed  #🙂Agree 
+
+****
+
+> `Importance`: 10%
+
+> [!Summary] The Big Idea
+> The idea of law and commandments in scripture is far deeper than how we use it in [[Law and Gospel\|Law and Gospel]] law and gospel or [[Three Uses of the Law\|Three Uses of the Law]]. Those are good starting frameworks but do not contain the fullness of scripture and Gods will expressing as law 
+
+****
+
+Commandments seem as blueprints for the world 
+
+Commandments as the good will of God for creation 
+
+Asking “who does this protect?” As an entry point for studying a particular law 
+
+Looking for the main principle or perspective for looking at the world expressed by a law. That is the kind of spirit of the law we can apply as Christians. The actual letter of each law not so much 
+
+Commandments as expandable and contractable all the way down to two main commandments according to Jesus all the way out to specific laws on lending or farming in Israel 
+

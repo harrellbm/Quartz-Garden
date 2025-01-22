@@ -1,9 +1,11 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-18","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree
+
 ****
+
 > `Importance`: 10%
 
 > [!Summary] The Big Idea

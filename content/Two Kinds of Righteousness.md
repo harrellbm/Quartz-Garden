@@ -1,16 +1,19 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-19
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2024-11-19","PassFrontmatter":true}
 ---
+
 #🌿Sapling  #😁Strongly-Agree #📚Definition #🟢Conviction 
+
 ****
+
 > `Importance`: 100%
 
 > [!summary] The Big Idea
 > Life can be thought of along two major plains of activity Coram Deo (before God) and Coram Mundo (before Man). It is only when we keep these areas of activity in their proper place that we avoid either trying to climb up to God using our Active Righteousness. While also avoiding using the Passive Righteousness we receive through Christ as an excuse to ignore our neighbor. 
 
 ****
->[!note]
+
+> [!note]
 > Used as OS June/July 2023 #📃Epistle 
 > Used as LCOS Dec 2025 #📃Epistle 
 

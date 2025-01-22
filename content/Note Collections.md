@@ -1,15 +1,18 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-07","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-11-11","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🌲Evergreen 
+
 ****
+
 > `Importance`: 10%
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > List of various collections of notes
 
 ****
+
 # 🍱Note Collections
 
 ## Musings on Faith and Life

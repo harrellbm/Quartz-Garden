@@ -1,15 +1,18 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-02","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-12-05","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🌱Seed  #😁Strongly-Agree #📓Journal 
+
 ****
+
 > `Importance`: 50%
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > I have decided to try something that I have heard about. Reading a story ten times to really soak it in and get familiar with it. It is a loose form of meditation on Scripture and one that I think will help me to actually dig deeper. So Here goes we will see how it end up!
 
 ****
+
 # First Time 
 ## 12.5.24
 I have been thinking a lot about the creation story being a very foundational part of scripture. without it we do not have a clear idea of why Jesus needed to come or eve what the creation is and why God would want to save it. 
@@ -66,7 +69,6 @@ This seems to suggest two ways of evaluating each created things:
 
 > [!question]
 > I wonder what the significance of the sun and moon getting created so late has when matched up with revelation and the assertion that the new creation won't need a sun because Jesus will be all the light needed?
-> 
 
 > [!note] Reflection
 > Wow that was actually really crazy. I was not reading so that I could get the right answer or so that I could teach it or anything like that but just reading to see what is there and really chew on it. That seems to have brought forward a lot of the things I have been thinking about already but also just seeing things I had not noticed before. 
@@ -77,6 +79,7 @@ This seems to suggest two ways of evaluating each created things:
 
 > [!done]
 > Ended today on Genesis Ch 1:31
+
 ## 12.9.24
 The ordering of things is different in gen 2 that seems to denote a different relationship between things in creation. It is zoomed in on the creation of humanity. Plant life seems to be created but not growing yet because of two reasons:
 
@@ -148,6 +151,7 @@ Everything is put on track for a hard toilsome and painful life until death come
 > Read all of Chapter three
 
 # 1.8.25
+
 > [!done]
 > Finished Chapter 1
 
@@ -160,6 +164,7 @@ The word for rib is also interesting it is only used as "rib" in this particular
 
 > [!done]
 > Finished Chapter 2
+
 # Third Time
 ## 12.31.24
 Read through all in one sitting this time. Was outside facing east in the morning. Definitely a different emotional and physical atmosphere with that. 

@@ -1,17 +1,19 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-10-09
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree 
+
 ****
+
 > `Importance`: 10%
 
 Dr. Nafzger 
- 
+
 > [!The Big Idea]
-> 
 
 ****
+
 Luther’s table is a good example of communal living 
 
 there for dinner 35-50 people commonly ate with them. Basically everyone from family to students, and employees 

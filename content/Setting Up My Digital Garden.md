@@ -1,15 +1,18 @@
 ---
-{"Note Planted:":"2024-06-28","Last Tended:":"2024-12-11","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🌿Sapling   #🙂Agree   #📊Project 
+
 ****
+
 > `Importance`: 10%
 
->[!Summary] The Big Idea
->Notes on the technical set up of this digital garden.
+> [!Summary] The Big Idea
+> Notes on the technical set up of this digital garden.
 
 ****
+
 # General Notes 
 From a top layer look I am using the basic Stack of: 
 - Obsidian for note writing and editing 
@@ -29,7 +32,6 @@ From a top layer look I am using the basic Stack of:
 - using [quatrz](https://github.com/jackyzha0/quartz) for static site generation (work comp had restrictions but no issue on home laptop)
 	- Had issues getting npx to work was able to use `node quartz/bootstrap-cli.mjs` followed by the command instead 
 	- very easy to just us `-d` option to specify the envelop repo I cloned back down
-
 
 > [!NOTE]
 > You can change the icon and banner of your Quartz site by changing the image files under quartz/static to whatever icon you want 

@@ -1,11 +1,13 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-08-19
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
+
 ****
+
 > `Importance`: 50%
- 
+
 ***The Big Idea***: I have implemented a simple confidence scale to help show my certainty for a note. This helps differentiate concepts that I agree with but have not taken the time to investigate verse those that I have and either strongly agree or disagree with. 
 
 ****

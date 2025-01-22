@@ -1,15 +1,17 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-18
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #😐Neutral 
-****
-> `Importance`: 10%
- 
->[!Summary] The Big Idea
->
 
 ****
+
+> `Importance`: 10%
+
+> [!Summary] The Big Idea
+
+****
+
 Install docker desktop
 
 Initialize docker dev environment from forked repo
@@ -112,7 +114,9 @@ First almost working dev container for lean time. Has correct php, node, and npm
 
     - mpdf/mpdf[v8.1.3, ..., v8.1.6] require ext-gd * -> it is missing from your system. Install or enable PHP's gd extension.
 
-    - Root composer.json requires mpdf/mpdf ^8.1.3 -> satisfiable by mpdf/mpdf[v8.1.3, v8.1.4, v8.1.5, v8.1.6].
+    - Root composer.json requires mpdf/mpdf
+{ #8}
+.1.3 -> satisfiable by mpdf/mpdf[v8.1.3, v8.1.4, v8.1.5, v8.1.6].
 
 Locally run make
 

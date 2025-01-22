@@ -1,16 +1,20 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-18","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-23","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🪴Sprout  #🙂Agree  #🟡Consideration 
+
 ****
+
 > `Importance`: 40%
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > This change is basically the idea that all life giving change comes from an unfolding process that starts with the current structure of the whole and makes step by step changes to enhance and extend the wholeness. This process respects the current structure and basically seeks to change the least amount of big/strong/living centers in order to maximize the positive effects of the change. Because if you introduce a new strong center but destroy two others you really haven’t improved anything. 
 
 Chapter from Nature of Order Book 2 that Covers this basic Concept: [[Structure Preserving Transformations Nature of Order Book 2 Chapter 2.pdf]]
+
 *** 
+
 If I am not mistaken, the basic delineation between structure-preserving and structure-destroying is the amount of life (structural life not necessarily organic life) added or subtracted from the overall structure (or wholeness). Which means that the only way for a natural process to be structure-destroying would be if the overall life of the whole is **less** after a natural process than before.  With that criteria, it is pretty much impossible to think of a natural process that does not in someway increase the life of the system. Alexander even points out that natural decay serves a similar purpose of clearing the way for new life to emerge. 
 
 I think this stems from the underlying cosmology that Alexander lays out stating that the whole is primary. Parts (really smaller wholes) arising from the wholeness rather than pieces of structure being put together to make the whole. 

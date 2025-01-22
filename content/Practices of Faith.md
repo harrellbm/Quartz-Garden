@@ -1,11 +1,13 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-18
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🪴Sprout   #🙂Agree
+
 ****
+
 > `Importance`: 10%
- 
+
 > [!note]
 > An #📃Epistle used for OS in Jan 2023 covering a basic look at healthy Christian living.  
 

@@ -1,7 +1,7 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-09-09
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
 ****
 > `Importance`: 10%
@@ -10,6 +10,6 @@
 
 The idea is to be out in the community around people I wouldn’t run into otherwise 
 
-[[Inhabiting Shared Space]] in order to get to know people as people opening a relationship that lets them see your life and you see their’s 
+[[Inhabiting Shared Space\|Inhabiting Shared Space]] in order to get to know people as people opening a relationship that lets them see your life and you see their’s 
 
 ****

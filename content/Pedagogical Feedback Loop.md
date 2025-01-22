@@ -1,15 +1,18 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-11","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree
+
 ****
->`Importance`: 40%
- 
+
+> `Importance`: 40%
+
 > [!summary] The Big Idea
 > Learning is best achieve within a feedback loop. Actually trying things and then receiving feedback that helps the learner improve for the next attempt is far more effective than other methods of evaluating student progress like grades. 
 
 * * *
+
 ## Conversation with Blu
 Blu and I talked about his very negative experience in school, yet how he loves learning. This seems like a little bit of an oxymoron until you dig into it more. When “traditional” forms of learning like reading or listening to audio books were brought up, he explained how he does not like reading because of his dyslexia and auditory learning does not feel like he can engage his own brain (instead it feels like being force fed an idea or learning content).
 

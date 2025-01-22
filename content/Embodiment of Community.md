@@ -1,15 +1,17 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-16","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🍋Fruit    #🙂Agree   #📝Essay  #🟡Consideration 
+
 ****
+
 > `Importance`: 95%
 
->[!Quote] 
->“So we, though many, are one body in Christ, and individually members one of another.” 
->- Romans 12:5
- 
+> [!Quote] 
+> “So we, though many, are one body in Christ, and individually members one of another.” 
+> - Romans 12:5
+
 > [!abstract] Thesis 
 > Ministry should be thought of, organized, and communicated in terms of created rhythms (i.e. liturgical patterns) rather than programs or contrived roles. 
 
@@ -17,6 +19,7 @@
 > Current form finished November 2023
 
 ****
+
 # Introduction 
 
 Have you ever had an existential crisis? That ticking, tingling, terrifying feeling that the way you have been thinking, or the actual purpose for which you are living, is not quite right. It may come on gradually, or smack you in the face, but every time a new aspect of reality forces itself into awareness. A seed of curious chaos to send your mind spinning. Whether this cycle is a blessing or a curse… I am not entirely convinced. Somehow terror, excitement, distress, and wonder all mix together as a finite creature asks questions that affect the core of our short momentary lives. 
@@ -199,13 +202,13 @@ As we seek to live lives shaped by the liturgy of Scripture, we enter into these
 
 May His liturgy grab our heart and imagination. May it call us into new life each and every morning.  
 
->“He made the moon to mark the seasons; the sun knows its time for setting.
->You make darkness, and it is night, when all the beasts of the forest creep about.
->The young lions roar for their prey, seeking their food from God.
->When the sun rises, they steal away and lie down in their dens.
->Man goes out to his work and to his labor until the evening.” 
->
->- Psalm 104:19-13
+> “He made the moon to mark the seasons; the sun knows its time for setting.
+> You make darkness, and it is night, when all the beasts of the forest creep about.
+> The young lions roar for their prey, seeking their food from God.
+> When the sun rises, they steal away and lie down in their dens.
+> Man goes out to his work and to his labor until the evening.” 
+> 
+> - Psalm 104:19-13
 
 [^1]:  Article on Liturgy and discipleship, James Marriott, 10. [link](https://drive.google.com/file/d/1d5CYDp1PlyT-sHoIG9Wx41NfbU37ws7s/view?usp=sharing)
 [^2]: How the Redeemed World Is Done: Charting the Relationship between Liturgy, Discipleship, and Mission, James Marriott, p. 25

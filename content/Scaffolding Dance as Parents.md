@@ -1,13 +1,14 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-22
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #😐Neutral 
+
 ****
+
 > `Importance`: 10%
- 
-> [!The Big Idea]
 > 
+> [!The Big Idea]
 
 ****
 
@@ -23,7 +24,5 @@ Kids need forgiveness for what they do and parents need forgiveness for our pare
 
 Always working toward launching them 
 
-
 > [!Quote]
 My goal as a parent is not to be right but to do right by you 
-

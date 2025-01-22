@@ -1,12 +1,14 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-06-29
+{"publish":true,"Note Planted":"2024-11-10","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
+
 ****
->`Importance`: 10%
- 
-***The Big Idea***: Type of [[Pedagogy]].
+
+> `Importance`: 10%
+
+***The Big Idea***: Type of [[Pedagogy\|Pedagogy]].
 
 * * *
 

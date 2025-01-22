@@ -1,15 +1,18 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-11","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2024-12-11","PassFrontmatter":true}
 ---
 
 #🌲Evergreen   #🙂Agree   #📊Project 
+
 ****
+
 > `Importance`: 60%
 
->[!Summary] The Big Idea
+> [!Summary] The Big Idea
 > The overall structure I have developed to help easily identify the purpose and function of various notes.
 
 ****
+
 ## Beginning Note Metadata 
 These are pieces of information I will attach to the beginning of each note that helps give clearer context to how I view the ideas and information contained. 
 
@@ -17,8 +20,10 @@ These are pieces of information I will attach to the beginning of each note that
 	Important dates to help frame the note’s life cycle:
 	- Date a note was planted. 
 	- Date note was last tended 
->[!Note] 
->Both dates are auto added/updated using the "Update time on edit" community plugin.
+
+> [!Note] 
+> Both dates are auto added/updated using the "Update time on edit" community plugin.
+
 2. **Epistemic Disclosure**:
 	Tags to make clear the level of work put into an idea:
 	- #🌱Seed an idea that is intriguing but has had very little development. In other words, they are interesting tidbits that I may do more with in the future. 
@@ -60,10 +65,12 @@ This is an example of the current metadata I have composed to start each note. F
 > `Last Tended`: {{date}}
 
 #🌱Seed  #🙂Agree  #🟡Consideration 
+
 ****
- >`Importance`: 10%
- 
->[!Summary] The Big Idea
+
+ > `Importance`: 10%
+
+> [!Summary] The Big Idea
 > A new interesting idea.
 
 * * *

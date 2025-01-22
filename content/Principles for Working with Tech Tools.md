@@ -1,17 +1,19 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-11","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🪴Sprout   #😁Strongly-Agree  
+
 ****
+
 > `Importance`: 40%
- 
->[!Summary] The Big Idea
->Sometime we can react to new technology or tools in two unhelpful ways:
->1. **Avoidance**: We can run away or avoid new tools because they are unfamiliar or seem hard to learn or use. Or we just are comfortable with the way we have gotten used to doing things. 
->	- We miss opportunities to be more productive and effective. What if Paul refused to use the then premier technology of Roman roads? His missionary trips would have been much shorter.
->3. **Blind Acceptance**: We are quick to dump resources and time into a new shiny tool because it is marketed well or seems like an exciting up and coming tool. (Think Betamax or floppy disks). 
->	- What was true of ancient organic tools is true of our silicon technology as well: “The king is not saved by his great army; a warrior is not delivered by his great strength. The war horse is a false hope for salvation, and by its great might it cannot rescue.“ - Psalm 33:16-18
+
+> [!Summary] The Big Idea
+> Sometime we can react to new technology or tools in two unhelpful ways:
+> 1. **Avoidance**: We can run away or avoid new tools because they are unfamiliar or seem hard to learn or use. Or we just are comfortable with the way we have gotten used to doing things. 
+> 	- We miss opportunities to be more productive and effective. What if Paul refused to use the then premier technology of Roman roads? His missionary trips would have been much shorter.
+> 3. **Blind Acceptance**: We are quick to dump resources and time into a new shiny tool because it is marketed well or seems like an exciting up and coming tool. (Think Betamax or floppy disks). 
+> 	- What was true of ancient organic tools is true of our silicon technology as well: “The king is not saved by his great army; a warrior is not delivered by his great strength. The war horse is a false hope for salvation, and by its great might it cannot rescue.“ - Psalm 33:16-18
 
 In order to healthily engage with, learn and employ technology, I have found a few important principles to keep in mind:
 
@@ -27,6 +29,7 @@ In order to healthily engage with, learn and employ technology, I have found a f
 	- For example, think of trying to use a point of sales system made for a business to collect church offerings. They are similar but do not solve the same fundament problems. 
 
 ****
+
 Helpful Articles:
 [Article on a Dude’s attempt to deGoogle his life](https://www.christianpacaud.com/notes/degooglisation.html)
 

@@ -1,22 +1,25 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-10-23
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
+
 ****
+
 > `Importance`: 10%
- 
+
 > [!quote]
->“Can a blind man lead a blind man? 
+> “Can a blind man lead a blind man? 
 Will they not both fall into a pit? 
 A disciple is not above his teacher, 
 but everyone when he is fully trained will be like his teacher.”
->- Luke 6:39-40
+> - Luke 6:39-40
 
 > [!abstract] Thesis
->  Discipleship and Christian formation is a holistic process that involves more than knowing the right things. 
+> Discipleship and Christian formation is a holistic process that involves more than knowing the right things. 
 
 ****
+
 # Towards an Integrated Life
 What is the goal of discipleship? So often we get lost in the weeds of event planning, or the pressures of day to day ministry that taking time to reflect on the end goal of discipleship slips into the background. In our rush to do, we forget what we are meant to be.
 
@@ -27,7 +30,65 @@ So much of modernity has shrunk humanity down to brains on sticks.  If you just
 This topic in and of itself could take up many pages.  It seeks the core of our existence and the purpose for living.  Things no one can quite get away from, no matter the life one may choose.  Because of this, we will use three defining moments from salvation history to anchor our description of humanity.  
 
 # The Two Commissions
-![[The Two Commissions]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/The-Two-Commissions" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+#🌱Seed  #🙂Agree #🟢Conviction 
+
+****
+
+> `Importance`: 10%
+
+> [!summary] The Big Idea
+ God has told humans what we were created to be up to and commissioned us or sent us out to do it in two major moments in Scripture.
+
+> [!note]
+> Used as LCOS Nov 2024 #📃Epistle 
+
+****
+
+# [[The First Commission\|The First Commission]]
+
+As the world settled into its newly created order, God spoke to humanity.  The first blessing, or benediction, uttered over humanity paints a picture of life as it has always been meant to be:
+
+> [!cite] Genesis 1.:28
+> “And God blessed them. And God said to them, 
+‘Be fruitful and multiply and fill the earth and subdue it, 
+and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.’”
+
+This first commission places humans over creation as God ordained care takers. Not only this, but it installs humanity within creation as a legitimate and integral part of the ecosystem.  Humans are meant to flourish within the tapestry of creation. We were created in the wonderful and precious image of God as His workman in a beautifully balanced world. Therefore, the very first and foundational purpose of human existence is as watchful, productive, co-creators.
+
+# The Greatest Commandments 
+Since the fall, humans have wandered far afield of our original purpose as co-creators.  Instead, humans have so often become destroyers inventing new ways to bring destruction upon the world. Out of that darkness, God called a people to bear His name among the smoldering remains of creation. As He called them, He oriented them around a particular image of the good life. An image boiled down to the legendary Shema: 
+
+> [!cite] Deuteronomy 6:4-5
+“Hear, O Israel: 
+The Lord our God, the Lord is one. 
+You shall [[Love the Lord Your God with all Your Heart\|love the Lord your God with all your heart]] 
+and with all your soul and with all your might.”
+
+This image of a good life does not start with knowledge or power, riches or fame. A good life according to God starts with listening. Hearing the realities of who He is and responding with love. The salient action, or mode of being, is loving.  A loving that captures the entirety of our being - heart, soul, and might.   
+
+If we take time to parse out the implications of this deep abiding love, we can see that humans are meant for a unique and vibrant relationship with God. Western thinking so often splits the human being into mind and heart, thought and emotions. This description of humanity is not so divided. 
+
+The Hebrew word for heart (Lavav) speaks of not just the organ, or the locus of emotions, but the seat of memory, will, thought and conscience.  One's heart remembers, longs, meditates, and acts. It is out of the heart that you exist. Partnering with the heart is one's soul or nephesh.  This nephesh animates the actions of the heart. The first descriptions of a human nephesh comes as God breathed the breath of life into Adam.  As the wind of God’s life-giving Spirit enters the man, he becomes a nephesh. So to love God with heart and soul leaves nothing out. There is no corner of the unconscious mind or physical frame that should not be turned toward this life of love.  To seal the image, God even clarifies to what extent His people should take this full bodied and integrated life: ALL your might, everything you got, nothing held back. 
+
+In Mark 12 Jesus pulls this description of humanity to sum up the movements of the Old Testament and affirms their centrality.  He also adds that this life of love is to extend out from our relationship with God to the people around us. The rest of Scripture speaks boldly about this love.  Paul even goes so far in 1 Corinthians 13:2 to say that without this love “I am nothing.” As the picture unfolds, it is clear that humans are meant for more than productivity, success or any of the other idols that so quickly creep into our lives.  
+
+# The Great Commission
+As Jesus ended His ministry on earth He completed the picture of human purpose:
+
+> [!cite] Matthew 28: 19-20
+> “Go therefore and make disciples of all nations, 
+baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you.” 
+
+The rich fabric of Scripture’s commandments and promises are brought to fruition through Jesus. Bearing the name of God in creation is no longer tied to a nation state, but the act of being a disciple. Discipleship is therefore the culmination of centuries worth of reflection, preparation, and now sending. Jesus sending us into lives lived to their fullest. To be a disciple is nothing short of becoming fully human.
+
+</div></div>
+
 The God given purpose of human living.
 # The Full Picture
 As we pull these pieces together, the call to become a disciple of Jesus takes on flesh and bone.  To be a disciple means to be a co-creator and a lover.  A follower that answers the ancient call of the creator to live life in the Gospel. This call speaks of a compelling, even enrapturing experience and dependence on God. 
@@ -119,6 +180,66 @@ To summarize, the end goal of discipleship is about forming and shaping the deep
 “If Scholarship is the goal of discipleship, then we end up with scholars who make more scholars who know right answers. If joining Jesus is the goal of discipleship, then we end up with disciples who make more disciples who participate in the redemption and restoration of all things.” 
 
 # How should we think?
-![[Core Mindsets for a Healthy Community]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Core-Mindsets-for-a-Healthy-Community" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+#🌿Sapling  #🙂Agree  #🟢Conviction 
+
+****
+
+> `Importance`: 50%
+
+> [!Summary] The Big Idea
+> This is a collection of important mindsets for a healthy Christian community.
+
+The categories we use to understand our world matter: [[A Categorical Mind\|A Categorical Mind]]
+
+* * *
+
+- [[Scriptural Mindset\|Scriptural Mindset]] - Scripture remains our sure and final foundation of life and practice. All other sources of wisdom must be subservient to God’s pure word. 
+
+- [[Sacramental Mindset\|Sacramental Mindset]] - The Sacraments are the foundation through which we receive God’s grace. They are the sure, tangible, communal way God has given us to encounter His grace and forgiveness. 
+
+- [[Trinitarian Mindset\|Trinitarian Mindset]] - We worship and serve God who is triune in nature. We recognize the mystery of their communion and the lavish loving nature of their economy of salvation.  Salvation comes From the Father Through the Son By the Holy Spirit. We have been baptized into this triune name and serve no other. 
+
+- [[Mission Mindset\|Mission Mindset]] - As God’s people we have been sent to out to the four corners of the world to proclaim the Gospel and welcome Christ’s children home.  
+
+- [[Discipleship Mindset\|Discipleship Mindset]] - We have been sent out to make disciples. People who follow Jesus into the fields of this world to do the work of the Kingdom.  
+
+- [[Abundance Mindset\|Abundance Mindset]]  - All good things come from God and His gracious hand. We therefore steward the resources we have with gratitude and thankfulness rather than coveting those we lack. 
+
+- [[Other Minded\|Other Minded]] - We are called as members of Christ’s body to look outside ourselves to the needs of others. “If one member suffers, all suffer together; if one member is honored, all rejoice together.” - 1 Cor. 12:26.
+
+- [[Humble Future Focus\|Humble Future Focus]] - Though we cannot see into the future, we expectantly plan and pray for the will of God to become manifest within our community. We can adopt the saying of James 4:15  "If the Lord wills, we will live and do this or that.
+
+Todo: add mindsets outlined in the starfish and the spirit book
+
+</div></div>
+
 # Starting Small and Growing from There
-![[The Edge of the Wedge]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/The-Edge-of-the-Wedge" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+#🌱Seed  #😐Neutral 
+
+****
+
+> `Importance`: 10%
+
+> [!Summary] The Big Idea
+> ”It can be anything, but first it has to be something specific.” 
+> Basically the idea that in order for product or project to succeed it needs to start by solving a specific problem with an eye toward expansion. This balances going too deep or being too broad but lands with the edge of the wedge and pushes outward from there. 
+
+Article that describes this idea:
+[The Zombcom problem](https://open.substack.com/pub/subconscious/p/the-zombocom-problem?r=45i29i&utm_campaign=post&utm_medium=email)
+
+****
+
+
+</div></div>

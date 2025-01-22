@@ -1,15 +1,18 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-24","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-12-24","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🌱Seed   #🙂Agree   #🟡Consideration
+
 ****
+
 > `Importance`: 10%
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > Mountains are an important place of interaction between God and humans. Over and over God has important meetings and interactions with His people on and around mountains.
 
 ****
+
 [list of mountains in the bible](https://christiananswers.net/dictionary/mount.html)
 
 ## Garden of Eden (a mountain garden)

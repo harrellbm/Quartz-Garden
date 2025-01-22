@@ -1,16 +1,20 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-19","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🌱Seed   #🙂Agree   #🟢Conviction 
+
 ****
+
 > `Importance`: 10%
- 
+
 > [!summary] The Big Idea
 > Reading Scripture devotionally can be thought of as having a conversation between God's word and our personal reaction to what God is saying.
 
 Related Note: [[Activity-A Conversion with Scripture\|Activity-A Conversion with Scripture]]
+
 ****
+
 # Conversation with Scripture
 Historical context and study of the text is important for understanding a text but we need to be careful to not make reading scripture all about studying it as an object.  When we study an object it is at arm’s length and does not affect who we are.  
 

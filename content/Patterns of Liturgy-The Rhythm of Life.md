@@ -1,9 +1,11 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-17","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree
+
 ****
+
 > `Importance`: 10%
 
 > [!summary] The Big Idea
@@ -14,7 +16,9 @@
 > Used for LCOS #📃Epistle Dec 2024.
 
 ***Related Notes***: [[Models of Human Rhythms\|Models of Human Rhythms]], [[Private/Personal Reflections on My Personal Rhythms\|Personal Reflections on My Personal Rhythms]], [[Rhythm Reset\|Rhythm Reset]], [[Thoughts on Liturgy and Rhythm\|Thoughts on Liturgy and Rhythm]], [[Basic Philosophies of Community Rhythm and Project Lifecycle\|Basic Philosophies of Community Rhythm and Project Lifecycle]]
+
 ****
+
 # The Rhythm of Life 
 
 Liturgy is a very churchy word. To many liturgy, or liturgical practices, are a very specific set of prayers, and words said every Sunday over and over. In this context, liturgy is either dearly beloved or apathetically repeated. Using the word liturgy in this way has led to many empty debates ending with disagreement over subjective personal taste. 

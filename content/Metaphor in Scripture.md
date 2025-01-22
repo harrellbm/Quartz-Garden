@@ -1,14 +1,17 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-07","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree
+
 ****
+
 > `Importance`: 10%
- 
+
 ***The Big Idea***: Used as OS #📃Epistle Dec 2021. Part of a series Mediation on Scripture.
 
 ****
+
 Continuing with our look into how we as God's people can approach scripture as more than just a book to study, or a chore to complete.  I want to take some time to talk about an important tool used throughout Scripture to communicate meaning.  This is the literary tool called metaphor.  
 
 Metaphors are shorthand for experiences.  They are the images and pictures repeated throughout Scripture that help us think about deep Spiritual ideas using the lens of our normal human experience.  They let us think about things using our experience of something else. Christ as the Groom and the Church as the Bride is a beautiful example.  It allows us to think about our own and the church’s relationship with Jesus using the marriages we have seen and experienced.  But Metaphor also helps us interpret our own experience as well.  For example, who Jesus is and the way He treats His Church can help us realize what a healthy husband-wife relationship should look like.  The metaphors used in Scripture help us go both directions.  On one hand using our own life experience to help us understand who God is and what He is up to, while also helping us see what our lives should look like.  

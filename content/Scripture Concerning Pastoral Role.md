@@ -1,14 +1,17 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-06-29
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
+
 ****
->`Importance`: 10%
- 
+
+> `Importance`: 10%
+
 ***The Big Idea***: Various Scriptures that pertain to the Role of Pastor.
 
 * * *
+
 ## Role/Qualifications of Pastor and Role of Congregation
 
 - 1 Peter 5:1-4 “So I exhort the elders among you, as a fellow elder and a witness of the sufferings of Christ, as well as a partaker in the glory that is going to be revealed: 2 shepherd the flock of God that is among you, exercising oversight,[a] not under compulsion, but willingly, as God would have you;[b] not for shameful gain, but eagerly; 3 not domineering over those in your charge, but being examples to the flock. 4 And when the chief Shepherd appears, you will receive the unfading crown of glory.”

@@ -1,24 +1,24 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2025-01-16
-publish: true
+{"publish":true,"Note Planted":"2025-01-07","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
-#🌱Seed   #😐Neutral   #🟡Consideration
-****
-> `Importance`: 10%
- 
->[!Summary] The Big Idea
->I have often thought about ways to get into drawing more from picking a particular “thing” and drawing it over and over. To just drawing whatever is in front of me.  But with the pace of life I’ve often just never done any of that. 
->
->But doodling seems like a low commitment and easy entry point for just drawing and relaxing. I am going to collect ideas for simple doodles here so it if I am too tired to think or something I can just refer here. 
 
+#🌱Seed   #😐Neutral   #🟡Consideration
+
+****
+
+> `Importance`: 10%
+
+> [!Summary] The Big Idea
+> I have often thought about ways to get into drawing more from picking a particular “thing” and drawing it over and over. To just drawing whatever is in front of me.  But with the pace of life I’ve often just never done any of that. 
+> 
+> But doodling seems like a low commitment and easy entry point for just drawing and relaxing. I am going to collect ideas for simple doodles here so it if I am too tired to think or something I can just refer here. 
 
 > [!note] The Rhythm
->I want to try at the end of the day to just take five to ten minutes to draw one doodle. 
->
+> I want to try at the end of the day to just take five to ten minutes to draw one doodle. 
 
 [[The Fifteen Fundamental Properties\|The Fifteen Fundamental Properties]]
 Used the list of common good shapes in nature of order book 1 p.183
+
 ****
 
 # Abstract Drawing Exercises 
@@ -79,3 +79,4 @@ Used the list of common good shapes in nature of order book 1 p.183
 - Draw daily beauty around you 
 - look at an object in the room and try to condense it down to the most basic shapes and colors that compose it 
 - Use a “finder” a piece of paper that has a square or rectangle cut out in it to notice a particular scene around you. Draw that scene 
+- Blind contour drawing. Focus on drawing the edges of a subject. But never look down at your paper only look at the subject the whole time 

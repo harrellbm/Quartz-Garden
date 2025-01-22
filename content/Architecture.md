@@ -1,14 +1,22 @@
 ---
-"Note Planted:": 2024-06-22
-"Last Tended:": 2024-11-18
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
+
 ****
- >`Importance`: 20%
- 
-***The Big Idea***: Space teaches us by the way it is organized and laid out. We can call this the Pedagogy of Space
+
+ > `Importance`: 20%
+
+> [!summary] The Big Idea
+> The places and space we inhabit matter. They shape the kind of life and community we can most easily have and participate in. The way we build, design and maintain the spaces we are responsible for is a vital part of our call to a Christian life in ways we often tend to overlook. 
+
+Related idea: [[Pedagogy of Space\|Pedagogy of Space]]
+
+Influential perspective toward this understanding: 
+[[Christopher Alexander (Architect, Author)\|Christopher Alexander (Architect, Author)]]
 
 * * *
 
-Interesting website laying out a “language” for building design: 
+Interesting website laying out a Christoper Alexander’s Pattern language for building design in a digital and searchable format: 
 	[Pattern Language](https://patternlanguage.cc/)

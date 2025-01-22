@@ -1,12 +1,14 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-11","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-12-11","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🪴Sprout   #😁Strongly-Agree  #🟢Conviction 
+
 ****
+
 > `Importance`: 90%
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > Humans were not created to just have information or content dumped into our brains as if we were a machine that runs on some kind of fossil fuel. Rather, thinking and learning is a continual process that needs to be encouraged and shepherded across the full life span of an individual. 
 > - There is no age that is too old to learn. 
 > - There is no learner who has finished learning. 

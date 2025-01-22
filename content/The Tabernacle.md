@@ -1,14 +1,17 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-02
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
+
 ****
+
 > `Importance`: 10%
- 
+
 ***The Big Idea***: An #📝Essay I wrote in seminary about the tabernacle.
 
 ****
+
 ## What did the Tabernacle look like?
 
 The tabernacle itself was a multilayered tent. The basic frame of the tent was made out
@@ -81,5 +84,4 @@ dwell with or near but in, a kind of intimacy that can hardly be imagined possib
 accomplished by the strong work of our Savior Jesus Christ. [^2]
 
 [^1]: Milinovich, Timothy. “Religious and Ritual Objects.” Edited by John D. Barry, David Bomar, Derek R. Brown, Rachel Klippenstein, Douglas Mangum, Carrie Sinclair Wolcott, Lazarus Wentz, Elliot Ritzema, and Wendy Widder. The Lexham Bible Dictionary. (Bellingham, WA: Lexham Press, 2016).
-
 [^2]: Selvaggio, Anthony T. From Bondage to Liberty: The Gospel according to Moses. Edited by Iain M. Duguid. The Gospel according to the Old Testament. (Phillipsburg, NJ: P&R Publishing, 2014).

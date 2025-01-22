@@ -1,12 +1,14 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-12-01
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
+
 ****
->`Importance`: 10%
- 
-***The Big Idea***: Type of [[Pedagogy]]
+
+> `Importance`: 10%
+
+***The Big Idea***: Type of [[Pedagogy\|Pedagogy]]
 
 **Place on Continuum**: Teacher Led Discussion
 
@@ -17,4 +19,3 @@ Each class begins with the discussion of the day’s theme.  This should take u
 This structure does require problem solving and a high level of participation from the participants.  It will require a significant amount of buy in.
 
 ---
-

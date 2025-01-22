@@ -1,15 +1,18 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-18","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-12-18","Last Tended":"2024-12-18","PassFrontmatter":true}
 ---
 
 #🌱Seed   #😐Neutral   #🟡Consideration
+
 ****
+
 > `Importance`: 10%
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > The Fifteen ways [[Christopher Alexander (Architect, Author)\|Christopher Alexander (Architect, Author)]] lays out how to empirically see and test if something is more whole (has [[The Quality of Life in Environments and Objects\|The Quality of Life in Environments and Objects]])
 
 ****
+
 A link to his archive that connects with this idea:
 [Geometry and Fifteen Fundamental Properties](https://christopher-alexander-ces-archive.org/research/geometry-and-fifteen-fundamental-properties/)
 
@@ -23,10 +26,11 @@ Reading notes and other collected resources I have so far:
 #🌱Seed   #🙂Agree   #🟡Consideration 
 ****
 > `Importance`: 40%
+
 # The Ways Centers Help Each Other Have More Life
- 
->[!Summary] The Big Idea
->One of the major points of Christopher Alexander’s idea of centers from *the Nature of Order - The Phenomenon of Life* is that centers can help each other have greater life. He outlines fifteen ways in which this can be concretely achieved or observed. 
+
+> [!Summary] The Big Idea
+> One of the major points of Christopher Alexander’s idea of centers from *the Nature of Order - The Phenomenon of Life* is that centers can help each other have greater life. He outlines fifteen ways in which this can be concretely achieved or observed. 
 
 See [[The Quality of Life in Environments and Objects\|The Quality of Life in Environments and Objects]] for a full description of his definition of life which is differentiated from organic life. 
 
@@ -50,12 +54,12 @@ See [[The Quality of Life in Environments and Objects\|The Quality of Life in En
 > - Nature of Order, Bk. 1, p. 144
 
 > [!NOTE] Personal Experience 
->So far these have been very eye opening. Especially something simple like levels of scale has made it possible to look at some thing and be able to actually think about if the proportions of it are correct or not. I think this is a good set of language to actually be able to talk about the composition of things.
+> So far these have been very eye opening. Especially something simple like levels of scale has made it possible to look at some thing and be able to actually think about if the proportions of it are correct or not. I think this is a good set of language to actually be able to talk about the composition of things.
 
 ****
+
 # 1. Levels of Scale 
 The idea that centers should have a clean continuum of sizes to help bring life between lager and smaller centers. But the jump in size can’t be too great otherwise the effect is lost and centers will be disjointed. Also centers can’t all be the same or similar size or the loss of effect will happen on the other side with everything feeling cookie cutter and dead. The goal he argues for then is a kind of organic feeling of large to medium to small to extra small centers. In this kind of scale centers can work together in their variety of size to create the quality of life. 
-
 
 > [!Quote] 
 > If the jumps in scale are heavy, deliberate, and somewhat evenly spaced through the levels of scale, a thing will often have this powerful life. 
@@ -78,15 +82,13 @@ The idea of centers being separated by boarders, fences, etc. the interesting ta
 
 > [!Quote]
 > Boundaries do the complex work of surrounding, enclosing, separating, and connecting in various different geometric ways, but one vital feature is necessary in order to make the boundary work in *any* of these ways: the boundary needs to be of the same order of magnitude as the center which is being bounded. If the boundary is very much smaller than the thing being bounded, it can’t do much to hold in or form the center. 
->- Nature of Order, bk. 1, p. 159
+> - Nature of Order, bk. 1, p. 159
 
 Uses example of lips being roughly similar to the size of the mouth. Basically a good boundary should not be hugely different in size from the thing being bounded. 
-
 
 > [!Quote] 
 > Having established the importance of size in a boundary, the next thing that is needed to establish the interlock and connection, coupled with separation, is that the boundary *itself* is also *formed* of centers. 
 > - Nature of Order, bk 1., p. 161
-
 
 > [!Quote] 
 > Taken by itself, the boundary rule seems simple. But the rule does not merely refer to the *outer* boundary of the thing. If we apply the rule repeatedly, it says that every part, at every level, has a boundary which is a thing in its own right. This includes the boundaries themselves. They too have boundaries,
@@ -94,6 +96,7 @@ Uses example of lips being roughly similar to the size of the mouth. Basically a
 
 # 4. Alternating Repetition 
 This is a specific kind of repetition. Not just the same things being repeated or a ridged pattern but is repetition that has some life and organic variety in it. 
+
 > [!Quote]
 > In many cases where a structure gets intense life from repetition the repetition tends to be inexact; it is then the subtle variation which comes with the repetition that is satisfying and life-giving.
 > - Nature of Order, bk. 1, p. 169
@@ -101,7 +104,6 @@ This is a specific kind of repetition. Not just the same things being repeated o
 Argues that there is a difference between banal repetition and life giving, satisfying, repetition. The basic difference is that banal repetition makes cookie cutter copies of an element and just lines them up.  But good repetition has organic alternation and variety that still repeats. 
 
 One way he describes this is as having a primary center that alternates with secondary centers. For example a vine boarder that has leaves on different sides each repetition. Alternation is the key he argues for getting good repetition that increases the quality of life in an area. 
-
 
 > [!Quote]
 > Why is alternating repetition more satisfying, more profound, than simple repetition? One answer lies, once again, in the recursiveness of the rule. For what repeats within a whole is not merely the units. In a whole, the space between units also repeats. And often even the repetition itself repeats. Thus the rule about the repetition applies to all the elements within the whole….
@@ -116,7 +118,6 @@ A way of thinking about the actual shape and function of empty space in an area 
 > In poor design, in order to give an entity good shape, the background space where it lies sometimes has leftover space, or no shape at all. In the case of living design, there is never any leftover space. 
 > - Nature of Order, bk 1., p. 176
 
-
 > [!Quote]
 > The definition of positive space is straightforward: every single part of space has positive shape as a center. There are no amorphous meaningless leftovers. Every shape is a strong center, and every space is made up in such a way that it only has strong centers in its space, nothing else besides.
 > - Nature of Order, bk. 1, p. 176
@@ -124,18 +125,13 @@ A way of thinking about the actual shape and function of empty space in an area 
 Another discussion of Positive Space: [The Unfolding of Public Space and Gardens as Positive Space]([https://christopher-alexander-ces-archive.org/research/the-unfolding-of-public-space-and-gardens-as-positive-space/](https://christopher-alexander-ces-archive.org/research/the-unfolding-of-public-space-and-gardens-as-positive-space/))
 # 6. Good Shape
 
-
 > [!Quote] 
 > A good shape is a center which is made up of powerful intense centers, which have good shape themselves. 
 > - Nature of Order, bk. 1., p. 179-181
 
-
-
 > [!Quote]
 > The first thing to realize is that in most cases the good shape, no matter how complex, is built up from the simplest elementary figures. 
 > - Nature of Order, bk. 1., p. 181
-
-
 
 > [!Quote ]
 > I believe the regularity of the simple shapes creates a potential for much more complex systems of cross-relationships in space which can never be attained by the loose organic kinds of shape…. 
@@ -159,11 +155,10 @@ Makes the argument that things that have good shape work better as well because 
 
 # 7. Local Symmetries 
 
-
 > [!Quote ] 
->the existence of a a center and the existence of local symmetry are closely related. Wherever there is local symmetry, there tends to be a center….
->However, the exact relation between life and symmetry is muddy. Living things, though often symmetrical, rarely have perfect symmetry. Indeed, perfect symmetry is often a mark of death…
->Nature of Order, bk 1., p. 186
+> the existence of a a center and the existence of local symmetry are closely related. Wherever there is local symmetry, there tends to be a center….
+> However, the exact relation between life and symmetry is muddy. Living things, though often symmetrical, rarely have perfect symmetry. Indeed, perfect symmetry is often a mark of death…
+> Nature of Order, bk 1., p. 186
 
 Makes the argument that ridged and over arching symmetry often fails to take into consideration the functional concerns of a space. While smaller local symmetry within a functional unit, like a room or smaller space help support the life of the centers. 
 
@@ -173,13 +168,11 @@ Makes the argument that ridged and over arching symmetry often fails to take int
 
 Make the argument that from some empirical studies he did that this perception of life giving local symmetry is an objective aspect of human processing consistent across individuals. 
 
-
 > [!Quote] 
 > Why does the presence of many local symmetries in the design make it coherent and memorable? It is as if the symmetrical segments act as a kind of glue - the glue which holds the space together. The more glue there is, the more the space is one, solid, unified, coherent. And notice one more detail: for the glue to be effective, it seems that many of the symmetrical segments must overlap. They are by no means discrete or disjoint. 
 > - Nature of Order, bk. 1, p. 191
 
 Therefore it is both the number of individual local symmetries and also their close overlapping that brings the most life into a design or space creating a “whole.”
-
 
 > [!Quote] 
 > In many cases, a symmetry is used to establish an elementary center. Indeed, an overwhelming majority of centers are locally symmetrical. Each local symmetry establishes a symmetry between two smaller centers to create a larger center. 
@@ -214,7 +207,6 @@ The gradual change of some kind of characteristic across space. Things like colo
 
 # 11. Roughness
 Idea that a truly good design or plan should naturally adapt to the larger concerns of function and/or other environmental pressure. Making a final design that looks more rough but functions better and is more holistically beautiful.
-
 
 > [!Quote] 
 > the seemingly rough solution - which seems superficially inaccurate - is in fact *more* precise, not less so, because it comes about as a result of paying attention to what matters most, and letting go of what matters less….

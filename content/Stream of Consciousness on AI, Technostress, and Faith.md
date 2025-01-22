@@ -1,11 +1,13 @@
 ---
-{"Note Planted:":"2024-06-24","Last Tended:":"2024-12-11","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2024-12-19","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree
+
 ****
- >`Importance`: 10%
- 
+
+ > `Importance`: 10%
+
 > [!note] The Bid Idea
 > Collection of random Thoughts about AI, Faith and Techno Stress
 
@@ -15,7 +17,6 @@
 > Start on more structured ideas:
 > [[A Theology of Technology\|A Theology of Technology]]
 > [[Principles for Working with Tech Tools\|Principles for Working with Tech Tools]]
-
 
 Technostress is not being able to cope with the pace of change
 

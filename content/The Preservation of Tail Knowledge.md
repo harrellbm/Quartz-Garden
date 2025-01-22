@@ -1,11 +1,13 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-18","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-24","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree   #🟢Conviction 
+
 ****
->`Importance`: 10%
- 
+
+> `Importance`: 10%
+
 > [!summary] The Big Idea
 > With the rise of AI and the deterioration of search engines (i.e. you can pay enough to be the first result), preserving knowledge that can not be easily accessed because it is not in the main distribution  (i.e. [[Tail Knowledge and Knowledge Collapse\|Tail Knowledge and Knowledge Collapse]]) will be increasingly important. Because, realistically, good solid theology will most likely find itself in the tail. Being less accessed and more easily forgotten and pushed aside.
 

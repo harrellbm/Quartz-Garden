@@ -1,7 +1,7 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-18
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2024-07-01","PassFrontmatter":true}
 ---
+
 #🌿Sapling #🙂Agree #🟢Conviction 
 ****
 > `Importance`: 50%

@@ -1,11 +1,13 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-06-28
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
+
 ****
- >`Importance`: 10%
- 
+
+ > `Importance`: 10%
+
 ***The Big Idea***: Ideas for how to teach using visual aids or resources.
 
 * * *
@@ -44,6 +46,6 @@ Final level is for oral and critical thinking in question answer format still ne
 
  [Marty n' Luther's Comic Catechism](https://a.co/d/bd5mzYo)
 
-![[Pasted image 20240619105832.png]]
-![[Pasted image 20240619105848.png]]
-![[Pasted image 20240619105857.png]]
+![Pasted image 20240619105832.png](Pasted%20image%2020240619105832.png)
+![Pasted image 20240619105848.png](Pasted%20image%2020240619105848.png)
+![Pasted image 20240619105857.png](Pasted%20image%2020240619105857.png)

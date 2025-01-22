@@ -1,15 +1,20 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-16","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🍋Fruit  #😁Strongly-Agree #🟢Conviction 
+
 ****
+
 > `Importance`: 10%
- 
+
 > [!summary] The Big Idea
 > An #📝Essay that develops some thoughts about Sacred Space. 
 
+Related Essay: [[Shaping Space\|Shaping Space]]
+
 ****
+
 # Living in the Expanse
 
 What IS space? 
@@ -41,6 +46,7 @@ Light through a window, or the reflection off a lake?
 Each and every day we step in and out of many spaces. We eat, sleep, work, rest, and play in space. As embodied creatures, we inhabit a physical world and experience it through space.  Restaurants, malls, even our homes and workplaces are all spaces designed for particular activities.  
 
 As God created the cosmos we read this description of space’s origin: 
+
 > And God said, 
 > “Let there be an expanse in the midst of the waters, 
 > and let it separate the waters from the waters.” 
@@ -95,7 +101,7 @@ The answer to this question is woven throughout the fabric of Scripture. Story a
 In a world that is often dark and broken, Sacred space is something all together otherworldly. One story that captures the power and majesty of Sacred space comes to us from Exodus 3:
 
 > Now Moses was tending the flock of Jethro his father-in-law, the priest of Midian, and he led the flock to the far side of the wilderness and came to Horeb, the mountain of God. There the angel of the Lord appeared to him in flames of fire from within a bush. Moses saw that though the bush was on fire it did not burn up. So Moses thought, 
->
+> 
 > “I will go over and see this strange sight—why the bush does not burn up.” When the Lord saw that he had gone over to look, God called to him from within the bush, “Moses! Moses!” And Moses said, “Here I am.” “Do not come any closer,” God said. “Take off your sandals, for the place where you are standing is holy ground.” Then he said, “I am the God of your father, the God of Abraham, the God of Isaac and the God of Jacob.” At this, Moses hid his face, because he was afraid to look at God. 
 > - Exodus 3:1-6
 

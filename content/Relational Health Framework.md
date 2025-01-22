@@ -1,11 +1,13 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-18
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
+
 ****
->`Importance`: 10%
- 
+
+> `Importance`: 10%
+
 ***The Big Idea***: A simple framework for thinking about where we are focusing our relational energy. 
 
 * * *
@@ -14,4 +16,4 @@
 - What area needs improvement?
 - Where are we doing well?
 
-![[Pasted image 20240619105152.png]]
+![Pasted image 20240619105152.png](Pasted%20image%2020240619105152.png)

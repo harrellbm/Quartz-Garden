@@ -1,15 +1,18 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-12-01
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🪴Sprout   #😐Neutral 
+
 ****
->`Importance`: 10%
+
+> `Importance`: 10%
 
 > [!summary] The Big Idea
 > Notes from reading *Joining Jesus* by Finke. Basically lays out a model for missional communities.
 
 * * *
+
 > [!note]
 > Overall I like what Finke has to stay about being on mission for Jesus. I think that in some ways though this ends up becoming a little too simplistic and anti-wholistic because it ends up with a missional community that is super focused on reaching out but no real framework to integrate that with the larger life of a church or community. 
 

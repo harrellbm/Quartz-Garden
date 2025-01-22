@@ -1,15 +1,18 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-07","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🪴Sprout   #🙂Agree
+
 ****
+
 > `Importance`: 60%
- 
+
 > [!summary] The Big Idea
 > There is a better way to think about and go about ministry than always relying on programs. 
 
 ****
+
 Example of learning rhythm with Cana eating 
 
 Putting off old self and putting on new self. Idea if a unifying rhythm of daily Christian life 
@@ -31,6 +34,12 @@ Rhythm can be the embodiment of character 
 Think about rhythms that helps us build character 
 
 Need to pull important things from a case for character by biermann
+
+Rhythm can also be thought of as process or walking in the paths as the psalms say
+
+Also strikes me that the blessing of scripture are all rhythm based and not ending or goal based 
+
+In other words it’s all about the journey and who you become along the way not the arrival at some mythical end. Even heaven and new earth are all about a new life and rhythm not some static arrival 
 
 # Core Community Rhythms 
 

@@ -1,13 +1,14 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-11","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-30","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
----
 #🌱Seed  #🙂Agree  #🌳Thought-Tree 
+
 ****
+
 > `Importance`: 10%
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > Note Tree for various aspects as they develop [[LCOS Notes/LCOS Community Notes\|LCOS Community Notes]]
 > first part of the process undertaken: [[LCOS Notes/Opening LCOS Visioning Process\|Opening LCOS Visioning Process]]
 
@@ -16,6 +17,7 @@ Related Notes:
 [[Notes on the Nature of Order\|Notes on the Nature of Order]]
 [[Thinking of Spatial Relationships as Centers\|Thinking of Spatial Relationships as Centers]]
 [[LCOS Notes/LCOS Pastoral Practices and Perspective\|LCOS Pastoral Practices and Perspective]]
+
 ****
 
 > [!quote] John 6:32-33
@@ -58,6 +60,7 @@ Presence or God
 Centers and rhythms can then be thought of as was to reflect God and his presence some thing better reflect than others and some totally miss the mark 
 
 ****
+
 # Process Flow 
 - Word of God as Narrative and unfiltered  Pattern source 
 - We also have the “law on our heart” which correlates the Alexander’s idea of [[Deep Feeling\|Deep Feeling]]. We all have an inherent sense of if something is rightly ordered or not we just sometimes ignore it or allow our minds to warp it. It is the good or bad order of the world around us actually effecting us viserally. Not our emotional response to things 

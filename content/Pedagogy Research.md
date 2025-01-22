@@ -1,14 +1,16 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-08-19
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
+
 ****
->`Importance`: 20%
- 
+
+> `Importance`: 20%
+
 ***The Big Idea***: Stuff I have found while researching Pedagogy methods and practices.
 
-Related Notes: [[Types of Pedagogy]], [[Pedagogy of Space]]
+Related Notes: [[Types of Pedagogy\|Types of Pedagogy]], [[Pedagogy of Space\|Pedagogy of Space]]
 
 * * *
 

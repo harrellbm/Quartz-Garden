@@ -1,23 +1,25 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-12-01
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🪴Sprout  #🙂Agree
+
 ****
+
 > `Importance`: 30%
- 
+
 > [!summary] The Big Idea
 > Good design can be analyzed and learned using foundational principles.
 > 
 > The Purpose of good design is not just to look nice but to actually have a space function well and offer a space for healthy living. 
 
-Related Notes: [[Our Savior's Church and School Painting Guidelines]], [[Our Savior's Church and School Selection Criteria 2023]], [[Christopher Alexander (Architect, Author)]]
+Related Notes: [[Our Savior's Church and School Painting Guidelines\|Our Savior's Church and School Painting Guidelines]], [[Our Savior's Church and School Selection Criteria 2023\|Our Savior's Church and School Selection Criteria 2023]], [[Christopher Alexander (Architect, Author)\|Christopher Alexander (Architect, Author)]]
 
 ****
 
 # Perspective Laid Out By Christopher Alexander
 
-- [[Christopher Alexander (Architect, Author)]]
+- [[Christopher Alexander (Architect, Author)\|Christopher Alexander (Architect, Author)]]
 
 Looking to history and nature are two places to help find inspiration as well as learn about what makes a good design. 
 

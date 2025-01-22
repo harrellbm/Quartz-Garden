@@ -1,14 +1,17 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-12-01
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
-****
-> `Importance`: 10%
- 
-***The Big Idea***: A collections of different notes surrounding the concept of [[Sacred Space]].
 
 ****
+
+> `Importance`: 10%
+
+***The Big Idea***: A collections of different notes surrounding the concept of [[Sacred Space\|Sacred Space]].
+
+****
+
 # Types of Sacred Space in the Old Testament
 
 Through the stories of scripture there seems to be two main types of sacred space. Established spaces and special spaces. Established spaces are ones that abides place of God. special places are once that occur because of a unique encounter with God.  

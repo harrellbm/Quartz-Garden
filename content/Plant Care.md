@@ -1,16 +1,18 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-12-01
+{"publish":true,"Note Planted":"2024-11-06","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #😐Neutral 
-****
-> `Importance`: 10%
- 
->[!Summary] The Big Idea
->Random notes on house plants and other plant care I have found useful or interesting. 
->
 
 ****
+
+> `Importance`: 10%
+
+> [!Summary] The Big Idea
+> Random notes on house plants and other plant care I have found useful or interesting. 
+
+****
+
 # Plumeria 
 Needs to be warmer than 50 degrees to actively grow
 

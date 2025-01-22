@@ -1,15 +1,17 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-07","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🌱Seed   #🙂Agree   #🟡Consideration 
-****
-> `Importance`: 10%
- 
->[!Summary] The Big Idea
->A top down approach to Wholeness. Rather than thinking of the whole made of parts. Starts with the whole and sees the whole *making or inducing* its parts.
 
->[!Quote] Quick definition of Wholeness 
+****
+
+> `Importance`: 10%
+
+> [!Summary] The Big Idea
+> A top down approach to Wholeness. Rather than thinking of the whole made of parts. Starts with the whole and sees the whole *making or inducing* its parts.
+
+> [!Quote] Quick definition of Wholeness 
 > the system of centers created by the spatial configuration of the (space).
 > -Nature of Order, bk 1., p. 98
 
@@ -24,5 +26,6 @@ Allows us to think of wholeness along many different scales because each center 
 This creates a perspective that can see even a small change to a whole will have ripple effects both up and down the chain of centers (or “wholes”) causing sometimes unexpected changes to the composition of things.
 
 ****
+
 Another article that describes this concept: 
 [Stefan’s notes on Christopher Alexander’s idea of Wholeness](http://nature-of-order.stefan-lesser.com/wholeness)

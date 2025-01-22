@@ -1,15 +1,18 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-07","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree
+
 ****
+
 > `Importance`: 10%
- 
+
 > [!summary] The Big Idea
 > Some collected Ideas and thoughts about writing prayer walk guides
 
 ****
+
 # Physical Form Factor
 
 A prayer walk guide could take on many forms like a sign or little plaques. But all of those forms deeply restrict the amount of material that can be presented in an engaging and accessible way. Composing a trifold prayer walk guide would offer a larger space to present the prayer walk as well as tutorials on practices that can be used while walking. It also is a flexible medium that can be updated and changed easily as well as taken home by people who find value in them. It can also serve as a kind of “map” for people to physically take with them along the walk or out on other walks as well. 

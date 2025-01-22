@@ -1,12 +1,14 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-18","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-29","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🪴Sprout   #😁Strongly-Agree   #🟢Conviction 
+
 ****
+
 > `Importance`: 60%
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > As we seek to remain faithful to the Sacred Scriptures as they have been handed down to us by our ancestors in the faith, questions of Biblical translation can become deeply important from time to time.
 
 ****
@@ -15,9 +17,9 @@ The Official stance of our Synod concerning translations of the Bible is:
 
 > [!cite]
 > The Lutheran Church—Missouri Synod has not "adopted" nor does it officially promote any particular translation of the Bible. Each translation must be judged by its faithfulness to the original texts (Hebrew, Aramaic, Greek) in which Scripture was originally written, and by its helpfulness in communicating what the Bible actually says in language that people today (of various cultures, languages and dialects) can understand.
->
->A helpful discussion of this issue is contained in an article written by LCMS professor Dr. Jeffrey Gibbs titled [_All Those Translations!_](https://files.lcms.org/wl/?id=D8W8W8dAYqlIV1pR3TgaYICRAmOwdZef) which appeared in the November 1998 issue of _The Lutheran Witness_. 
->- [LCMS-Views](https://www.lcms.org/about/beliefs/faqs/lcms-views#bible)
+> 
+> A helpful discussion of this issue is contained in an article written by LCMS professor Dr. Jeffrey Gibbs titled [_All Those Translations!_](https://files.lcms.org/wl/?id=D8W8W8dAYqlIV1pR3TgaYICRAmOwdZef) which appeared in the November 1998 issue of _The Lutheran Witness_. 
+> - [LCMS-Views](https://www.lcms.org/about/beliefs/faqs/lcms-views#bible)
 
 # A Brief History of Biblical Translation
 Therefore, according to the wisdom of God, He chose for Holy Scripture to be written in two distinct languages: Hebrew and Greek.

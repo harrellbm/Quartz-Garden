@@ -1,15 +1,18 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-30
+{"publish":true,"Note Planted":"2024-11-30","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree  
+
 ****
+
 > `Importance`: 10%
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > Some nice and quick catch phrases to teach important postures of the Christian life. The first is being thankful you need to stop and remember what you are grateful for. 
 
 ****
+
 # How to prepare God's Kingdom
 ## Repent and Believe 
 “The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel.”- Mark 1:15

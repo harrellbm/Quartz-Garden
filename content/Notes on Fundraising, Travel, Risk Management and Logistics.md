@@ -1,11 +1,13 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-11-18
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #😐Neutral 
+
 ****
+
 > `Importance`: 10%
- 
+> 
 > [!The Big Idea]
 > notes from youth gathering planners 
 

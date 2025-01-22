@@ -1,12 +1,14 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-19","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🪴Sprout    #😁Strongly-Agree    #🟢Conviction 
+
 ****
+
 > `Importance`: 70%
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > I need to do a fuller write up around this some time but here are some hastily collected resources around Christian Meditation.
 
 A core picture to have in mind as we engage with and meditate on scripture is that we are having [[A Conversation with God (Epistle)\|A Conversation with God (Epistle)]]. This is an active living relationship to an active loving Word that came to free us from sin, death and the devil.
@@ -25,6 +27,7 @@ Meditate - הָגָה hagah is to mutter or even growl and coo the idea that wha
 Joshua is told to do the same thing as he prepares to lead the people into the promised land. Literally to meditate day and night on the torah of God. Joshua 1:8
 
 ****
+
 Here are some other notes around Meditation and Reading Scripture:
 - [[Quiet Muttering\|Quiet Muttering]]
 - [[Psalms-The Language of Our Heart\|Psalms-The Language of Our Heart]]

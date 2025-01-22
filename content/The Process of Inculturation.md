@@ -1,15 +1,17 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-17
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🪴Sprout  #🙂Agree
+
 ****
+
 > `Importance`: 50%
- 
+
 ***The Big Idea***: 
 
 > [!note]
->Adapted from Paper by Dr. Jame Marriott [link to article](https://drive.google.com/file/d/1BXYxDUppkFI-2GdBfcLGfbLE-0mQzAw9/view?usp=drive_link)
+> Adapted from Paper by Dr. Jame Marriott [link to article](https://drive.google.com/file/d/1BXYxDUppkFI-2GdBfcLGfbLE-0mQzAw9/view?usp=drive_link)
 
 ****
 

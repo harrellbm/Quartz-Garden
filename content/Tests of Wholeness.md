@@ -1,18 +1,19 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-04","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2025-01-07","Last Tended":"2025-01-07","PassFrontmatter":true}
 ---
 
 #🌱Seed   #😐Neutral   #🟡Consideration
+
 ****
+
 > `Importance`: 10%
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > [[Christopher Alexander (Architect, Author)\|Christopher Alexander (Architect, Author)]] in Book 1 of The Nature of Order lays out a set of tests to look at reality and test it for its wholeness and degree of life. 
 
 He argues that it is based on reality and coming human attributes so that it is objective and shareable between humans and even cultures.
 
 ****
-
 
 > [!Quote] The Nature of Order, Book 1. p. 353
 > I first discovered the mirror-of-the-self test in the late 1970s. At that time, I was surprised, and delighted, to have found a simple test which allows access to empirical investigation of quality and life in artifacts.
@@ -23,12 +24,12 @@ He argues that it is based on reality and coming human attributes so that it is 
 > 
 > It is this, above all, which is the cornerstone of the test, the observation that the systems with most life have the greatest impact on our own wholeness. It is the observation of this wholeness as we experience it in ourselves, which becomes the cornerstone of the method that allows us to use the distinction between greater and lesser wholeness as we feel it in ourselves to distinguish greater and lesser life in the system being observed.
 
- >[!Quote] The Nature of Order, Book 1. p. 354
+ > [!Quote] The Nature of Order, Book 1. p. 354
 > The mirror-of-the-self test remains fundamental as a method of observation. It stands as the base on which the other versions rest. But it is not the easiest to use in practice, nor is it the one we most often use as a matter of daily habit.
 > 
 > Other, more general tests are more robust, and easier to use. I find that for daily use, the one that works best is the question: "Comparing A and B, which one makes me feel the most wholeness in myself, which allows me to come closest to my own life, which makes me experience life most deeply?" It is not always easy to answer this question, but it is usually possible.
 
->[!Quote] The Nature of Order, Book 1. p. 354
+> [!Quote] The Nature of Order, Book 1. p. 354
 > The essence of the idea of measurement is the following. The degree of life of any given center, relative to others, is, as I have said, objective. But in order to measure this degree of life, it is difficult to use what, in present-day science, are conventionally regarded as "objective" methods.
 > 
 > Instead, to get practical results, we must use ourselves as measuring instruments, in a new form of measuring process which relies (necessarily) on the human observer and that observer's observation of his or her own inner state. Nevertheless, the measurement that is to be made this way is objective in the normal scientific sense.
@@ -37,8 +38,8 @@ He argues that it is based on reality and coming human attributes so that it is 
 > 
 > But the essence of the new method I am putting forward is that, on the contrary, we discover that different human observers report very similar results when they perform this experiment. Their observations converge. And the convergence of observations made by different observers thus gives us the key to the objective nature of the degree of life being observed.
 
->[!Quote] The Nature of Order, Book 1. p. 355
->In all these tests, the observers use observation of their own inner state, when comparing two systems A and B, to decide which of A or B is the more alive.
+> [!Quote] The Nature of Order, Book 1. p. 355
+> In all these tests, the observers use observation of their own inner state, when comparing two systems A and B, to decide which of A or B is the more alive.
 Some of the possible questions are:
 • Which of the two seems to generate a greater feeling of life in me?
 • Which of the two makes me more aware of my own life?

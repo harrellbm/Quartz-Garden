@@ -1,19 +1,22 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-08-07
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree 
+
 ****
+
 > `Importance`: 10%
 
->[!Summary] The Big Idea
->These three make possible the seven practices. They are the core culture that needs grown and tended 
+> [!Summary] The Big Idea
+> These three make possible the seven practices. They are the core culture that needs grown and tended 
 
 **Warmth** - is characterized by displaying kindness and welcome and value to others 
 **Challenge** - willingness to share to truth in love so that all my remains and know the saving faith of Jesus Christ 
 **Grace** - echoing of Gods love and forgiveness of us to others 
 
 ****
+
 In the bridge to other people things need to be more personal than just mass communication 
 
 Five adults connected to one youth comes from book the sticky faith book 

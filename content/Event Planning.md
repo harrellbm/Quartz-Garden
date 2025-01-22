@@ -1,15 +1,18 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-12-01
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree 
-****
-> `Importance`: 10%
- 
->[!Summary] The Big Idea
->Event planning is not super natural for me. So here are some basic notes and observations I have gathered from people who are good at it. 
 
 ****
+
+> `Importance`: 10%
+
+> [!Summary] The Big Idea
+> Event planning is not super natural for me. So here are some basic notes and observations I have gathered from people who are good at it. 
+
+****
+
 # Flow of Planning
 Audience
 

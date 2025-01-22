@@ -1,15 +1,18 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-11","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-23","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree   #🟢Conviction 
+
 ****
+
 > `Importance`: 10%
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > First step undertaken in visioning process with LCOS
 
 ****
+
 A little background in my training will help to lay the ground work for this brief document. The leadership books Pastor Allen has suggested like *Canoeing the Mountains,* *Leadership and Self Deception*, etc. are the leadership frameworks I was trained in over the course of my Seminary training. All of these book grapple with the reality that we live in a different world than existed even twenty years ago. We now live in a "Post-Christian" or "Post-Constantinian" world. 
 
 Therefore, as we begin doing life together, it is vital that we address this 10,000 pound gorilla in the room. The Church has often become comfortable with status quos that no longer effectively communicate the Gospel to our changed world. It is vital that we enter into the visioning feedback loop in order to evaluate, experiment, and dream of how to be the church among the new and arising challenges of our world. The core of who we are will never change but the mode of our witness must be focused and refocused on what really matters. Every plan, no matter how well intended, will eventually go off track if it is not held in line with our core principles and ethos. The formal term for this is "mission drift." 
@@ -19,6 +22,7 @@ In order to avoid this drift, a core principle can help to structure our convers
 > [!important]
 > # The Mission Trumps
 > Every decision, plan, and commitment must further our shared mission. If it does not, no matter how nice it may seem, it is not an endeavor worth undertaking.
+
 # The Mission Statement of LCOS
 To apply this core principle, my first piece of homework for the counsel is to evaluate how your area of activity serves to support and further our mission.
 

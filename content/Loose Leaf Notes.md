@@ -1,15 +1,18 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-07","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-11-10","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🌲Evergreen 
+
 ****
+
 > `Importance`: 10%
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > This is a list of all the various notes I have taken during conferences, classes, reading or listening to various sources. You can think of them like a large collection of sticky notes and scribbles as I think about a particular subject.
 
 ****
+
 # 🍃Loose Leaf Notes
 ## Conference and Conversation Notes
 - [[BPM Notes 2023\|BPM Notes 2023]]

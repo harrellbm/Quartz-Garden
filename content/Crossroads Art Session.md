@@ -1,12 +1,14 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-06-29
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
+
 ****
->`Importance`: 10%
- 
-***The Big Idea***: An idea for a [[Crossroads]] session.
+
+> `Importance`: 10%
+
+***The Big Idea***: An idea for a [[Crossroads\|Crossroads]] session.
 
 * * *
 

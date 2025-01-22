@@ -1,12 +1,14 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-07","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-07","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree #🟡Consideration 
+
 ****
+
 > `Importance`: 10%
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > Centers are a way of thinking about the physical make up of an area, building, or any spacial part of the universe posited by Christopher Alexander.
 > 
 > The basic idea is that you can identify a kind of fuzzy zone (which he calls a center) around which there is a certain continuity and harmony around a particular function or structure.
@@ -25,9 +27,8 @@ This is because the idea of centers is meant to help identify and make clear how
 
 Also centers are seen as hierarchical. With a group of smaller centers often forming a larger center. Such as many rooms in a house making up the actual house. Therefore centers can function as a way to move up and down levels of complexity within an area as well. 
 
-
 > [!NOTE] Perspective 
->
+
 I have found that overall this is a very helpful way of understanding and talking about the spatial dimension of the world we live in. Using it we can actually start to understand how the physical world around us effects us and how we effect it in a tangible and meaningful way. 
 
 ****
@@ -39,7 +40,6 @@ I have found that overall this is a very helpful way of understanding and talkin
 > 
 > When I call the pond a center, the situation changes. I can then recognize the fact that the pond does have existence as a local center of activity: a living system. It is a focused entity. But the fuzziness of its edges are becomes less problematic. The reason is that the pond, as an entity, is focused towards its center. It creates a field of centeredness. But, obviously, this effect falls off.
 > - Nature of Order, bk 1., p. 84
-
 
 Centers are not stand alone features but are formed by the configuration of the whole. So in order to define what scale of center to look at you have to first start with a “whole” that is really a center of a larger scale. The larger whole of human experience would be the earth. 
 
@@ -60,5 +60,6 @@ These are all factors that can strengthen the presence of a center
 If composed and aligned well Centers can give each other strength: [[The Ways Centers Help Each Other Have More Life\|The Ways Centers Help Each Other Have More Life]]
 
 *** 
+
 Another set of notes about centers:
 [Stefan’s notes about Christopher Alexander’s idea of centers](http://nature-of-order.stefan-lesser.com/center)

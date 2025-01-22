@@ -1,13 +1,17 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-10-23
+{"publish":true,"Note Planted":"2024-10-23","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #😐Neutral 
+
 ****
+
 > `Importance`: 10%
- 
->[!Summary] The Big Idea
->No matter how well intentioned or effective.  All translation and change brings loss.
+
+## Real Loss
+
+> [!Quote] The Big Idea
+> No matter how well intentioned or effective.  All translation and change brings loss.
 
 From: **Tod Bolsinger, Canoeing the Mountains: Christian Leadership in Uncharted Territory (Downer Grove: IVP Books, 2015), 120-122.**
 

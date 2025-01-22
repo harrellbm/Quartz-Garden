@@ -1,15 +1,18 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-18","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree #✒️Poem 
+
 ****
+
 > `Importance`: 10%
- 
+
 > [!summary] The Big Idea
 > Unfinished Poem about Jesus the Word of life and His movement through history.
 
 ****
+
 > [!cite]  *A Reflection on Poetry in Scripture* - Alabaster Co.
 > “The Bible is more than prosaic rituals; it is a love letter, a story of adventure & victory, a multigenre conglomeration that God called “good,” full of mystery, romance, comedy, prophesy, even poetry.”
 
@@ -44,5 +47,4 @@ The word is not done speaking. The word rises from the dead and now speaks a new
 
 Word with us today. Application Where he speaks to us today
 
->And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth. - John 1:14
-
+> And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth. - John 1:14

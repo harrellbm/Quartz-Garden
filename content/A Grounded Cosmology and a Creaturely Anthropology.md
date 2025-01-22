@@ -1,12 +1,14 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-18","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🪴Sprout    #🙂Agree   #🟡Consideration   #🌳Thought-Tree 
+
 ****
+
 > `Importance`: 40%
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > This is a [[Tree of Thought\|Tree of Thought]] for the ideas surrounding what it means to be human from a biblically founded perspective. 
 > - Where we start is that we are creatures created in the image of God for a particular kind of life that conforms to God’s definition of good not ours.
 
@@ -63,14 +65,18 @@ Psalm 19 creation speaks of God, then move to how the law or God is good and val
 
 
 #🪴Sprout  #🙂Agree  #🟡Consideration 
+
 ****
+
 > `Importance`: 40%
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > This change is basically the idea that all life giving change comes from an unfolding process that starts with the current structure of the whole and makes step by step changes to enhance and extend the wholeness. This process respects the current structure and basically seeks to change the least amount of big/strong/living centers in order to maximize the positive effects of the change. Because if you introduce a new strong center but destroy two others you really haven’t improved anything. 
 
 Chapter from Nature of Order Book 2 that Covers this basic Concept: [[Structure Preserving Transformations Nature of Order Book 2 Chapter 2.pdf]]
+
 *** 
+
 If I am not mistaken, the basic delineation between structure-preserving and structure-destroying is the amount of life (structural life not necessarily organic life) added or subtracted from the overall structure (or wholeness). Which means that the only way for a natural process to be structure-destroying would be if the overall life of the whole is **less** after a natural process than before.  With that criteria, it is pretty much impossible to think of a natural process that does not in someway increase the life of the system. Alexander even points out that natural decay serves a similar purpose of clearing the way for new life to emerge. 
 
 I think this stems from the underlying cosmology that Alexander lays out stating that the whole is primary. Parts (really smaller wholes) arising from the wholeness rather than pieces of structure being put together to make the whole. 
@@ -140,10 +146,12 @@ Here are a few other helpful links from Stefan's very helpful digital garden:
 
 
 #🪴Sprout   #🙂Agree   #🟡Consideration 
+
 ****
+
 > `Importance`: 50%
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > The basic idea that Western thought has gone too far into relying only on a mechanistic explanation of the universe. Thinkers like [[Christopher Alexander (Architect, Author)\|Christopher Alexander (Architect, Author)]] suggest a reorientation to seeing the universe as a whole that is itself made of smaller things that are themselves whole (like a human) opening up the ability to see the world as more than just a set of organic machines. 
 > 
 > The specifics of how things work mechanistically can (and will always be) figured out through science and other research but rather than being the base picture of the world a holistic perspective seeks to understand the universe as flowing out from the core understanding of "the whole." 
@@ -159,6 +167,7 @@ Related Notes:
 [[Center Composed Wholeness\|Center Composed Wholeness]],
 [[The Ways Centers Help Each Other Have More Life\|The Ways Centers Help Each Other Have More Life]],
 [[Thinking of Spatial Relationships as Centers\|Thinking of Spatial Relationships as Centers]]
+
 ****
 
 # Application of this Principle to our Approach to Scripture

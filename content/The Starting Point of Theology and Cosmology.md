@@ -1,15 +1,18 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-24","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2024-12-24","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree 
-****
-> `Importance`: 10%
- 
->[!Summary] The Big Idea
->The starting place for a thinker or school of thought tends to lend a particular character to everything that comes out of that way of thinking. Therefore it is important to not only think about ending up in the right place but also starting from the right place when considering a topic or theory.
 
 ****
+
+> `Importance`: 10%
+
+> [!Summary] The Big Idea
+> The starting place for a thinker or school of thought tends to lend a particular character to everything that comes out of that way of thinking. Therefore it is important to not only think about ending up in the right place but also starting from the right place when considering a topic or theory.
+
+****
+
 Another way to say this is that no matter what, there is always an underlying [[Image of Human Thriving\|Image of Human Thriving]] behind a particular way of thinking or approaching the world and [[Cosmology\|Cosmology]].
 
 For example, [[Christopher Alexander (Architect, Author)\|Christopher Alexander (Architect, Author)]] starts with the simple desire to build good buildings. And so his work is intensely grounded while also being abstract enough to apply it to any new building project. 

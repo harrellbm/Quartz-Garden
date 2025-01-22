@@ -1,12 +1,14 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-07","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-11-06","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🪴Sprout   #🙂Agree   #🟡Consideration 
+
 ****
+
 > `Importance`: 50%
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > The basic idea that Western thought has gone too far into relying only on a mechanistic explanation of the universe. Thinkers like [[Christopher Alexander (Architect, Author)\|Christopher Alexander (Architect, Author)]] suggest a reorientation to seeing the universe as a whole that is itself made of smaller things that are themselves whole (like a human) opening up the ability to see the world as more than just a set of organic machines. 
 > 
 > The specifics of how things work mechanistically can (and will always be) figured out through science and other research but rather than being the base picture of the world a holistic perspective seeks to understand the universe as flowing out from the core understanding of "the whole." 
@@ -22,6 +24,7 @@ Related Notes:
 [[Center Composed Wholeness\|Center Composed Wholeness]],
 [[The Ways Centers Help Each Other Have More Life\|The Ways Centers Help Each Other Have More Life]],
 [[Thinking of Spatial Relationships as Centers\|Thinking of Spatial Relationships as Centers]]
+
 ****
 
 # Application of this Principle to our Approach to Scripture

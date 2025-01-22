@@ -1,14 +1,17 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-01
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🌱Seed  #🙂Agree
+
 ****
+
 > `Importance`: 50%
- 
+
 ***The Big Idea***: Sermon Series for Lent covering the grieving process of Lament. I wrote and helped deliver this series at Bethlehem Lutheran Church in CO during my Vicarage.
 
 ****
+
 ## Sitting in Ashes
 
 The Lament is not something that is commonly treated in modern Christian practice.  It is however a powerful tool that God has given us in the Psalms and most especially in Lamentations.  God is not capricious, He does not delight in despair or destruction. He does not even willingly bring harm to anyone. But Life is not clean, there is death and destruction in the world.  The lament takes that seriously and does not dismiss the reality of pain and the question of God’s inaction.  The lament is the tool given to us to not simply address tragedy and pain but to actually process it.  The lament can be broken into six main elements.  The Proposed sermon series will focus on one element of the lament for each sermon ending with Easter as the capstone.  

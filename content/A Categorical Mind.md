@@ -1,15 +1,18 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-07","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🌱Seed   #🙂Agree   #🟡Consideration 
+
 ****
+
 > `Importance`: 30%
- 
+
 > [!Summary] The Big Idea
 > The Human mind works in categories. We cannot conceptually understand anything that is not on some level a category of some sort.
 
 ****
+
 What in the World do we do without a clean primary driver? Things can get overwhelming quickly 
 
 Human mind works in categories. The first designations we teach babies are categorical names (Mom, Dad). 

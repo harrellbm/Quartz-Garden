@@ -1,15 +1,18 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-16","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-12-16","PassFrontmatter":true}
 ---
 
 #🪴Sprout  #🙂Agree
+
 ****
- >`Importance`: 63%
- 
+
+ > `Importance`: 63%
+
 > [!summary] The Big Idea
 > I have started to use Zotero for long term storage of resources that I would like to be able to find again. This is mainly books, software, publishers or other entities that I may have a hard time finding in a google search. 
 
 * * *
+
 ## Todos 
 - [ ] Backup whole library in a github repo 
 - [ ] Finish cataloging physical library

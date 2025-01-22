@@ -1,12 +1,13 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-11","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
----
 #🌱Seed  #🙂Agree
+
 ****
->`Importance`: 50%
- 
+
+> `Importance`: 50%
+
 > [!summary] The Big Idea
 > The space around us teaches and pushes us toward a particular way of life and relating with one another.
 
@@ -18,5 +19,6 @@ Related Notes:
 - [[Christopher Alexander (Architect, Author)\|Christopher Alexander (Architect, Author)]]
 
 * * *
+
 Todo: line sacred space essay 
 Todo: gather other sacred space resources and pedagogy of architecture books

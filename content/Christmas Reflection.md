@@ -1,11 +1,13 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-12-01
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🍋Fruit  #🙂Agree
+
 ****
+
 > `Importance`: 10%
- 
+
 > [!note]
 > Used in OS #📃Epistle Dec 2022 
 
@@ -20,6 +22,7 @@ Not only that, but this time of year has a special way of bringing up the past. 
 In the world these darker realities of the Christmas season get swept under the rug. “Just be happy”, “Why aren’t you over this yet”, “I think you’re being dramatic.”  But within God’s church we have a different message to share. You are not alone. You have brothers and sisters who care about you no matter what you may be going through.  If you find yourself dealing with a less than happy Christmas, reach out to your church family. Because after all, Jesus is the reason for the season and He died to make us His family for this Christmas and an eternity to come.  
 
  >“Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, who comforts us in all our affliction, so that we may be able to comfort those who are in any affliction, with the comfort with which we ourselves are comforted by God.” 
->- 2 Corinthians 1:3-4
+>
+> - 2 Corinthians 1:3-4
 
 ****

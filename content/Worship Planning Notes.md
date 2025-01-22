@@ -1,12 +1,14 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2024-12-19","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2024-12-19","PassFrontmatter":true}
 ---
 
 #🌱Seed   #🙂Agree   #🟡Consideration   
+
 ****
+
 > `Importance`: 10%
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > Notes from an conversation with Connie George about worship planning on 9/4/2024
 
 # General Principles
@@ -24,4 +26,5 @@
 - For older kids, Write out words on a white board and then tap the words as you sing to help them get to flow of the music
 
 Related Notes: [[Aspersion Service\|Aspersion Service]]
+
 ****

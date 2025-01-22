@@ -1,20 +1,24 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-07","publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree
+
 ****
+
 > `Importance`: 10%
- 
+
 ***The Big Idea***: We can encourage a community characterized by child-like wonder, awe, value of beauty, love and excitement for the things of God by organizing our life together, and individually, around God pleasing rhythms.
 
 **Questions**: What are faithful and Scripturally based models to organize and teach Human Rhythms?
 
 > “For while bodily training is of some value, godliness is of value in every way, as it holds promise for the present life and also for the life to come.”
- >- 1 Timothy 4:8
+ > - 1 Timothy 4:8
 
 ***Related Notes***: [[Patterns of Liturgy-The Rhythm of Life\|Patterns of Liturgy-The Rhythm of Life]], [[Private/Personal Reflections on My Personal Rhythms\|Personal Reflections on My Personal Rhythms]], [[Rhythm Reset\|Rhythm Reset]], [[Thoughts on Liturgy and Rhythm\|Thoughts on Liturgy and Rhythm]], [[Basic Philosophies of Community Rhythm and Project Lifecycle\|Basic Philosophies of Community Rhythm and Project Lifecycle]]
+
 ****
+
 # The Philosophy of Rhythm 
 
 Rhythm as a lens through which to understand the human creature. A wholistic way to understand ourselves 
@@ -181,8 +185,6 @@ Upon you I have leaned from before my birth; you are he who took me from my moth
 From the earliest times of our lives we see the Psalms reminding us that we can praise God for his faithfulness to us before we ever even remember. And can confidently say that He has been my God since before I was even born. Because the love and grace I receive from Jesus is not based on my own recollection or ability to understand. But it is based on the eternal unchangeable promises of Jesus. Psalm 22 confidently proclaims:
 
 > On you was I cast from my birth, and from my mother's womb you have been my God.- Psalm 22:10
-
-  
 
 ## The Nature of Rhythms 
 

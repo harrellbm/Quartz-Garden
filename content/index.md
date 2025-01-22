@@ -1,5 +1,5 @@
 ---
-{"Note Planted:":"2024-06-27","Last Tended:":"2025-01-14","title":"Base Camp 🏕️","aliases":["Home","Base Camp"],"publish":true,"tags":["🌲Evergreen"],"PassFrontmatter":true}
+{"title":"Base Camp 🏕️","aliases":["Home","Base Camp"],"publish":true,"tags":["🌲Evergreen"],"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
 Hello! 👋🏻 
@@ -14,6 +14,7 @@ My hope is that this site will be more like a little quiet wilderness. A place t
 
 > [!hint]
 > If you like getting straight to the point. You can skip all my babble and see how this site works by skipping down to the section called: "How to Use this Garden"
+
 # The Calm after the Storm 
 *(Or the story behind the name)*
 
@@ -68,6 +69,7 @@ Every trail needs to start somewhere! Here are some good places to start a walk 
 
 > [!hint]
 > Click a link and see where it goes!
+
 ### A list of notes on related topics: [[Note Collections\|Note Collections]]
 
 ### Or more free form notes: [[Loose Leaf Notes\|Loose Leaf Notes]]

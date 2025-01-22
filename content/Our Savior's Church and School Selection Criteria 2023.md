@@ -1,11 +1,13 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-12-01
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
+
 #🍋Fruit   #😁Strongly-Agree #📊Project  #🟢Conviction 
+
 ****
+
 > `Importance`: 10%
- 
+
 ***The Big Idea***: The logic and research used to create a church wide color pallet for Our Savior's Lutheran church and school in Springfield IL.
 
 ****
@@ -67,15 +69,14 @@ Therefore, it is fitting to be intentional with the manner in which we treat the
 Max two of each.
 
 > [!note]
->At this stage we only want to pick the main hues to be used within the color scheme. This ensures overall coherence of the pallet.
->#### Feature Hues: 
->- Blue
->- Blue Violets
->
->#### Neutral/Accent Hues:
->- Red
->- Orange
-
+> At this stage we only want to pick the main hues to be used within the color scheme. This ensures overall coherence of the pallet.
+> #### Feature Hues: 
+> - Blue
+> - Blue Violets
+> 
+> #### Neutral/Accent Hues:
+> - Red
+> - Orange
 
 # What Type of Color Scheme?
 
@@ -83,30 +84,29 @@ Max two of each.
 
 > [!note]
 > #### Type: 
-Analogous Complementary Pairs
->- Blue 
->- Red
->
->- Blue-Violet
->- Orange
 
-  
+Analogous Complementary Pairs
+
+> - Blue 
+> - Red
+> 
+> - Blue-Violet
+> - Orange
+
 # What Neutral Colors?
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcVPrPAvN3fIuvi3nJvAeDuui_RS7iWRXCYrAz-lQ8bp-TuatkzQNxHbUJrL_aschWw_3R1a6w7cHhZP9CXud9FuiiZrgsekfc28rcZhuFdItAfD4gBUSuavTrsFxoHzaxNwTf8sCOC5R7Z_ljFrPy3EXLR?key=v4o8Wg5Ns1ndnwfIQ-NV1Q)
 
 Max three or four.
 
-
 > [!note]
 > #### Neutrals:
->- Gray Screen
->- Blue family
->- Whitetail
->- Orange family
->- Summer White
->- Orange family
-  
+> - Gray Screen
+> - Blue family
+> - Whitetail
+> - Orange family
+> - Summer White
+> - Orange family
 
 # Do we have a good balance of Light Reflective Value between each color?
 
@@ -115,15 +115,12 @@ Max three or four.
 > [!note]
 > The darkest color on the pallet has an LVR of 15% ranging up to 86% with the brightest. This will provide a good contrast between feature wall colors and neutral walls. With the smallest contrast being 17% but the average being 41%.
 
-  
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcArzlbKGHCQUj3fn9AaGT3zaBRLUZiw2Wq_u8vr3IA5666agTl1vMaEQWI2NkdeVq6mzVXgHx2xG2W1juawpUgpa9w2niHfpKhXsJWBiSAB19T_r8WhNL_PdOtJ88_NNet-JuBAx2NMH-BoYz4d3LCJzU?key=v4o8Wg5Ns1ndnwfIQ-NV1Q)  
   
 Do we have sane guidelines for paint finish? 
 
 > [!note]
 > Satin is the preferred classroom wall finish for neutral walls for the sake of easy cleaning. Eggshell is preferred for hallways because of its durability. 
-
-  
 
 # Full Color Palette 
 

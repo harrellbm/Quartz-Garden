@@ -1,14 +1,18 @@
 ---
-"Note Planted:": 2024-06-27
-"Last Tended:": 2024-07-01
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
-#🌿Sapling   #😁Strongly-Agree 
-****
-> `Importance`: 80%
- 
-***The Big Idea***: Series talking though the Biblical practice of lament. 
+
+#🌿Sapling   #😁Strongly-Agree   #🟢Conviction 
 
 ****
+
+> `Importance`: 80%
+
+> [!summary] The Big Idea
+> Series talking though the Biblical practice of lament. 
+
+****
+
 # Genres of Lamentations 
 
 > [!Quote]
@@ -29,94 +33,33 @@
 
 When we think and talk about the shape and cadence of Chrstian life, we rarely hear the word lament. And if you have heard the word lament thrown around, you probably associate it with the book of the Bible literally named Lamentations.  It is a dark and eerie book that Christians often leave on the shelf.  
 
-  
-
 After all, it is hard to approach a book that starts with the opening lines:
 
-  
+> [!quote] Lamentations 1:1
+> How lonely sits the city that was full of people! How like a widow has she become, she who was great among the nations! She who was a princess among the provinces  has become a slave.”
 
-“How lonely sits the city
-
-    that was full of people!
-
-How like a widow has she become,
-
-    she who was great among the nations!
-
-She who was a princess among the provinces
-
-    has become a slave.”
-
- - Lamentations 1:1
-
-  
-
-What do you do with that? How do you make sense of such negative and depressing words?  Why are they in the Bible in the first place?
-
-  
+What do you do with that? How do you make sense of such negative and depressing words? Why are they in the Bible in the first place?
 
 The lament is more than a singular book of the Bible. It is one of the most firmly founded and identifiable genres used throughout the pages of Scripture. Much like narrative storytelling is used to tell and retell the story of God reaching into human history.  The lament peels back the facade of plastic living to look at the heart of things. It is in lament that the difficult and unanswerable questions of life are not stuffed down and ignored but brought to the light. 
 
-  
-
 Calling to God in lament is a powerful tool given to us by God himself. We find laments all throughout the Psalms and most especially in Lamentations.  God is not capricious, He does not delight in despair or destruction. He does not even willingly bring harm to anyone. But Life is not clean, there is death and destruction in the world.  The lament takes that seriously and does not dismiss the reality of pain and the question of God’s inaction.  The lament is the tool given to us to not simply address tragedy and pain but to actually process it.  
-
-  
 
 As the months unfold, we will explore the intricacies of this way of praying and speaking to God. But for now we will discuss the basic cycle, rhythm, and aim found across all different types of lament. 
 
-  
-
 At its beginning every lament starts with a problem. Whether it is a feeling, or a tragedy, or even a disappointment.  Every lament opens with a human experiencing the ugliness of our broken world. One natural reaction to living through this kind of darkness is to retreat.  Run away from God and others in order to keep a handle on the storm of feeling, and fears we hold inside of us.
-
-  
 
 The lament, however, runs toward God. Even in the middle of anger and frustration, a prayer of lament pours it all before the feet of God.  Lamentations describes what this posture of prayer should look like:
 
-  
-
-“Arise, cry out in the night,
-
- at the beginning of the night watches! 
-
-Pour out your heart like water before the presence of the Lord!”
-
-- Lamentations 2:19a
-    
+> [!quote] Lamentations 2:19a
+> “Arise, cry out in the night, at the beginning of the night watches! Pour out your heart like water before the presence of the Lord!”
 
 It is when things fall apart that we find ourselves in need of crying out to God.  Pouring out the hurt and harm we see and experience. Jesus models how to lament.  He lamented over Jerusalem, in the garden of Gethsemane and even prayed psalm 22 on the cross.  “My God, my God, why have you forsaken me?”  While this is where he stops the rest of the Psalm is implied:  “Why are you so far from saving me, from the words of my groaning?  O my God, I cry by day, but you do not answer, and by night, but I find no rest.”  It is interesting that we normally treat these words of Jesus like He was the first to say them.  But lament is a language God has given his people throughout time and space to deal with situations that cannot be dealt with easily.  It is a language he still gives us today that can and should be added back into our Christian vernacular.   
 
-  
-
 As we run to God with the raw experience of our lives something amazing happens.  Even the darkest laments come to real experiences of God’s goodness and love. This is so much more than a simple affirmation that God is good even when it doesn’t feel like it. Running toward God is spectacularly powerful.  As we draw closer in the honest expression of our struggles, the promises and truths about God enter into our lives in deeply meaningful ways. It is in this place of vulnerability, that we hear strange words of comfort and resilience even when things seem hopeless. The language of lament speaks hope to the hopeless in a way that pulls and grabs the very core of our being.
 
-  
+> [!quote] Habakkuk 3:17-19 
+“Though the fig tree should not blossom, nor fruit be on the vines, the produce of the olive fail and the fields yield no food, the flock be cut off from the fold and there be no herd in the stalls, yet I will rejoice in the Lord; I will take joy in the God of my salvation. God, the Lord, is my strength; he makes my feet like the deer's;  he makes me tread on my high places.
 
-“Though the fig tree should not blossom,
-
-    nor fruit be on the vines,
-
-the produce of the olive fail
-
-    and the fields yield no food,
-
-the flock be cut off from the fold
-
-    and there be no herd in the stalls,
-
-yet I will rejoice in the Lord;
-
-    I will take joy in the God of my salvation.
-
-God, the Lord, is my strength;
-
-    he makes my feet like the deer's;
-
-    he makes me tread on my high places.
-
-  Pushes”
-
--Habakkuk 3:17-19 
 # Can I talk to a Manager?
 (Used in OS #📃Epistle May 2022)
 
