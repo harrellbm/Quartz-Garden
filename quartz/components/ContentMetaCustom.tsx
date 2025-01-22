@@ -22,7 +22,7 @@ const defaultOptions: ContentMetaOptions = {
   showReadingTime: true,
   showComma: false,
   showCustomField: false,
-  customField: ['Note Planted:', 'Last Tended:']
+  customField: []
 }
 
 export default ((opts?: Partial<ContentMetaOptions>) => {

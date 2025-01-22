@@ -39,7 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     //Component.ContentMeta(),
-    Component.ContentMetaCustom({showDates: false, showReadingTime: true, showComma: false, showCustomField: true, customField: ['Note Planted:', 'Last Tended:']}),
+    Component.ContentMetaCustom({showDates: false, showReadingTime: true, showComma: false, showCustomField: true, customField: ['Note Planted', 'Last Tended']}),
     //Component.TagList(),
   ],
   left: [
