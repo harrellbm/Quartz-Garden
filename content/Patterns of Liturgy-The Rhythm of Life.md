@@ -13,7 +13,7 @@
 
 > [!note]
 > Used for OS #📃Epistle Oct 2023.
-> Used for LCOS #📃Epistle Dec 2024.
+> Used for LCOS #📃Epistle Jan 2025.
 
 ***Related Notes***: [[Models of Human Rhythms\|Models of Human Rhythms]], [[Private/Personal Reflections on My Personal Rhythms\|Personal Reflections on My Personal Rhythms]], [[Rhythm Reset\|Rhythm Reset]], [[Thoughts on Liturgy and Rhythm\|Thoughts on Liturgy and Rhythm]], [[Basic Philosophies of Community Rhythm and Project Lifecycle\|Basic Philosophies of Community Rhythm and Project Lifecycle]]
 

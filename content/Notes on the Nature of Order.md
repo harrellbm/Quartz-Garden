@@ -1,7 +1,8 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-01-26
 ---
-
 #🪴Sprout  #🙂Agree  #🟡Consideration 
 
 ****
@@ -217,6 +218,8 @@ Here are specific notes on each centers relationship:
 
 The method by which he observes the world 
 [[Tests of Wholeness\|Tests of Wholeness]]
+
+He also redefines an alternative from of objectivity. Rather than strictly the observation method of science being the only form. He argues that there is also a consistent reaction of humans to the world around us. This reaction is the same (roughly) between people no matter of culture, gender, age or any differentiating factors. This reaction however is not the knee jerk “things I like” or normal emotional reaction but a kind of deep liking or as he calls it “mirror of the self.” In other words, we can objectively tell which environments make humans more healthy and whole if this deep liking can be brought out. The problem he argues is that we are often taught to ignore this [[Deep Feeling\|Deep Feeling]] in favor of the societal ideal or popular trends. 
 
 TODO: redo notes from 246 on
 
