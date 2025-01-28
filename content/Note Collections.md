@@ -55,4 +55,5 @@ Stuff about how we should use and think about tech:
 ## Projects
 Stuff I have built or am working on. 
 - [[Projects/Bookletic\|Bookletic]]
+- [[Projects/Digital Garden Map\|Digital Garden Map]]
 - [[Introduction to Thematic Liturgies Project\|Introduction to Thematic Liturgies Project]]

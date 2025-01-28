@@ -10,7 +10,7 @@
 
 > [!Summary] The Big Idea
 > Note Tree for various aspects as they develop [[LCOS Notes/LCOS Community Notes\|LCOS Community Notes]]
-> first part of the process undertaken: [[LCOS Notes/Opening LCOS Visioning Process\|Opening LCOS Visioning Process]]
+> first part of the process undertaken: [[LCOS Notes/Handouts/Opening LCOS Visioning Process\|Opening LCOS Visioning Process]]
 
 Related Notes: 
 [[LCOS Notes/LCOS Community Notes\|LCOS Community Notes]]

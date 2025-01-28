@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-28","PassFrontmatter":true}
 ---
 
 #🌲Evergreen  #😁Strongly-Agree  #🟢Conviction 
@@ -33,6 +33,7 @@
 - Theologian of the cross vs theologian of glory
 - [[The Process of Inculturation\|The Process of Inculturation]]
 - [[What is Liturgy\|What is Liturgy]]
+	- [[Liturgical Art\|Liturgical Art]]
 - Rhythms of Life and Faith
 - Vocation
 - Function of Doctrine as a common language 
@@ -61,8 +62,7 @@
 - Embodied practices (crosses, breath prayer, etc.)
 - 6 Chief Parts of the Catechism
 - Means of Grace and Sacraments
-	- [[The Lord's Supper\|The Lord's Supper]]
-- Economic and Immanent Trinity 
+	- [[John Chrysostom on the Lord's Supper\|John Chrysostom on the Lord's Supper]]
 - Justification and other Gospel metaphors
 - New Heaven and New Earth. Eschatology  
 - Sin = Death, and Sin = Separation. 
@@ -83,7 +83,7 @@
 - Visible and Invisible Church
 - Jesus as Prophet, Priest and King
 - Two Natures of Christ, Athanasian Creed, person of Christ
-- Economic trinity from the father through the son by the Holy Spirit. We can also pray to the Father through the son in the Holy Spirit 
+- Economic Trinity. from the father through the son by the Holy Spirit. We can also pray to the Father through the son in the Holy Spirit 
 - Immanent Trinity. Co equal, eternal etc. 
 - Original Sin
 - Sanctification
@@ -95,12 +95,18 @@
 - Order of Creation. As it comes from the creation account and other biblical descriptions, but also as we can see it through the healthy functioning of particular created orders. [[Notes on the Nature of Order\|Notes on the Nature of Order]] A similar account of seeing the health functioning of buildings.
 - The Use and Inhabitation of Space:
 	- [[Sacred Space\|Sacred Space]]
+	- [[Mountains of Scripture\|Mountains of Scripture]]
 	- [[Random Notes on Sacred Space\|Random Notes on Sacred Space]]
 	- [[Pedagogy of Space\|Pedagogy of Space]]
 	- [[Aesthetic\|Aesthetic]]
-- [[The Tabernacle\|The Tabernacle]]
+	- [[The Tabernacle\|The Tabernacle]]
 - [[The Solas of the Reformation\|The Solas of the Reformation]]
 - [[Bible Translations\|Bible Translations]]
+- [[Facing North or East\|Facing North or East]]
+## Other Notes
+- [[Faith Catchphrases\|Faith Catchphrases]]
+- [[New Monasticism\|New Monasticism]]
+- [[Love Your Enemies\|Love Your Enemies]]
 
 # Unhealthy Theological Views or Ideas 🤢
 

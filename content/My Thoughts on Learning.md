@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-11-10","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-11-10","Last Tended":"2025-01-28","PassFrontmatter":true}
 ---
 
 #🌱Seed  #😐Neutral 
@@ -35,3 +35,4 @@
 [[Boredom\|Boredom]]
 [[The Preservation of Tail Knowledge\|The Preservation of Tail Knowledge]]
 [[Topological Navigation\|Topological Navigation]]
+[[Attention\|Attention]]
