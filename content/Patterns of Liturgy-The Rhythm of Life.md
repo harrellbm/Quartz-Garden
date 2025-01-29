@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-29","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree
@@ -35,14 +35,27 @@ Even so, as the Scripture unfolds the story of God’s people, the created litur
 
 Until finally - we meet Jesus.  He lives a perfect liturgical life. He rests and works. He prays quietly and speaks to crowds. He cares for the oppressed and challenges the self-righteous.  He lives, breathes, and eats.  Every moment perfectly in harmony with the patterns of God.  
 
-Then Jesus leaves. He ascends into heaven, but leaves His church on earth. He calls His disciples to live lives after the pattern.  The pattern He spoke into existence at the dawn of time, and restored through His death and resurrection. A liturgy that beats in step with the Father’s heart. 
+But this sin sick world could not abide such beautiful rhythm. The music of life and creation caused the darkness to scowl. As the destructive cycles of broken bodies, shackled spirits, and lost souls began to experience the renewal of the Creator's breath. The disfigured and disordered liturgy of the serpent bared its teeth once again. Bludgeoning and betraying, stripping and stabbing, the obsessive beat of the battle drum seems to drown out the Father's heartbeat once again. Until - "It is finished" - and the earth itself heaves a deep and mournful sigh.  
+
+
+Then everything stops.
+
+The mad frenzy melts away with nothing but stillness in its wake. 
+The sabbath rest no one expected. 
+
+The heartbeat of God silent... cold... dark.... 
+
+
+The eighth day - Easter morning - begins just like the first day of creation. The Spirit of God hovers over the dark chaos and Jesus speaks once again: "Let there be light" and there was. The rhythms of Christ burst from the tomb like a flood. The Father's heart poured out for our redemption. The week itself is reset and reoriented around this most precious creative act. Out of death comes life, out of darkness comes light. The shadows of temple worship give way to the worship of God's anointed Lamb.  
+
+Then Jesus leaves. He ascends into heaven, but leaves His church on earth. He calls His disciples to live lives after the pattern. The pattern He spoke into existence at the dawn of time, and restored through His death and resurrection. A liturgy that beats in step with the Father’s heart. 
 
 As we seek to live lives shaped by the liturgy of Scripture, we enter into these patterns. We gather on the day of rest as a community. We pray and care. We eat together and cry together.  All seeking to dance with the rhythm of Jesus' heart.  As you enter into worship, or get out of bed.  Keep an eye peeled for the liturgies of God. His patterns have shaped the very fabric of the universe. A liturgy that calls us into a reality not yet fully realized.  The return to Eden. The coming of Heaven on earth. The day we see Him face to face. Liturgy is a window through which we catch glimpses of eternity. 
 
 May His liturgy grab your heart and imagination. May it call you into new life each and every morning.  
 
 > “He made the moon to mark the seasons; the sun knows its time for setting.
-> You make darkness, and it is night,  when all the beasts of the forest creep about.
+> You make darkness, and it is night, when all the beasts of the forest creep about.
 > The young lions roar for their prey, seeking their food from God.
 > When the sun rises, they steal away and lie down in their dens.
 > Man goes out to his work and to his labor until the evening.” 
