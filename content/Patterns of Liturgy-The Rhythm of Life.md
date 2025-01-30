@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-29","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-30","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree
@@ -21,13 +21,21 @@
 
 # The Rhythm of Life 
 
-Liturgy is a very churchy word. To many liturgy, or liturgical practices, are a very specific set of prayers, and words said every Sunday over and over. In this context, liturgy is either dearly beloved or apathetically repeated. Using the word liturgy in this way has led to many empty debates ending with disagreement over subjective personal taste or selective historical adherence.
+Liturgy is a very churchy word. To many liturgy, or liturgical practices, are a very specific set of prayers, and words said every Sunday over and over. In this context, liturgy is either dearly beloved or apathetically repeated. Using the word liturgy in this way has led to many empty debates ending with disagreement over subjective personal taste or selective historical adherence. Martin Luther clearly taught that the core of a Christian life consists not primarily in specific things said in a church but in our daily walk with Jesus: 
 
-Liturgy is however so much more than a set of practices or a few pages in a hymnal.  It brings together a tapestry of meaning from across the whole story of Scripture. It voices patterns and rhythms that flow from God and His grace into every corner of our lives. Liturgy does not happen only on Sundays. It is the heartbeat of every Christian life. 
+> [!quote] Book of Concord, Large Catechism, p. 428.
+> It seems to me that we shall have our hands full to keep these commandments, practicing gentleness, patience, love toward enemies, chastity, kindness, etc., and all that is involved in doing so. But such works are not important or impressive in the eyes of the world. They are not uncommon and showy, reserved to certain special times, places, rites, and ceremonies, but are common, everyday domestic duties of one neighbor to another, with nothing glamorous about them.
 
-Liturgy comes out of the Greek language and means “work for the people.”  It describes the intricate interweaving of God and His good gifts being worked out for us by Jesus. While also describing the work of God’s people in mission.  
+The word liturgy comes out of the Greek language, and as the writers of the Lutheran Confessions observed:
 
-The very first set of liturgical patterns comes to use out of the opening pages of Scripture. God creates a world that blooms and grows to a rhythm.  Morning and evening come and go. God works for six days and then rests.  A living vibrant world dancing to the beat of the Father’s heart. These foundational patterns are meant to define our lives. They take the chaos of our days and give us purpose. 
+> [!quote] Book of Concord, Apology of the Augsburg Confession, Article 24, p. 273
+> the verb leitourgeo means, "I attend to or I administer public goods."
+
+Before its Christian use, the word liturgy originally described the public duties of individuals according to Greek and Roman law. Paul later uses it in 2 Corinthians 9:12 to describe the Corinthian's generous collection to aid the Macedonians. 
+
+Therefore, liturgy is so much more than a set of practices or a few pages in a hymnal. It brings together a tapestry of meaning from across the whole story of Scripture. It voices patterns and rhythms that flow from God and His grace into every corner of our lives. Liturgy does not happen only on Sundays. It is the heartbeat of every Christian life. A public and visible embodiment of Jesus' promise that believer's hearts will spill over with "rivers of living water" (John 7:38).
+
+The very first set of liturgical patterns comes to us out of the opening pages of Scripture. God creates a world that blooms and grows to a rhythm. Morning and evening come and go. God works for six days and then rests. A living vibrant world dancing to the beat of the Father’s heart. These foundational patterns are meant to define our lives. They take the chaos of our days and give us purpose. 
 
 Yet humans did not abide within the created rhythms. After taking hold of the fruit, we hear the beauty of God’s liturgy as it slips away. In the cool of the day, what should have been a time of connection and communion is lost because of sin’s rupture. And so humans are forced to live in a world screaming with our own greed and pride. Voices so loud that the heartbeat of the Father seems to all but fade away from Human awareness.  
 
@@ -57,7 +65,15 @@ The eighth day - Easter morning - begins just like the first day of creation. Th
 
 Then Jesus leaves. He ascends into heaven, but leaves His church on earth. He calls His disciples to live lives after the pattern. The pattern He spoke into existence at the dawn of time, and restored through His death and resurrection. A liturgy that beats in step with the Father’s heart. 
 
-As we seek to live lives shaped by the liturgy of Scripture, we enter into these patterns. We gather on the day of rest as a community. We pray and care. We eat together and cry together.  All seeking to dance with the rhythm of Jesus' heart.  As you enter into worship, or get out of bed.  Keep an eye peeled for the liturgies of God. His patterns have shaped the very fabric of the universe. A liturgy that calls us into a reality not yet fully realized.  The return to Eden. The coming of Heaven on earth. The day we see Him face to face. Liturgy is a window through which we catch glimpses of eternity. 
+As we seek to live lives shaped by the liturgy of Scripture, we enter into these patterns. We gather on the day of rest as a community. We pray and care. We eat together and cry together.  All seeking to dance with the rhythm of Jesus' heart.  As you enter into worship, or get out of bed.  Keep an eye peeled for the liturgies of God. His patterns have shaped the very fabric of the universe. A liturgy that calls us into a reality not yet fully realized.  
+
+The return to Eden. 
+The celebration of Cana.
+The security of Zion.
+The coming of Heaven on earth. 
+The day we see Him face to face. 
+
+Liturgy is a window through which we catch glimpses of eternity. 
 
 May His liturgy grab your heart and imagination. May it call you into new life each and every morning.
 
