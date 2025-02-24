@@ -26,14 +26,14 @@ Liturgy is a very churchy word. To many liturgy, or liturgical practices, are a 
 > [!quote] Book of Concord, Large Catechism, p. 428.
 > It seems to me that we shall have our hands full to keep these commandments, practicing gentleness, patience, love toward enemies, chastity, kindness, etc., and all that is involved in doing so. But such works are not important or impressive in the eyes of the world. They are not uncommon and showy, reserved to certain special times, places, rites, and ceremonies, but are common, everyday domestic duties of one neighbor to another, with nothing glamorous about them.
 
-The word liturgy comes out of the Greek language, and as the writers of the Lutheran Confessions observed:
+This everyday definition of liturgical duty arises out of its Greek origins. As the writers of the Lutheran Confessions observed:
 
 > [!quote] Book of Concord, Apology of the Augsburg Confession, Article 24, p. 273
 > the verb leitourgeo means, "I attend to or I administer public goods."
 
 Before its Christian use, the word liturgy originally described the public duties of individuals according to Greek and Roman law. Paul later uses it in 2 Corinthians 9:12 to describe the Corinthian's generous collection to aid the Macedonians. 
 
-Therefore, liturgy is so much more than a set of practices or a few pages in a hymnal. It brings together a tapestry of meaning from across the whole story of Scripture. It voices patterns and rhythms that flow from God and His grace into every corner of our lives. Liturgy does not happen only on Sundays. It is the heartbeat of every Christian life. A public and visible embodiment of Jesus' promise that believer's hearts will spill over with "rivers of living water" (John 7:38).
+As can be seen, liturgy is so much more than a set of practices or a few pages in a hymnal. It brings together a tapestry of meaning from across the whole story of Scripture. It voices patterns and rhythms that flow from God and His grace into every corner of our lives. Liturgy does not happen only on Sundays. It is the heartbeat of every Christian life. A public and visible embodiment of Jesus' promise that believers' hearts will spill over with "rivers of living water" (John 7:38).
 
 The very first set of liturgical patterns comes to us out of the opening pages of Scripture. God creates a world that blooms and grows to a rhythm. Morning and evening come and go. God works for six days and then rests. A living vibrant world dancing to the beat of the Father’s heart. These foundational patterns are meant to define our lives. They take the chaos of our days and give us purpose. 
 

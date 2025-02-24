@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-02-24","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree
@@ -72,7 +72,7 @@ And no matter which direction we may lean, life has a way of frustrating both. E
 
   
 
-My first introduction to spiritual disciplines was in high school. Read books on discipline and I tried to keep up with all of them. Call of monasticism was attractive. Fanatical adherence burnt me out. Still have a bit of a messed up hunger que from intense fasting.  
+My first introduction to [[Spiritual Disciplines\|Spiritual Disciplines]] was in high school. Read books on discipline and I tried to keep up with all of them. Call of monasticism was attractive. Fanatical adherence burnt me out. Still have a bit of a messed up hunger que from intense fasting.  
 
   
 

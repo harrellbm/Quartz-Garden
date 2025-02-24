@@ -1,8 +1,7 @@
 ---
-publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-01-26
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-26","PassFrontmatter":true}
 ---
+
 #🪴Sprout   #🙂Agree  #🟡Consideration 
 
 ****
@@ -32,7 +31,10 @@ This makes it clear that Knowing Jesus is and will always be an article of Faith
 
 Alexander makes a very similar connection stating that the motivation behind tending our built environment should be : “governed simply by the desire and firm intention to make beauty (which is to say, true life) around us.” This connection between beauty and [[The Quality of Life in Environments and Objects\|The Quality of Life in Environments and Objects]] is one that I find quite compelling.
 
-Another article that talks about his faith: [God and the Architect](https://livingchurch.org/church-life/god-and-the-architect/)
+Here are other articles that talks about his faith:
+- [God and the Architect](https://livingchurch.org/church-life/god-and-the-architect/)
+- [[making the garden.pdf]]
+
 
 An interview with him about his work in general:
 [General Interview with Christopher Alexander about his work and philosophy](https://www.patternlanguage.com/archive/kohn.html)

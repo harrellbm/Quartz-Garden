@@ -1,7 +1,7 @@
 ---
 publish: true
 Note Planted: 2024-10-22
-Last Tended: 2025-01-26
+Last Tended: 2025-02-03
 ---
 #🪴Sprout  #🙂Agree  #🟡Consideration 
 
@@ -220,6 +220,11 @@ The method by which he observes the world
 [[Tests of Wholeness\|Tests of Wholeness]]
 
 He also redefines an alternative from of objectivity. Rather than strictly the observation method of science being the only form. He argues that there is also a consistent reaction of humans to the world around us. This reaction is the same (roughly) between people no matter of culture, gender, age or any differentiating factors. This reaction however is not the knee jerk “things I like” or normal emotional reaction but a kind of deep liking or as he calls it “mirror of the self.” In other words, we can objectively tell which environments make humans more healthy and whole if this deep liking can be brought out. The problem he argues is that we are often taught to ignore this [[Deep Feeling\|Deep Feeling]] in favor of the societal ideal or popular trends. 
+
+> [!quote]
+> The scheme of things I have started to present covers all of architecture. The scheme starts with the concept of wholeness as something which exists in space, and with the idea of centers, the way that centers help each other. It goes on to the idea of living structure — the detailed ideas about the fifteen properties that allow centers to help each other, and the observation that this structure is pervasive in nature and in deeply satisfying man-made things.
+> - Nature of Order, bk 1., p. 442.
+
 
 TODO: redo notes from 246 on
 

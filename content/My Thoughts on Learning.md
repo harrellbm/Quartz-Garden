@@ -13,6 +13,8 @@
 
 ****
 
+Writing is a form of learning. It is a way to hammer things out to put it down and come back to evaluate it later. It is a way to voyage my cranial seas. 
+
 [[Types of Pedagogy\|Types of Pedagogy]]
 [[Basic Philosophies of Community Rhythm and Project Lifecycle\|Basic Philosophies of Community Rhythm and Project Lifecycle]]
 [[Bible Study Structures\|Bible Study Structures]]

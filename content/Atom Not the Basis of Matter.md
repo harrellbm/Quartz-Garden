@@ -17,3 +17,5 @@ Posited by:
 Source: [The Unfolding Whole](https://christopher-alexander-ces-archive.org/article/the-unfolding-whole-how-things-work-together-a-revaluation-of-our-place-in-the-scheme-of-things-and-of-our-work-in-the-world/)
 
 ****
+
+After thinking this one over and talking with others that are deeper into the science of it all. It seems like this is a kind of outdated and tenuous illustration Alexander is using to try and get at a deeper point that being obsessed only with the parts of a system sometimes make its impossible to see how things work as a whole. Therefore, I agree with the concept but not this particular example he tries to use for it.  

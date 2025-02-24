@@ -35,6 +35,7 @@ Used the list of common good shapes in nature of order book 1 p.183
 - Thin
 - Draw free lines and then color or shade in some of the resulting shapes using two different colors. 
 - Follows from exercise above. Choose individual shapes from resulting from the free draw. Then set up small thumbnail boxes on the page and put on shape in it. Optionally you can color with two contrasting colors. 
+- Gesture drawing - use the least amount of lines to try the basic form, structure and movement of a subject 
 
 # Grid and Hashes 
 - Draw a simple straight line grid 

@@ -8,7 +8,8 @@
 
 > `Importance`: 10%
 
-***The Big Idea***: Used as OS #📃Epistle in Series *Mediation on Scripture*, October 2021.
+> [!note]
+> Used as OS #📃Epistle in Series *Mediation on Scripture*, October 2021.
 
 ****
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-28","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-02-24","PassFrontmatter":true}
 ---
 
 #🌲Evergreen  #😁Strongly-Agree  #🟢Conviction 
@@ -35,6 +35,9 @@
 - [[What is Liturgy\|What is Liturgy]]
 	- [[Liturgical Art\|Liturgical Art]]
 - Rhythms of Life and Faith
+	- [[Spiritual Disciplines\|Spiritual Disciplines]]
+	-  Embodied practices (crosses, breath prayer, Using our bodies in worship, etc.)
+	- Liturgical Calendar 
 - Vocation
 - Function of Doctrine as a common language 
 - Church Militant and the Church Triumphant
@@ -43,6 +46,7 @@
 - Lament and tough emotions
 	- [[Lament Epistle Series\|Lament Epistle Series]]
 	- [[Lament Sermon Series Schedule\|Lament Sermon Series Schedule]]
+- Bible reading skills
 - Reading and Meditating on Scripture: 
 	- [[Christian Meditation\|Christian Meditation]]
 	- [[Lectio Divina\|Lectio Divina]]
@@ -56,10 +60,7 @@
 	- [[Love the Lord Your God with all Your Heart\|Love the Lord Your God with all Your Heart]]
 	- [[Ways to Engage Scripture\|Ways to Engage Scripture]]
 	- [[Gerhard Method of Theological Study\|Gerhard Method of Theological Study]]
-- Breath Prayer, Using our bodies in worship
-- Bible reading skills
 - [[Creatureliness\|Creatureliness]] and embodiment. Danger of dualism 
-- Embodied practices (crosses, breath prayer, etc.)
 - 6 Chief Parts of the Catechism
 - Means of Grace and Sacraments
 	- [[John Chrysostom on the Lord's Supper\|John Chrysostom on the Lord's Supper]]
@@ -89,8 +90,7 @@
 - Sanctification
 - Return of Jesus, Judgment day
 - Free will, and predestination 
-- Liturgical Calendar 
-- Biblical Poetry (Psalms, Prophets, etc.)
+- Biblical Poetry (Psalms, [[Prophets\|Prophets]], etc.)
 - [[Mission Mindset\|Mission Mindset]]: Go and Tell not always Come and See
 - Order of Creation. As it comes from the creation account and other biblical descriptions, but also as we can see it through the healthy functioning of particular created orders. [[Notes on the Nature of Order\|Notes on the Nature of Order]] A similar account of seeing the health functioning of buildings.
 - The Use and Inhabitation of Space:
