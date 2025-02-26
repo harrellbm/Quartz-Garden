@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-02-24","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-02-26","PassFrontmatter":true}
 ---
 
 #🌿Sapling #😁Strongly-Agree  #📝Essay 
@@ -19,18 +19,17 @@
 
 # A Brewing Crisis 
 
-We live in a world slumbering on the edge of yet another technological revolution. Artificial Intelligence is jumping out of the pages of science fiction (or so we are told) into more and more everyday forms. At the time of writing, the Sora model can now generate videos that need intensive investigation to determine if they are real or artificially generated. Not to mention well known Large Language Models like ChatGPT or Gemini are but one type of iteration on the underlying technology of Neural Networks. Theorists have clearly outlined the exponential nature of technological change.[^1]  Meaning that our projections of emerging AI should not follow a mindset of small regular improvements, but that of a snowball effect. This trend has already played out in the development of AI up to this point. Initial theorization and experimentation with the basic concepts behind today's top AI models started in 1949 with Donald Hebb.[^2] Here we are seventy five years later quickly passing a tipping point. No longer are developments measured in decades, or years, but every month there is a new announcement of a breakthrough and additional capability of some sort. Regardless of if these technologies ever reach the mythical level of Hal 9000, or not, the trajectory and pace of change is clear. 
+We live in a world slumbering on the edge of yet another technological revolution. Artificial Intelligence is jumping out of the pages of science fiction (or so we are told) into more and more everyday forms. At the time of writing, asking an AI for assistance with something has reached the point of being rather impressive (from my subjective judgement). Not to mention, well known Large Language Models like ChatGPT or Gemini are but one type of AI model arising from the underlying technology of Neural Networks. Theorists have clearly outlined the exponential nature of technological change.[^1]  Meaning that our projections of emerging AI should not follow a mindset of small regular improvements, but that of a snowball effect. This trend has already played out in the development of AI up to this point. Initial theorization and experimentation with the basic concepts behind today's top AI models started in 1949 with Donald Hebb.[^2] Here we are seventy five years later quickly passing a tipping point. No longer are developments measured in decades, or years, but every month there is a new announcement of a breakthrough and additional capability of some sort. Regardless of if these technologies ever reach the mythical level of Hal 9000 (or not) the trajectory and pace of change is clear. 
 
-> [!note] Side Note
-> After all no matter how smart AI is, or is not, the way it is treated will make the most impact. If humans surrender to an unquestioned source of information, it really does not matter how smart it is because the damage is done. Not to mention sounding suspiciously like worship to me....
+More importantly than if AI is actually smart or not, are the implications of how humans have begun to treat them. It really does not matter what level of intelligence this "other" has reached if humans willingly surrender to an unquestioned source of information (i.e. let's ask google). Or completely outsource things like reading and writing. These human decisions have deep significance for how we conceptualize the world around us.
 
-All of us have a certain capacity to healthily cope with change, but if our great grandparents, and grandparents struggled to adapt to the rate of technological change in their lifetime (from car to moon landing), this problem is set to be unimaginably worse in ours and our children’s generation. Even the companies developing these technologies do not seem to have a clear picture of what they are building or why.   
+All of us have a certain capacity to healthily cope with change, but if our great grandparents, and grandparents struggled to adapt to the rate of technological change in their lifetime (from car to moon landing), this problem is set to be unimaginably worse in ours and our children’s generation. Even the companies developing these technologies do not always seem to have a clear picture of what they are building or why.   
 
 Consequently, this burgeoning era of technology has brought with it an explosion in philosophies and attitudes used to approach AI. On one end we hear of proponents arguing for the grandiose emergence of AI sentience and AGI (Artificial General Intelligence). While on the other end a human centric approach sees AI as yet another tool to magnify data and augment human intelligence, productivity, and discovery. Still others caution of danger for humans to "offload" and subsequently loose basic capabilities like critical thinking, reading, and writing. 
 
-The future from these various perspectives are wildly different. One approach imagines a world where human workers are by and large replaced by AI agents. While the other imagines AI as a trusty partner. No matter one's chosen approach, picturing human flourishing in the midst of this new world relies on underlying assumptions of what a human is and what humans should be doing. 
+The future from these various perspectives are wildly different. One approach imagines a world where human workers are by and large replaced by AI agents. While the other imagines AI as a trusty partner. The apocalyptic scenario is easily floated around as well. Yet no matter one's chosen approach, picturing human flourishing in the midst of this new world relies on underlying assumptions of what a human is and what humans should be doing. 
 
-An additional side effect of this technological boom is that the list of human abilities that make us unique are positioned to become fewer and fewer. I doubt we are prepared to live as humans in a world where our reason, creativity, and productivity (to name a few) are dwarfed by the sear force of emerging AI. Even if only in perception, this sentiment will most likely grow into full blown reliance on AI in one capacity or another. What will it be like to watch our prized abilities be set aside or “out classed” in as yet unseen ways by the machines around us?
+A potential side effect of this technological boom is that the list of human abilities that make us unique are positioned to become fewer and fewer. I doubt we are prepared to live as humans in a world where our reason, creativity, and productivity (to name a few) are dwarfed by the sear force of an emerging AI. Even if only in perception, this sentiment will most likely grow into full blown reliance on AI in one capacity or another. What will it be like to watch our prized abilities be set aside or “out classed” in as yet unseen ways by the machines around us?
 
 Not only this, but we live in a world where questions of identity are increasingly subjective and vague. For example, the already overwhelming reality of puberty is made even more difficult with additional “decisions” surrounding sexual orientation, and even “species” as evidenced by the presence of litter boxes in public school bathrooms. 
 
@@ -52,7 +51,7 @@ In this quest, many seats of human essence have been elucidated. The Platonic so
 
 To get a sense of this variety and commonality, let us walk through three examples. The first of which is the famous philosophy of René Descartes.  “I think, therefore I am.” This ubiquitous phrase cleanly sums up his reliance on human reason as the core of being.[^3] In contrast, the work of Frank Senn returns to a model of embodiment. Senn summarizes his perspective by citing the work of Pope John Paul II: “I do not have a body, I am a body.”[^4] From this perspective, the human creature is defined primarily through the lens of embodiment. This perspective has an eye toward a more holistic approach but still reduces the essence of a human person down to a body. This is true even to the extent that mental state is attributed to bodily state. Finally, the work of James K. A. Smith pushes for the most expansive model conceptualizing the human creature as formed and oriented by a core of desire or: “I am What I Love.”[^5] This shifts away from defining humanity based on the executive function of a particular element of the human creature and into being defined by a more general primary driver. 
 
-Yet despite their differences, all of these perspectives attempt to organize the human creature around a singular primary driver. While both Senn and Smith are concerned to avoid the reductionism of other philosophies, they nonetheless still come back to locating the human creature within a kind of “essence.” This no doubt offers a cleaner framework and sense of security by narrowing one’s philosophical focus. However, they still suffer from the inability to adequately address the true complexities of life. In other words, the major problem with these approaches is found in their constriction of definition. In attempting to find a conceptually sound and reasonable framework, each perspective more or less jettisons unhelpful aspects of the human person. Descarte disposes of all but reason, Senn more or less dismisses any “unembodied” elements of a person, and Smith is almost there but still dismisses much of the complexity between human reason, emotion, etc. in favor of placing desire as the primary driver. 
+Yet despite their differences, all of these perspectives attempt to organize the human creature around a singular primary driver. While both Senn and Smith are concerned to avoid the reductionism of other philosophies, they nonetheless still come back to locating the human creature within a kind of “essence.” This no doubt offers a cleaner framework and sense of security by narrowing one’s philosophical focus. However, they still suffer from the inability to adequately address the true complexities of life. In other words, the major problem with these approaches is found in their constriction of definition. In attempting to find a conceptually sound and reasonable framework, each perspective more or less jettisons unhelpful aspects of the human person. Descartes disposes of all but reason, Senn more or less dismisses any “unembodied” elements of a person, and Smith is almost there but still dismisses much of the complexity between human reason, emotion, etc. in favor of placing desire as the primary driver. 
 
 As we have seen, this quest for a singular primary driver has produced many definitions of the human creature.  However, the negative side of this approach needs to be addressed. As each approach defines a singular seat of “power” (for lack of a better term) adherents to each school of thought begin to think of themselves and others in terms of a subset of our constitution. In other words, in attempting to understand who and what we are, we end up sketching caricatures rather than the vibrant reality. By defining a unilateral center, we excluded the importance and integration of other parts of the human person. 
 
@@ -60,31 +59,56 @@ The untenability of these reductions can be seen all throughout our daily life. 
 
 A simple case study in this is sleep deprivation (a physical state). Anyone who is a parent (or finds themselves sleep deprived for other reasons) knows that this singular environmental factor deeply affects everything from patience levels to thinking speed. Yet one would scarcely argue that sleep is a comprehensive human driver. If we did, we could end up with some ridiculous theories of Human existence like “the human as hibernator.” Instead, a more comprehensive approach that can acknowledge the multifactor nature of human existence and motivation is needed.   
 
+# A Machine or a Creature?
+The Philosopher/Architect Christopher Alexander lays out a further explanation for this systemic reductionism surrounding Western thought about our human constitution. He argues that Descartes, Postmodernism, and much of Western thinking all share a mechanistic explanation for the universe. In other words, the Universe is something like a great clock (mechanism) that tick on by itself without any outside intervention. 
+
+Even as Christians we often operate with this assumption. The world is running by its laws and physics and God "breaks into" things now and again, but the actual daily moment by moment participation and perceptible reality of God is left in church. 
+
+This mechanistic assumption believes that if all processes within the universe could be recorded, measured, and explained adding them up would produce a full understanding of everything in the universe. Whether we realize it or not scientific inquiry is built on this very premise. For example, if we understand how precipitation works, and how the sun rotates around the earth, and we keep adding bit by bit all these pieces of understanding together we will get to a more accurate and provable theory of this or that. And as you add theories together the goal is to create a comprehensive picture of what the universe is.   
+
+We can see how this mechanistic perspective has been applied to Humans in the form of modern medicine. Just about every tiny piece of the human body has its own specialized doctor (even down to a retina specialist!). This has been generally motivated by the overarching conviction that if every little tiny part of the body can be studied, understood, and treated then full health and wellness will be in reach. 
+
+While this approach has achieve many incredible feats of physical healing, it is worth noting that there are many cracks in the facade.  This is not to say that scientific research or mechanistic inquiry is evil. The specifics of how things work mechanistically can (and will always be) a worth while pursuit of science. However, as a comprehensive picture of the universe, the mechanistic worldview leaves us with an understanding of ourselves as machines. Even the way we commonly talk about our minds quickly drift into machine language.
+
+Health and wellness coaches and plans often operate from this perspective as well. If I can just get all the mechanics of my mind and body to work right, then I should have a happy and fulfilling life. As simple and straightforward as it may seem this wholesale reliance on the mechanics of our body and mind one way or another devolve into a mad rat race to maintain equilibrium. An equilibrium that always ends up going down hill in the end. 
+
+Other than being depressing, another problem with this kind of reliance on the mechanistic perspective is that if you have even a few bad parts your picture of the whole can get very distorted. 
+
+Example of Social Darwinism in Nazi "research."
+
+Not to mention it is also impossible to judge which mechanics are more important or accurate until you have tried them out. Which in some cases dooms whole generations to deal with the consequences of the experiments of their predecessors (think of the early industrial revolution or colonialization, both very effective mechanics but generally not very humane or balanced).
+
+What if breaking humans down into composite parts, or obsessing over the innerworkings of this piece or that, is not the most productive or faithful way forward? In a world where machines are increasingly being made in our image, how do we perceived even a glimmer of God's image in ourselves? Are we truly just squishy broken down machines? Destined to be outclassed by our own technological creations? 
+
+A way to move beyond the mechanistic worldview proposed by Alexander is to think in terms of wholeness. Rather than seeking to put together our understanding like an erector set, wholeness starts from the opposite end. In order to understand a human, we must first start with ״the wholeness” of humanity.  
+
+In this perspective, wholeness is the overall cohesiveness and interrelated nature of everything. A building functions as a whole. Missing a roof, or doors, or plumbing affects the ability of the whole to operate. Even the earth functions as a whole and therefore humans are affected by the environment in which we live. We are not unattached, but are to a certain extent influenced and contingent on our environment. 
+
+In Alexander's more philosophical terms: 
+> the wholeness in any part of space is the structure defined by all the various coherent entities that exist in that part of space, and the way these entities are nested in and overlap each other.
+>- Nature of Order, bk 1., p. 81
+
+A metaphor for this is to think of two frogs on a table. One is alive and whole the other is split open and pinned on the board. Which frog gives you a better example of what a frog really is? The dissected frog can teach you a lot about the mechanics of how a frog works internally. But if that is all you ever have access to you will never really have a good idea of what a frog is like, or how it sounds, or where it lives, or any of the other things that makes a frog "a frog" as a whole created creature. In the same way, seeking to understand ourselves as created creatures rather than machines must begin from this broad perspective of wholeness.   
+
 # Starting from Parts or Wholeness? 
 
-How viewing the universe as a mechanism has temped us to think of ourselves as machines 
-Referring to book one of Christopher 
+Christopher Alexander approaches from an empirical and architectural frame and sometimes goes off in weird places 
 
-Use Christoper Alexander idea of wholeness and centers
+But I seek to show how the idea of wholeness and centers can help us more effectively understand ourselves and the world around us that is harmonious with the way Scripture speaks and presents the human person 
 
-This lines up with how scripture talks about humanity 
+Relation of righteousness and shalom with wholeness 
 
-Difference of description a key example 
-Elements of humanity more centers than parts 
+How wholeness lines up with how scripture talks about humanity 
 
-Also the way god reacts to sin in the Israelite community makes so much more sense from this perspective as does the corrosiveness of original sin 
+the idea of fuzzy zones or "centers" as Christopher defines them
+
+the way god reacts to sin in the Israelite community makes so much more sense from this perspective as does the corrosiveness of original sin 
 
 The corruption in the whole of one human can’t help but affect the whole of the next generation which is literally what God says 
 
 
 
 # A Creaturely Anthropology: The Intermingling and Dependence of Parts 
-
-Christopher approaches from an empirical and architectural frame 
-
-But I seek to show how the idea of wholeness and centers can help us more effectively understand ourselves and the world around us that is harmonious with the way Scripture speaks and presents the human person 
-
-Relation of righteousness and shalom with wholeness 
 
 Keeping this need for a more expansive view in mind, the writer proposes an alternative perspective to consider. Although this perspective no doubt exists somewhere outside the author's knowledge base (Ecclesiastes 1:9), nonetheless for our purposes it will be called: *A Creaturely Anthropology*. 
 
