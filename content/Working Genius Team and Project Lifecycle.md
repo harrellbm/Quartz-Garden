@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2024-12-03","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-03-08","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree
@@ -9,11 +9,11 @@
 > `Importance`: 50%
 
 > [!summary] The Big Idea
-> The basic idea is that there are parts of work or getting a project done that we enjoy and find fulfillment in and there are other parts that make us feel frustrated and drained. 
+> The basic idea is that there are six main parts of work in order to get a project done. Each individual enjoys and finds fulfillment in some parts while other parts make us feel frustrated and drained. 
 > 
-> Working genius breaks the lifecycle of work down into six main categories and identifies two areas as a person's "geniuses" that give them personal fulfillment. Two as "competencies" that are a medium space something you can get done and don't hate but doesn't really give you a sense of excitement. The last two are "frustrations" or parts of work that you end up avoiding or when you are forced to leave you feeling drained and well frustrated. 
+> Working genius breaks the lifecycle of work down into six main categories and identifies two areas as a person's "geniuses" that give them personal fulfillment. Two as "competencies" that are a medium spaces; something you can get done, and don't hate, but don’t give you a sense of excitement. The last two are "frustrations" or parts of work that you end up avoiding or leave you feeling drained and frustrated when forced to attend to them.
 > 
-> The line up of which of the six categories falls within each zone is different for different people. For example some people really like finishing things while other people feel like they just want to do something new rather than stick it out and finish it. Understanding where people fall then is a way to be able to understand a team or individual and how they might need support, training or encouragement to make sure the things that need to happen do. 
+> The line up of which of the six categories falls within each zone is different for different people. For example, some people really like finishing things while other people feel like they stagnate unless doing something new. Understanding where people fall in each area is a way to understand a team, or individual, and how they might need support, training, or encouragement to make sure the things that need to happen do. 
 
 Resources around working genius: [workinggenius.com](https://www.workinggenius.com/resources)
 

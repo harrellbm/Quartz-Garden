@@ -20,3 +20,6 @@ Influential perspective toward this understanding:
 
 Interesting website laying out a Christoper Alexander’s Pattern language for building design in a digital and searchable format: 
 	[Pattern Language](https://patternlanguage.cc/)
+
+Interesting take on church architecture and the influence of brutalist architecture after world war 2:
+[Why this Church wants to Hurt you ](https://open.substack.com/pub/hilarywhite/p/why-this-church-wants-to-hurt-you?r=3is6vw&utm_medium=ios)

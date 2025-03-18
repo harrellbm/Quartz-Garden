@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-02-24","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-03-06","PassFrontmatter":true}
 ---
 
 #🌲Evergreen  #😁Strongly-Agree  #🟢Conviction 
@@ -71,6 +71,7 @@
 	- Incurvatus in se (Latin) - A life lived turning inward on oneself - need to look it up again
 	- Concupiscence - malformed desires of the heart - way of speaking about sin in the confessions
 	- Hebrew (Chata) and Greek (Hamartia) - Missing the mark. Like an archer missing the target.
+	- Athanasius sin and eventually death are humans uncreating themselves and pushing ourselves back into uncreated chaos.
 - Theodicy. Defending God’s hidden attributes. 
 - Lex Orandi, Lex Credendi (Law of Prayer becomes Law of Faith). Practice proceeds Theology.
 - Goodness of the Law and danger of antiNomianism 
