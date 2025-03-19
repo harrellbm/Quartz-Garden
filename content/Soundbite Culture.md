@@ -1,5 +1,5 @@
 ---
-{"publish":true,"PassFrontmatter":true}
+{"publish":true,"Note Planted":"2025-03-18","Last Tended":"2025-03-18","PassFrontmatter":true}
 ---
 
 #🌱Seed   #🙂Agree    #🟡Consideration
