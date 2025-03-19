@@ -57,25 +57,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Flex({
-      components: [
-        { Component: Component.TableOfContents(), 
-          align: "start",
-          justify: "start",
-        },
-        { Component: Component.Backlinks(),
-          align: "start",
-          justify: "start",
-        },
-        { Component: Component.RecentNotes({title:"Recent Thoughts", showTags: false}), 
-          justify: "start",
-        },
-        //{ Component: Component.Darkmode() }, // Darkmode keeps its natural size
-      ],
-      direction: "column",
-      gap: "1rem",
-      
-    }),
+    Component.TableOfContents(),
+    Component.Backlinks(),
     Component.Graph({
       localGraph: {
         drag: true, // whether to allow panning the view around
