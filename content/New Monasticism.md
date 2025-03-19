@@ -13,4 +13,4 @@
 
 ****
 
- I think that in the coming years we will see a continued rise of different forms of new monasticism. Having the Reformation as our heritage we will have a unique opportunity to affirm healthy faith practices but also to avoid the down fall in the a faith of works that Luther experienced during his time as a monk.  
+ I think that in the coming years we will see a continued rise of different forms of new monasticism. Having the Reformation as our heritage we will have a unique opportunity to affirm healthy faith practices but also to avoid the down fall into a faith of works that Luther experienced during his time as a monk.  

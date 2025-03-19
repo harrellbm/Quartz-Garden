@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-27","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree
@@ -10,8 +10,6 @@
 > A place to dump my random unstructured ideas and thoughts.
 
 * * *
-# [[Interesting Resources\|Interesting Resources]]
-
 # Conference and Meeting Notes 
 
 [[BPM Notes 2023\|BPM Notes 2023]]
@@ -23,7 +21,7 @@
 
 [[Joining Jesus Notes\|Joining Jesus Notes]]
 
-# Random notes 
+# How we read and Teach the Bible
 
 Personal motivators 
 

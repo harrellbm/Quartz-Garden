@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-11-10","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-11-10","Last Tended":"2025-01-28","PassFrontmatter":true}
 ---
 
 #🌱Seed  #😐Neutral 
@@ -12,6 +12,8 @@
 > I have been thinking a lot about learning and [[Pedagogy\|pedagogy]]. I can't say its all organized yet but here are a lot of random pieces that I have thought about.
 
 ****
+
+Writing is a form of learning. It is a way to hammer things out to put it down and come back to evaluate it later. It is a way to voyage my cranial seas. 
 
 [[Types of Pedagogy\|Types of Pedagogy]]
 [[Basic Philosophies of Community Rhythm and Project Lifecycle\|Basic Philosophies of Community Rhythm and Project Lifecycle]]
@@ -35,3 +37,4 @@
 [[Boredom\|Boredom]]
 [[The Preservation of Tail Knowledge\|The Preservation of Tail Knowledge]]
 [[Topological Navigation\|Topological Navigation]]
+[[Attention\|Attention]]

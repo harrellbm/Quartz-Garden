@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-02-24","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree
@@ -72,7 +72,7 @@ And no matter which direction we may lean, life has a way of frustrating both. E
 
   
 
-My first introduction to spiritual disciplines was in high school. Read books on discipline and I tried to keep up with all of them. Call of monasticism was attractive. Fanatical adherence burnt me out. Still have a bit of a messed up hunger que from intense fasting.  
+My first introduction to [[Spiritual Disciplines\|Spiritual Disciplines]] was in high school. Read books on discipline and I tried to keep up with all of them. Call of monasticism was attractive. Fanatical adherence burnt me out. Still have a bit of a messed up hunger que from intense fasting.  
 
   
 
@@ -329,37 +329,43 @@ Goal of being intentional with the model of rhythm is to seek to be faithful to 
 
 How do we measure the effect of a repeated action? Being  addicted to meth seems to be on one extreme while always patting your pocket to make sure you have Keys before leaving is on the other. One completely alters life and it’s purpose and desires while the other is a small functional practice to try to avoid forgetting an important object. Both form the person but one has the power to change a person’s whole outlook while the other is really only going to help one be a little less forgetful or likely to get locked out of the house. 
 
-### [[Ritual, Practice, Liturgy\|Ritual, Practice, Liturgy]] 
 
-I’m not sure I buy this anymore. 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Ritual-Practice-Liturgy" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+#🪴Sprout  #😟Disagree  #🟡Consideration 
+
+****
+
+> `Importance`: 10%
+
+> [!Summary] The Big Idea
+> This distinction is not as helpful in practice as it seemed when I first read about it from Smith and wrote it out. 
+> 
+> The idea that liturgy is rhythm and that liturgy is doing the redeemed world right (from Marriott) are much more compelling and useful definitions of liturgy.
+
+****
+
+If we are seeking to shape the desires of our people through embodied practices. The next question becomes: What practices are we after? Are we trying to tell people how to brush their teeth or make toast? 
+
+While those practices do shape us to a certain extent, they are not quite the practices we are after. James K. A. Smith introduces a helpful hierarchy to understand different kinds of practices. 
+
+- Rituals - Everyone has rituals. Habits that happen regularly like: putting gas in the car, reading the news, etc. Anything we do regularly counts as a ritual.  
+
+- Practices - Out of our rituals there are a number of regular activities that rise to the level of being a practice. Athletes and musicians practice to become better at their craft. So too, our practices are aimed toward a particular goal. For example we go to work for the goal of making money. 
+
+- Liturgies - The most specific kind of regular activity is liturgy. Like practices, liturgies are aimed toward an end goal. They are more specific however and are aimed at the end goal of fulfilling our identity and vision of the good life. 
+
+Liturgies are the most potent of practices. They define who we are and where we are headed. Therefore we seek to shape the liturgies of our people.
+
+</div></div>
+ 
 
   
 
 Every action we take forms us in some way. Whether it’s creating a neural path or affecting our body or mind in some other way. Everything forms us in some kind of way. The question is then less about “what are important actions” but how do things form us and how quickly and what forms us unconsciously. 
-
-  
-  
-
-James Smith in Desiring the Kingdom introduces a helpful hierarchy to understand different kinds of practices. 
-
-  
-
-- Rituals - Everyone has rituals. Habits that happen regularly like: putting gas in the car, reading the news, etc. Anything we do regularly counts as a ritual.  
-    
-
-  
-
-- Practices - Out of our rituals there are a number of regular activities that rise to the level of being a practice. Athletes and musicians practice to become better at their craft. So too, our practices are aimed toward a particular goal. For example we go to work for the goal of making money. 
-    
-
-  
-
-- Liturgies - The most specific kind of regular activity is liturgy. Like practices, liturgies are aimed toward an end goal. They are more specific however and are aimed at the end goal of fulfilling our identity and vision of the good life. 
-    
-
-  
-
-Liturgies are the most potent of practices. They define who we are and where we are headed. Therefore we seek to shape the liturgies of our people.
 
 ## By Constitution of a Human 
 

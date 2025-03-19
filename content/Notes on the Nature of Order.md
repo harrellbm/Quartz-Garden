@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-03-08","PassFrontmatter":true}
 ---
 
 #🪴Sprout  #🙂Agree  #🟡Consideration 
@@ -9,13 +9,13 @@
 > `Importance`: 30%
 
 > [!Summary] The Big Idea
-> [[Christopher Alexander (Architect, Author)\|Christopher Alexander (Architect, Author)]] lays out a huge perspective on how the built environment interacts with the human wellbeing and functioning of society.  This also bleeds into claims on [[Cosmology\|cosmology]] and the order of the universe and humanity.
+> [[Christopher Alexander (Architect, Author)\|Christopher Alexander (Architect, Author)]] lays out a huge perspective on how the built environment interacts with the human wellbeing and functioning of society.  This also bleeds into claims on [[Cosmology\|cosmology]], the order of the universe, and humanity.
 
 Website that has overviews of the Books:
 [Nature of Order Website](http://www.natureoforder.com/overview.htm)
 
 > [!NOTE] idea for research 
-> it seems to me there is great congruence between the ideas of quality of life and wholeness described by Alexander and the biblical principles of shalom and righteousness. It would be interesting to line them up next to each other and see just how similar and different they are. Because if you could sub in the idea of shalom in describing the process of creating living centers that would be a much more profound and far reaching understanding of our [[Corom Mundo\|corom mundo]] work than the typical ministering to felt needs or providing public services. Rather all work could be seen as pushing toward peace and righteousness in a way that one day when Jesus returns will not be separated into temporal and spiritual or before man or before God when Jesus returns. But for now we just get to see the starting of there overlap
+> It seems to me there is great congruence between his the ideas of quality of life and wholeness described by Alexander and the biblical principles of shalom and righteousness. It would be interesting to line them up next to each other and see just how similar and different they are. Because if you could sub in the idea of shalom in describing the process of creating living centers that would be a much more profound and far reaching understanding of our [[Corom Mundo\|corom mundo]] work than the typical ministering to felt needs or providing public services. Rather all work could be seen as pushing toward peace and righteousness in a way that one day when Jesus returns will not be separated into temporal and spiritual or before man or before God when Jesus returns. But for now we just get to see the starting of there overlap
 
 Another set of notes on the Nature of Order Books: [Stefan’s Notes Key Concepts](http://nature-of-order.stefan-lesser.com/key-concepts)
 
@@ -217,6 +217,13 @@ Here are specific notes on each centers relationship:
 
 The method by which he observes the world 
 [[Tests of Wholeness\|Tests of Wholeness]]
+
+He also redefines an alternative from of objectivity. Rather than strictly the observation method of science being the only form. He argues that there is also a consistent reaction of humans to the world around us. This reaction is the same (roughly) between people no matter of culture, gender, age or any differentiating factors. This reaction however is not the knee jerk “things I like” or normal emotional reaction but a kind of deep liking or as he calls it “mirror of the self.” In other words, we can objectively tell which environments make humans more healthy and whole if this deep liking can be brought out. The problem he argues is that we are often taught to ignore this [[Deep Feeling\|Deep Feeling]] in favor of the societal ideal or popular trends. 
+
+> [!quote]
+> The scheme of things I have started to present covers all of architecture. The scheme starts with the concept of wholeness as something which exists in space, and with the idea of centers, the way that centers help each other. It goes on to the idea of living structure — the detailed ideas about the fifteen properties that allow centers to help each other, and the observation that this structure is pervasive in nature and in deeply satisfying man-made things.
+> - Nature of Order, bk 1., p. 442.
+
 
 TODO: redo notes from 246 on
 

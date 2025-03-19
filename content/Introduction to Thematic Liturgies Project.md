@@ -1,17 +1,20 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-02-19","PassFrontmatter":true}
 ---
 
 #🌿Sapling  #🙂Agree   #🟡Consideration   #📊Project   #📝Essay  
+
 ****
+
 > `Importance`: 70%
- 
+
 > [!Summary] The Big Idea
 > This project hopes to be a resource as well as a place to collaborate and learn the art of crafting thematic liturgical forms.
 > ### Initial Goal 
 > To write an initial set of 55 liturgical settings to cover a little over a year.  Each service will be organized around either a psalm or narrative from Scripture.  The elements of the service will be written and organized using traditional worship forms as models.
 
 ****
+
 # Assumptions and Underlying Intentions
 
 ## Our Heart Language
@@ -56,9 +59,11 @@ Yet we need to be careful to also hold on to translation.  Our people are a pro
 
 ## Ritual Efficacy versus Sacramental Efficacy
 
-Keeping in mind the tension of tradition and translation, we come to the need to differentiate between ritual efficacy and sacramental efficacy.[^5]   On the one hand, the word of God is always efficacious.  For example, a sermon can be given in the most monotone and dull method, written in the most cliche and boring style, yet it is still God’s living and active word at work among His people.  The word of God will do what the world of God will do by the power of the Holy Spirit apart from, and often in spite of, our human efforts.  The deep reality of the words sacramental efficacy is somewhat at odds, however, with our experience of ritual efficacy.  The sermon described above will be met with eye rolls and sighs as even willing listeners struggle to not fall asleep.  This same idea can be fleshed out in many other examples that all lead to the need to evaluate and work toward ritually effective forms of liturgy.  
+Keeping in mind the tension of tradition and translation, we come to the need to differentiate between ritual efficacy and sacramental efficacy.[^1]   On the one hand, the word of God is always efficacious.  For example, a sermon can be given in the most monotone and dull method, written in the most cliche and boring style, yet it is still God’s living and active word at work among His people.  The word of God will do what the world of God will do by the power of the Holy Spirit apart from, and often in spite of, our human efforts.  The deep reality of the words sacramental efficacy is somewhat at odds, however, with our experience of ritual efficacy.  The sermon described above will be met with eye rolls and sighs as even willing listeners struggle to not fall asleep.  This same idea can be fleshed out in many other examples that all lead to the need to evaluate and work toward ritually effective forms of liturgy.  
 
 To state this distinction another way, all liturgy grounded in the true word of God and the right celebration of God’s gifts (sacramental and other) are without question efficacious (sacramental efficacy).  It makes no difference how engaging, interesting or personally compelling an individual finds it.  Liturgy delivers the goods of God’s promises with 100% assurance.  Ritual efficacy, on the other hand, deals in our human experience of a particular liturgical form’s ability to engage us.  It is no secret that almost every person finds different styles of worship music more or less effective for their personal engagement in meaningful worship.  Not only this but fields such as neuroscience point out the benefits of multisensory engagement for memory and retention of material in sermons and bible reading.  By maintaining the distinction between sacramental efficacy and ritual efficacy we can critically engage our practice of liturgy affirming the value and place for all faithful forms, while also acknowledging the nuances of human engagement.       
+
+[^1]: **Marriot, Article on Liturgy and discipleship, 10. [link](https://drive.google.com/file/d/1d5CYDp1PlyT-sHoIG9Wx41NfbU37ws7s/view?usp=sharing)**
 
 </div></div>
 
@@ -77,8 +82,7 @@ A practice done regularly makes a habit, and a habit has a way of sticking withi
 
 > [!Quote] The Big Idea
 > No matter how well intentioned or effective.  All translation and change brings loss.
-
-From: **Tod Bolsinger, Canoeing the Mountains: Christian Leadership in Uncharted Territory (Downer Grove: IVP Books, 2015), 120-122.**
+> - **Tod Bolsinger, Canoeing the Mountains: Christian Leadership in Uncharted Territory (Downer Grove: IVP Books, 2015), 120-122.**
 
 ****
 
@@ -95,10 +99,8 @@ Rather than dismissing loss, or turning it into a crippling fear, this project s
 
 All this to say that if this attempt to write meaningful liturgical settings for God’s people today is to hit its mark, it must bring the Word and Sacrament to bear on the whole human person.  Each element, from prayer to confession, should live and breath with our people just as the Risen Savior does this very moment.  The grand story is our story.  The language of the Psalms should be our language.  We seek to see, hear, taste and touch the realities of God.  For they are realities at work in God’s people even when they stand veiled in the not-yet.  
 
- “May He work in us what is pleasing to Him, through Jesus Christ, to whom be glory for ever and ever. Amen” (Hebrews 13:21).
-
-  
-
+ >May He work in us what is pleasing to Him, through Jesus Christ, to whom be glory for ever and ever. Amen 
+ >- Hebrews 13:21
 # Liturgical Order
 
 Authors: Brenden Harrell 
@@ -113,7 +115,7 @@ Liturgies in this collection can be broken into two main types.  Those organize
 
 Psalms and canticles are a unique meeting of art and doctrine found in Scripture.  They are the record prayers and cries of God’s people who lived in many different circumstances.  They carry emotion and thought in ways other genres of Scripture cannot (not to mention music aids memory and engagement).  Psalms and canticles give us a unique window into the thoughts and struggles of prominent biblical figures as well as unnamed ancestors of the faith.  Not only this, but they offer an authoritative and inspired pattern of devotional life in the midst of all life’s ups and downs.  They help form our expectations and experience of life’s rhythms and the cycle of lament to hope. [^7] On top of all of this, they also bring us into holy conversation with God.[^8]  Because psalms and canticles are so deep and multifaceted no single liturgy can hope to cover the vast ground contained inside each.  This alone seems to be ample justification for a multiplicity of liturgical forms to express and expound these deep truths to our people.  Therefore, liturgies written focusing on the prayers and cries of God’s people seek to model and practice deep meaningful engagement with the joy and pain of life.  This is accomplished through learning and understanding the story of our ancestors and learning to pray and cry out to God along with them over the joy and pain in our lives.    
 
->“History teaches, the Law instructs, prophecy proclaims, reproach chastens and moralizing persuades; in the Book of the Psalms there is the successful accomplishment of all this along with a kind of balm of human salvation” (St. Ambrose).[^9]
+> “History teaches, the Law instructs, prophecy proclaims, reproach chastens and moralizing persuades; in the Book of the Psalms there is the successful accomplishment of all this along with a kind of balm of human salvation” (St. Ambrose).[^9]
 
 ## Liturgies of Biblical Narrative
 
@@ -306,12 +308,11 @@ Canticles - Songs taken directly out of the Scriptural narrative. Used various p
 - Goal/Function: To enter the Scriptural narrative as our narrative.  Singing the songs of God’s people of old as our own.
 
 ### Footnotes
+
 [^1]: **Athanasius Patriarch of Alexandria, Life of Antony and Letter to Marcellinus (New York, Paulist Press, 1980), 101-14, ESP. 112.**
 [^2]: **John Witvliet, The Biblical Psalms in Christian Worship: A Brief Introduction & Guide to Resources (Grand Rapids: William B. Eerdmans Publishing Company, 2007), 4.**
 [^3]: **Joel Okamoto,”The Word of the Cross and the Story of Everything” Concordia Journal Summer 2019 Volume number, Issue number (Year): page number(s).Concordia Journal Summer 2019 54.**
 [^4]:  **James Smith, Desiring the Kingdom: Worship, Worldview, and Cultural Formation (Grand Rapids: Baker Academic, 2009), 75-88.**
-[^5]: **Marriot, Article on Liturgy and discipleship, 10. [link](https://drive.google.com/file/d/1d5CYDp1PlyT-sHoIG9Wx41NfbU37ws7s/view?usp=sharing)**
-[^6]: **Tod Bolsinger, Canoeing the Mountains: Christian Leadership in Uncharted Territory (Downer Grove:IVP Books, 2015), 120-122.**
 [^7]: **James Smith, Desiring the Kingdom, 155-59.**
 [^8]:  **John Witvliet, The Biblical Psalms in Christian Worship, 11-15.**
 [^9]:  **Ibid., 4.**

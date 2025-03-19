@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-26","PassFrontmatter":true}
 ---
 
 #🪴Sprout   #🙂Agree  #🟡Consideration 
@@ -9,7 +9,13 @@
 > `Importance`: 30%
 
 > [!Summary] The Big Idea
-> I have read through most of the first book of the nature of order and cliff notes for book two until I can get by hands in a full copy. I have also been reading through other summaries and unfinished notes on his [digitized archive](https://christopher-alexander-ces-archive.org/). What I have seen so far I like overall. It seems like it pairs nicely with the idea that God is an orderly creator and that these patterns and beauty come from a sovereign ordered source. There are some Eastern flavored things I’m not a huge fan of which is something to just keep in mind when applying or thinking about his ideas. For example being very close to saying that matter and the universe are in some way God rather than God being distinct from the universe. 
+> I am have finished reading the first book of the nature of order and cliff notes for book two. I bought the second book and plan to work through it as soon as I can. I have also been reading through other summaries and unfinished notes from places like his [digitized archive](https://christopher-alexander-ces-archive.org/). 
+> 
+> My overall impression is that he has a lot of useful and interesting things to say. His perspective is meant to be as practical as possible which is basically unheard of from this kind of philosophical perspective. For example his concepts of center as kinds of fuzzy zones has helped me see the physical and even the artistic environment in new and exciting ways. Rather than only looking at separate “things” it starts to be clearer how everything interacts. 
+> 
+> That being said, I have some pause when he goes a little eastern philosophical with things like his picture of humans and the universe as pushing toward some kind of nirvana (he never uses those words but comes across very idealistic about the nature of humans and our ability to live in harmony with each other and the earth). Another example is being very close to saying that matter and the universe are in some way God rather than God being distinct from the universe. These are things to just keep in mind when applying or thinking about his ideas.
+> 
+> But beyond that caveat, I like everything else I have taken away. It seems like it pairs nicely with the idea that God is an orderly creator and that these patterns and beauty come from a sovereign ordered source. 
 
 Alexander puts forward a more empirical approach to actually applying the abstract idea of God, wholeness, and orderly beauty to how we understand and build the spaces we inhabit.  This was generally verified with reading his essay [The Long Path that Leads from the Making of Our World to God](https://www.buildingbeauty.org/resource-center-entries/2019/8/6/christopher-alexander-the-long-path-that-leads-from-the-making-of-our-world-to-god) where he outlines how his work has always pulled him back to an understanding of the presence of God in the world. He also expresses how building things to reflect God is an act of worship. This is really beautiful, but he does clarify that this way of seeing the world and building within it really only gets people to the point of knowing God exists but not really who He is. Therefore this line of reasoning and things like it are under the heading of natural knowledge of God only which doesn’t get us all the way to Jesus. But it does affirm the sentiment of Psalm 8 and others that describe how the created world worships God to think that our physical buildings can do the same is very compelling.
 
@@ -25,7 +31,10 @@ This makes it clear that Knowing Jesus is and will always be an article of Faith
 
 Alexander makes a very similar connection stating that the motivation behind tending our built environment should be : “governed simply by the desire and firm intention to make beauty (which is to say, true life) around us.” This connection between beauty and [[The Quality of Life in Environments and Objects\|The Quality of Life in Environments and Objects]] is one that I find quite compelling.
 
-Another article that talks about his faith: [God and the Architect](https://livingchurch.org/church-life/god-and-the-architect/)
+Here are other articles that talks about his faith:
+- [God and the Architect](https://livingchurch.org/church-life/god-and-the-architect/)
+- [[making the garden.pdf]]
+
 
 An interview with him about his work in general:
 [General Interview with Christopher Alexander about his work and philosophy](https://www.patternlanguage.com/archive/kohn.html)

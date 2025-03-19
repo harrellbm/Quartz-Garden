@@ -198,8 +198,7 @@ Article that describes this idea:
 
 > [!Quote] The Big Idea
 > No matter how well intentioned or effective.  All translation and change brings loss.
-
-From: **Tod Bolsinger, Canoeing the Mountains: Christian Leadership in Uncharted Territory (Downer Grove: IVP Books, 2015), 120-122.**
+> - **Tod Bolsinger, Canoeing the Mountains: Christian Leadership in Uncharted Territory (Downer Grove: IVP Books, 2015), 120-122.**
 
 ****
 

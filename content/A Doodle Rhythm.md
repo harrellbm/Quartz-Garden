@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2025-01-07","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2025-01-07","Last Tended":"2025-03-18","PassFrontmatter":true}
 ---
 
 #🌱Seed   #😐Neutral   #🟡Consideration
@@ -34,6 +34,7 @@ Used the list of common good shapes in nature of order book 1 p.183
 - Thin
 - Draw free lines and then color or shade in some of the resulting shapes using two different colors. 
 - Follows from exercise above. Choose individual shapes from resulting from the free draw. Then set up small thumbnail boxes on the page and put on shape in it. Optionally you can color with two contrasting colors. 
+- Gesture drawing - use the least amount of lines to try the basic form, structure and movement of a subject 
 
 # Grid and Hashes 
 - Draw a simple straight line grid 
@@ -80,3 +81,8 @@ Used the list of common good shapes in nature of order book 1 p.183
 - look at an object in the room and try to condense it down to the most basic shapes and colors that compose it 
 - Use a “finder” a piece of paper that has a square or rectangle cut out in it to notice a particular scene around you. Draw that scene 
 - Blind contour drawing. Focus on drawing the edges of a subject. But never look down at your paper only look at the subject the whole time 
+- For three times draw the same thing but using a different focus
+	- Contours - draw the edges of the thing 
+	- Shapes - draw the thing using shapes 
+	- Line first than draw shapes over 
+	- Shapes first then draw lines over 

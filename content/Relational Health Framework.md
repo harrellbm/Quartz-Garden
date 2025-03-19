@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-27","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree
@@ -8,7 +8,8 @@
 
 > `Importance`: 10%
 
-***The Big Idea***: A simple framework for thinking about where we are focusing our relational energy. 
+> [!summary] The Big Idea
+> A simple framework for thinking about where we are focusing our relational energy. 
 
 * * *
 

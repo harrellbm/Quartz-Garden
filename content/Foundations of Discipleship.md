@@ -155,25 +155,26 @@ As we continue to think through how we access the chain of formation and promote
 
 The movement of discipleship should therefore be animated and flow out from our Sunday liturgy. The thick habits of our daily life should be informed and corrected by the words and practices of Scripture. To this end, what follows is a short list of thick habits to think through bringing into our discipleship efforts:
  
-	•	The Biblical rhythm of time and rest
-	•	Worship
-	•	Hospitality, community, and graced dependence 
-	•	Song and music
-	•	Pattern of law, living in the groove, freedom for good
-	•	Confession and Grace
-	•	Baptism
-	•	Creed
-	•	Prayer
-	•	Communion
-	•	Offering
-	•	Witness and Confession
-	•	Scripture, Sermon, Storytelling
-	•	Doing good and Service
-	•	Lament and Grieving
-	•	Creativity, Imagination, and Future Making
-	•	Vocation in daily life to creation, neighbor, and family
-	•	Blessing 
-	•	Reading and study
+•	The Biblical rhythm of time and rest
+•	Worship
+•	Hospitality, community, and graced dependence 
+•	Song and music
+•	Pattern of law, living in the groove, freedom for good
+•	Confession and Grace
+•	Baptism
+•	Creed
+•	Prayer
+•	Communion
+•	Offering
+•	Witness and Confession
+•	Scripture, Sermon, Storytelling
+•	Doing good and Service
+•	Lament and Grieving
+•	Creativity, Imagination, and Future Making
+•	Vocation in daily life to creation, neighbor, and family
+•	Blessing 
+•	Reading and study
+
 Move Away from Scholarship to Discipleship 
 To summarize, the end goal of discipleship is about forming and shaping the deepest levels of our heart in ways only the Holy Spirit can.
 

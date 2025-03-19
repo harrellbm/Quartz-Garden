@@ -1,22 +1,27 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2024-07-01","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-26","PassFrontmatter":true}
 ---
 
 #🌿Sapling #🙂Agree #🟢Conviction 
+
 ****
 > `Importance`: 50%
- 
-***The Big Idea***: The connection between dirt and the human person is deeply meaningful and worth investigating.
+
+> [!summary] The Big Idea
+> The connection between dirt and the human person is deeply meaningful and worth investigating.
+
+> [!note]
+> used for OS #📃Epistle May 2023
 
 ****
+
 # Dirt as a part of Humans 
-(used for OS #📃Epistle May 2023)
 
-The Bible is full of so much rich imagery. A single word can connect to other places all over the pages of Scripture. This is especially true for numbers and images that occur frequently throughout story after story. These connections help to build our understanding and imagination of not just the words of Scripture but also the world around us. 
+The Bible is a sea of rich imagery. A single word can connect to other places all over the pages of Scripture. This is especially true for numbers and images that occur frequently throughout story after story. These connections help to build our understanding and imagination of not just the Bible but also the world around us. 
 
-One particularly powerful image is not just an image but an element: dirt. This seemingly common element is filled with special meaning in the stories of the Bible. Today we may look at dirt as messy or repulsive. Or we may be thankful for how it grows plants and vegetables.  Yet other times we may give no thought to dirt at all. It is that part of the earth that is there, but not of much concern unless it needs to be wiped from the feet of a child or dog.  
+One particularly powerful image is also a humble element: dirt. Dirt is literally everywhere. Even under and around the concrete jungle you can find dirt somewhere. Yet this seemingly common element is filled with special meaning in the stories of Scripture. Today we may look at dirt as messy or repulsive. Or we may be thankful for how it grows plants and vegetables. While other times give no thought to dirt at all. It is a part of the earth that is just there. Dirt’s giveness makes it easy to overlook until it walks into the house on the feet of children and dogs. 
 
-But in the pages of Scripture dirt is a core part of the world and even humanity. In the story of Creation, God forms humans from the dirt of the earth and breathes his life into them. The very first definition of what makes a human - a human - is dirt mixed with the breath of life. From that moment forward dirt (or dust, ashes, clay) becomes a basic part of being human.  Through the fall humans are introduced to death that reverses the creative process and turns us back into dirt and breath. 
+But in the pages of Scripture, dirt is a core part of the world and even humanity. In the story of Creation, God forms humans from the dirt of the earth and breathes his life into them. The very first definition of what makes a human - a human - is dirt mixed with the breath of life. From that moment forward dirt (or dust, ashes, clay) becomes a basic part of being human.  Through the fall humans are introduced to death that reverses the creative process and turns us back into dirt and breath.
 
 Through the short time between the creation of humanity and our fall, we see two very basic and powerful associations beginning to be formed around the image of dirt. On one hand, dirt is the stuff of beginnings, out of which life can be grown or formed in all of its beauty and wonder. Yet dirt is also the substance of decay, the unraveling of God’s creatures back to their uncreated state. 
 

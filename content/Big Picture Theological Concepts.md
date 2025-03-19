@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-03-18","PassFrontmatter":true}
 ---
 
 #🌲Evergreen  #😁Strongly-Agree  #🟢Conviction 
@@ -33,7 +33,11 @@
 - Theologian of the cross vs theologian of glory
 - [[The Process of Inculturation\|The Process of Inculturation]]
 - [[What is Liturgy\|What is Liturgy]]
+	- [[Liturgical Art\|Liturgical Art]]
 - Rhythms of Life and Faith
+	- [[Spiritual Disciplines\|Spiritual Disciplines]]
+	-  Embodied practices (crosses, breath prayer, Using our bodies in worship, etc.)
+	- Liturgical Calendar 
 - Vocation
 - Function of Doctrine as a common language 
 - Church Militant and the Church Triumphant
@@ -42,6 +46,7 @@
 - Lament and tough emotions
 	- [[Lament Epistle Series\|Lament Epistle Series]]
 	- [[Lament Sermon Series Schedule\|Lament Sermon Series Schedule]]
+- Bible reading skills
 - Reading and Meditating on Scripture: 
 	- [[Christian Meditation\|Christian Meditation]]
 	- [[Lectio Divina\|Lectio Divina]]
@@ -55,21 +60,20 @@
 	- [[Love the Lord Your God with all Your Heart\|Love the Lord Your God with all Your Heart]]
 	- [[Ways to Engage Scripture\|Ways to Engage Scripture]]
 	- [[Gerhard Method of Theological Study\|Gerhard Method of Theological Study]]
-- Breath Prayer, Using our bodies in worship
-- Bible reading skills
 - [[Creatureliness\|Creatureliness]] and embodiment. Danger of dualism 
-- Embodied practices (crosses, breath prayer, etc.)
 - 6 Chief Parts of the Catechism
 - Means of Grace and Sacraments
-	- [[The Lord's Supper\|The Lord's Supper]]
-- Economic and Immanent Trinity 
+	- [[John Chrysostom on the Lord's Supper\|John Chrysostom on the Lord's Supper]]
 - Justification and other Gospel metaphors
 - New Heaven and New Earth. Eschatology  
 - Sin = Death, and Sin = Separation. 
-- Three Biblical Words for sin and their accompanying metaphors:
+- Biblical Words and theological concepts for sin and their accompanying metaphors:
 	- Incurvatus in se (Latin) - A life lived turning inward on oneself - need to look it up again
 	- Concupiscence - malformed desires of the heart - way of speaking about sin in the confessions
-	- Hebrew (Chata) and Greek (Hamartia) - Missing the mark. Like an archer missing the target.
+	- Hebrew (Chata) and Greek (Hamartia) - Missing the mark. Like an archer missing the target. [Bible Project video](https://bibleproject.com/explore/video/khata-sin/)
+	- Hebrew (Pesha) Transgression - Breaking an agreement or trust. [Bible Project video](https://bibleproject.com/explore/video/pesha-transgression/)
+	- Hebrew (Avon) Crooked - acting in a way that is bend out of line or "is not straight." [Bible Project video](https://bibleproject.com/explore/video/avon-iniquity/)
+	- From Athanasius sin and eventually death are humans uncreating themselves and pushing ourselves back into uncreated chaos.
 - Theodicy. Defending God’s hidden attributes. 
 - Lex Orandi, Lex Credendi (Law of Prayer becomes Law of Faith). Practice proceeds Theology.
 - Goodness of the Law and danger of antiNomianism 
@@ -83,24 +87,29 @@
 - Visible and Invisible Church
 - Jesus as Prophet, Priest and King
 - Two Natures of Christ, Athanasian Creed, person of Christ
-- Economic trinity from the father through the son by the Holy Spirit. We can also pray to the Father through the son in the Holy Spirit 
+- Economic Trinity. from the father through the son by the Holy Spirit. We can also pray to the Father through the son in the Holy Spirit 
 - Immanent Trinity. Co equal, eternal etc. 
 - Original Sin
 - Sanctification
 - Return of Jesus, Judgment day
 - Free will, and predestination 
-- Liturgical Calendar 
-- Biblical Poetry (Psalms, Prophets, etc.)
+- Biblical Poetry (Psalms, [[Prophets\|Prophets]], etc.)
 - [[Mission Mindset\|Mission Mindset]]: Go and Tell not always Come and See
 - Order of Creation. As it comes from the creation account and other biblical descriptions, but also as we can see it through the healthy functioning of particular created orders. [[Notes on the Nature of Order\|Notes on the Nature of Order]] A similar account of seeing the health functioning of buildings.
 - The Use and Inhabitation of Space:
 	- [[Sacred Space\|Sacred Space]]
+	- [[Mountains of Scripture\|Mountains of Scripture]]
 	- [[Random Notes on Sacred Space\|Random Notes on Sacred Space]]
 	- [[Pedagogy of Space\|Pedagogy of Space]]
 	- [[Aesthetic\|Aesthetic]]
-- [[The Tabernacle\|The Tabernacle]]
+	- [[The Tabernacle\|The Tabernacle]]
 - [[The Solas of the Reformation\|The Solas of the Reformation]]
 - [[Bible Translations\|Bible Translations]]
+- [[Facing North or East\|Facing North or East]]
+## Other Notes
+- [[Faith Catchphrases\|Faith Catchphrases]]
+- [[New Monasticism\|New Monasticism]]
+- [[Love Your Enemies\|Love Your Enemies]]
 
 # Unhealthy Theological Views or Ideas 🤢
 

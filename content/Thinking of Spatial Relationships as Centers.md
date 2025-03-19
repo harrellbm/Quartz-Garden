@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-07","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-02-25","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree #🟡Consideration 
@@ -38,7 +38,7 @@ I have found that overall this is a very helpful way of understanding and talkin
 > 
 > I am not referring at all to a point center like a center of gravity. I use the word center to identify an organized zone of space - that is to say a distinct set of points in space. 
 > 
-> When I call the pond a center, the situation changes. I can then recognize the fact that the pond does have existence as a local center of activity: a living system. It is a focused entity. But the fuzziness of its edges are becomes less problematic. The reason is that the pond, as an entity, is focused towards its center. It creates a field of centeredness. But, obviously, this effect falls off.
+> When I call the pond a center, the situation changes. I can then recognize the fact that the pond does have existence as a local center of activity: a living system. It is a focused entity. But the fuzziness of its edges becomes less problematic. The reason is that the pond, as an entity, is focused towards its center. It creates a field of centeredness. But, obviously, this effect falls off.
 > - Nature of Order, bk 1., p. 84
 
 Centers are not stand alone features but are formed by the configuration of the whole. So in order to define what scale of center to look at you have to first start with a “whole” that is really a center of a larger scale. The larger whole of human experience would be the earth. 

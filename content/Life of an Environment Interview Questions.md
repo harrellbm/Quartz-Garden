@@ -1,9 +1,18 @@
 ---
-"Note Planted:": 2024-10-25
-"Last Tended:": 2024-10-25
+{"publish":true,"Note Planted":"2024-10-28","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
-Interview Questions Based on Christopher Alexander's Philosophy
+
+#🌱Seed   #😐Neutral   #🟡Consideration
+****
+> `Importance`: 10%
+ 
+>[!Summary] The Big Idea
+> Interview Questions Based on Christopher Alexander's Philosophy
+
+****
+
 Christopher Alexander's work provides a rich framework for understanding and improving the built environment. By asking questions that delve into people's lived experiences, we can uncover the life of a space and identify areas for improvement. Here are some interview questions inspired by his work:
+
 General Questions
  * Overall Impression:
    * How would you describe the overall feeling of this place?

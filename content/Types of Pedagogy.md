@@ -13,13 +13,14 @@
 
 * * *
 
-## Issue/Problem Based Work and [[Pedagogy\|Pedagogy]]
+# Issue/Problem Based Work and [[Pedagogy\|Pedagogy]]
 
 Basic idea that one way to be a continued learner and successful in a career is to be focused on the problems you are interested in learning more about and how to solve. This creates a [[Pedagogical Feedback Loop\|Pedagogical Feedback Loop]] that helps to reinforce and push forward learning. 
 
 interesting model that pairs well with redemption and the restoration of Jesus
 
-Cooperative Methods Creativity-Inducing Methods are main sources of moving students towards addressing their stated issue.
+## Cooperative Methods and Creativity-Inducing Methods 
+Each are main sources of moving students towards addressing their stated issue.
 
 [Article on problem oriented career](https://danielmiessler.com/p/plan-career-around-problems)
 
