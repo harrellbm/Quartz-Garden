@@ -1,5 +1,5 @@
 ---
-{"Note Planted":"2025-03-18","Last Tended":"2025-03-18","publish":true,"PassFrontmatter":true}
+{"Note Planted":"2025-03-18","Last Tended":"2025-03-19","publish":true,"PassFrontmatter":true}
 ---
 
 #🌱Seed   #🙂Agree   #🟡Consideration
@@ -9,9 +9,44 @@
 > `Importance`: 10%
 
 > [!Summary] The Big Idea
-> Set of patterns to consider for campus development
+> Set of patterns and resources to consider for LCOS campus development.
 
 ****
+
+## Planting and Gardening Resources
+
+> [!NOTE] Emailed resources from Camila Leon
+> 
+> I am following up on our call about relevant grants and installing pollinator habitat on your property. I've included below grant and planting resources, a contact for education planning, and a plant list for your property. 
+> 
+> There are quite a few resources available for your land, but I would really suggest checking out [the Xerces Society Pollinator Resource Center](https://www.xerces.org/pollinator-resource-center/california) for more info. The Xerces Society has some [Habitat Kits](https://xerces.org/pollinator-conservation/habitat-kits) you may qualify for to get seeds, [Save our Monarchs](https://www.saveourmonarchs.org/schools.html?gad_source=1&gclid=Cj0KCQjws-S-BhD2ARIsALssG0ba3XKmumsLEd3HsJbSl_j2yINuIpwmTNv9c3mFtN1_wcNl7b_mBBsaAvh0EALw_wcB) has a couple of grant programs, Kids Gardening has an[ education garden grant](https://www.saveourmonarchs.org/schools.html?gad_source=1&gclid=Cj0KCQjws-S-BhD2ARIsALssG0ba3XKmumsLEd3HsJbSl_j2yINuIpwmTNv9c3mFtN1_wcNl7b_mBBsaAvh0EALw_wcB), Planet Bee Foundation has a [Seedball Stewardship Grant Kit](https://www.planetbee.org/bee-friendly-grants-list/seed-ball-stewardship-grant-kit) you may apply for, and [Project Apis has a Seeds for Bees grant](https://www.projectapism.org/climate-smart-program) that could work as well.
+> 
+> After looking at where your land is situated, some native trees + shrubs I can recommend for your needs are: 
+> - Blue Elderberry (Sambucus cerulea)
+> - California huckleberry (Vaccinium ovatum)
+> - Redberry (Rhamnus crocea)
+> - Lemonade bush (Rhus integrifolia)
+> - Miner's lettuce (Claytonia perfoliata)
+> - Sugar bush (Rhus ovata)
+> - White Mulberry (Morus alba) (non-native)
+> - Nasturtium (Tropaeolum majus) (non-native)
+> - Mugwort (Artemisia douglasiana)
+> - Hollyleaved barberry (Berberis aquifolium)
+> - Yerba Santa (Eriodictyon californicum)
+> - Seacliff buckwheat (Eriogonum parvifolium)
+> - Toyon (Heteromeles arbutifolia)
+> - Pink honeysuckle (Lonicera hispidula)
+> - Hollyleaf cherry (Prunus ilicifolia ssp. ilicifolia)
+> - Golden currant (Ribes aureum)
+> - California gooseberry (Ribes californicum)
+> - Redflower currant (Ribes sanguineum)
+> - Woolly bluecurls (Trichostema lanatum)
+> - Whiteleaf manzanita (Arctostaphylos manzanita)
+> - Wavyleaf ceanothus (Ceanothus foliosus)
+> - Blueblossom ceanothus (Ceanothus thyrsiflorus)
+> - Fuchsia flowered gooseberry (Ribes speciosum)
+> - Black sage (Salvia mellifera)
+> - California buckeye (Aesculus californica)
 
 ## Sensory Garden for Preschoolers
 
