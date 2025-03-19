@@ -43,10 +43,18 @@ export const defaultContentPageLayout: PageLayout = {
     //Component.TagList(),
   ],
   left: [
-    Component.Search(),
-    Component.Darkmode(),
+    Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.Flex({
+      components: [
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
+        { Component: Component.Darkmode() },
+      ],
+    }),
+    Component.Explorer(),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
@@ -91,10 +99,18 @@ export const defaultListPageLayout: PageLayout = {
     Component.ContentMetaCustom(),
   ],
   left: [
-    Component.Search(),
-    Component.Darkmode(),
+    Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.Flex({
+      components: [
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
+        { Component: Component.Darkmode() },
+      ],
+    }),
+    Component.Explorer(),
   ],
   right: [
     Component.Graph(),

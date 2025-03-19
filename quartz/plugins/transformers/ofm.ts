@@ -1,5 +1,13 @@
 import { QuartzTransformerPlugin } from "../types"
-import { Root, Html, BlockContent, DefinitionContent, Paragraph, Code } from "mdast"
+import {
+  Root,
+  Html,
+  BlockContent,
+  PhrasingContent,
+  DefinitionContent,
+  Paragraph,
+  Code,
+} from "mdast"
 import { Element, Literal, Root as HtmlRoot } from "hast"
 import { ReplaceFunction, findAndReplace as mdastFindReplace } from "mdast-util-find-and-replace"
 import rehypeRaw from "rehype-raw"
@@ -8,13 +16,15 @@ import path from "path"
 import { splitAnchor } from "../../util/path"
 import { JSResource, CSSResource } from "../../util/resources"
 // @ts-ignore
-import calloutScript from "../../components/scripts/callout.inline.ts"
+import calloutScript from "../../components/scripts/callout.inline"
 // @ts-ignore
-import checkboxScript from "../../components/scripts/checkbox.inline.ts"
+import checkboxScript from "../../components/scripts/checkbox.inline"
+// @ts-ignore
+import mermaidScript from "../../components/scripts/mermaid.inline"
+import mermaidStyle from "../../components/styles/mermaid.inline.scss"
 import { FilePath, pathToRoot, slugTag, slugifyFilePath } from "../../util/path"
 import { toHast } from "mdast-util-to-hast"
 import { toHtml } from "hast-util-to-html"
-import { PhrasingContent } from "mdast-util-find-and-replace/lib"
 import { capitalize } from "../../util/lang"
 import { PluggableList } from "unified"
 
@@ -149,20 +159,12 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
     textTransform(_ctx, src) {
       // do comments at text level
       if (opts.comments) {
-        if (src instanceof Buffer) {
-          src = src.toString()
-        }
-
-        src = (src as string).replace(commentRegex, "")
+        src = src.replace(commentRegex, "")
       }
 
       // pre-transform blockquotes
       if (opts.callouts) {
-        if (src instanceof Buffer) {
-          src = src.toString()
-        }
-
-        src = (src as string).replace(calloutLineRegex, (value) => {
+        src = src.replace(calloutLineRegex, (value) => {
           // force newline after title of callout
           return value + "\n> "
         })
@@ -170,12 +172,8 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
 
       // pre-transform wikilinks (fix anchors to things that may contain illegal syntax e.g. codeblocks, latex)
       if (opts.wikilinks) {
-        if (src instanceof Buffer) {
-          src = src.toString()
-        }
-
         // replace all wikilinks inside a table first
-        src = (src as string).replace(tableRegex, (value) => {
+        src = src.replace(tableRegex, (value) => {
           // escape all aliases and headers in wikilinks inside a table
           return value.replace(tableWikilinkRegex, (_value, raw) => {
             // const [raw]: (string | undefined)[] = capture
@@ -189,7 +187,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
         })
 
         // replace all other wikilinks
-        src = (src as string).replace(wikilinkRegex, (value, ...capture) => {
+        src = src.replace(wikilinkRegex, (value, ...capture) => {
           const [rawFp, rawHeader, rawAlias]: (string | undefined)[] = capture
 
           const [fp, anchor] = splitAnchor(`${rawFp ?? ""}${rawHeader ?? ""}`)
@@ -677,7 +675,6 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                     properties: {
                       className: ["expand-button"],
                       "aria-label": "Expand mermaid diagram",
-                      "aria-hidden": "true",
                       "data-view-component": true,
                     },
                     children: [
@@ -708,70 +705,13 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                   {
                     type: "element",
                     tagName: "div",
-                    properties: { id: "mermaid-container" },
+                    properties: { id: "mermaid-container", role: "dialog" },
                     children: [
                       {
                         type: "element",
                         tagName: "div",
                         properties: { id: "mermaid-space" },
                         children: [
-                          {
-                            type: "element",
-                            tagName: "div",
-                            properties: { className: ["mermaid-header"] },
-                            children: [
-                              {
-                                type: "element",
-                                tagName: "button",
-                                properties: {
-                                  className: ["close-button"],
-                                  "aria-label": "close button",
-                                },
-                                children: [
-                                  {
-                                    type: "element",
-                                    tagName: "svg",
-                                    properties: {
-                                      "aria-hidden": "true",
-                                      xmlns: "http://www.w3.org/2000/svg",
-                                      width: 24,
-                                      height: 24,
-                                      viewBox: "0 0 24 24",
-                                      fill: "none",
-                                      stroke: "currentColor",
-                                      "stroke-width": "2",
-                                      "stroke-linecap": "round",
-                                      "stroke-linejoin": "round",
-                                    },
-                                    children: [
-                                      {
-                                        type: "element",
-                                        tagName: "line",
-                                        properties: {
-                                          x1: 18,
-                                          y1: 6,
-                                          x2: 6,
-                                          y2: 18,
-                                        },
-                                        children: [],
-                                      },
-                                      {
-                                        type: "element",
-                                        tagName: "line",
-                                        properties: {
-                                          x1: 6,
-                                          y1: 6,
-                                          x2: 18,
-                                          y2: 18,
-                                        },
-                                        children: [],
-                                      },
-                                    ],
-                                  },
-                                ],
-                              },
-                            ],
-                          },
                           {
                             type: "element",
                             tagName: "div",
@@ -808,6 +748,20 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
           script: calloutScript,
           loadTime: "afterDOMReady",
           contentType: "inline",
+        })
+      }
+
+      if (opts.mermaid) {
+        js.push({
+          script: mermaidScript,
+          loadTime: "afterDOMReady",
+          contentType: "inline",
+          moduleType: "module",
+        })
+
+        css.push({
+          content: mermaidStyle,
+          inline: true,
         })
       }
 
