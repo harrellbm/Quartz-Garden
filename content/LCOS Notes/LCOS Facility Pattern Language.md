@@ -1,5 +1,5 @@
 ---
-{"Note Planted":"2025-03-18","Last Tended":"2025-03-19","publish":true,"PassFrontmatter":true}
+{"Note Planted":"2025-03-18","Last Tended":"2025-03-25","publish":true,"PassFrontmatter":true}
 ---
 
 #🌱Seed   #🙂Agree   #🟡Consideration
@@ -48,6 +48,9 @@
 > - Black sage (Salvia mellifera)
 > - California buckeye (Aesculus californica)
 
+ Possibilities of other grants for creating native plant landscaping
+	- [Redbud Grants](https://chapters.cnps.org/redbud/get-involved/redbud-grants/)
+	- [Pollinator Grant]([https://www.grants.ca.gov/grants/pollinator-habitat-program/](https://www.grants.ca.gov/grants/pollinator-habitat-program/))
 ## Sensory Garden for Preschoolers
 
 **Context:** Preschoolers are naturally curious and learn best through direct sensory experiences. Existing gardens often lack the focused design to maximize these learning opportunities, becoming either passive spaces or overly complex for young children.
@@ -242,3 +245,61 @@
     - **Mulching:** Apply mulch to retain moisture and suppress weeds.
     - **Maintenance:** Regularly remove debris and maintain plant health.
 - **Resulting Context:** A rain garden effectively captures and infiltrates rainwater, reduces runoff volume, recharges groundwater, and enhances the aesthetic appeal of the landscape, while also providing habitat for wildlife.
+## Sanctuary Windows as Sacred Story
+
+**Problem:** The current light and windows in the sanctuary feels either too harsh, or too dim and uninspiring, failing to evoke a sense of the sacred and to actively engage the congregation with the central narratives of their faith.
+
+**Context:** Your church sanctuary is a space dedicated to worship, reflection, and communal gathering. It is a place where people come to connect with the divine and to deepen their understanding of biblical teachings. The existing windows, if any, may be plain glass, outdated designs, or lack a clear connection to the core tenets of your faith. The congregation consists of individuals with varying levels of biblical literacy and visual interpretation skills. The overall architectural style of the sanctuary may range from traditional to contemporary.
+
+**Solution:** Introduce new stained glass windows into the sanctuary, designed not merely as decoration, but as carefully crafted visual narratives that shape the quality of light and communicate essential biblical truths through symbolic imagery.
+
+1. **Diffuse and Color the Light (HOLY LIGHT):** The primary function of the stained glass should be to transform natural light into a soft, diffused glow that washes the sanctuary with color. This colored light should not be overwhelming, but rather create a sense of warmth, reverence, and transcendence. Choose colors that resonate with biblical themes: deep blues for the heavens and the Holy Spirit, rich reds for sacrifice and the blood of Christ, vibrant golds for divinity and glory, calming greens for new life and hope. The intensity of the colors can vary depending on the desired atmosphere at different times of the day or during specific liturgical seasons.
+    
+2. **Embody Core Biblical Narratives (SACRED STORIES IN GLASS):** Each window, or a series of windows, should depict key stories or themes from the Bible that are central to your congregation's understanding of their faith. These narratives should be chosen thoughtfully, considering their theological significance and their ability to resonate with a diverse audience. Examples might include:
+    
+    - **Creation Window:** Depicting the Genesis account of God creating the world, using swirling patterns of color and light to represent the cosmos.
+    - **Exodus Window:** Illustrating the liberation of the Israelites from slavery, perhaps focusing on the parting of the Red Sea or the giving of the Ten Commandments.
+    - **Nativity Window:** Showing the birth of Jesus, emphasizing themes of humility, hope, and the arrival of the Messiah.
+    - **Crucifixion Window:** Representing the sacrifice of Christ, using somber colors and powerful imagery to convey the weight of this event.
+    - **Resurrection Window:** Depicting the triumph of Christ over death, utilizing bright, joyful colors and upward-reaching forms to symbolize new life and victory.
+    - **Parables Window:** Illustrating key parables of Jesus, such as the Good Samaritan or the Prodigal Son, using relatable imagery to teach moral and spiritual lessons.
+3. **Employ Clear and Accessible Symbolism (SPEAKING THROUGH IMAGES):** The symbolism used in the stained glass should be clear enough for most members of the congregation to understand, even without extensive theological knowledge. Avoid overly abstract or obscure imagery. Instead, focus on recognizable symbols that have a long tradition within Christian art:
+    
+    - **Dove:** Representing the Holy Spirit.
+    - **Lamb:** Symbolizing Christ as the sacrificial Lamb of God.
+    - **Cross:** The central symbol of Christianity, representing the crucifixion and resurrection.
+    - **Water:** Signifying baptism, purification, and new life.
+    - **Bread and Wine:** Representing the Eucharist and the Last Supper.
+    - **Stars and Light:** Symbolizing divine guidance and revelation.
+    - **Plants and Flowers:** Representing creation, growth, and the abundance of God's grace.
+4. **Integrate with Architectural Form (LIGHT FOLLOWING STRUCTURE):** The design and placement of the stained glass windows should be carefully integrated with the existing architectural form of the sanctuary. Consider the natural light patterns throughout the day and how the stained glass will interact with them. The size and shape of the windows should complement the scale and proportions of the walls and openings.
+    
+5. **Create Focal Points for Reflection (WINDOWS AS MEDITATION):** Position key narrative windows in locations where they can become focal points for individual and communal reflection during worship. Consider placing windows depicting pivotal moments in biblical history behind the altar or in prominent side chapels. Smaller, more symbolic windows can be placed in areas for private prayer or meditation.
+    
+6. **Tell a Coherent Story (NARRATIVE SEQUENCE):** If multiple stained glass windows are planned, consider their placement in a sequence that tells a larger story, perhaps following the chronology of the Bible or highlighting key themes of salvation history. This can create a sense of journey and progression as one moves through the sanctuary.
+    
+7. **Involve the Congregation in the Design Process (SHARED VISION):** Engage members of the congregation in the process of selecting the biblical narratives and symbolic imagery to be depicted in the stained glass. This fosters a sense of ownership and ensures that the windows resonate deeply with the community's shared faith and understanding.
+    
+
+**Resulting Context:** The newly installed stained glass windows will transform the atmosphere of the sanctuary, bathing the space in a soft, colored light that evokes a sense of the sacred and encourages contemplation. The visual narratives depicted in the glass will serve as powerful teaching tools, reminding the congregation of core biblical truths and inspiring deeper engagement with their faith. The symbolism will provide a visual language that transcends words, allowing individuals of all ages and backgrounds to connect with the stories and messages of the Bible on a profound and personal level. The sanctuary will become not just a building, but a living testament to the enduring power and beauty of the Christian story, illuminated by the very light it seeks to understand and reflect.
+
+## Alcove as Retreat in Stahnke Hall
+
+**Problem:** Alcoves, often conceived as mere leftover space or shallow recesses, frequently become underutilized or cluttered, failing to provide the sense of focused retreat and quiet activity they inherently promise.
+
+**Context:** In any building, large or small, there is a tendency for the main spaces to become dominant, leaving smaller, recessed areas feeling like afterthoughts. Yet, human beings have a deep need for places of _quiet_ (123), _intimacy_ (127), and a sense of being _slightly removed_ (119) from the main flow of activity. An alcove, when properly conceived, can fulfill this need, offering a sanctuary for reading, working, playing, or simply being. This pattern is relevant in living rooms, bedrooms, libraries, hallways, even offices – anywhere a larger space can benefit from a smaller, more focused area.
+
+**Solution:** Design and furnish alcoves as distinct _activity pockets_ (124) that offer a sense of enclosure and retreat within a larger space. Focus on making them feel different and special, encouraging their use for specific, quiet activities.
+
+1. **Define the Alcove Clearly (SHAPE OF INDOOR SPACE - 191):** Ensure the alcove has a clear physical boundary. This can be achieved through a change in wall plane, a lowered ceiling (CEILING HEIGHT VARIETY - 190), a change in flooring material, or even a simple archway or doorway (THRESHOLD - 187). The depth of the alcove should be sufficient to comfortably accommodate the intended activity – too shallow, and it feels like an awkward niche; too deep, and it loses its connection to the main space. Aim for a depth that allows someone to feel enveloped without being entirely cut off.
+    
+2. **Orient Towards Light and View (INDOOR SUNLIGHT - 188, WINDOW PLACE - 180):** Whenever possible, position the alcove to take advantage of natural light and views. A window seat built into an alcove is a classic example of this. The light should be soft and inviting, perhaps filtered through curtains or blinds to create a gentle ambiance. If a view is not possible, consider orienting the alcove towards a fireplace or a carefully chosen piece of art to provide a focal point.
+    
+3. **Create a Sense of Enclosure and Comfort (SITTING WALL - 173, BUILT-IN SEATS - 251):** Emphasize the feeling of being held and protected within the alcove. This can be achieved through built-in seating, such as a window seat or a banquette, which defines the space and provides a comfortable place to settle. Consider adding soft cushions and throws to enhance the feeling of coziness. The back of the alcove can be painted a different color or textured differently to further distinguish it from the main space.
+    
+4. **Equip for Specific Activities (WORKSPACE ENCLOSURE - 183, BOOK NOOK - 206, CHILDREN'S REALM - 136):** Tailor the alcove to a specific purpose. If it's intended as a reading nook, include good task lighting (NATURAL DOORS AND WINDOWS - 222), perhaps a small shelf for books (OPEN SHELVES - 175), and a comfortable chair or cushions. If it's meant as a small workspace, consider a built-in desk and appropriate power outlets. For a child's alcove, think about low shelves for toys, soft flooring, and perhaps a playful canopy. This focused approach makes the alcove more likely to be used and appreciated.
+    
+5. **Maintain Connection to the Main Space (DEGREES OF PUBLICITY - 37, SITTING CIRCLE - 185):** While the alcove should offer a sense of retreat, it should not feel entirely isolated. Maintain a visual and sometimes auditory connection to the main space to avoid feelings of being cut off. This can be achieved through an open archway, a partial wall, or even simply the orientation of the seating within the alcove. The level of connection should be appropriate for the intended use – a reading alcove might be more secluded than an alcove intended for quiet conversation within a living room.
+    
+
+**Resulting Context:** A well-designed and properly used alcove will become a cherished part of the building, offering a valuable place for quiet reflection, focused activity, and a sense of personal space within the larger whole. It will enhance the overall feeling of comfort and well-being within the building, providing a necessary counterpoint to the more open and active areas. People will naturally gravitate towards these inviting retreats, finding solace and inspiration in their gentle embrace.

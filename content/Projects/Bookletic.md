@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-03-20","PassFrontmatter":true}
 ---
 
 #🍋Fruit   #😁Strongly-Agree   #📊Project
@@ -49,6 +49,8 @@ TODO: make a nice description of features
 - [x] Update docstrings 
 - [x] Update readme
 - [x] post to packages repo
+- [x] Ability to define page style per even and odd pages. Basically a sub dictionary that you can define setting for: all, even and odd pages for the layout 
+	- [x] Allow alternating page number patterns Adjust horizontal is the most important to put page numbers on outside or inside edge of pages 
 
 ## Sig 0.4.0
 
@@ -56,15 +58,17 @@ TODO: make a nice description of features
 - [ ] Make it possible to add none to page pattern to remove page number for even and odd pages 
 - [ ] Tab page number (a number that has a shape under it)
 - [ ] Add marks for signature stitching holes or staple guides
-- [ ] Ability to define page style per even and odd pages. Basically a sub dictionary that you can define setting for: all, even and odd pages for the layout 
-	- [ ] Allow alternating page number patterns Adjust horizontal is the most important to put page numbers on outside or inside edge of pages 
-	- [ ] Add page number layout setting for setting custom font for page number 
-	- [ ] Add defaults for all different settings so that you only have to define the settings you want to change 
+- [ ] Add page number layout setting for setting custom font for page number 
+- [ ] Add defaults for all different settings so that you only have to define the settings you want to change 
 - [ ]  Write manual (use AI) and tidy typst package 
 - [ ] Make post in showcase in discord
 
 ## Booklet function
 wrapper of sig function that adds convenience features like auto break into pages. But only handles a single signature
+
+
+> [!NOTE] 
+> Currently this feature seems impossible with Typst's set of features.
 
 - [ ] More robust convenience boarder settings 
 - [ ] auto breaks content into pages 
@@ -79,6 +83,13 @@ same as booklet but has options for multi signature set ups 
 - Support for 8 16 and 32 page signatures 
 - Need to add back in flipping pages from zine example package to create the more complex signatures 
 
+# Bookbinding and Typesetting resources
+
+[Using Pandoc and Typst to make PDF overview](https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/)
+
+[Using Pandoc and Typst to make a book](https://imaginarytext.ca/posts/2024/more-typst/)
+
+## Ways to build a signature
 [Printer spread key](https://images.app.goo.gl/9MMFTRDs9dqZdS7f7)
 
 [How many sheets per signature](https://forestandfolio.com/how-many-sheets-of-paper-per-signaure/)  

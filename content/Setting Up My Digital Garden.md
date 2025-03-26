@@ -43,6 +43,42 @@ Header: Special Elite
 Body: Architects Daughter
 Code: Amatic SC
 
+## Commands I use
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Quartz-Commands" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+#🌱Seed   #😐Neutral   #🟡Consideration
+****
+> `Importance`: 10%
+ 
+>[!Summary] The Big Idea
+> Easy reference for commands I use to update my Digital Garden.
+
+****
+## Site for Quartz Docs
+
+[Quartz Docs](https://quartz.jzhao.xyz/)
+
+
+### Fetch upstream changes from main quartz repo: 
+```SH
+git fetch upstream v4
+```
+### Merge changes from main repo into local copy:
+```SH
+git merge upstream/v4
+```
+
+### Build Preview of site:
+```SH
+npx quartz build --serve
+```
+
+</div></div>
+
 # Todos for Website
 
 - [x] figure out recent notes not scrolling on desktop
@@ -62,6 +98,8 @@ Code: Amatic SC
 - [ ]  change [[index\|home]] to base camp on breadcrumbs
 - [ ] Style comments box to match the rest of the page in both light and dark mode
 - [ ] Figure out analytics as well
-- [ ] make graph look better by tweaking settings
+- [x] make graph look better by tweaking settings
 - [ ] document setting up quartz sync and also 
 - [ ] Todo: write down all the settings I have used
+- [ ] current bug on the mobile graph view
+- [ ] maybe figure out how to get recent notes working
