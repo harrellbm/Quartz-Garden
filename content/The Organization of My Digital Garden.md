@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2024-12-11","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-03-27","PassFrontmatter":true}
 ---
 
 #🌲Evergreen   #🙂Agree   #📊Project 
@@ -54,7 +54,8 @@ These are pieces of information I will attach to the beginning of each note that
 	- #📚Definition A note that holds a kind of dictionary style definition of a word or phrase.
 	- #✒️Poem A personal or quoted poem.
 	- #📓Journal A personal recount of an experience of some sort.
-1. **Idea Importance**:
+	- #📰Handout A handout made for a meeting or class.
+6. **Idea Importance**:
 	I will use a sliding percentage rating to make clear how important the current note is to me. Something like:
 	- **Importance**: 62%
 7. **No topic tags!!!** I find them hard to manage and keep track of as well as unnecessarily condensing the content of a note. Instead I will strive to make connections between notes using internal links. 
