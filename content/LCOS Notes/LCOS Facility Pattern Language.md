@@ -1,8 +1,8 @@
 ---
-{"Note Planted":"2025-03-18","Last Tended":"2025-03-25","publish":true,"PassFrontmatter":true}
+{"Note Planted":"2025-03-18","Last Tended":"2025-03-27","publish":true,"PassFrontmatter":true}
 ---
 
-#🌱Seed   #🙂Agree   #🟡Consideration
+#🌱Seed   #🙂Agree   #🟡Consideration   #🌲Evergreen 
 
 ****
 

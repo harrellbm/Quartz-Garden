@@ -1,12 +1,12 @@
 ---
-{"publish":true,"Note Planted":"2024-10-29","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-29","Last Tended":"2025-03-30","PassFrontmatter":true}
 ---
 
 #🪴Sprout   #😁Strongly-Agree   #🟢Conviction 
 
 ****
 
-> `Importance`: 60%
+> `Importance`: 100%
 
 > [!Summary] The Big Idea
 > As we seek to remain faithful to the Sacred Scriptures as they have been handed down to us by our ancestors in the faith, questions of Biblical translation can become deeply important from time to time.
@@ -45,7 +45,7 @@ On the other end of the spectrum are word for word translations. These translati
 Here is an example from the NASB: 
 **and they spoke, saying to Him**, "Tell us by what authority You are doing these things, or who is the one who gave You this authority?" - Luke 20:2
 
-Greek uses a doubled verb to add emphasis and make clear the aggressive nature of this question being asked Jesus. But a literal word for word translation does not get that across very well in English and ends up sounding redundant. 
+Greek uses a doubled verb to add emphasis and make clear the aggressive nature of this question being asked of Jesus. But a literal word for word translation does not get that across very well in English and ends up sounding redundant. 
 # Grammatical Construct for Grammatical construct
 A kind of happy medium approach takes distinct grammatical units and translates them as close to the original language while still making the translation readable. This approach keeps the translation faithful to the original language while also acknowledging the need for English speakers to actually be able to read it with understanding. 
 

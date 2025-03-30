@@ -15,6 +15,8 @@
 
 ## Big Picture Theological Principles and Frameworks 💡
 
+- Continuity of Biblical Teaching
+	- [[Telescope of Scripture, the Law and Doctrine\|Telescope of Scripture, the Law and Doctrine]]
 - [[Law and Gospel\|Law and Gospel]]
 - [[Three Uses of the Law\|Three Uses of the Law]]
 - Two kingdoms
@@ -36,7 +38,7 @@
 	- [[Liturgical Art\|Liturgical Art]]
 - Rhythms of Life and Faith
 	- [[Spiritual Disciplines\|Spiritual Disciplines]]
-	-  Embodied practices (crosses, breath prayer, Using our bodies in worship, etc.)
+	- Embodied practices (crosses, breath prayer, Using our bodies in worship, etc.)
 	- Liturgical Calendar 
 - Vocation
 - Function of Doctrine as a common language 
@@ -47,6 +49,8 @@
 	- [[Lament Epistle Series\|Lament Epistle Series]]
 	- [[Lament Sermon Series Schedule\|Lament Sermon Series Schedule]]
 - Bible reading skills
+	- Basic how to read the Bible stuff
+	- [[Bible Translations\|Bible Translations]]
 - Reading and Meditating on Scripture: 
 	- [[Christian Meditation\|Christian Meditation]]
 	- [[Lectio Divina\|Lectio Divina]]
@@ -62,23 +66,33 @@
 	- [[Gerhard Method of Theological Study\|Gerhard Method of Theological Study]]
 - [[Creatureliness\|Creatureliness]] and embodiment. Danger of dualism 
 - 6 Chief Parts of the Catechism
+	- Ten Commandments
+	- Creed
+	- Lord's Prayer
+	- Baptism
+	- Confession and Absolution
+	- Communion
 - Means of Grace and Sacraments
 	- [[John Chrysostom on the Lord's Supper\|John Chrysostom on the Lord's Supper]]
 - Justification and other Gospel metaphors
 - New Heaven and New Earth. Eschatology  
-- Sin = Death, and Sin = Separation. 
 - Biblical Words and theological concepts for sin and their accompanying metaphors:
+	- Sin = Death, and Sin = Separation. 
 	- Incurvatus in se (Latin) - A life lived turning inward on oneself - need to look it up again
 	- Concupiscence - malformed desires of the heart - way of speaking about sin in the confessions
 	- Hebrew (Chata) and Greek (Hamartia) - Missing the mark. Like an archer missing the target. [Bible Project video](https://bibleproject.com/explore/video/khata-sin/)
 	- Hebrew (Pesha) Transgression - Breaking an agreement or trust. [Bible Project video](https://bibleproject.com/explore/video/pesha-transgression/)
 	- Hebrew (Avon) Crooked - acting in a way that is bend out of line or "is not straight." [Bible Project video](https://bibleproject.com/explore/video/avon-iniquity/)
 	- From Athanasius sin and eventually death are humans uncreating themselves and pushing ourselves back into uncreated chaos.
-- Theodicy. Defending God’s hidden attributes. 
+- Theodicy. Defending God’s hidden attributes. Not a good thing to do, example of the Psalms is better. 
 - Lex Orandi, Lex Credendi (Law of Prayer becomes Law of Faith). Practice proceeds Theology.
-- Goodness of the Law and danger of antiNomianism 
+- Goodness of the Law and danger of antinomianism 
 - Pastoral Office and the Priesthood of All Believers
-- Lutheran Potholes: Rationalism, Legalism, [[Repristination\|repristination]] and Law/Gospel reductionism.
+- Lutheran Potholes: 
+	- Rationalism, 
+	- Legalism
+	- [[Repristination\|repristination]]
+	- Law/Gospel reductionism.
 - Confessionalism. Subscribe to doctrine not exegesis.
 - Old Testament Law useful for principles not direct following (I.e. Under Law of Christ not Law of Moses).
 - Movement of the Presence of God in Scripture and [[Sacred Space\|Sacred space]]
@@ -104,7 +118,6 @@
 	- [[Aesthetic\|Aesthetic]]
 	- [[The Tabernacle\|The Tabernacle]]
 - [[The Solas of the Reformation\|The Solas of the Reformation]]
-- [[Bible Translations\|Bible Translations]]
 - [[Facing North or East\|Facing North or East]]
 ## Other Notes
 - [[Faith Catchphrases\|Faith Catchphrases]]

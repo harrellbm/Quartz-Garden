@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-12-01","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-12-01","Last Tended":"2025-03-30","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree 
@@ -9,11 +9,13 @@
 > `Importance`: 10%
 
 > [!Summary] The Big Idea
-> The idea of law and commandments in scripture is far deeper than how we use it in [[Law and Gospel\|Law and Gospel]] law and gospel or [[Three Uses of the Law\|Three Uses of the Law]]. Those are good starting frameworks but do not contain the fullness of scripture and Gods will expressing as law 
+> The idea of law and commandments in scripture is far deeper than how we use it in [[Law and Gospel\|Law and Gospel]] law and gospel or [[Three Uses of the Law\|Three Uses of the Law]]. Those are good starting frameworks but do not contain the fullness of scripture and Gods will expressed as law. 
 
+Related notes:
+[[Telescope of Scripture, the Law and Doctrine\|Telescope of Scripture, the Law and Doctrine]]
 ****
 
-Commandments seem as blueprints for the world 
+Commandments seen as blueprints for the world 
 
 Commandments as the good will of God for creation 
 

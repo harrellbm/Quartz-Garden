@@ -2,7 +2,7 @@
 {"publish":true,"Note Planted":"2025-02-13","Last Tended":"2025-02-24","PassFrontmatter":true}
 ---
 
-#🌱Seed   #😐Neutral   #🟡Consideration
+#🌱Seed   #😐Neutral   #🟡Consideration   #📓Journal 
 ****
 > `Importance`: 10%
  
