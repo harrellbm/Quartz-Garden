@@ -1,5 +1,5 @@
 ---
-{"Note Planted":"2025-03-03","Last Tended":"2025-03-27","publish":true,"PassFrontmatter":true}
+{"Note Planted":"2025-03-03","Last Tended":"2025-04-01","publish":true,"PassFrontmatter":true}
 ---
 
 #🪴Sprout   #🙂Agree   #🟢Conviction   #📰Handout 
@@ -146,11 +146,6 @@ We need to be in “communion” (fellowship, agreement, etc.) with God (vertica
 - Am I sorry for my sins?
 - Do I believe that Jesus Christ is my Savior from sin?
 - Will I, with the Holy Spirit’s help, try to avoid the sins I am guilty of and live more according to His will.
-
-**Matthew 22:1–14**
-	- Question from the text: Notice that Jesus’ parable is both a welcome and a warning. Why is it important to be “well prepared” before we commune? How can we prepare for the Lord’s Supper so we receive it as a blessing?
-
-
 
 # Week 3 
 How to Prepare for the Lord’s Supper / Lord’s Supper Logistics

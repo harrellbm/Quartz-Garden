@@ -13,8 +13,9 @@
 
 Jesus talks about how valuable the kingdom of heaven is and he zeros in on Scripture near the end of our reading for today. 
 
-Matthew 13:52 (ESV): Therefore every scribe who has been trained for the kingdom of heaven is like a master of a house, who brings out of his treasure what is new and what is old.
-  
+> [!Cite] Matthew 13:52 (ESV):
+> Therefore every scribe who has been trained for the kingdom of heaven is like a master of a house, who brings out of his treasure what is new and what is old.
+
 Scribe is being used here like the original job Someone deeply familiar with scripture and in charge of making new copies of it. But ultimately teaching and living it 
 
 New being the kingdom of heaven Jesus is bringing into the world and fulfilling the old covenant. So new and Old Testament new and old covenants. Brought forth together as valuable 
@@ -51,52 +52,16 @@ Tentatio or Temptation - Satan will always try to drag you down once you have le
 
 Let’s read part of Psalm 119 and see where Luther got these 
 
-  
-
-Psalm 119:145–152 (CSB): 145 
-
-I call with all my heart; answer me, Lord. 
-
-I will obey your statutes. 
-
-146 I call to you; save me, 
-
-and I will keep your decrees. 
-
-  
-
-147 I rise before dawn and cry out for help; 
-
-I put my hope in your word. 
-
-148 I am awake through each watch of the night 
-
-to meditate on your promise. 
-
-149 In keeping with your faithful love, hear my voice. Lord, give me life in keeping with your justice. 
-
-  
-
-150 Those who pursue evil plans﻿, come near; 
-
-they are far from your instruction. 
-
-151 You are near, Lord, 
-
-and all your commands are true. 
-
-152 Long ago I learned from your decrees 
-
-that you have established them forever.
-
-  
+> [!Cite] Psalm 119:145–152 (CSB):
+> I call with all my heart; answer me, Lord. I will obey your statutes. I call to you; save me, 
+> and I will keep your decrees. I rise before dawn and cry out for help; I put my hope in your word. I am awake through each watch of the night to meditate on your promise. In keeping with your faithful love, hear my voice. Lord, give me life in keeping with your justice. Those who pursue evil plans﻿, come near; they are far from your instruction. You are near, Lord, and all your commands are true. Long ago I learned from your decrees that you have established them forever.
 
 Let’s try it out on some of the parables we read today. They are nice and short 
 
-Matthew 13:44 (ESV): The kingdom of heaven is like treasure hidden in a field, which a man found and covered up. Then in his joy he goes and sells all that he has and buys that field.
+> [!Cite] Matthew 13:44 (ESV):
+> The kingdom of heaven is like treasure hidden in a field, which a man found and covered up. Then in his joy he goes and sells all that he has and buys that field.
 
-  
-
-Matthew 13:45–46 (ESV): Again, the kingdom of heaven is like a merchant in search of fine pearls, 46 who, on finding one pearl of great value, went and sold all that he had and bought it.
+> [!Cite] Matthew 13:45–46 (ESV):
+> Again, the kingdom of heaven is like a merchant in search of fine pearls, who, on finding one pearl of great value, went and sold all that he had and bought it.
 
 There are so many ways to read scripture that bring us into a place where we can absorb what scripture is telling us. But ultimately they all have the same goal that we would not just acknowledge but deeply proclaim that the kingdoms of Heaven is more valuable than anything else in life**

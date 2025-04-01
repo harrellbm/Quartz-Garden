@@ -16,6 +16,9 @@
 
 [Gordon Brander on Method](https://gordonbrander.com/pattern/storytelling/)
 
+
+Goes through and does a lot of story telling as well as talking about how it can be used well. 
+[Jawbone with Martin Shaw](https://www.youtube.com/watch?v=aCAyvu9wyEo)
 # Personal notes on stories 
 To me stories are one of the best ways to present new ideas and learn as I have learned in my creative preaching class in seminary
 

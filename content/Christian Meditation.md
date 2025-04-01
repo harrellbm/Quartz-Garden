@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-01","PassFrontmatter":true}
 ---
 
 #🪴Sprout    #😁Strongly-Agree    #🟢Conviction 
@@ -50,6 +50,4 @@ Some methods for Christian Meditation:
 A couple applications of Christian Meditation:
 - [[Meditation on Psalm 8\|Meditation on Psalm 8]]
 - [[Treasure of Heaven Sermon Outline\|Treasure of Heaven Sermon Outline]]
-
-
 
