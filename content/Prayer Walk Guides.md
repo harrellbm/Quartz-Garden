@@ -52,7 +52,7 @@ There could be two main types:
 - [[Metaphor in Scripture\|Metaphor in Scripture]]
 - [[A Conversation with God (Epistle)\|A Conversation with God (Epistle)]]
 - [[Quiet Muttering\|Quiet Muttering]]
-- [[Psalms-The Language of Our Heart\|Psalms-The Language of Our Heart]]
+- [[Bible Book Notes/Psalms-The Language of Our Heart\|Psalms-The Language of Our Heart]]
 - [[Sacred Space\|Sacred Space]]
 - [[Lectio Divina\|Lectio Divina]]
 - [[Oratio, Meditatio, Tentatio\|Oratio, Meditatio, Tentatio]]

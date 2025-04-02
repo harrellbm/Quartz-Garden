@@ -108,7 +108,7 @@
 - Sanctification
 - Return of Jesus, Judgment day
 - Free will, and predestination 
-- Biblical Poetry (Psalms, [[Prophets\|Prophets]], etc.)
+- Biblical Poetry (Psalms, [[Bible Book Notes/Prophets\|Prophets]], etc.)
 - [[Mission Mindset\|Mission Mindset]]: Go and Tell not always Come and See
 - Order of Creation. As it comes from the creation account and other biblical descriptions, but also as we can see it through the healthy functioning of particular created orders. [[Notes on the Nature of Order\|Notes on the Nature of Order]] A similar account of seeing the health functioning of buildings.
 - The Use and Inhabitation of Space:

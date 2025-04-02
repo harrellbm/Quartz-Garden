@@ -30,7 +30,7 @@ Joshua is told to do the same thing as he prepares to lead the people into the p
 
 Here are some other notes around Meditation and Reading Scripture:
 - [[Quiet Muttering\|Quiet Muttering]]
-- [[Psalms-The Language of Our Heart\|Psalms-The Language of Our Heart]]
+- [[Bible Book Notes/Psalms-The Language of Our Heart\|Psalms-The Language of Our Heart]]
 - [[Reading Scripture Devotionally\|Reading Scripture Devotionally]]
 - [[The Struggle to be in God's Word\|The Struggle to be in God's Word]]
 - [[Love the Lord Your God with all Your Heart\|Love the Lord Your God with all Your Heart]]
