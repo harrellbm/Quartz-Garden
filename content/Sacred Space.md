@@ -2,14 +2,17 @@
 {"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
 ---
 
-#🍋Fruit  #😁Strongly-Agree #🟢Conviction 
+#🍋Fruit  #😁Strongly-Agree #🟢Conviction   #📝Essay 
 
 ****
 
 > `Importance`: 10%
 
 > [!summary] The Big Idea
-> An #📝Essay that develops some thoughts about Sacred Space. 
+> An Essay that develops some thoughts about Sacred Space. 
+
+> [!NOTE]
+> - Posted to Substack as #📝Essay in its current state Jan 2025
 
 Related Essay: [[Shaping Space\|Shaping Space]]
 

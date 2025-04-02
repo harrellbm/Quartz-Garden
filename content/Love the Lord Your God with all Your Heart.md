@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-02","PassFrontmatter":true}
 ---
 
 #🍋Fruit    #😁Strongly-Agree   #🟢Conviction 
@@ -13,7 +13,7 @@
 
 > [!NOTE]
 > - Used in OS #📃Epistle Feb 2022
-> - Posted to Substack as #📝Essay in its current state Jan 2024
+> - Posted to Substack as #📝Essay in its current state Jan 2025
 
 ***Related Epistle***: [[The Struggle to be in God's Word\|The Struggle to be in God's Word]]
 

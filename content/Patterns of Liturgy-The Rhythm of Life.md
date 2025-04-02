@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-30","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-02","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree
@@ -12,8 +12,9 @@
 > Essay on the use of Liturgy and how it influence our lives. 
 
 > [!note]
-> Used for OS #📃Epistle Oct 2023.
-> Used for LCOS #📃Epistle Jan 2025.
+> - Used for OS #📃Epistle Oct 2023.
+> - Used for LCOS #📃Epistle Jan 2025.
+> - Posted to Substack as #📝Essay in its current state Jan 2025
 
 ***Related Notes***: [[Models of Human Rhythms\|Models of Human Rhythms]], [[Private/Personal Reflections on My Personal Rhythms\|Personal Reflections on My Personal Rhythms]], [[Rhythm Reset\|Rhythm Reset]], [[Thoughts on Liturgy and Rhythm\|Thoughts on Liturgy and Rhythm]], [[Basic Philosophies of Community Rhythm and Project Lifecycle\|Basic Philosophies of Community Rhythm and Project Lifecycle]]
 

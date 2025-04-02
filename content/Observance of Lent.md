@@ -1,16 +1,17 @@
 ---
-{"publish":true,"Note Planted":"2025-02-19","Last Tended":"2025-02-19","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2025-02-19","Last Tended":"2025-04-02","PassFrontmatter":true}
 ---
 
-#🌱Seed   #😐Neutral   #🟡Consideration
+#🍋Fruit   #🙂Agree   #🟢Conviction 
 ****
-> `Importance`: 10%
+> `Importance`: 80%
  
 >[!Summary] The Big Idea
->
+> A personal observation of lent and its observance.  
 
 > [!note]
-> Used for LCOS #📃Epistle March 2025
+> - Used for LCOS #📃Epistle March 2025
+> - Posted to Substack as #📝Essay in its current state Feb 2025
 
 ****
 I have never liked winter. The days are so short, and the outdoors seem to stay a consistent shade of bleh. Moving to Santa Maria California has significantly changed my experience of that seasonal gray. In fact, as I write this, a warm sun beam is happily playing through the window behind me. But regardless of what the physical seasons may do to you each year, we are quickly approaching a unique season within our Church year.

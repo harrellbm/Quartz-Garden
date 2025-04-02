@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-01","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree
@@ -155,7 +155,7 @@ As we continue to think through how we access the chain of formation and promote
 
 The movement of discipleship should therefore be animated and flow out from our Sunday liturgy. The thick habits of our daily life should be informed and corrected by the words and practices of Scripture. To this end, what follows is a short list of thick habits to think through bringing into our discipleship efforts:
  
-•	The Biblical rhythm of time and rest
+•	[[The Biblical Rhythm of Time and Rest\|The Biblical Rhythm of Time and Rest]]
 •	Worship
 •	Hospitality, community, and graced dependence 
 •	Song and music

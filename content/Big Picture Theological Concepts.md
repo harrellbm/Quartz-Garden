@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-03-18","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-01","PassFrontmatter":true}
 ---
 
 #🌲Evergreen  #😁Strongly-Agree  #🟢Conviction 
@@ -28,6 +28,7 @@
 - The Personal (Jesus), Spoken, and Written Word of God
 	- [[Word Made Flesh\|Word Made Flesh]]
 - The three Ps of seeing Jesus in the Old Testament: Presence, Prediction, and Pattern. 
+- Forgiveness
 - Saint and Sinner
 - Now and not yet
 - Everyone is a Theologian
@@ -64,7 +65,7 @@
 	- [[Love the Lord Your God with all Your Heart\|Love the Lord Your God with all Your Heart]]
 	- [[Ways to Engage Scripture\|Ways to Engage Scripture]]
 	- [[Gerhard Method of Theological Study\|Gerhard Method of Theological Study]]
-- [[Creatureliness\|Creatureliness]] and embodiment. Danger of dualism 
+- [[Creatureliness\|Creatureliness]] and embodiment. Avoiding the Danger of Platonic dualism. 
 - 6 Chief Parts of the Catechism
 	- Ten Commandments
 	- Creed

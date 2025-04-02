@@ -1,13 +1,14 @@
 ---
-{"publish":true,"Note Planted":"2025-03-18","Last Tended":"2025-03-26","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2025-03-18","Last Tended":"2025-04-02","PassFrontmatter":true}
 ---
 
-#🌱Seed   #🙂Agree    #🟡Consideration
+#🍋Fruit   #🙂Agree    #🟢Conviction   #📝Essay 
 ****
-> `Importance`: 10%
+> `Importance`: 91%
  
 >[!Note] 
->Used as April 2025 #📃Epistle for LCOS  
+>- Used as April 2025 #📃Epistle for LCOS  
+> - Posted to Substack as #📝Essay in its current state Mar 2025
 
 ****
 # Of Forests and Trees
@@ -34,6 +35,10 @@ However, in a world with so much information floating around us, it is easy to f
 Yet it is hard to escape the daily training of our soundbite culture. Our tools abound for a fragmentary laser focus. A blurb here or a comment there pass by us like a rushing stream. When we do stop, we tend toward analyzing the smallest things. It is far easier to like, repeat, or become upset by short sayings than to take time to understand the larger whole. But in such unyielding small scale focus, we run the same danger as the distracted watchman. In our hast to make the smaller point, we can miss the bigger picture entirely.
 
 ## The Tree of Truth
+
+> [!cite] Psalm 85:11 (CSB)
+> Truth will spring up from the earth, and righteousness will look down from heaven.
+
 ![olive tree.jpg](olive%20tree.jpg)
 In order to break past this trap, we need to step back and look at the proverbial forest rather than only the trees we are used to seeing. Only then can the beauty, continuity, and harmony of ALL Scripture begin to surface. Out of Scripture arises a wonderful kind of order, a hierarchy, by which things naturally fall into place. Yet, may philosophers, politicians, and even theologians have invested immense effort to construct their own structure within which they force dismembered Biblical sayings or vaguely Christian morals. This is not the example of the prophets, apostles, or even Jesus Himself. In contrast, these hero's of the faith taught and interacted with Biblical truth in consistent ways. Ways that we would be wise to pursue. 
 

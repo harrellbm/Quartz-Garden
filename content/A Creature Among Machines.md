@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-03-13","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-02","PassFrontmatter":true}
 ---
 
 #🌿Sapling #😁Strongly-Agree  #📝Essay 
@@ -93,6 +93,9 @@ In Alexander's more philosophical terms:
 A metaphor for this is to think of two frogs on a table. One is alive and whole the other is split open and pinned on the board. Which frog gives you a better example of what a frog really is? The dissected frog can teach you a lot about the mechanics of how a frog works internally. But if that is all you ever have access to you will never really have a good idea of what a frog is like, or how it sounds, or where it lives, or any of the other things that makes a frog "a frog" as a whole created creature. In the same way, seeking to understand ourselves as created creatures rather than machines must begin from this broad perspective of wholeness.   
 
 # Dirt and Breath 
+
+> [!cite] Psalm 103:1 (ESV)
+> Bless the Lord, O my soul, and all that is within me, bless his holy name!
 
 Start with the first biblical definition of a human as dirt and breath 
 
