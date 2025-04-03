@@ -1,5 +1,5 @@
 ---
-{"Note Planted":"2025-03-18","Last Tended":"2025-03-27","publish":true,"PassFrontmatter":true}
+{"Note Planted":"2025-03-18","Last Tended":"2025-04-03","publish":true,"PassFrontmatter":true}
 ---
 
 #🌱Seed   #🙂Agree   #🟡Consideration   #🌲Evergreen 
@@ -14,6 +14,7 @@
 ****
 
 ## Planting and Gardening Resources
+[[Plants Around Church\|Plants Around Church]]
 
 > [!NOTE] Emailed resources from Camila Leon
 > 
@@ -51,8 +52,12 @@
  Possibilities of other grants for creating native plant landscaping
 	- [Redbud Grants](https://chapters.cnps.org/redbud/get-involved/redbud-grants/)
 	- [Pollinator Grant]([https://www.grants.ca.gov/grants/pollinator-habitat-program/](https://www.grants.ca.gov/grants/pollinator-habitat-program/))
-## Sensory Garden for Preschoolers
 
+We seem like we should qualify for this:
+[xerces.org pollinator-conservation habitat-kits southern-california](https://xerces.org/pollinator-conservation/habitat-kits/southern-california)
+
+# Gardens
+## Sensory Garden for Preschoolers
 **Context:** Preschoolers are naturally curious and learn best through direct sensory experiences. Existing gardens often lack the focused design to maximize these learning opportunities, becoming either passive spaces or overly complex for young children.
 
 **Problem:** How do we design a garden that actively engages preschoolers' senses and fosters their development through playful exploration?
@@ -119,7 +124,7 @@
 - **Edible Landscape:** Describes how to integrate edible plants into a garden design.
 - **Water Feature:** Explores the use of water to create sensory experiences.
 - **Shaded Outdoor Room:** Describes how to create comfortable outdoor spaces.
-## Butterfly Haven Garden
+## Butterfly and Pollinator Garden
 
 **Context:** Butterflies are vital pollinators, but their populations are declining due to habitat loss and pesticide use. Children are naturally fascinated by butterflies and can learn about ecology through direct observation. Many gardens lack the specific features needed to support butterfly life cycles.
 
@@ -179,7 +184,126 @@
 - **Children's Play Area:** Ensures that the garden is safe and engaging for children.
 - **Sun Trap:** Describes how to create warm, sunny areas for basking.
 - **Water Feature:** Provides water sources for wildlife.
+## The Rain Garden
 
+- **Context:** Impervious surfaces increase stormwater runoff, leading to flooding and pollution.
+- **Problem:** How can we capture and infiltrate rainwater on-site to reduce runoff and recharge groundwater?
+- **Solution:** Create a rain garden, a shallow depression planted with native plants designed to collect and infiltrate rainwater.
+- **Implementation:**
+    - **Site Selection:** Choose areas where rainwater naturally flows or can be directed.
+    - **Excavation:** Create a shallow depression with gently sloping sides.
+    - **Soil Amendment:** Amend the soil to improve drainage and infiltration.
+    - **Plant Selection:** Choose native plants adapted to wet and dry conditions.
+    - **Mulching:** Apply mulch to retain moisture and suppress weeds.
+    - **Maintenance:** Regularly remove debris and maintain plant health.
+- **Resulting Context:** A rain garden effectively captures and infiltrates rainwater, reduces runoff volume, recharges groundwater, and enhances the aesthetic appeal of the landscape, while also providing habitat for wildlife.
+## A Tea Garden
+**Problem:** People in the midst of their busy lives often lack a dedicated, tranquil space for quiet reflection, social connection, and the simple pleasure of enjoying tea, leading to stress, isolation, and a diminished sense of well-being.
+
+**Context:** This pattern is applicable to a wide range of settings, from small residential gardens and balconies to larger community spaces, rooftops, and even designated areas within commercial or institutional grounds. It is particularly relevant in environments where a sense of calm and connection to nature is desired.
+
+**Forces:**
+- **The Need for Tranquility:** In a world often filled with noise and distraction, people crave moments of peace and quietude for introspection and mental restoration.
+- **The Social Ritual of Tea:** The act of sharing tea is often a social one, fostering connection, conversation, and a sense of community.
+- **The Restorative Power of Nature:** Contact with plants, water, and natural materials has a demonstrably calming and uplifting effect on the human spirit.
+- **The Sensory Experience of Tea:** The aroma of brewing tea, the warmth of the cup, the taste of the liquid, and the visual beauty of the setting all contribute to a holistic and satisfying experience.
+- **The Importance of Defined Space:** A dedicated area signals its purpose and encourages a shift in mindset, allowing people to fully immerse themselves in the experience of tea and reflection.
+- **The Practicality of Tea Preparation:** The space should be conducive to the simple acts of preparing and serving tea, making the ritual effortless and enjoyable.
+
+**Solution:**
+
+CREATE A SEMI-ENCLOSED SPACE within the larger garden or area, defined by natural elements such as hedges, low walls, trellises covered in climbing plants, or even a change in ground level. This space should contain comfortable seating arranged to encourage conversation or solitary contemplation, along with a small, stable surface for setting down cups and perhaps a simple tea preparation setup. Incorporate elements that engage the senses: fragrant flowering plants, the gentle sound of a small water feature, textured paving stones underfoot, or the dappled shade of a tree. Orient the tea garden to capture pleasant natural light and views while providing a sense of enclosure and privacy, shielding it from the most disruptive elements of the surrounding environment.
+
+**Discussion:**
+
+The semi-enclosed nature of the tea garden creates a sense of sanctuary, a room outdoors, that feels distinct from the surrounding environment. This allows for a greater sense of focus and relaxation. The use of natural elements blurs the boundary between the built and the natural, fostering a feeling of connection to the earth and promoting a sense of calm. Comfortable seating, whether a simple bench, a few individual chairs, or even cushions on a low wall, encourages people to linger and truly enjoy the moment. The presence of a small table or stable surface makes the act of drinking tea more practical and enjoyable.
+
+Engaging multiple senses deepens the experience. The fragrance of jasmine, chamomile, or other aromatic plants enhances the sensory pleasure of tea. The sound of trickling water can be incredibly soothing and help to mask unwanted background noise. The texture of natural paving underfoot provides a tactile connection to the garden. And the play of light and shadow through foliage creates a visually appealing and dynamic environment.
+
+By carefully orienting the tea garden, you can maximize the benefits of natural light and views while minimizing distractions. Consider the path of the sun throughout the day to provide a mix of sun and shade. Frame pleasant vistas while creating a sense of enclosure and privacy to foster intimacy and contemplation.
+
+A well-designed tea garden becomes more than just a place to drink tea; it becomes a small oasis, a refuge for the mind and spirit, a place to connect with oneself and with others in a simple and meaningful way.
+
+**Cross-references:**
+
+- **QUIET CORNER:** To ensure a sense of peace and seclusion.
+- **GARDEN WALL:** To define the boundaries of the tea garden and provide a sense of enclosure.
+- **TRELLISED WALK:** To create a natural and permeable boundary with climbing plants.
+- **SITTING WALL:** To provide informal seating and define the space.
+- **WATER IN THE GARDEN:** To introduce the calming sound and visual appeal of water.
+- **FRAGRANT GARDEN:** To enhance the sensory experience with aromatic plants.
+- **OUTDOOR ROOM:** To think of the tea garden as an extension of indoor living.
+- **PATH SHAPE:** To guide movement and create a sense of journey towards the tea garden.
+- **PLANTING POCKETS:** To integrate plants seamlessly into the structure of the tea garden.
+
+## A Prayer Walk
+**Problem:** Individuals and communities often lack a dedicated and thoughtfully designed space that facilitates a more embodied and intentional form of prayer and spiritual reflection through movement, leading to a sense of disconnection between the physical and spiritual aspects of their lives.
+
+**Context:** This pattern is applicable to a variety of settings where people seek a deeper connection with their faith or a sense of spiritual grounding. This includes religious institutions, retreat centers, hospitals, schools, parks, gardens, and even designated routes within urban or rural landscapes.
+
+**Forces:**
+
+- **The Desire for Embodied Spirituality:** Many find that physical movement can enhance their spiritual experience, allowing for a more active and engaged form of prayer.
+- **The Need for Focused Intention:** In the midst of distractions, a designated path can help to direct thoughts and intentions towards prayer and reflection.
+- **The Influence of the Environment on the Spirit:** The surrounding environment can profoundly impact one's mood and ability to connect with the sacred. Natural settings often evoke feelings of awe, peace, and reverence.
+- **The Value of Pauses and Reflection Points:** Specific locations along a path can serve as prompts for different types of prayer, contemplation, or remembrance.
+- **The Balance Between Solitude and Community:** Prayer walks can be a deeply personal and solitary practice, or they can be a shared experience that fosters communal spirituality.
+- **The Need for a Sense of Journey:** A well-designed prayer walk should feel like a purposeful journey, guiding the participant through a meaningful progression of thought and feeling.
+
+**Solution:**
+
+CREATE A DEFINED PATH or route, either circular to symbolize the cyclical nature of prayer and life, or linear to represent a journey of spiritual growth. Along this path, CAREFULLY PLACE POINTS OF INTEREST or PAUSES that invite specific forms of prayer or reflection. These points might be marked by natural features like a particularly striking tree, a flowing stream, a rock formation, or a vista point offering a sense of perspective. Alternatively, they could be intentionally placed elements such as a simple bench for rest and contemplation, a stone with a meaningful inscription, a small contemplative garden dedicated to a specific theme, or even a series of stations representing different stages of a spiritual journey. Ensure the path itself encourages a slow, deliberate pace and allows for moments of both solitary reflection and potential interaction with others who may be sharing the walk. Use natural materials for the path and its elements wherever possible to enhance the connection to the environment.
+
+**Diagram:**
+        Start
+          |
+          V
+    [Point 1: Reflection on Gratitude]
+          \
+           \ Winding Path
+            \
+             V
+      [Point 2: Intercession for Others]
+              \
+               \ Gentle Slope
+                \
+                 V
+          [Point 3: Contemplation by Water]
+                  \
+                   \ Level Path
+                    \
+                     V
+        [Point 4: Moment of Silence/Stillness]
+                      \
+                       \ Gradual Turn
+                        \
+                         V
+              Finish (Potentially same as Start)
+
+**Discussion:**
+
+The defined path of the prayer walk provides a physical structure that supports a spiritual practice. The act of walking engages the body and can help to quiet the mind, making it easier to focus on prayer and reflection. The carefully placed points of interest act as anchors, providing specific prompts or themes for contemplation. For example, a point overlooking a beautiful view might inspire prayers of gratitude, while a secluded bench could be a place for quiet intercession.
+
+The environment plays a crucial role in the effectiveness of a prayer walk. Natural settings often evoke a sense of the sacred and can facilitate a deeper connection with the divine. Using natural materials for the path and its elements, such as wood, stone, and earth, further enhances this connection.
+
+The design of the prayer walk should encourage a slow and deliberate pace, allowing participants to fully engage with their thoughts and feelings. The path should also offer a sense of journey, with a clear beginning and end, even if it is a circular route. Opportunities for both solitude and potential interaction with others should be considered, recognizing that prayer can be a deeply personal or a shared communal experience.
+
+Ultimately, a well-designed prayer walk creates a sacred space in motion, a place where the physical act of walking becomes an integral part of the spiritual practice, fostering a deeper sense of connection, peace, and purpose.
+
+**Cross-references:**
+
+- **PATH SHAPE:** To consider the symbolic meaning of different path forms (linear, circular, labyrinthine).
+- **POINTS OF INTEREST:** To emphasize the importance of specific locations for reflection.
+- **QUIET CORNER:** To create secluded spots for deeper contemplation.
+- **CONTEMPLATIVE GARDEN:** To incorporate small, focused garden areas as prayer stations.
+- **BENCH:** To provide places for rest and extended periods of reflection.
+- **NATURAL MATERIALS:** To enhance the connection with the environment.
+- **THRESHOLD:** To mark the entrance and exit of the prayer walk as a distinct and sacred space.
+- **SEQUENCE OF SPACES:** To think about the progression of experiences along the prayer walk.
+- **SYMBOLIC ELEMENTS:** To incorporate objects or features that hold spiritual significance.
+
+
+# Outdoor Spaces
 ## The "Book Nook"
 
 **Problem:** How can we create a cozy and inviting space for people to read and relax?
@@ -232,19 +356,7 @@
 - **The Pollinator Garden:** A garden planted with flowers that attract pollinators, such as bees and butterflies.
 - **The Campus Arboretum:** A collection of trees and shrubs that provides educational and recreational opportunities.
 
-## The Rain Garden
-
-- **Context:** Impervious surfaces increase stormwater runoff, leading to flooding and pollution.
-- **Problem:** How can we capture and infiltrate rainwater on-site to reduce runoff and recharge groundwater?
-- **Solution:** Create a rain garden, a shallow depression planted with native plants designed to collect and infiltrate rainwater.
-- **Implementation:**
-    - **Site Selection:** Choose areas where rainwater naturally flows or can be directed.
-    - **Excavation:** Create a shallow depression with gently sloping sides.
-    - **Soil Amendment:** Amend the soil to improve drainage and infiltration.
-    - **Plant Selection:** Choose native plants adapted to wet and dry conditions.
-    - **Mulching:** Apply mulch to retain moisture and suppress weeds.
-    - **Maintenance:** Regularly remove debris and maintain plant health.
-- **Resulting Context:** A rain garden effectively captures and infiltrates rainwater, reduces runoff volume, recharges groundwater, and enhances the aesthetic appeal of the landscape, while also providing habitat for wildlife.
+# Indoor Spaces
 ## Sanctuary Windows as Sacred Story
 
 **Problem:** The current light and windows in the sanctuary feels either too harsh, or too dim and uninspiring, failing to evoke a sense of the sacred and to actively engage the congregation with the central narratives of their faith.

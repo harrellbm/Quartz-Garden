@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-12-24","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-12-24","Last Tended":"2025-04-02","PassFrontmatter":true}
 ---
 
 #🌱Seed   #🙂Agree   #🟡Consideration
@@ -10,6 +10,9 @@
 
 > [!Summary] The Big Idea
 > Mountains are an important place of interaction between God and humans. Over and over God has important meetings and interactions with His people on and around mountains.
+
+> [!cite] Isaiah 2:2 (ESV)
+> It shall come to pass in the latter days that the mountain of the house of the Lord shall be established as the highest of the mountains, and shall be lifted up above the hills; and all the nations shall flow to it,
 
 ****
 
