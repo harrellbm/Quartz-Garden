@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-02","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-09","PassFrontmatter":true}
 ---
 
 #🌿Sapling #😁Strongly-Agree  #📝Essay 
@@ -62,7 +62,7 @@ A simple case study in this is sleep deprivation (a physical state). Anyone who 
 # A Squishy Machine?
 The Philosopher/Architect Christopher Alexander lays out a further explanation of the systemic reductionism surrounding Western thought about the universe and ultimately human anthropology. He argues that Descartes, Postmodernism, and much of Western thinking all share a mechanistic explanation of the universe. What this means is that the universe is viewed as something like a great clock (a mechanism) that ticks on by itself without any outside intervention.
 
-All of these varying western perspectives debate our ability to perceive and interact with this universe but the core of what makes up the universe stays the same across them all. Therefore, the key to understanding everything from this mechanistic perspective is to carefully break everything down into the various mechanisms that "make it go." Whether those mechanism are internal, external, consistent, inconsistent, etc. The foundational assumption is that the world around us can be accurately described through the mechanisms at work within a system (be that a human, ecosystem, country, etc.). 
+All of these varying western perspectives debate our ability to perceive and interact with this universe, but the core of what makes up the universe stays the same across them all. Therefore, the key to understanding everything from this mechanistic perspective is to carefully break everything down into the various mechanisms that "make it go." Whether those mechanism are internal, external, consistent, inconsistent, etc. The foundational assumption is that the world around us can be accurately described through the mechanisms at work within a system (be that a human, ecosystem, country, etc.). 
 
 Even as Christians, we often operate with this same assumption. The world is running by its laws and physics and God "breaks into" things now and again Yet the daily, moment by moment, participation and perceptible reality of God is often left in church. Therefore the primary mover in the world around us is perceived to be non-personal mechanisms rather than any deity or other "enchanted" things.   
 
@@ -76,60 +76,67 @@ This type of language and self understanding has deeply pervaded our thinking in
 
 Other than being depressing, the main problem with this kind of reliance on the mechanistic worldview is that if you adhere to even a few bad parts, your picture of the whole can get very distorted. An example of this is the very literal application of Darwinian Evolution by Nazi Social Darwinists. As it turns out (surprise surprise) survival of the fittest is not a kind moral axiom nor a worth while social foundation.  
 
-While extreme examples of misappropriated mechanisms may be easy to spot for the common observer. There is no actual foundation within the mechanistic perspective by which to make moral judgments. The only real judgement that can be objectively made about a mechanism is if it works or not. Which is impossible to know until you have tried it out. Which in some cases has doomed whole generations to deal with the consequences of their predecessors' experiments (think of the early industrial revolution, or colonialization, both very effective mechanics but not very humane).
+While extreme examples of misappropriated mechanisms may be easy to spot for the common observer. There is no actual foundation within the mechanistic perspective by which to make moral judgments. The only real judgement that can be objectively made about a mechanism is if it works or not. Which is impossible to know until you have tried it. Which in some cases has doomed whole generations to deal with the consequences of their predecessors' experiments (think of the early industrial revolution, or colonialization, both very effective mechanics but not very humane).
 
-What if breaking humans down into composite parts, or obsessing over the innerworkings of this piece or that, is not the most productive or faithful way forward? In a world where machines are increasingly being made in our image, how do we perceived even a glimmer of God's image in ourselves? Are we truly just squishy broken down machines? Destined to be outclassed by our own technological creations? Or is there another approach and narrative to express the constitution of a human person?
+What if breaking humans down into composite parts, or obsessing over the innerworkings of this piece or that, is not the most productive or faithful way forward? In a world where machines are increasingly being made in our image, how do we perceive even a glimmer of God's image in ourselves? Are we truly just squishy broken down machines? Destined to be outclassed by our own technological creations? Or is there another approach and narrative to express the constitution of a human person?
 
 # Contingent Creatures
-A way to move beyond the mechanistic worldview proposed by Alexander is to think in terms of wholeness. Rather than seeking to put together our understanding like an erector set, wholeness starts from the opposite end. In order to understand a human, we must first start with ״the wholeness” of humanity.  
-A way to move beyond the mechanistic worldview proposed by Christopher Alexander is to think in terms of wholeness. Rather than seeking to put together our understanding like an erector set, wholeness starts from the opposite direction. In order to understand a human, we must first start with ״the wholeness” of humanity.  
+The thing about deeply ingrained cultural and anthropological perspectives, is that it often takes philosophy or poetry to break through our mental ruts and open up even the possibility for an alternative. One philosophical way to move beyond the mechanistic worldview has been proposed by Architect Philosopher Christopher Alexander. He proposes completely flipping the direction of approach. Rather than seeking to put together our understanding like an erector set, wholeness starts from the opposite direction. In order to understand a human, we must first start with ״the wholeness” of humanity.  
 
-In this perspective, wholeness is the overall cohesiveness and interrelated nature of everything. For example, a building (he was an architect after all) functions as a whole. Missing a roof, or doors, or plumbing affects the ability of the whole to operate. Even the earth functions as a whole. Humans as participant in this whole are affected by the environment in which we live. We are not unattached, but are to a certain extent influenced and contingent on our environment. 
+In this perspective, wholeness is the overall cohesiveness and interrelated nature of everything. For example, a building (he was an architect after all) functions as a whole. Missing a roof, or doors, or plumbing affects the ability of the whole to operate. Even the earth functions as a whole. Humans, as participant in this whole, effect it but are also affected by the environment in which we live. We are not unattached, but are to a certain extent influenced and contingent on our environment. 
 
 In Alexander's more philosophical terms: 
 > the wholeness in any part of space is the structure defined by all the various coherent entities that exist in that part of space, and the way these entities are nested in and overlap each other.
 >- Nature of Order, bk 1., p. 81
 
-A metaphor for this is to think of two frogs on a table. One is alive and whole the other is split open and pinned on the board. Which frog gives you a better example of what a frog really is? The dissected frog can teach you a lot about the mechanics of how a frog works internally. But if that is all you ever have access to you will never really have a good idea of what a frog is like, or how it sounds, or where it lives, or any of the other things that makes a frog "a frog" as a whole created creature. In the same way, seeking to understand ourselves as created creatures rather than machines must begin from this broad perspective of wholeness.   
+A metaphor that can help picture this difference is to think of two frogs. One is alive, whole, and hopping around a pond. The other is split open and pinned to a board in a laboratory. 
 
-# Dirt and Breath 
+Which frog gives you a better understanding of what a frog really is? 
 
-> [!cite] Psalm 103:1 (ESV)
-> Bless the Lord, O my soul, and all that is within me, bless his holy name!
+The dissected frog can teach you a lot about the mechanics of how a frog works internally. But if that perspective is the totality of your understanding and experience of a frog, you will never have a good idea about what a frog is like, or how it sounds, or where it lives. Nor will you understand any of the other things that makes a frog "a frog" as a whole created creature. In the same way, seeking to understand ourselves as created creatures rather than machines must begin from the broad perspective of wholeness.   
+# Centers or Fuzzy Zones
+Yet without some kind of mental model, wholeness quickly becomes a meaningless catchphrase. "Focus on the whole" is arresting and overwhelming if there is no starting point. The vast complexity of our internal and external worlds are far more than our conscious minds can handle all at once. Christopher Alexander further develops his philosophical perspective with the idea of centers:
+> [!Quote] What is a Center?
+> Each one of these entities has, as its defining mark, the fact that it appears to exist as a local center within a larger whole. It is a phenomenon of centeredness in space. 
+> 
+> I am not referring at all to a point center like a center of gravity. I use the word center to identify an organized zone of space - that is to say a distinct set of points in space. 
+> 
+> When I call the pond a center, the situation changes. I can then recognize the fact that the pond does have existence as a local center of activity: a living system. It is a focused entity. But the fuzziness of its edges becomes less problematic. The reason is that the pond, as an entity, is focused towards its center. It creates a field of centeredness. But, obviously, this effect falls off.
+> - Nature of Order, bk 1., p. 84
 
-Start with the first biblical definition of a human as dirt and breath 
+Thinking of the consitution of our bodies, this definition of centers is quite helpful. Our cardio vascular system is a prime example. It is easily identified as a distinct center without which the rest of our body quickly dies. But beyond the heart, and major veins and arteries, where exactly does this center truly stop? Tiny interfaces like capillaries are interwoven extensively throughout our whole bodies with the smallest pieces constantly changing based on the needs of the body. The whole body interacts with our blood system affecting and being effected by it. This is exactly why centers are helpful. Rather than obsessing over the arbitrary boundary lines imposed on the interweaving of our body, speaking in terms of centers allows for a way of noticing the major forces, or zones, within a whole while being able to leave the boundaries appropriately fuzzy.
 
-A whole living being not a bunch of parts 
+If we move this to address the larger consitution of a human as a whole, we can see a perspective that is able to identify and speak about salient aspects of the whole while also retaining these aspects within their larger context. This is a much more dynamic and organic way of speaking and approaching the human person. This is particularly freeing in being able to honestly approaching the variety with which Scripture describes humanity. Rather than forcing a singular description of a human's inner working, we can appreciate the true variety with which scripture speaks. Here are just a few examples: 
 
-[[Thinking of Spatial Relationships as Centers\|Thinking of Spatial Relationships as Centers]] get pond example of a fuzzy center. 
+> [!Cite]
+> - How long must I take counsel in my soul and have sorrow in my heart all the day? - Psalm 13:2
 
-Christopher Alexander approaches from an empirical and architectural frame and sometimes goes off in weird places 
+>[!Cite]
+> - Be gracious to me, O Lord, for I am in distress; my eye is wasted from grief; my soul and my body also. - Psalm 31:9
 
-But I seek to show how the idea of wholeness and centers can help us more effectively understand ourselves and the world around us that is harmonious with the way Scripture speaks and presents the human person 
+> [!Cite]
+> - I said, “Let me remember my song in the night; let me meditate in my heart.” Then my spirit made a diligent search - Psalm 77:6
+
+> [!Cite]
+> - My soul yearns for you in the night; my spirit within me earnestly seeks you. For when your judgments are in the earth, the inhabitants of the world learn righteousness. - Isaiah 26:9
+
+> [!Cite]
+> - And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.’ - Mark 12:30, Also see Deuteronomy 6:4-9
+
+All of these verses describe particular kinds of experiences using similar but also distinct ways of describing what is happening within themselves.  Whether it is: Soul and Heart; Body and Soul; Heart and Spirit; Soul and Spirit; or Heart, Soul, Mind, and Strength each author uses descriptions freely   
+
+the idea of fuzzy zones or "centers" addresses different models or list of pieces within a human 
 
 Relation of righteousness and shalom with wholeness 
-
-How wholeness lines up with how scripture talks about humanity 
-
-the idea of fuzzy zones or "centers" as Christopher defines them
-
-[[Thinking of Spatial Relationships as Centers\|Thinking of Spatial Relationships as Centers]]
-Grab his pond example of what a center is 
 
 the way god reacts to sin in the Israelite community makes so much more sense from this perspective as does the corrosiveness of original sin 
 
 The corruption in the whole of one human can’t help but affect the whole of the next generation which is literally what God says 
 
-
 Also kind of reference the idea of enchanted world and disenchanted world pull stuff from how the light shines through 
 
 # A Wholistic Creaturely Anthropology: The Intermingled Whole
-
-Deriving from the cosmological Philosophy of Christoper Alexander and the biblically consistent descriptions of humans 
-
- the writer proposes an alternative perspective to consider. Although this perspective may have other names outside the author's knowledge base (Ecclesiastes 1:9), nonetheless for our purposes it will be called: *A Wholistic Creaturely Anthropology*. 
-
-Unlike the anthropologies that seek a singular primary driver, this perspective conceptualizes the human person as an altogether complex, messy, and at many points mysterious creature. Rather than seeking to diminish perplexing parts of human experience, this perspective welcomes them. For it is only through the interrelation of the whole that we begin to understand constituent parts. In other words, a Wholistic Creaturely Anthropology defines a human not as differentiated by a particular primary driver but as the interrelation and overlap of many centers (fuzzy zones) that arise from the interaction of the whole. 
+Unlike the anthropologies which seek a singular primary driver, the perspective we have begun to conceptualize sees the human person as an altogether complex, messy, and at many points mysterious creature. Rather than seeking to diminish perplexing parts of human experience, this perspective welcomes them. For it is only through the interrelation of the whole that we begin to place any smaller internal or external experiences. In other words, a Wholistic Creaturely Anthropology defines a human not as differentiated by a particular primary driver, nor composed of discreet mechanisms, but as the interrelation and overlapping of many centers (fuzzy zones) that arise from the interaction of the whole. 
 
 To put it more bluntly, Emotions by themselves do not make up a human, nor does Reason. Even a Body alone is not a human. Just as a frog on the dissection table is no longer living, so too are elements of a human when treated in utter isolation. Even one missing or malfunctioning aspect of the human creature leaves us marred and broken.  This perspective is quickly supported by even the most basic structures of the human body itself. For example, one missing chromosome is enough to deeply affect a person in ways scientists still do not fully understand. 
 
@@ -145,6 +152,20 @@ This proposed creaturely anthropology is therefore not focused on a purely ratio
 Yet so often alternative anthropological bases belittle or disqualify one metaphor or another as less important because it does not address their chosen primary driver. For example, reason and rational thought is not addressed by the metaphor of being built as living stones in 1 Peter 2:4-5. In fact it is against and in spite of the logical rejections of humans that God is accomplishing the beautiful construction of His people. 
 
 Having had a taste of application let us now turn to applying this creaturely anthropology to a long standing philosophical issue and see how it allows us to approach things in a more well rounded and biblically founded fashion.
+
+# Dirt and Breath 
+
+> [!Cite]
+> - then the Lord God formed the man of dust from the ground and breathed into his nostrils the breath of life, and the man became a living creature. - Genesis 2:7
+
+> [!cite] Psalm 103:1 (ESV)
+> Bless the Lord, O my soul, and all that is within me, bless his holy name!
+
+whole as the foundation 
+
+Start with the first biblical definition of a human as dirt and breath 
+
+A whole living being not a bunch of parts 
 
 
 

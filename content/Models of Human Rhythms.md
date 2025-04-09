@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-01","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-09","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree
@@ -282,6 +282,9 @@ Johari’s window good reminder of realistic expectations of what we can see abo
 
 Tv as unwinding but not really. It is a ton of stimulation to our brain and senses. Yet we treat it like something to unwind with. Why is that? It seems kind of like a nicotine addiction that is perceived as calming yourself down when you smoke. 
 
+[[Rhythms of Rest\|Rhythms of Rest]]
+
+[[The Biblical Rhythm of Time and Rest\|The Biblical Rhythm of Time and Rest]]
   
 
 #### Enculturation and [[Repristination\|Repristination]]

@@ -1,7 +1,8 @@
 ---
-{"Note Planted":"2025-04-03","Last Tended":"2025-04-03","publish":true,"PassFrontmatter":true}
+Note Planted: 2025-04-03
+Last Tended: 2025-04-05
+publish: true
 ---
-
 
 #🌱Seed   #😐Neutral   #🟡Consideration   #📊Project 
 ****
@@ -16,7 +17,20 @@ Similar Ideas: [[LCOS Notes/LCOS Facility Pattern Language\|LCOS Facility Patter
 [Plants for a Future](https://pfaf.org/user/) - Plant uses and care 
 
 [Calscape](https://calscape.org/search) - Search Native California Plants
+
+# Place to Buy Seeds and Plants
+
+https://www.fast-growing-trees.com/collections/herb-plants
+
+https://www.tradewindsfruit.com/herbs/
+
+https://www.laspilitas.com/
+
+
 # Unorganized Resource Websites
+
+https://www.cambrianursery.com/gardening/gardening-tips-for-the-california-central-coast-a-guide-from-cambria-nursery/
+
 https://www.sunset.com/home-garden/flowers-plants/diy-tea-blend-ideas
 
 https://www.summerwindsnursery.com/ca/inspire/blog/growing-herbs-for-tea/
@@ -24,8 +38,6 @@ https://www.summerwindsnursery.com/ca/inspire/blog/growing-herbs-for-tea/
 https://www.latimes.com/home/la-lh-tea-plants-how-to-grow-20130318-story.html
 
 https://youngmountaintea.com/blogs/blog/grow-your-own-tea-plant?srsltid=AfmBOoobGg6zXG4OkHETbHWWs7Ch2FxlAICNozr8g0M2BzubYm0CP0FP
-
-https://pacifichorticulture.org/articles/a-tea-garden-of-ones-own/
 
 https://www.gardentech.com/blog/gardening-and-healthy-living/growing-and-brewing-your-own-tea
 
@@ -164,6 +176,11 @@ Conditions: Full sun to partial shade; wide soil tolerance
 
 This excellent evergreen perennial for hot, dry parts of the garden was found near the  
 Russian River in Sonoma County, California. Its small oval leaves have a wonderfully fresh, minty smell, like (yet unlike) the garden mints from Europe. ‘Russian River’ coyote mint emits a powerful but lovely scent with the slightest brush against its leaves. Just as wonderful are the bright purple-pink heads of small flowers that adorn every stem tip in late spring and summer. Attractive to bees, butterflies, and hummingbirds, ‘Russian River’ works well as a cut flower, and the leaves work well in nosegays and potpourri.
+
+Monardella breweri
+Mustang Mint.
+We are not selling this product. This page is for informational purposes only.
+Monardella breweri Mustang Mint - grid24_24
 ## Lemon Balm 
 Name: Melissa officinalis - L.
 ![Pasted image 20250403144849.jpg](Pasted%20image%2020250403144849.jpg)
@@ -262,3 +279,54 @@ Name: _Thymus vulgaris_ and other species
 Thyme offers a slightly earthy and savory flavor that can be quite pleasant as a tea, especially when you have a cold. It's very drought-tolerant and thrives in full sun and well-drained soil. Use fresh or dried leaves and small stems.  
 ## Stevia 
 A natural sweetener, stevia leaves can be used to add a touch of sweetness to your tea. 
+
+**Lemongrass:** East Indian and West Indian varieties are used for tea and can be brewed fresh after harvest or dried for later use. The entire plant can be used; leaves can be braided and dried for individual cup steeping.
+
+**Pineapple Sage:** Not only a favorite of hummingbirds; many use it as tea to calm nerves, while aiding in digestion. Flavors are sweet and fruity with a hint of mint and spice.
+
+**Moroccan Mint:** A variety of the classic spearmint, _Mentha spicata_, this herb is most commonly mixed with green tea but would be divine with chamomile or lavender to create an herbal infusion. 
+
+**Tulsi/Holy Basil:** Known for its medicinal benefits, this herb packs a flavorful punch with notes of clove, anise, and peppery spice.
+
+**Mexican Scarlet Sage** (_Salvia gesneriiflora_ ‘Tequila’) has a different growth habit than hummingbird sage. It quickly reaches 10 feet tall and wide, though it can be kept smaller with pruning or trained into a smaller shrub. This sage is also adaptable to sun or shade, and is drought tolerant once established.
+
+**African Blue Basil** (_Ocimum kilimandscharicum × basilicum ‘Dark Opal’_) is a gorgeous perennial basil for the coastal California food forest. It likes full sun and is drought tolerant once established. Its leaves are a bit spicier than annual sweet basils, but delightfully tasty all the same. The pretty little purple flowers are edible too, great for attracting pollinators
+
+
+Psoralea physodes 
+California Tea
+
+- Rosemary (_Rosmarinus officinalis)_
+- Rose (_Rosa_ spp.)
+- Nettle (_Urtica dioica_)
+- Tulsi _(Ocimum tenuiflorum)_
+- Echinacea (_Echinacea_ spp.)
+- Yarrow (_Achillea millefolium_) 
+- Catnip (_Nepeta cataria)_
+- Blue vervain (_Verbena hastata)_
+- Chamomile (_Matricaria chamomilla)_
+- Bachelor’s button (_Centaurea cyanus_)
+- Wild bergamot or bee balm (_Monarda fistulosa_)
+- Vick’s Plant (_Plectranthus tomentosa_)
+- Peppermint (_Mentha piperita_)
+- Basil (_Ocimum basilicum_)
+- Dill (_Anethum graveolens_)
+- Toothache Plant (_Acmella oleracea_)
+- Red clover (_Trifolium pratense_)
+- Pleurisy root (_Asclepias tuberosa_)
+- St. John’s wort (_Hypericum perforatum_)
+- Ashwagandha (_Withania somnifera_)
+- Sorrel (_Rumex acetosa_)
+- Clary sage (_Salvia sclarea_)
+- Thyme (_Thymus vulgaris_)
+- Borage (_Borago officinalis_)
+- Anise hyssop (_Agastache foeniculum_)
+- Lemongrass (_Cymbopogon citratus_)
+- Lemon verbena (_Aloysia citrodora_)
+- Calendula (_Calendula officinalis)_
+- Nasturtium (_Tropaeolum majus_)
+- Chrysanthemum (_Chrysanthemum morifolium)_
+- Mugwort (_Artemisia vulgaris_)
+- Skullcap (_Scutellaria lateriflora_)
+- Chives (_Allium schoenoprasum_)
+- Blue sage (_Salvia azurea_)

@@ -1,5 +1,5 @@
 ---
-{"Note Planted":"2025-03-03","Last Tended":"2025-04-02","publish":true,"PassFrontmatter":true}
+{"Note Planted":"2025-03-03","Last Tended":"2025-04-07","publish":true,"PassFrontmatter":true}
 ---
 
 #🪴Sprout   #🙂Agree   #🟢Conviction   #📰Handout 
@@ -62,7 +62,7 @@
 	- hence, it still looks, smells, tastes, etc. like bread and wine
 
 # Week 2: How do we use Communion correctly?
-## Read Small Catechism section of Lord's Supper
+## Read the Small Catechism's section on The Lord's Supper
 - Talk about each part
 ## The Words of Institution
 - Take and eat, this is my body given for you, do this in remembrance of me.
@@ -80,7 +80,7 @@ How do we treat communion well?
 - Prepare ourselves to take communion
 - Do our best to help others prepare themselves as well
 
-### *Laying down the idea of communing being corporate:*
+### Laying down the idea of communing being corporate:
 **1 Corinthians 10:14-22** (this sets the stage of the discussion of worship and Communion in ch.11)
 - (8:1-11:1 is about the problems the Corinthians were getting into by taking part in the worship of other idols and eating their sacrifices)
 - V.16- 
@@ -108,7 +108,7 @@ How do we treat communion well?
 
  This is why we cannot join in worship (and especially Communion!) with people who believe things different than us
 
-### *Who Should and Should Not Take the Lord’s Supper:*
+### Who Should and Should Not Take the Lord’s Supper:
 **1 Corinthians 11:24-31** (ch. 11 is about correcting the Corinthians’ problems with worship and Communion)
 	- It is possible to use this gift wrongly and to sin against Jesus in doing so!
 	- Since improperly using Communion is so serious, let’s talk about how we use it properly
@@ -121,7 +121,7 @@ How do we treat communion well?
 
 
 We need to be in “communion” (fellowship, agreement, etc.) with God (vertical) and each other (horizontal)
-- Be in “Communion” with God
+- **Be in “Communion” with God**
 	- We are sorry for our sins and want to change our sinful lives.
 	- We “examine ourselves” and confess our sins
 		- This is why we have Confession and Absolution in the worship service before Communion  
@@ -130,7 +130,7 @@ We need to be in “communion” (fellowship, agreement, etc.) with God (vertica
 	- We acknowledge Christ’s Body and Blood are present.
 		- This is what we call “Real Presence.” 
 		- The tricky thing about this phrase is that different denominations/Christians use this phrase and mean different things by it.     
-- Be in “Communion” with others 
+- **Be in “Communion” with others** 
     - (this is the aspect we struggle with in our culture because are such individualists that we believe that all what matters is “me and Jesus” and we neglect each other
 	- We forgive each other.
 	    - Matthew 5:21-26 (esp. v.23-24) (in Jesus’ Sermon on the Mount)
@@ -139,41 +139,37 @@ We need to be in “communion” (fellowship, agreement, etc.) with God (vertica
 		- It is critical that we forgive each other!
 	- We agree with what is taught at that “altar” (church).
 
-**Who shouldn’t receive the sacrament?
+**Who shouldn’t receive the sacrament?**
 - Those who are openly ungodly or unrepentant.
 - Those who refuse to forgive others.
 - Those who do not see this as a means of grace; forgiveness is received.
 - Those unable to examine themselves or who have not received instruction about the significance of the sacrament.
   
-**What 3 questions help you prepare for the Lord’s Supper?
+**What 3 questions that can help you prepare for the Lord’s Supper**
 - Am I sorry for my sins?
 - Do I believe that Jesus Christ is my Savior from sin?
 - Will I, with the Holy Spirit’s help, try to avoid the sins I am guilty of and live more according to His will.
 
 # Week 3: Lord’s Supper Logistics and Old Testament Connections
 
-Jesus Celebrating Passover with His Disciples:
+**Jesus Celebrating Passover with His Disciples:**
 - Matthew 26:17–29
 	- Jesus connects communion with the old testament celebration of Passover
-
-Passover Pointing Toward Communion:
+## The Passover Points Toward Communion:
 - Exodus 12:1-14
-	- It was roasted not boiled and eaten with bitter herbs and unleavened bread. 
+	- Commanded to:
+		- Sacrifice an unblemished lamb
+		- Mark their door frames
+		- Gather to eat
+	- It was roasted, not boiled and eaten with bitter herbs and unleavened bread. 
+		- In the same way we gather for a meal to remember and receive God's gifts
 	- The Lord would pass over the homes of those covered in blood but kill the firstborn in every home that was not covered in blood.
-
-
-- What was the name of the meal Jesus and his disciples were sharing when he instituted the Lord’s Supper? Why is it an appropriate meal to be replaced by The Lord’s Supper?
-	- The Passover.
-	- The blood of the Lamb saved them. The blood of Jesus, the Lamb of God, saves us.
-- Why did Jesus establish the Lord’s Supper? 
-	- We are connected with Jesus sacrifice for us on the cross and given His life and Forgiveness.
-	- Jesus is the Lamb of God that dies for us and is the ultimate Lamb of Passover. 
-- How is this Sacrament connected with Jesus’ death?
-	- A: Jesus is the Lamb of God; He is without defect; His blood causes the God to “pass over”/forgive our sins
-- How does Christ’s Body and Blood benefit me?
+		- The blood of the Lamb saved them. The blood of Jesus, the Lamb of God, saves us. His blood causes God to “pass over”/forgive our sins
+- We are connected with Jesus' sacrifice for us on the cross and given His life and Forgiveness.
+- How does Christ’s Body and Blood benefit us?
 	- Forgiveness, life and Salvation.
   
-Other names for Communion:
+**Other names for Communion:**
 - the Lord’s Table, The Lord’s Supper, Holy Communion, the Eucharist, Sacrament of the Altar,  “the Breaking of Bread” (Acts 2:42) 
 - Eucharist, “to give thanks” (1 Cor. 11:24)
 - Sacrament of the Altar - The Means of Grace where we receive Christ’s body and blood with bread and wine at His altar.
@@ -182,7 +178,7 @@ Other names for Communion:
 - The Eucharist - From a Greek word that means “to give thanks”.
 - Breaking the Bread - The action Jesus took before feeding people’s bodies and souls.
 
-Names of the sacrament vessels.
+**Names of the sacrament vessels.**
 - Veil - Liturgical cloth used to cover the vessels before and after the sacrament.
 - Flagon - A metal or pottery vessel usually with a lid and handle to serve wine. This is where the wine is before it is consecrated by the pastor.
 - Chalice - Wine is poured in from the flagon to be consecrated. Used to distribute the wine to those receiving common cup communion.
@@ -190,18 +186,17 @@ Names of the sacrament vessels.
 - Ciborium - This cup is not used to hold liquid, it is used to hold the bread before it is consecrated (blessed) by the pastor.
 - Paten - The paten is where the bread is placed to be consecrated by the pastor. The paten is then used to distribute the bread to the communicants.
 
-*Do we have to use bread and wine in the Lord’s Supper or can anything be used? Oreos and milk for example. Why?
+**Do we have to use bread and wine in the Lord’s Supper or can anything be used? Oreos and milk for example. Why?**
 - When instituting the Lord’s Supper Jesus specifically mentions the bread and wine, so we should not change these instructions. The bread can be any bread and the wine can be any wine or in some cases unfermented (non-alcoholic) wine.
-
-Ways to Take Communion
-- Taking Common Cup or Individual Cup
+### Ways to Take Communion
+- The difference between the individual cup and the common cup
 - Intinction (dipping the bread into the wine)
-	- This is a way to have both without having “too much” wine
-	- Some Lutherans do this   
-
-Walk through the ritual of coming to the rail and bowing. 
-Talk about the sign of the cross.
-Putting hands out for the elements.
+- This is a way to have both without having “too much” wine
+### Walk through the ritual of taking communion:
+- How to ask for the common cup and putting hands out for the elements.
+- Where wine and grape juice are in the individual cup tray.
+- Coming to the rail and bowing.
+- Talk about the sign of the cross.
 
 
 # Additional Notes and stuff
