@@ -1,17 +1,29 @@
 ---
-{"publish":true,"Note Planted":"2025-01-07","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-10","PassFrontmatter":true}
 ---
 
-I really love this quote.
+#🌱Seed   #🙂Agree   #🟢Conviction 
 
-Let Us Leave the Table Like Lions
-John 6:51–58; Ephesians 1:22–23; Colossians 1:18–20; James 4:7
+****
 
-        Preaching Themes: Lord’s Supper
+> `Importance`: 10%
 
-He has given to those who desire Him not only to see Him, but even to touch, and eat Him, and fix their teeth in His flesh, and to embrace Him, and satisfy all their love. Let us then return from that table like lions breathing fire, having become terrible to the devil; thinking on our Head, and on the love that He has shown for us.
+> [!Summary] The Big Idea
+> Collected resources around Communion
 
-JOHN CHRYSOSTOM
+Related Notes:
+[[John Chrysostom on the Lord's Supper\|John Chrysostom on the Lord's Supper]]
+[[LCOS Notes/Handouts/First Communion\|First Communion]]
 
+****
 
-Ritzema, Elliot. 300 Quotations for Preachers from the Early Church. Lexham Press, 2013.
+# Connection one: 
+to Passover, unleavened bread way to remember the rush of leaving. 
+# Connection two: 
+sacrificial system
+
+# Connection three: 
+meal together, hospitality
+
+# Connection four: 
+real presence physical experience

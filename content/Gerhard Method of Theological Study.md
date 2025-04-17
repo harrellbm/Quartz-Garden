@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-10","PassFrontmatter":true}
 ---
 
 #🌱Seed   #🙂Agree   #🟡Consideration 
@@ -12,7 +12,7 @@
 > This is a method for reading the Bible taught by the 1600s Lutheran Gerhard. It is laid out in his book called *A Method of Theological Study*.
 
 * * *
-
+[Pastoral Formation in Lutheran Orthodoxy and the Method of Theological Study Proposed by Johann Gerhard by Benjamin T. G. Mayes](https://ctsfwmedia.s3.us-east-1.amazonaws.com/CTQ/CTQ%2088.2-3.pdf)
 ## Cursory reading 
 - 4 chapters a day 
 

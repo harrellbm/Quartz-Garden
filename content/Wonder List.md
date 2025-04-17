@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2025-04-02","Last Tended":"2025-04-02","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2025-04-02","Last Tended":"2025-04-14","PassFrontmatter":true}
 ---
 
 #🌲Evergreen   #🟡Consideration
@@ -19,7 +19,7 @@
 - How can care for the earth and a communities physical well being be a door way into actually caring for and being connected with the people of an area as well? [[LCOS Notes/LCOS Facility Pattern Language\|LCOS Facility Pattern Language]]
 	- What are the specific uses of space or patterns that could be used in the life of LCOS or even my own personal life to most fully align the use and constructions of space for our stated goals of mission and ministry?  [[LCOS Notes/LCOS Community Notes\|LCOS Community Notes]], [[LCOS Notes/Living Process for LCOS\|Living Process for LCOS]]
 
-- It seems like church fellowship had been over condensed in many circles in two directions. There is "all about love" that ends up being you do you mentality that is not actually any kind of true meaningful working together on shared beliefs or confession. Or there is a puritanical and almost legalistic focus on doctrine and confession that is so focused on doctrinal purity that there is no room for real living breathing human relationships. It basically becomes its own kind of group think that is unable to challenge and be challenged by others in a loving and constructive way. [[Confessions and Decentralization\|Confessions and Decentralization]], [[Cooperative Learning\|Cooperative Learning]]
+- It seems like church fellowship has been over condensed in many circles in two directions. There is "all about love" that ends up becoming a "you do you" mentality that is not actually any kind of true or meaningful working and living together on shared beliefs or confession. Or there is a puritanical and almost legalistic focus on doctrine and confession that is so focused on doctrinal purity that there is no room for real living breathing human relationships. It basically becomes its own kind of group think that is unable to challenge and be challenged by others in a loving and constructive way. [[Confessions and Decentralization\|Confessions and Decentralization]], [[Cooperative Learning\|Cooperative Learning]]
 
 - Thinking of the idea of facing east as it relates to being in sync with creation. and the danger of worshiping creation rather than creator but also the danger of being divorced from creation in favor of our own ideas of prosperity and health. [[Facing North or East\|Facing North or East]]
 

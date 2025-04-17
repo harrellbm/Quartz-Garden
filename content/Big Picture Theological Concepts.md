@@ -74,6 +74,7 @@
 	- Confession and Absolution
 	- Communion
 - Means of Grace and Sacraments
+	- [[The Lord's Supper\|The Lord's Supper]]
 	- [[John Chrysostom on the Lord's Supper\|John Chrysostom on the Lord's Supper]]
 - Justification and other Gospel metaphors
 - New Heaven and New Earth. Eschatology  

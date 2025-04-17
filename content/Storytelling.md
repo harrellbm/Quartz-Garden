@@ -1,15 +1,16 @@
 ---
-publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-04-04
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-10","PassFrontmatter":true}
 ---
-#🌱Seed  #🙂Agree
+
+#🌱Seed   #🙂Agree   #🟡Consideration 
 
 ****
 
 > `Importance`: 10%
 
-***The Big Idea***: Storytelling is something that fascinates me. Probably because I find myself at a strange cross section of its practice. At once I love rich and deep detail within my written stories but tend to find myself telling barebones hard cold facts stories in person (something I am trying to work on). 
+> [!Summary] The Big Idea
+> Storytelling is something that fascinates me. Probably because I find myself at a strange cross section of its practice. At once I love rich and deep detail within my written stories but tend to find myself telling barebones hard cold facts stories in person (something I am trying to work on). 
+> 
 
 ****
 My attitude toward story as I grew 
@@ -23,6 +24,8 @@ Story as unnecessary extra
 Story as entertainment 
 
 Story as wisdom 
+
+Story as bridge between the wild and the domesticated.
 # Interesting Articles on Storytelling 
 
 [Gordon Brander on Method](https://gordonbrander.com/pattern/storytelling/)

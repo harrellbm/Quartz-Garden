@@ -148,7 +148,7 @@ We need to be in “communion” (fellowship, agreement, etc.) with God (vertica
 **What 3 questions that can help you prepare for the Lord’s Supper**
 - Am I sorry for my sins?
 - Do I believe that Jesus Christ is my Savior from sin?
-- Will I, with the Holy Spirit’s help, try to avoid the sins I am guilty of and live more according to His will.
+- Will I, with the Holy Spirit’s help, try to avoid the sins I am guilty of and live more according to His will?
 
 # Week 3: Lord’s Supper Logistics and Old Testament Connections
 
