@@ -11,6 +11,9 @@
 > - Posted to Substack as #📝Essay in its current state April 2025
 
 ****
+# A Spiritual Workout
+*Or Tilling the Heart*
+
 Happy and Blessed Eastertide to You and Yours!
 
 I don't know how often this happens to other people. But for me, when I get in a particularly introspective mood, I quickly realize that there is a decent part of me that is unhinged. Out of the box ideas in particular tend to grab my attention, especially if it's just crazy enough to work. 
@@ -19,6 +22,8 @@ And so I ran across an idea: read through the whole Bible in thirty days. That's
 
 >[!Cite] Psalm 1:2 ESV
 > his delight is in the law of the Lord, and on his law he meditates day and night. 
+
+![Scripture.jpg](Scripture.jpg)
 
 That kind of life permeating interaction with Scripture has always seemed to elude me. How quickly do devotional moments, or reading plans, often fade into the noise of news feeds and todo lists. So many other things fight to fill my mind constantly. And so the speed of thirty days felt kind of like a depth charge set to blow apart all the conscious and unconscious ruts and mental habits I had been inhabiting. 
 

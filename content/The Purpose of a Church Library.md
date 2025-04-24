@@ -1,11 +1,18 @@
 ---
-{"Note Planted":"2025-04-01","Last Tended":"2025-04-02","publish":true,"PassFrontmatter":true}
+Note Planted: 2025-04-01
+Last Tended: 2025-04-23
+publish: true
 ---
+
+The image that sticks in my mind about libraries is the role of monastery libraries during the dark ages. While the Roman Empire was melting down and the political and economic landscape was changing monastery libraries emerged as a place of learning and continuity. It offered a stable place to house books and carry them through the changes generationally.
+
+What if a church library could operate similarly in a very chaotic and ever changing digital and even economic world?
 
 Preservation of History
 access to material not easily found
 Not about easy access
 more about access to things that are important
+And long term access 
 
 Church library as separate from Pastor's library
 

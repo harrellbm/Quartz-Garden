@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2025-04-16","Last Tended":"2025-04-16","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2025-04-16","Last Tended":"2025-04-24","PassFrontmatter":true}
 ---
 
 #🌱Seed   #😐Neutral   #🟡Consideration
@@ -9,8 +9,10 @@
 > `Importance`: 10%
 
 > [!Summary] The Big Idea
+> Holy week resources and history.
 
 ****
+Interestingly *Gathering Guests* by Maschke does not have any recoreded Lutheran practices during the Monday through Wednesday of Holy Week other than possible matins, noon time or vespers services. 
 
 > [!quote] Quoted from J.M. Robinson On Substack [link to Article](https://substack.com/@revrobinson/note/c-108656435?r=3is6vw&utm_medium=ios&utm_source=notes-share-action)
 > Holy Week unfolds with a very deliberate shape. Its shape is patterned after the original Creation Week of Genesis 1.
