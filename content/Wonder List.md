@@ -1,7 +1,8 @@
 ---
-{"publish":true,"Note Planted":"2025-04-02","Last Tended":"2025-04-14","PassFrontmatter":true}
+publish: true
+Note Planted: 2025-04-02
+Last Tended: 2025-04-14
 ---
-
 #🌲Evergreen   #🟡Consideration
 ****
 > `Importance`: 10%
@@ -29,7 +30,7 @@
 
 - How to actually build and encourage a creative community that lets arts and beauty thrive. In the forms of music, art, etc. [[Aesthetic\|Aesthetic]]
 
-- I desperately want to get better at [[Storytelling\|Storytelling]] and the way that emotion, meaning and content are all transmitted through a well told story that actually affects the way the hearer things and feels about the world. [[Story Questions and Existential Questions\|Story Questions and Existential Questions]]
+- I desperately want to get better at [[Storytelling\|Storytelling]] and the way that emotion, meaning and content are all transmitted through a well told story that actually affects the way the hearer things and feels about the world. [[Story Questions and Existential Questions\|Story Questions and Existential Questions]] Deeply connected with this is our answer to the question [[Why Learn\|Why Learn]]
 
 - How can our local churches be connected and work together in meaningful ways that transcend the island mentality of congregations?
 

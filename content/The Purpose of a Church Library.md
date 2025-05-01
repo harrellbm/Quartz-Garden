@@ -1,6 +1,6 @@
 ---
 Note Planted: 2025-04-01
-Last Tended: 2025-04-23
+Last Tended: 2025-04-29
 publish: true
 ---
 
@@ -17,7 +17,8 @@ And long term access
 Church library as separate from Pastor's library
 
 # Current factors that affect things
-Learning in an emerging AI environment reopens the age old question of what is worth learning and keeping with you in your memory?
+
+[[Why Learn\|Why Learn]]
 
 a [[A Holistic versus Mechanistic Perspective\|A Holistic versus Mechanistic Perspective]] what about a perspective focused on life as the foundational activity of God in the world? 
 
