@@ -1,7 +1,8 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-01-22
 ---
-
 #🌿Sapling   #😁Strongly-Agree  #🟢Conviction 
 
 * * *
@@ -73,7 +74,11 @@ The three main tools I have started using for creating and tending my garden are
 
 
 
-
+---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-01-22
+---
 #🌱Seed  #🙂Agree
 
 ****

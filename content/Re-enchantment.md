@@ -1,7 +1,8 @@
 ---
-{"publish":true,"Note Planted":"2025-04-01","Last Tended":"2025-04-01","PassFrontmatter":true}
+publish: true
+Note Planted: 2025-04-01
+Last Tended: 2025-04-01
 ---
-
 #🌱Seed   #😐Neutral   #🟡Consideration
 ****
 > `Importance`: 10%

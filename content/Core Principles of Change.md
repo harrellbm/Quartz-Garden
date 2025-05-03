@@ -1,7 +1,8 @@
 ---
-{"publish":true,"Note Planted":"2024-10-23","Last Tended":"2025-01-22","PassFrontmatter":true}
+publish: true
+Note Planted: 2024-10-23
+Last Tended: 2025-01-22
 ---
-
 #🌱Seed  #🙂Agree 
 
 ****
@@ -18,7 +19,11 @@
 
 
 
-
+---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-01-22
+---
 #🌱Seed  #🙂Agree  #🟢Conviction 
 
 ****
@@ -43,7 +48,11 @@ In other words, the core guiding principle of what we should do where we should 
 
 
 
-
+---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-01-22
+---
 #🪴Sprout   #😁Strongly-Agree  #📚Definition 
 
 ****
@@ -91,7 +100,11 @@ In other words, the core guiding principle of what we should do where we should 
 
 
 
-
+---
+publish: true
+Note Planted: 2024-10-23
+Last Tended: 2025-01-22
+---
 #🪴Sprout  #🙂Agree  #🟡Consideration 
 
 ****
@@ -163,7 +176,11 @@ Here are a few other helpful links from Stefan's very helpful digital garden:
 
 
 
-
+---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-01-22
+---
 #🌱Seed  #😐Neutral 
 
 ****
@@ -187,7 +204,11 @@ Article that describes this idea:
 
 
 
-
+---
+publish: true
+Note Planted: 2024-10-23
+Last Tended: 2025-01-22
+---
 #🌱Seed  #😐Neutral 
 
 ****
@@ -215,7 +236,11 @@ Rather than dismissing loss, or turning it into a crippling fear, this project s
 
 
 
-
+---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-01-22
+---
 #🪴Sprout  #🤢Strongly-Disagree  #📚Definition 
 
 ****

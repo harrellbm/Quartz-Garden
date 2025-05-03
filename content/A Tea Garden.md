@@ -1,5 +1,5 @@
 ---
-{"Note Planted":"2025-04-03","Last Tended":"2025-05-01","publish":true,"PassFrontmatter":true}
+{"Note Planted":"2025-04-03","Last Tended":"2025-05-02","publish":true,"PassFrontmatter":true}
 ---
 
 
@@ -10,7 +10,7 @@
 > `Importance`: 10%
 
 > [!Summary] The Big Idea
-> I want to plant a tea garden. Tea has long been something that I enjoy and fascinates me.
+> I want to plant a tea garden. Tea has long been something that I enjoy and fascinates me. [[Making Tea\|Making Tea]]
 
 Similar Ideas:
 [[LCOS Notes/LCOS Facility Pattern Language\|LCOS Facility Pattern Language]]
@@ -45,15 +45,11 @@ https://polyplantshop.com/ - Connected with Cal Poly
 
 [gardening-tips-for-the-california-central-coast-a-guide-from-cambria-nursery/](https://www.cambrianursery.com/gardening/gardening-tips-for-the-california-central-coast-a-guide-from-cambria-nursery/)
 
-[diy-tea-blend-ideas](https://www.sunset.com/home-garden/flowers-plants/diy-tea-blend-ideas)
-
 [growing-herbs-for-tea/](https://www.summerwindsnursery.com/ca/inspire/blog/growing-herbs-for-tea/)
 
 https://www.latimes.com/home/la-lh-tea-plants-how-to-grow-20130318-story.html
 
 https://youngmountaintea.com/blogs/blog/grow-your-own-tea-plant?srsltid=AfmBOoobGg6zXG4OkHETbHWWs7Ch2FxlAICNozr8g0M2BzubYm0CP0FP
-
-[growing-and-brewing-your-own-tea](https://www.gardentech.com/blog/gardening-and-healthy-living/growing-and-brewing-your-own-tea)
 
 [easy-edibles-for-the-california-central-coast-food-forest-part-1](https://earthdesigngardens.com/easy-edibles-for-the-california-central-coast-food-forest-part-1/)
 
@@ -200,7 +196,24 @@ Mentha requienii - Benth.
 #### Round-Leaved Mint, Apple mint, Pineapple Mint
 Name: Mentha suaveolens - Ehrh.
 ![Pasted image 20250403143340.png](Pasted%20image%2020250403143340.png)
-**Description:** Woolly-leaved mint with a fruity aroma. **Growing Conditions:** More sun and drought-tolerant than other mints. **Tea Usage:** Makes a sweet, fruity mint tea.
+**Description:**
+Mentha suaveolens is a rhizomatous perennial herb typically growing to a height of 1 to 3 feet (30-90 cm) with a similar spread. Its most distinctive feature is its broadly oval to nearly round leaves, which are softly hairy or woolly to the touch. The leaves are light green and have serrated edges. The stems are upright and can also be covered in fine hairs. In late summer and early autumn, the plant produces dense, terminal spikes of small flowers that range in color from white to pale pink or lilac. The plant emits a sweet, fruity fragrance, often described as apple-like, which is particularly noticeable when the leaves are bruised.
+The cultivar 'Pineapple Mint' (Mentha suaveolens 'Variegata') is a popular variety known for its striking variegated foliage. Its leaves are typically green with irregular creamy-white margins or splashes, adding visual interest to the garden. The scent of Pineapple Mint is often described as a blend of mint with a subtle hint of pineapple.
+Growing Conditions:
+Mentha suaveolens is a vigorous and relatively easy-to-grow mint, but its spreading habit requires consideration.
+ * Light: It thrives in full sun to partial shade. While it can tolerate some shade, a sunnier location generally promotes denser growth and potentially more intense aroma.
+ * Soil: This mint prefers moist, well-drained soil and can adapt to a range of soil types, including loamy and clay soils. It is tolerant of various pH levels, from slightly acidic to neutral and mildly alkaline. Good drainage is important to prevent root rot.
+ * Moisture: Mentha suaveolens has moderate to high water needs and prefers consistently moist conditions. It can even tolerate briefly wet soil, making it suitable for planting near ponds or in rain gardens, but prolonged waterlogging should be avoided.
+ * Hardiness: It is a hardy perennial, typically
+   resilient in USDA Hardiness Zones 5 to 9. Pineapple Mint (Mentha suaveolens 'Variegata') may be slightly less cold-hardy, often recommended for zones 6 to 11.
+ * Spread: Like most mints, Mentha suaveolens spreads aggressively by underground rhizomes. To prevent it from becoming invasive, it is highly recommended to plant it in containers or use root barriers when planting directly in the ground.
+ * Maintenance: Regular harvesting not only provides a supply of fresh leaves but also helps to keep the plant in check and encourages bushier growth. Cutting back the plant after flowering can also help to manage its size and stimulate a flush of new leaves.
+**Tea Usage**:
+Round-Leaved Mint, Apple Mint, and Pineapple Mint are all excellent choices for making fragrant and flavorful herbal teas. The sweet, fruity notes make for a refreshing and soothing beverage.
+ * Flavor Profile: Tea made from Mentha suaveolens has a milder mint flavor compared to peppermint, with distinct fruity undertones often likened to apple. Pineapple Mint tea offers a similar mild mintiness with a subtle tropical hint.
+ * Preparation: Both fresh and dried leaves can be used for tea. Simply steep a handful of fresh leaves or a teaspoon or two of dried leaves in hot water for 5-10 minutes. The longer steeping time will result in a stronger flavor.
+ * Versatility: The mild, fruity flavor of Mentha suaveolens teas makes them enjoyable on their own or as a base for blending with other herbs or fruits. They can be served hot or iced.
+
 #### Spearmint
 Name: Mentha spicata - L.
 ![Pasted image 20250403143523.png](Pasted%20image%2020250403143523.png)
@@ -217,6 +230,25 @@ Name: Mentha arvensis
 #### Moroccan Mint 
 Name: Mentha spicata var.
 **Description:** A variety of spearmint with a sweet, fresh flavor. **Growing Conditions:** Similar to spearmint, thrives with partial shade and regular water. **Tea Usage:** Commonly mixed with green tea or other herbs for traditional North African tea blends.
+
+#### Chocolate Mint
+Name: _Mentha x piperata f. citrata ‘Chocolate'_
+Chocolate Mint (Mentha x piperata f. citrata ‘Chocolate’): A Decadent Herb for Gardens and Teas
+
+**Description:** Chocolate Mint typically features lush, dark green leaves that can display hints of burgundy or reddish-purple, especially when exposed to more sun. The stems are often dark brown or reddish, contributing to the "chocolate" in its name. The plant generally grows to a height of 1 to 2 feet with a similar spread, exhibiting a vigorous, spreading habit. In the summer, it produces small, whorled spikes of pinkish-purple to lavender flowers, which are attractive to pollinators. The key characteristic is the plant's strong scent, a delightful blend of mint with distinct cocoa undertones, which translates into its flavor.
+**Growing Conditions:**
+Like many mint varieties, Chocolate Mint is relatively easy to grow but can spread enthusiastically if not contained.
+ * Light: It thrives in a range of lighting conditions, from full sun to partial shade. More sun can intensify the foliage color and potentially the flavor.
+ * Soil: Chocolate Mint prefers moist, well-drained soil. While it can tolerate a variety of soil types, including slightly acidic to neutral pH levels, enriching the soil with organic matter can promote healthier growth. It does not tolerate standing water.
+ * Watering: This mint variety has moderate to high water needs and prefers consistently moist soil. Avoid letting the soil dry out completely, especially in hotter conditions or when grown in containers.
+ * Hardiness: Chocolate Mint is quite hardy, typically performing well in USDA Hardiness Zones 5 through 9.
+ * Spread: Due to its rhizomatous nature, it can spread rapidly. To prevent it from taking over garden beds, it is often recommended to plant it in containers or use physical barriers in the ground.
+**Tea Usage:**
+Chocolate Mint is a favored herb for making fresh or dried herbal tea, offering a naturally sweet and refreshing beverage with a subtle chocolatey depth.
+ * Preparation: To make tea, fresh or dried leaves can be steeped in hot water. A general guideline is to use about two tablespoons of fresh leaves per liter of hot water, steeping for 4-6 minutes depending on desired strength. The flavor is often described as a blend of fresh mint with subtle notes of cocoa and vanilla.
+ * Flavor Profile: The tea provides a palate-cleansing mint finish with the unique addition of a gentle chocolatey aroma and taste. Some find the chocolate note more prominent in the aroma than the flavor.
+ * Culinary Uses: Beyond tea, Chocolate Mint leaves can be used fresh in desserts, fruit salads (especially with strawberries), cocktails, and even savory dishes to impart its distinctive flavor. Dried leaves can also be incorporated into baked goods and other recipes.
+
 ### Monardella Species
 #### Butterfly Mint Bush.
 Name: *Monardella antonina*

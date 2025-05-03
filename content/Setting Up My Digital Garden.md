@@ -1,7 +1,8 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-01-22
 ---
-
 #🌿Sapling   #🙂Agree   #📊Project 
 
 ****
@@ -49,7 +50,11 @@ Code: Amatic SC
 
 
 
-
+---
+publish: true
+Note Planted: 2025-03-19
+Last Tended: 2025-03-19
+---
 #🌱Seed   #😐Neutral   #🟡Consideration
 ****
 > `Importance`: 10%
@@ -95,7 +100,7 @@ npx quartz build --serve
 - [ ] Figure out how to help people use the RSS feed 
 - [ ] Maybe set up a better meta data tag to make it possible to display properties of page.
 - [ ] edit the footer to be clearer and simpler invite for people to reach out about an idea 
-- [ ]  change [[index\|home]] to base camp on breadcrumbs
+- [ ]  change [[Index\|home]] to base camp on breadcrumbs
 - [ ] Style comments box to match the rest of the page in both light and dark mode
 - [ ] Figure out analytics as well
 - [x] make graph look better by tweaking settings

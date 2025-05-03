@@ -1,7 +1,8 @@
 ---
-{"publish":true,"Note Planted":"2024-12-18","Last Tended":"2024-12-18","PassFrontmatter":true}
+publish: true
+Note Planted: 2024-12-18
+Last Tended: 2024-12-18
 ---
-
 #🌱Seed   #😐Neutral   #🟡Consideration
 
 ****
@@ -22,7 +23,11 @@ Reading notes and other collected resources I have so far:
 
 
 
-
+---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-01-22
+---
 #🌱Seed   #🙂Agree   #🟡Consideration 
 ****
 > `Importance`: 40%

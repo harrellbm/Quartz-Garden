@@ -1,7 +1,8 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-10","PassFrontmatter":true}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-05-02
 ---
-
 #🌱Seed   #🙂Agree   #🟡Consideration 
 
 ****
@@ -36,6 +37,10 @@ Goes through and does a lot of story telling as well as talking about how it can
 [Jawbone with Martin Shaw](https://www.youtube.com/watch?v=aCAyvu9wyEo)
 
 [the making of a storyteller](https://www.youtube.com/watch?v=LkREhU7-Gqc)
+
+https://www.youtube.com/watch?v=TrkAr4TiVd0&pp=QAFIAQ%3D%3D  Telling Jesus stories like they happened this morning or to you 
+
+https://www.youtube.com/watch?v=KI9jt6NQw9w You want to be a story teller?
 # Personal notes on stories 
 To me stories are one of the best ways to present new ideas and learn as I have learned in my creative preaching class in seminary
 

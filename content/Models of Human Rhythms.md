@@ -1,7 +1,8 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-09","PassFrontmatter":true}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-04-09
 ---
-
 #🌱Seed  #🙂Agree
 
 ****
@@ -337,7 +338,11 @@ How do we measure the effect of a repeated action? Being  addicted to meth seem
 
 
 
-
+---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-01-22
+---
 #🪴Sprout  #😟Disagree  #🟡Consideration 
 
 ****

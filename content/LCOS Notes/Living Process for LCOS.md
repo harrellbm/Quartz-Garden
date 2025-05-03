@@ -1,7 +1,8 @@
 ---
-{"publish":true,"Note Planted":"2024-10-30","Last Tended":"2025-01-22","PassFrontmatter":true}
+publish: true
+Note Planted: 2024-10-30
+Last Tended: 2025-01-22
 ---
-
 #🌱Seed  #🙂Agree  #🌳Thought-Tree 
 
 ****
@@ -159,7 +160,11 @@ Also get mechanistic discussion from phenomena of life
 
 
 
-
+---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-01-22
+---
 #🪴Sprout  #🙂Agree  #🟡Consideration  
 ****
 > `Importance`: 10%

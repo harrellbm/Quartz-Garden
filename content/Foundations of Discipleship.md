@@ -1,7 +1,8 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-01","PassFrontmatter":true}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-04-01
 ---
-
 #🌱Seed  #🙂Agree
 
 ****
@@ -35,7 +36,11 @@ This topic in and of itself could take up many pages.  It seeks the core of our
 
 
 
-
+---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-01-22
+---
 #🌱Seed  #🙂Agree #🟢Conviction 
 
 ****
@@ -186,7 +191,11 @@ To summarize, the end goal of discipleship is about forming and shaping the deep
 
 
 
-
+---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-01-22
+---
 #🌿Sapling  #🙂Agree  #🟢Conviction 
 
 ****
@@ -226,7 +235,11 @@ Todo: add mindsets outlined in the starfish and the spirit book
 
 
 
-
+---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-01-22
+---
 #🌱Seed  #😐Neutral 
 
 ****

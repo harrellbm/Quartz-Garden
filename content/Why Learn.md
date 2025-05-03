@@ -1,8 +1,7 @@
 ---
-publish: true
-Note Planted: 2025-04-03
-Last Tended: 2025-05-01
+{"publish":true,"Note Planted":"2025-04-03","Last Tended":"2025-05-01","PassFrontmatter":true}
 ---
+
 #🌱Seed   #🙂Agree   #🟡Consideration   #📝Essay 
 ****
 > `Importance`: 90%

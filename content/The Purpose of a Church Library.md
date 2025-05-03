@@ -1,6 +1,6 @@
 ---
 Note Planted: 2025-04-01
-Last Tended: 2025-04-29
+Last Tended: 2025-05-02
 publish: true
 ---
 
@@ -42,6 +42,9 @@ Old out of print books or hymnals
 Bible study resources and helps
 History of Church and Lutheranism
 
+The sterilization of history and artifacts as things that belong in museums out of reach 
+
+Example of codex sinaiticus being taken from its home and put in a bunch of random museums 
 
 
 

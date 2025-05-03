@@ -1,7 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","tags":["📰Handout"],"PassFrontmatter":true}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-01-22
+tags:
+  - 📰Handout
 ---
-
 As we prepare to meet together for a congregational forum, I would like to lay out some key observations as they pertain to the direction and ethos of our life together as the Lutheran Church of Our Savior. 
 
 All of us have unique upbringings, personalities, likes and dislikes, and experiences. All of this variety can quickly lead to a huge array of opinions and feeling concerning even the most minor subject. But as we prepare to meet, I encourage you to take a long look at this warning from Dietrich Bonhoeffer:

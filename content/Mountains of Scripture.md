@@ -1,7 +1,8 @@
 ---
-{"publish":true,"Note Planted":"2024-12-24","Last Tended":"2025-04-02","PassFrontmatter":true}
+publish: true
+Note Planted: 2024-12-24
+Last Tended: 2025-04-02
 ---
-
 #🌱Seed   #🙂Agree   #🟡Consideration
 
 ****
