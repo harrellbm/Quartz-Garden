@@ -1,8 +1,7 @@
 ---
-aliases:
-  - "#🪴Sprout"
-publish: true
+{"aliases":["#🪴Sprout"],"publish":true,"PassFrontmatter":true}
 ---
+
 # Tag Description
 
 | Category                                                                        | Definition                                                                                  |

@@ -1,7 +1,8 @@
 ---
-{"Note Planted":"2025-04-03","Last Tended":"2025-05-02","publish":true,"PassFrontmatter":true}
+Note Planted: 2025-04-03
+Last Tended: 2025-05-02
+publish: true
 ---
-
 
 #🪴Sprout   #🙂Agree   #🟡Consideration   #📊Project 
 

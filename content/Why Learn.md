@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2025-04-03","Last Tended":"2025-05-01","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2025-04-03","Last Tended":"2025-05-06","PassFrontmatter":true}
 ---
 
 #🌱Seed   #🙂Agree   #🟡Consideration   #📝Essay 
@@ -9,6 +9,8 @@
 >[!Summary] The Big Idea
 > What is really worth learning? And how should we go about learning it?
 
+Similar Note:
+[[Memory, the Things We Keep with Us\|Memory, the Things We Keep with Us]]
 ****
 
 What is really worth learning?

@@ -1,8 +1,7 @@
 ---
-publish: true
-Note Planted: 2025-04-28
-Last Tended: 2025-05-01
+{"publish":true,"Note Planted":"2025-04-28","Last Tended":"2025-05-01","PassFrontmatter":true}
 ---
+
 #🌱Seed   #😐Neutral   #🟡Consideration  #📝Essay 
 ****
 > `Importance`: 10%
@@ -96,7 +95,7 @@ Does not make a claim to completely capture all aspects of what it means to be a
 
 We need to take seriously the scriptural basis that we only “see in a mirror dimly” 
 
-Rhythm is a Basic creaturely lense that we can all understand regardless of background. If you are reading you are also breathing according to a rhythm 
+Rhythm is a Basic creaturely lens that we can all understand regardless of background. If you are reading you are also breathing according to a rhythm 
 
 Metaphor of rhythm helps illuminate the interplay of passive and active righteousness 
 

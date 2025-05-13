@@ -1,8 +1,7 @@
 ---
-publish: true
-Note Planted: 2024-12-09
-Last Tended: 2025-04-17
+{"publish":true,"Note Planted":"2024-12-09","Last Tended":"2025-04-17","PassFrontmatter":true}
 ---
+
 #🌿Sapling   #😁Strongly-Agree   #🟢Conviction 
 
 ****

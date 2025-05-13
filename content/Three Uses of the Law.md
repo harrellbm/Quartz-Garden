@@ -1,8 +1,7 @@
 ---
-publish: true
-Note Planted: 2024-10-28
-Last Tended: 2024-11-18
+{"publish":true,"Note Planted":"2024-10-28","Last Tended":"2024-11-18","PassFrontmatter":true}
 ---
+
 #🌱Seed  #😁Strongly-Agree  #📚Definition  #🟢Conviction 
 
 ****

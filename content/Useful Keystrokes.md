@@ -1,9 +1,7 @@
 ---
-aliases: Hotkeys,Keyboard Shortcuts
-publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-01-07
+{"aliases":"Hotkeys,Keyboard Shortcuts","publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-07","PassFrontmatter":true}
 ---
+
 #🌱Seed  #😐Neutral 
 ****
 > `Importance`: 10%

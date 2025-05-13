@@ -1,10 +1,7 @@
 ---
-aliases:
-  - "#🌿Sapling"
-Note Planted: 2025-03-27
-Last Tended: 2025-03-27
-publish: true
+{"aliases":["#🌿Sapling"],"Note Planted":"2025-03-27","Last Tended":"2025-03-27","publish":true,"PassFrontmatter":true}
 ---
+
 # Tag Description
 
 | Category                                                                        | Definition                                   |

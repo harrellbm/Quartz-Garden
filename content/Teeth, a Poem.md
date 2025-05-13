@@ -1,8 +1,7 @@
 ---
-Note Planted: 2025-04-10
-Last Tended: 2025-04-14
-publish: true
+{"Note Planted":"2025-04-10","Last Tended":"2025-04-14","publish":true,"PassFrontmatter":true}
 ---
+
 #🌿Sapling   #✒️Poem 
 ****
 

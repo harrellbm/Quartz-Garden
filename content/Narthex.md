@@ -1,9 +1,7 @@
 ---
-aliases: Church Entryway
-publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-04-01
+{"aliases":"Church Entryway","publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-01","PassFrontmatter":true}
 ---
+
 #🪴Sprout   #🙂Agree
 
 ****

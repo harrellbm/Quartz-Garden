@@ -1,8 +1,7 @@
 ---
-publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-01-22
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-05-13","PassFrontmatter":true}
 ---
+
 #🍋Fruit   #🙂Agree   #🟢Conviction   #📝Essay 
 
 ****
@@ -12,6 +11,10 @@ Last Tended: 2025-01-22
 > [!quote] Alabaster Co., A Reflection on Poetry in Scripture
 > “The Bible is more than prosaic rituals; it is a love letter, a story of adventure & victory, a multigenre conglomeration that God called “good,” full of mystery, romance, comedy, prophecy, even poetry.”
 
+Similar Notes:
+[[Meditation on Psalm 8\|Meditation on Psalm 8]]
+[[Memorizing the Psalms\|Memorizing the Psalms]]
+[[Letter to Marcellinus translation-jce edit 08242016 final changes accepted (1).pdf]]
 ****
 
 # Our Heart Language
