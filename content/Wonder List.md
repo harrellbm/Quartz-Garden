@@ -1,8 +1,7 @@
 ---
-publish: true
-Note Planted: 2025-04-02
-Last Tended: 2025-04-14
+{"publish":true,"Note Planted":"2025-04-02","Last Tended":"2025-05-19","PassFrontmatter":true}
 ---
+
 #🌲Evergreen   #🟡Consideration
 ****
 > `Importance`: 10%
@@ -31,6 +30,9 @@ Last Tended: 2025-04-14
 - How to actually build and encourage a creative community that lets arts and beauty thrive. In the forms of music, art, etc. [[Aesthetic\|Aesthetic]]
 
 - I desperately want to get better at [[Storytelling\|Storytelling]] and the way that emotion, meaning and content are all transmitted through a well told story that actually affects the way the hearer things and feels about the world. [[Story Questions and Existential Questions\|Story Questions and Existential Questions]] Deeply connected with this is our answer to the question [[Why Learn\|Why Learn]]
+	- This has also gotten me thinking about memorization and keeping Scripture in my mind but in a functional way not just a bunch of rote memorized material. [[Memory, the Things We Keep with Us\|Memory, the Things We Keep with Us]] and [[Memorizing the Psalms\|Memorizing the Psalms]] and [[Reading Scripture for Familiarity\|Reading Scripture for Familiarity]]
 
 - How can our local churches be connected and work together in meaningful ways that transcend the island mentality of congregations?
+
+- What does it look like to have clarity of doctrine but also to be grounded in the story and especially the poetry of Scripture [[Doctrinal Clarity, Poetic Grounding\|Doctrinal Clarity, Poetic Grounding]]
 

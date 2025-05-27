@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2025-04-09","Last Tended":"2025-04-17","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2025-04-09","Last Tended":"2025-05-13","PassFrontmatter":true}
 ---
 
 #🌱Seed   #🙂Agree   #🟢Conviction   #📓Journal   #📃Epistle 
@@ -13,14 +13,16 @@
 > what you keep with you shape you 
 > Why write
 
+Similar Notes:
+[[Why Learn\|Why Learn]]
+[[Memory, the Things We Keep with Us\|Memory, the Things We Keep with Us]]
+[[Storytelling\|Storytelling]]
 ****
 
 The difference between searching with something in mind and just blindly searching 
 
 what is the difference between randomly opening a bible and finding a verse and randomly typing in a singular word or phrase that you want to find support for?
 
-
-  
 As you learn more you realize what you don’t know  
   
 He has made everything beautiful in its time. Also, he has put eternity into man's heart, yet so that he cannot find out what God has done from the beginning to the end. - Eccl 3:11  

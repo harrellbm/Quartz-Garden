@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Base Camp 🏕️","tags":["🌲Evergreen"],"cssclasses":""}
+{"title":"Base Camp 🏕️","aliases":["Home","Base Camp"],"publish":true,"tags":["🌲Evergreen"],"Note Planted":"2024-10-22","Last Tended":"2025-04-02","PassFrontmatter":true}
 ---
 
 Hello!
@@ -28,14 +28,14 @@ To my surprise, I woke the next morning to the soft bubble of a stream. I hadn't
 
 At that moment, aspen trees began to mean something to me. But the amazing thing about aspens is that no aspen is alone. Under the surface, all those individual trees are growing together as one. Each connected to the other by the roots. When I learned that, the image of that night only became that much richer.  
 
-![[Aspen Grove.png]]
+![Aspen Grove.png](Aspen%20Grove.png)
 
 # Connected by the Roots
 Just like that aspen grove with its calm yet vivid existence, I aim to make this digital space a grove of sorts. A collection of thoughts, ideas, concepts, notes and experiences. 
 
-It’s a little like a blog, but also very different. The basic concept of this site was inspired by the idea of [[Digital Gardening\|Digital Gardening]]. The main idea is to create a place to plant ideas and let them grow gradually. Rather than posting content that gets sent off into the torrent of data around us, a garden looks at a note as something meant to be revisited, edited, and expanded.  
+It’s a little like a blog, but also very different. The basic concept of this site was inspired by the idea of [[Digital Gardening\|Digital Gardening]]. The main idea is to create a place to plant ideas and let them grow gradually. Rather than posting content that gets sent off into the torrent of data around us, a garden looks at a note as something meant to be revisited, edited and expanded.  
 
-In other words, this is not a chronological feed of writings, but is a living network of notes I have gathered and continue to write. There is not grand organizational topic other than things that I find interesting and useful. 
+In other words, this is not a chronological feed of writings, but is a living network of notes I have gathered and continue to write about things that I find interesting and useful. 
 
 I think the reason this concept resonates with me is that it mirrors my lived experience of thinking and developing ideas. No idea is at its best the first time you scribble it down. But over time a small idea can grow into something powerful.   
 
@@ -46,6 +46,7 @@ Therefore the nature of this garden can be summarized with the following points:
 - **Notes are interconnected**: This allows for [[Topological Navigation\|Topological Navigation]] by using links that connect related ideas together. This creates a kind of map that allows for navigation around the garden by following paths of ideas. You can think of this a lot like going for a physical walk in a garden. 
 
 By structuring this site according to these concepts, I hope to explore a different way of “Being” in digital space.
+
 # Christian Collaboration
 Another motivation for this site is the fact that Pastors and churches have a hard time collaborating in meaningful and open ways. Sure there are Christian colleges, Seminaries and even conferences all aimed at the sharing of knowledge and practice. But all of these forums are structured within an expert to student relationship. We have precious few methods to exchange and collaborate on ideas in a long term or sustained way between churches and their leaders. 
 
@@ -68,6 +69,7 @@ Every trail needs to start somewhere! Here are some good places to start a walk 
 
 > [!hint]
 > Click a link and see where it goes!
+
 ### A list of notes on related topics: [[Note Collections\|Note Collections]]
 
 ### Or more free form notes: [[Loose Leaf Notes\|Loose Leaf Notes]]

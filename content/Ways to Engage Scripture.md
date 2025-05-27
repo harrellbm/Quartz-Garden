@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2024-12-19","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-05-19","PassFrontmatter":true}
 ---
 
 #🌱Seed  #🙂Agree   #🟢Conviction 
@@ -79,4 +79,4 @@ Research section
 
 Research verse or phrase
 
-Study in original language
+Study in original language familiarity 

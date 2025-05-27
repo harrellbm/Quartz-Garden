@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2025-04-03","Last Tended":"2025-05-06","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2025-04-03","Last Tended":"2025-05-27","PassFrontmatter":true}
 ---
 
 #🌱Seed   #🙂Agree   #🟡Consideration   #📝Essay 
@@ -11,6 +11,8 @@
 
 Similar Note:
 [[Memory, the Things We Keep with Us\|Memory, the Things We Keep with Us]]
+[[Story Questions and Existential Questions\|Story Questions and Existential Questions]]
+[[Storytelling\|Storytelling]]
 ****
 
 What is really worth learning?
@@ -20,6 +22,8 @@ I have a particularly vivid memory of first grade that I can still picture. I wa
 All these years later, I don't know if I truly "get it" anymore than back then, but that memory along with many others has framed my answer to the question: What is worth learning?
 
 Or more forcefully, What is worth fighting to learn? All of us have those things that come naturally to us. We learn them without breaking a sweat. That little voice of pride sits inside us when we hear how wonderful we did even though we barley had to try. But what about the other things? Those things that make us feel frustrated. Learning them feels like smashing your head against the wall or flopping around like a lost fish out of water. Within those subjects, and areas of life, we can feel the importance of identifying the things worth learning. 
+
+Was obsessed in high school with stripping things down to what was necessary or meaningful and getting rid of the rest. I hated small talk because it felt so shallow and meaningless. But realized that when you only communicate in bullet points things become equally meaningless. You can get the fact of something across but you can't get the force, beauty, and emotion across without story.
 
 Since this is so vastly different across people it can feel like it has to be an individual thing.
 
@@ -98,6 +102,4 @@ the idea that the way we learn and seek information in the world actually affect
 
 
 
-[[Story Questions and Existential Questions\|Story Questions and Existential Questions]]
-[[Storytelling\|Storytelling]]
 

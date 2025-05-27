@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-01","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-05-19","PassFrontmatter":true}
 ---
 
 #🌲Evergreen  #😁Strongly-Agree  #🟢Conviction 
@@ -65,6 +65,7 @@
 	- [[Love the Lord Your God with all Your Heart\|Love the Lord Your God with all Your Heart]]
 	- [[Ways to Engage Scripture\|Ways to Engage Scripture]]
 	- [[Gerhard Method of Theological Study\|Gerhard Method of Theological Study]]
+	- [[Reading Scripture for Familiarity\|Reading Scripture for Familiarity]]
 - [[Creatureliness\|Creatureliness]] and embodiment. Avoiding the Danger of Platonic dualism. 
 - 6 Chief Parts of the Catechism
 	- Ten Commandments

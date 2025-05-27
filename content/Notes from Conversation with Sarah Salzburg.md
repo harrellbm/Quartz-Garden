@@ -37,7 +37,7 @@ The curriculum is built on Biblical Themes. Here is the introduction packet and 
 >
 >You'll notice that we encourage them to use symbols whenever they see the Biblical Themes. Here is a picture of what we draw with them. 
 >
->![Biblical Themes Symbols.jpeg](Biblical%20Themes%20Symbols.jpeg)
+> ![Biblical Themes Symbols.jpeg](Biblical%20Themes%20Symbols.jpeg)
 >
 >Many of the students write them in the margins of their personal Bibles which is pretty cool to see. In general, the symbols just help them track the themes and remember what they mean
 

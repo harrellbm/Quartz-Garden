@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2025-04-28","Last Tended":"2025-05-01","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2025-04-28","Last Tended":"2025-05-13","PassFrontmatter":true}
 ---
 
 #🌱Seed   #😐Neutral   #🟡Consideration  #📝Essay 
@@ -7,7 +7,14 @@
 > `Importance`: 10%
  
 >[!Summary] The Big Idea
->
+>The idea that creation is a chiasm with the important stuff in the center 
+>Chasm as exile and separation  
+
+Similar Notes:
+[[Doctrinal Clarity, Poetic Grounding\|Doctrinal Clarity, Poetic Grounding]]
+[[The Starting Point of Theology and Cosmology\|The Starting Point of Theology and Cosmology]]
+[[Patterns of Liturgy-The Rhythm of Life\|Patterns of Liturgy-The Rhythm of Life]]
+[[Sacred Space\|Sacred Space]]
 
 Resource that highlights Chiasms all over the Bible: [Bible Literary Structure](http://www.bible.literarystructure.info/bible/bible_e.html)
 ****

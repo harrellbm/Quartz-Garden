@@ -1,6 +1,6 @@
 ---
 Note Planted: 2025-04-03
-Last Tended: 2025-05-02
+Last Tended: 2025-05-25
 publish: true
 ---
 
@@ -41,6 +41,8 @@ Growing Grounds Farm Santa Maria
 https://birchwoodnipomo.com/
 
 https://polyplantshop.com/ - Connected with Cal Poly
+
+https://manzanitanursery.com/ In solvang 
 
 # Unorganized Resource Websites
 
@@ -219,6 +221,9 @@ Round-Leaved Mint, Apple Mint, and Pineapple Mint are all excellent choices for 
 Name: Mentha spicata - L.
 ![Pasted image 20250403143523.png](Pasted%20image%2020250403143523.png)
 **Description:** Common garden mint with pointed leaves and a sweet flavor. **Growing Conditions:** Adaptable, prefers partial shade and consistent moisture. **Tea Usage:** The standard mint for tea, offering a sweet, cooling flavor.
+##### Moroccan Mint 
+Name: Mentha spicata var.
+**Description:** A variety of spearmint with a sweet, fresh flavor. **Growing Conditions:** Similar to spearmint, thrives with partial shade and regular water. **Tea Usage:** Commonly mixed with green tea or other herbs for traditional North African tea blends.
 #### Peppermint
 Name: _Mentha piperita_
 ![Pasted image 20250403143825.png](Pasted%20image%2020250403143825.png)
@@ -228,9 +233,6 @@ Name: _Mentha piperita_
 Name: Mentha arvensis
 ![Pasted image 20250403150157.jpg](Pasted%20image%2020250403150157.jpg)
 **Description:** Low-growing native mint species. **Growing Conditions:** More adaptable to varying conditions than other mints. **Tea Usage:** Makes a milder mint tea with traditional medicinal uses.
-#### Moroccan Mint 
-Name: Mentha spicata var.
-**Description:** A variety of spearmint with a sweet, fresh flavor. **Growing Conditions:** Similar to spearmint, thrives with partial shade and regular water. **Tea Usage:** Commonly mixed with green tea or other herbs for traditional North African tea blends.
 
 #### Chocolate Mint
 Name: _Mentha x piperata f. citrata ‘Chocolate'_
