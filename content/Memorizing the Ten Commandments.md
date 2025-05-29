@@ -1,5 +1,5 @@
 ---
-{"Note Planted":"2025-05-06","Last Tended":"2025-05-27","publish":true,"PassFrontmatter":true}
+{"Note Planted":"2025-05-06","Last Tended":"2025-05-28","publish":true,"PassFrontmatter":true}
 ---
 
 #🌱Seed   #😐Neutral   #🟡Consideration   #📊Project   #📓Journal 
@@ -23,16 +23,47 @@ Idea of the two greatest commandments as the most zoomed out and then ten comman
 Image of two mountains 
 zoom in to see two tablets 
 
+# Layer One - Two Great Commandments
 
-Image of First Mountain
+> [!quote] Matthew 22:36-40 ESV
+> “Teacher, which is the great commandment in the Law?” And he said to him, “You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment. And a second is like it: You shall love your neighbor as yourself. On these two commandments depend all the Law and the Prophets.”
 
+Use the image that Jesus does and think of two hooks that everything else hangs on: 
+![Pasted image 20250528110854.png](Pasted%20image%2020250528110854.png)
+## Love God Hook
+You shall love the Lord your God with all your heart and with all your soul and with all your mind
+## Love Neighbor Hook
+You shall love your neighbor as yourself
 
-Image of Second Mountain
+# Layer 2 - The Ten Commandments
+## Love God Tablet - 3
+### The First Commandment
+You shall have no other gods.
 
+### The Second Commandment
+You shall not misuse the name of the LORD your God.
 
-Image of First Tablet
+### The Third Commandment
+Remember the Sabbath day by keeping it holy.
 
+## Love Neighbor Tablet - 7
+### The Fourth Commandment
+Honor your father and your mother.
 
-Image of Second Tablet
+### The Fifth Commandment
+You shall not murder.
 
+### The Sixth Commandment
+You shall not commit adultery.
 
+### The Seventh Commandment
+You shall not steal.
+
+### The Eighth Commandment
+You shall not give false testimony against your neighbor.
+
+### The Ninth Commandment
+You shall not covet your neighbor’s house.
+
+### The Tenth Commandment
+You shall not covet your neighbor’s wife, or his manservant or maidservant, his ox or donkey, or anything that belongs to your neighbor.

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2025-05-06","Last Tended":"2025-05-23","PassFrontmatter":true}
+{"publish":true,"Note Planted":"2025-05-06","Last Tended":"2025-05-28","PassFrontmatter":true}
 ---
 
 #🌱Seed   #😁Strongly-Agree    #🟢Conviction    #📊Project #📓Journal 
@@ -7,49 +7,70 @@
 > `Importance`: 90%
  
 >[!Summary] The Big Idea
-> I have decided to work toward memorizing the whole book of Psalms. But not just a rote memorization actually having it functionally memorized for meditation and retelling. 
+> I have decided to work toward memorizing the whole book of Psalms. But not just a rote memorization, actually having it functionally memorized for meditation and retelling. So that I can actually use what is memorized and not just have it recitable.
+> 
+> This idea started to form in me after reading/listening through the whole Bible in 40 days. My journal of that is here: [[Shredding Spiritual Muscles\|Shredding Spiritual Muscles]] 
+> 
+> I am still trying to get my head around how I want to approach such a large memorization project. I have decided that I will undertake practicing memorization of things with the basic texts of the catechism and have started journaling about that here:
+> [[Memorizing the Lords Prayer\|Memorizing the Lords Prayer]]
+> [[Memorizing the Ten Commandments\|Memorizing the Ten Commandments]]
 
 Similar Notes:
 [[Memory, the Things We Keep with Us\|Memory, the Things We Keep with Us]]
 [[Bible Book Notes/Psalms-The Language of Our Heart\|Psalms-The Language of Our Heart]]
-[[Memorizing the Lords Prayer\|Memorizing the Lords Prayer]]
  
 ****
-# An Experiment: Memorizing the Psalter
+# Foundational Texts for this Project 
+These are books the influenced me as I have been getting my head around this project:
 
-I am going to memorize handles for each Psalm as a way to start to navigate them within my memory and recall them when needed. 
+- Dietrich Bonhoeffer. Psalms: The Prayer Book of the Bible 
+	- A really powerful yet short book on how to see Jesus praying the Psalms with us and for us and how we can pray them faithfully.
+
+- Athanasius, Letter to Marcellinus, trans. and ed. Joel C Elowsky. New Haven, CT: ICCS Press, 2021.
+	- A really fascinating look into how familiar Athanasius was with the Psalms and how highly he regarded them as a practical way to be formed by God's word and taught how to handle every emotion or "inner movement." 
+	- PDF of the Text: [[Letter to Marcellinus translation-jce edit 08242016 final changes accepted (1).pdf]]
+
+- Timothy Saleska. Concordia Commentary on Psalm 1-50
+	- Introduction has a ton of resources and well laid out information about how to read and apply the psalms. 
+## Suggestions from Dr. Joel Elowsky
+These are potential texts that Dr. Elowsky suggested to me:
+- Blaising, Craig and Harding, Carmen, eds. Psalms 1-50, Ancient Christian Commentary on Scripture. Downers Grove, IL: IVP, 2007.
+
+- Homilies on the Psalms: Codex Monacensis Graecus 314 by Origen, trans. Joseph Trigg. Fathers of the Church, Vol. ___ Washington, DC: Catholic University of America Press, 2020.
+
+- Didymus Lectures on the Psalms, trans. and ed. Jonathan Hicks. Ancient Christian Text Series. Downers Grove, IL: InterVarsity Press, 2024.
+
+- The Homilies of Saint Jerome, Volume 1 (1–59 on the Psalms) (The Fathers of the Church, Volume 48). Trans. Marie Ewald. Washington, DC: Catholic University of America Press, 1964.
+
+- Theodoret of Cyrus: Commentary on the Psalms 73-150. Trans. Robert C Hill. Washington, DC: Catholic University of America Press, 2000.
+
+- Cameron, Michael. Essential Expositions of the Psalms by Augustine. Hyde Park, NY: New City Press, 2015.
+
+- Martin Luther. First Lectures on the Psalms: Psalms 1-75. Luther’s Works, Vol. 10. St. Louis, MO: Concordia Pub., 1974.
+
+- Martin Luther. Selected Psalms. Luther’s Works, Vol. 12. St. Louis, MO: Concordia Pub., 1974.
+## Suggestions from Dr. Timothy Saleska
+These are potential texts that Dr. Saleska suggested to me. They are especally focused on Biblical Poetry as a whole:
+- Robert Alter. “The Art of Biblical Poetry,”
+- Adele Berlin. “The Dynamics of Biblical Parallelism.” 
+- Wilfred Watson. “Classical Hebrew Poetry: A Guide to its Techniques.” 
+## Other Possible Reads
+- Martin Luther. Selected Psalms. Luther’s Works, Vol. 11,13-14
+# An Experiment: Memorizing the Psalter
+One way to approach things is using the peg method. If I chose this I will memorize handles for each Psalm as a way to start to navigate them within my memory and recall them when needed. 
 
 Step one is to come up with a sentence or phrase that captures a key theme or element of that Psalm. this will be the kind of "tag" that I start to memorize 
 
 Once I have all 150 tags memorized then we will see how deepening it can go and the way I can use that mental navigation.
 
-Experience of being in the word more things bubble up easier and more often
+I has been my experience that the more I am in the word the more easily things bubble up in my memory. 
 
-[[Shredding Spiritual Muscles\|Shredding Spiritual Muscles]] experience of reading/listening through the bible in 40 days
-
-
-# Books to read through
-
-- Bonhoeffer on Psalms
-
-- Luther's Works Volume 10-14
-
-- Saleska's Psalms commentary 
-
-- [[Letter to Marcellinus translation-jce edit 08242016 final changes accepted (1).pdf]]
-
-Resources on Chiasms:
-- Robert Alter. “The Art of Biblical Poetry,” 
-- Adele Berlin. “The Dynamics of Biblical Parallelism.” 
-- Wilfred Watson. “Classical Hebrew Poetry: A Guide to its Techniques.”
-
+I think that focusing on individual books will help make things more manageable. I still need to figure out the large picture structure that I can use to help organize it all in my head. Pegs is one but that seems like i will get overwhelming quickly. I think that a story or image or memory palace is the way I want to go I just need to figure out how I want to plan that. 
 # Major Recurring Themes
+Not sure how helpful this will be for memorizations sake. 
 - The King
-
 - The Temple/Sanctuary
-
 - The way of the Righteous vs the way of the wicked
-
 # Peg Words
 ## Book I
 (Psalms 1-41)
