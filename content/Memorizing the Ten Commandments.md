@@ -1,5 +1,5 @@
 ---
-{"Note Planted":"2025-05-06","Last Tended":"2025-05-28","publish":true,"PassFrontmatter":true}
+{"Note Planted":"2025-05-06","Last Tended":"2025-05-29","publish":true,"PassFrontmatter":true}
 ---
 
 #🌱Seed   #😐Neutral   #🟡Consideration   #📊Project   #📓Journal 
@@ -28,8 +28,9 @@ zoom in to see two tablets
 > [!quote] Matthew 22:36-40 ESV
 > “Teacher, which is the great commandment in the Law?” And he said to him, “You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment. And a second is like it: You shall love your neighbor as yourself. On these two commandments depend all the Law and the Prophets.”
 
-Use the image that Jesus does and think of two hooks that everything else hangs on: 
+When Jesus says "On these two commandments **depend** all the Law and the Prophets" the word he uses is: 
 ![Pasted image 20250528110854.png](Pasted%20image%2020250528110854.png)
+Therefore I will use the image of coat hooks to visualize the two great commandments with the rest of the law handing from them.  
 ## Love God Hook
 You shall love the Lord your God with all your heart and with all your soul and with all your mind
 ## Love Neighbor Hook
