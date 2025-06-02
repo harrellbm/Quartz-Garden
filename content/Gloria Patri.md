@@ -7,7 +7,9 @@
 > `Importance`: 89%
  
 >[!Summary] The Big Idea
-> Common, simple, and old liturgical prayer. Found in various places all over the Lutheran Service Book.  
+> Common, simple, and old liturgical prayer. Formulations of it can be found from the 4th century and older. It echoes the words of Baptism in its use of the full Triune name (MATT. 28:19). It glorifies God like the song of the angels (LUKE 2:14). 
+> 
+> Found in various places all over the Lutheran Service Book.  
 
 ****
 > [!quote] New English - LSB termination of all Psalms, also p. LSB p. 165, 185
