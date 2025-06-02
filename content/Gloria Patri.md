@@ -7,12 +7,25 @@
 > `Importance`: 89%
  
 >[!Summary] The Big Idea
-> Common, simple, and old liturgical prayer. Formulations of it can be found from the 4th century and older. It echoes the words of Baptism in its use of the full Triune name (MATT. 28:19). It glorifies God like the song of the angels (LUKE 2:14). 
+> The Gloria Patri or Little Doxology is distinguished from the Gloria in Excelsis. It is a common, simple, and old liturgical prayer. Formulations of it can be found from at least the 4th century and older. 
+> 
+> It echoes the words of Baptism by using the full Triune name (Matthew 28:19) as well as glorifying God like the song of the angels (Luke 2:14). 
+> 
+> Other Scriptural bases are: 
+> - Romans 16:27
+> - Ephesians 3:21
+> - Philippians 4:20
+> - Revelations 1:6
 > 
 > Found in various places all over the Lutheran Service Book.  
 
+## Traditional Physical Practice Surrounding It
+> [!cite] Reed, The Lutheran Liturgy,  p. 264
+> In old Lutheran circles the custom has been maintained to the present time of bowing the head in "due and lowly reverence" at the Gloria Patri and a the Name of Jesus throughout the service. 
+
 ****
-> [!quote] New English - LSB termination of all Psalms, also p. LSB p. 165, 185
+# Versions as Appearing in the LSB
+> [!quote] New English - LSB termination of all Psalms, also LSB p. 165, 185, etc.
 > Glory be to the Father and to the Son and to the Holy Spirit; as it was in the beginning, is now, and will be forever Amen. 
 
 > [!quote] Older English - LSB p. 200

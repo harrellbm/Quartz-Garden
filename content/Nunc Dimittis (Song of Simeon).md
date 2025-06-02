@@ -7,7 +7,7 @@
 > `Importance`: 92%
  
 >[!Summary] The Big Idea
-> This is a [[Canticles (Songs in the Bible)\|Canticles (Songs in the Bible)]] drawn from Luke 2:29-32 that was sung over Jesus by Simeon as He was being brought to the temple by Mary and Joseph. 
+> This one of the [[Canticles (Songs in the Bible)\|Canticles (Songs in the Bible)]] which is drawn from Luke 2:29-32 that was sung over Jesus by Simeon as He was being brought to the temple by Mary and Joseph. 
 
 ****
 # Setting 1 & 2 Version, LSB p. 165, 182 
