@@ -1,5 +1,5 @@
 ---
-{"title":"Base Camp 🏕️","aliases":["Home","Base Camp"],"publish":true,"tags":["🌲Evergreen"],"Note Planted":"2024-10-22","Last Tended":"2025-04-02","PassFrontmatter":true}
+{"title":"Base Camp 🏕️","aliases":["Home","Base Camp"],"publish":true,"tags":["🌲Evergreen"],"Note Planted":"2024-10-22","Last Tended":"2025-06-03","PassFrontmatter":true}
 ---
 
 Hello!
@@ -73,3 +73,20 @@ Every trail needs to start somewhere! Here are some good places to start a walk 
 ### A list of notes on related topics: [[Note Collections\|Note Collections]]
 
 ### Or more free form notes: [[Loose Leaf Notes\|Loose Leaf Notes]]
+
+### Recently Tended Notes
+- [[Reading Scripture for Familiarity\|Reading Scripture for Familiarity]]
+- [[LCOS Notes/Central Coast Called Worker Landing Pad\|Central Coast Called Worker Landing Pad]]
+- [[Core Mindsets for a Healthy Community\|Core Mindsets for a Healthy Community]]
+- [[Nunc Dimittis (Song of Simeon)\|Nunc Dimittis (Song of Simeon)]]
+- [[Gloria Patri\|Gloria Patri]]
+- [[Private/Eden Quotes\|Eden Quotes]]
+- [[Canticles (Songs in the Bible)\|Canticles (Songs in the Bible)]]
+- [[Memorizing the Ten Commandments\|Memorizing the Ten Commandments]]
+- [[Saint Patrick's Breastplate\|Saint Patrick's Breastplate]]
+- [[Memorizing the Psalms\|Memorizing the Psalms]]
+- [[Memorizing the Lords Prayer\|Memorizing the Lords Prayer]]
+- [[Biblical Themes (Typology)\|Biblical Themes (Typology)]]
+- [[Memory, the Things We Keep with Us\|Memory, the Things We Keep with Us]]
+- [[Why Learn\|Why Learn]]
+- [[A Tea Garden\|A Tea Garden]]

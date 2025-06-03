@@ -206,7 +206,7 @@ The categories we use to understand our world matter: [[A Categorical Mind\|A Ca
 
 - [[Trinitarian Mindset\|Trinitarian Mindset]] - We worship and serve God who is triune in nature. We recognize the mystery of their communion and the lavish loving nature of their economy of salvation.  Salvation comes From the Father Through the Son By the Holy Spirit. We have been baptized into this triune name and serve no other. 
 
-- [[Mission Mindset\|Mission Mindset]] - As God’s people we have been sent to out to the four corners of the world to proclaim the Gospel and welcome Christ’s children home.  
+- [[Mission Mindset\|Mission Mindset]] - As God’s people we have been sent out to the four corners of the world to proclaim the Gospel and welcome Christ’s children home.  
 
 - [[Discipleship Mindset\|Discipleship Mindset]] - We have been sent out to make disciples. People who follow Jesus into the fields of this world to do the work of the Kingdom.  
 
