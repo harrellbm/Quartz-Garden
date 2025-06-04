@@ -1,21 +1,18 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🪴Sprout  #🙂Agree
+#🪴Sprout  #😐Neutral  #🟡Consideration  #🥾SpiritualPractices-EmbodiedLiving 
 
 ****
-
-> `Importance`: 50%
-
-***The Big Idea***: 
 
 > [!note]
 > Adapted from Paper by Dr. Jame Marriott [link to article](https://drive.google.com/file/d/1BXYxDUppkFI-2GdBfcLGfbLE-0mQzAw9/view?usp=drive_link)
 
-****
+> [!summary] The Big Idea
+> Inculturation is the dynamic process by which the Christian faith is performed in various cultural contexts of every time and place. The formal articulation and study of inculturation has been introduced in the twentieth century, where theologians gave voice and a name to that which for unnumbered years served as the undercurrent for the performance of the Christian faith in various communities. 
 
-Inculturation is the dynamic process by which the Christian faith is performed in various cultural contexts of every time and place. The formal articulation and study of inculturation has been introduced in the twentieth century, where theologians gave voice and a name to that which for unnumbered years served as the undercurrent for the performance of the Christian faith in various communities. 
+*** 
 
 Bryan Spinks, referencing the work of Aidan Kavanagh, describes this timelessness of inculturation as “nothing other than the continuation of God’s own humble incarnation in our midst by Word, faith, and sacrament—an incarnation which reached its peak, to be sure, in Jesus the Christ, but which began already in the genesis of the world and continues, as the Pauline corpus implies, in the Spirit-filled Body corporate of Christ which is the Church.” 
 

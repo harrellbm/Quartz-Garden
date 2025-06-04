@@ -1,14 +1,13 @@
 ---
-{"publish":true,"Note Planted":"2025-06-02","Last Tended":"2025-06-02","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #🙂Agree   #🟢Conviction 
+#🌱Seed   #🙂Agree   #🟢Conviction   #🔥Doctrine-Poetry-Story 
 ****
-> `Importance`: 10%
  
 >[!Summary] The Big Idea
 > Collection of notes about songs that are seen in Scripture. 
 
 ****
 # Specific Examples
-[[Nunc Dimittis (Song of Simeon)\|Nunc Dimittis (Song of Simeon)]]
+[[Nunc Dimittis (Song of Simeon)]]

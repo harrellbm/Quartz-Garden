@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-03-27","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 #🌲Evergreen   #🙂Agree   #📊Project 
 
 ****
-
-> `Importance`: 60%
 
 > [!Summary] The Big Idea
 > The overall structure I have developed to help easily identify the purpose and function of various notes.
@@ -39,13 +37,12 @@ These are pieces of information I will attach to the beginning of each note that
 	- #🙂Agree
 	- #😁Strongly-Agree
 4. **Confidence Level**:
-	The [[Confidence Scale\|Confidence Scale]] associated with the ideas or concepts contained within the current note:
+	The [[Confidence Scale]] associated with the ideas or concepts contained within the current note:
 	- #🔴Uncertain 
 	- #🟡Consideration 
 	- #🟢Conviction 
 5. **Special Note Types**:
 	Tags that identify notes that function for me in special ways:
-	- #🌳Thought-Tree the home note of a [[Tree of Thought\|Tree of Thought]] that is a more linear line of thought with dependent notes and connections. 
 	- #📊Project A note focused on completing a goal or building something. 
 	- #📖Story A personal or interesting story I would like to save for personal memory and possible use in a sermon.
 	- #📝Essay A more polished written essay on a particular subject. 
@@ -55,9 +52,11 @@ These are pieces of information I will attach to the beginning of each note that
 	- #✒️Poem A personal or quoted poem.
 	- #📓Journal A personal recount of an experience of some sort.
 	- #📰Handout A handout made for a meeting or class.
-6. **Idea Importance**:
-	I will use a sliding percentage rating to make clear how important the current note is to me. Something like:
-	- **Importance**: 62%
+	- #📘BookNotes  Notes that I have taken on a particular book. 
+	- #🍴Recipe A recipe that I like enough to save it. 
+6. **Mental Loci**:
+	Tags the identify a particular loci or "location" in my mind:
+	- Description of this picture here [[Mental Loci]]
 7. **No topic tags!!!** I find them hard to manage and keep track of as well as unnecessarily condensing the content of a note. Instead I will strive to make connections between notes using internal links. 
 ### Example Note Metadata 
 This is an example of the current metadata I have composed to start each note. For ease of use I have created an [Obsidian Template](https://help.obsidian.md/Plugins/Templates) to insert this data pre-formatted. Otherwise I would 100% forget to start notes with it or drift with its style over time.
@@ -68,8 +67,6 @@ This is an example of the current metadata I have composed to start each note. F
 #🌱Seed  #🙂Agree  #🟡Consideration 
 
 ****
-
- > `Importance`: 10%
 
 > [!Summary] The Big Idea
 > A new interesting idea.

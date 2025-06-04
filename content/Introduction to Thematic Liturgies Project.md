@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-09","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌿Sapling  #🙂Agree   #🟡Consideration   #📊Project   #📝Essay  
+#🌿Sapling  #🙂Agree   #🟡Consideration   #📊Project   #📝Essay  #🥾SpiritualPractices-EmbodiedLiving  
 
 ****
-
-> `Importance`: 70%
 
 > [!Summary] The Big Idea
 > This project hopes to be a resource as well as a place to collaborate and learn the art of crafting thematic liturgical forms.
@@ -52,11 +50,6 @@ Our place in God’s story sits uniquely after His crucifixion and resurrection,
 Yet we need to be careful to also hold on to translation.  Our people are a product of their time.  The things of beauty and meaning from tradition do not always land the same way they used to among Christians in a different time dealing with different struggles and life experiences.  Consequently, it is of utmost importance that liturgy be translated into forms that reach our people so that they can actually be formed by it.  This is a pull in two directions.  Striving to proclaim the alien ideas and power of God’s Gospel in its fullness, while also being sensitive to the hearer.   
 
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Ritual-Efficacy-versus-Sacramental-Efficacy#Ritual-Efficacy-versus-Sacramental-Efficacy" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 ## Ritual Efficacy versus Sacramental Efficacy
 
 Keeping in mind the tension of tradition and translation, we come to the need to differentiate between ritual efficacy and sacramental efficacy.[^1]   On the one hand, the word of God is always efficacious.  For example, a sermon can be given in the most monotone and dull method, written in the most cliche and boring style, yet it is still God’s living and active word at work among His people.  The word of God will do what the world of God will do by the power of the Holy Spirit apart from, and often in spite of, our human efforts.  The deep reality of the words sacramental efficacy is somewhat at odds, however, with our experience of ritual efficacy.  The sermon described above will be met with eye rolls and sighs as even willing listeners struggle to not fall asleep.  This same idea can be fleshed out in many other examples that all lead to the need to evaluate and work toward ritually effective forms of liturgy.  
@@ -65,17 +58,9 @@ To state this distinction another way, all liturgy grounded in the true word of 
 
 [^1]: **Marriot, Article on Liturgy and discipleship, 10. [link](https://drive.google.com/file/d/1d5CYDp1PlyT-sHoIG9Wx41NfbU37ws7s/view?usp=sharing)**
 
-</div></div>
-
-
 ## Variety versus Regularity 
 
 A practice done regularly makes a habit, and a habit has a way of sticking within a person.  This basic human truth is an important consideration as we seek to grow our people using liturgical forms.  There needs to be a sense of continuity and repetition for things to sink into people.  However, this need to habituate people into a regular pattern of worship and practice, should not exclude the legitimacy and importance of variety.  Scripture alone (not to mention liturgical history) brings to light a huge variety of musical and ritual expression.  We should seek to bring our people into this fullness, not at the expense of regularity, but in concert with it.  One noteworthy example of this is the practice of lament.  Lament comes directly out of the pages of Scripture but is something the church rarely practices.  We possess this very powerful practice to wrestle and deal with grief and brokenness.  Yet we often leave it on the shelf and rob our people of it.   
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Real-Loss#Real-Loss" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
 
 
 ## Real Loss
@@ -91,9 +76,6 @@ A practice done regularly makes a habit, and a habit has a way of sticking withi
 This conviction makes it clear that changing and/or generating liturgical forms is not something to be taken lightly.   In fact, many argue that the risk of loss is too great to allow for variety in liturgical forms.  This project, however, does not agree with this assessment.  While loss is real and needs to be appreciated and acknowledged, it should not bind the church from worshiping God with all the skill and talent He has placed within His body.  
 
 Rather than dismissing loss, or turning it into a crippling fear, this project seeks to engage tradition thoughtfully to bring to life liturgical forms that help pull people into the depths of Christ’s richness and unlock interaction with our scriptural and churchly heritage.
-
-</div></div>
-
 
 ## Living Word, Living Worship
 
@@ -319,7 +301,7 @@ Canticles - Songs taken directly out of the Scriptural narrative. Used various p
 [^10]: **Timothy Maschke, Gathering Guests: A Guide to Worship in the Lutheran Church (Saint Louis: Concordia Publishing House, 2003), 111.**
 [^11]: **Ibid., 111.**
 [^12]: **Ibid., 109.**
-[^13]: **Ibid., 112.  Also see [[Variety in Gospel Metaphors\|Variety in Gospel Metaphors]]).**
+[^13]: **Ibid., 112.  Also see [[Variety in Gospel Metaphors]]).**
 [^14]: **Ibid., 113.**
 [^15]: **Joel Biermann, A Case for Character: Towards a Lutheran Virtue Ethics (Minneapolis: Fortress Press, 2014), 118-133.**
 [^16]: **Maschke, Gathering Guests, 117-8.**

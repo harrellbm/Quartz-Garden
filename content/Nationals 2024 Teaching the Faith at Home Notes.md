@@ -1,13 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree 
+#🌱Seed  #🙂Agree  #📘BookNotes 
 
 ****
-
-> `Importance`: 10%
-
 Dr Dave Rueter 
 
 > [!Quote]
@@ -35,7 +32,7 @@ Best approach
 1. Focus on family as a unit more than age groups. How do you help cohorts of families through as a whole rather than just a single kid or group of kids. How can the church come along side of these families as they grow and mature.
 2. Take a long view in faith formation. Not just a short time horizon. How do you help kids and families learn how to learn and be curious about their faith and find answers together. The conversation needs to keep happening so that growth happens over time and not just being forced to agree with something.
 
-Book: Soul Searching Christian Smith source of [[Moralistic Therapeutic Deism\|Moralistic Therapeutic Deism]]
+Book: Soul Searching Christian Smith source of [[Moralistic Therapeutic Deism]]
 
 Children are primarily shaped by the faith they see their parents live out. 
 

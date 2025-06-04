@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-03-08","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree #🍽️Community-Mission 
 
 ****
-
-> `Importance`: 50%
 
 > [!summary] The Big Idea
 > The basic idea is that there are six main parts of work in order to get a project done. Each individual enjoys and finds fulfillment in some parts while other parts make us feel frustrated and drained. 

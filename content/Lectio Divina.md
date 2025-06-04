@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🍋Fruit   #😁Strongly-Agree   #🟢Conviction   #📚Definition 
+#🍋Fruit   #😁Strongly-Agree   #🟢Conviction   #🔥Doctrine-Poetry-Story 
 
 ****
-
-> `Importance`: 90%
 
 > [!summary] The Big Idea
 > I think oftentimes we are encouraged to act like reading, especially reading the Bible is easy. But it’s really not. I know struggling to comprehend something that I read is something that happens to me all the time. I will ready a page or two out of a book and reach the end and go wait what did that say?? That only got worse the farther along in schooling I got. Reading a thick theological book in seminary was something I felt like needed to be accompanied with tape for my eyelids. 
@@ -26,7 +24,7 @@ Lectio Divina as a method of reading the Bible that has been practiced all the w
 Lectio Divina offered a way of meditating on Scripture so that a small phrase or memorable verse became bread for the soul throughout the week. This kind of devotional reading isn’t about deep study of the Scriptures, nor is it trying to be an alternative to deep study. Lectio Divina approaches Scripture as a meeting place where we encounter the Living God and hear His particular word for us in this particular moment.
 
 > [!important]
-> It is vital to make clear that [[Christian Meditation\|Christian Meditation]] is fundamentally different from Easter Meditation. Christian meditation is focused on filling oneself up with the Word of God while Easter meditation is aimed at "emptying ones self" or some other picture in order to get in touch with "the universe."
+> It is vital to make clear that [[Christian Meditation]] is fundamentally different from Easter Meditation. Christian meditation is focused on filling oneself up with the Word of God while Easter meditation is aimed at "emptying ones self" or some other picture in order to get in touch with "the universe."
 
 ***
 

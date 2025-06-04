@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-11-04","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #😐Neutral 
+#🌱Seed  #😐Neutral  #🥾SpiritualPractices-EmbodiedLiving 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > An Evening Prayer service that was new to Lutheran Practice sine 1969 with the liturgical renewal. Is based on the offices of prayer used by monastic orders this is the late night prayer slot. 

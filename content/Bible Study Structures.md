@@ -1,14 +1,12 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree   #🔥Doctrine-Poetry-Story 
 
 ****
 
-> `Importance`: 30%
-
-***The Big Idea***: This is a collection of various [[Pedagogy\|Pedagogy]] methods that can be used while teaching a Bible study.
+***The Big Idea***: This is a collection of various [[Pedagogy]] methods that can be used while teaching a Bible study.
 
 * * *
 
@@ -29,14 +27,14 @@ It is important to keep in mind the purpose of any study going forward.  The go
 ## Individual Structures 
 Descriptions of individual structures that can be found along this teaching continuum:
 
-[[Large Group Lecture\|Large Group Lecture]]
+[[Large Group Lecture]]
 
-[[Large Group Socratic Method\|Large Group Socratic Method]]
+[[Large Group Socratic Method]]
 
-[[BYOB (Build Your Own Bible Study)\|BYOB (Build Your Own Bible Study)]]
+[[BYOB (Build Your Own Bible Study)]]
 
-[[Fishbowl Discussion\|Fishbowl Discussion]]
+[[Fishbowl Discussion]]
 
-[[Cooperative Learning\|Cooperative Learning]]<br>
-[[Small Group Discussion\|Small Group Discussion]]
-<br>[[Flipped Classroom\|Flipped Classroom]]<br><br>[[Contemplate and Analyze\|Contemplate and Analyze]]
+[[Cooperative Learning]]<br>
+[[Small Group Discussion]]
+<br>[[Flipped Classroom]]<br><br>[[Contemplate and Analyze]]

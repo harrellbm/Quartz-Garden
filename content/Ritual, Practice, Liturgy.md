@@ -1,15 +1,15 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🪴Sprout  #😟Disagree  #🟡Consideration 
+#🪴Sprout  #😟Disagree  #📚Definition 
 
 ****
 
-> `Importance`: 10%
-
 > [!Summary] The Big Idea
-> This distinction is not as helpful in practice as it seemed when I first read about it from Smith and wrote it out. 
+> This distinction is not as helpful in practice as it seemed when I first read about it from Smith.
+> 
+> Smith, S. (2009). Desiring the kingdom : worship, worldview, and cultural formation. Retrieved from [https://archive.org/details/desiringkingdomw0000smit/](https://archive.org/details/desiringkingdomw0000smit/)
 > 
 > The idea that liturgy is rhythm and that liturgy is doing the redeemed world right (from Marriott) are much more compelling and useful definitions of liturgy.
 

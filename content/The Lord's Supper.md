@@ -1,19 +1,17 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-10","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #🙂Agree   #🟢Conviction 
+#🌱Seed   #🙂Agree   #🟢Conviction #🔥Doctrine-Poetry-Story 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > Collected resources around Communion
 
 Related Notes:
-[[John Chrysostom on the Lord's Supper\|John Chrysostom on the Lord's Supper]]
-[[LCOS Notes/Handouts/First Communion\|First Communion]]
+[[John Chrysostom on the Lord's Supper]]
+[[LCOS Notes/Handouts/First Communion]]
 
 ****
 

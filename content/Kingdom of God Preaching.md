@@ -1,17 +1,13 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree   #🔥Doctrine-Poetry-Story 
 
 ****
-
-> `Importance`: 10%
 
 > [!summary] The Big Idea
 > Jesus starts preaching with the simple message:
-
-****
 
 > [!quote] Matthew 4:17–18 (ESV)
 > Repent, for the kingdom of heaven is at hand.” 

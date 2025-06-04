@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree 
+#🌱Seed  #🙂Agree  #🔥Doctrine-Poetry-Story 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > From the creation account it seems clear that light and water are the foundational building blocks of the world. Which seems to suggest that the way light and water are handled around us make a bigger impact on the order of life than we tend to think about. Light ends up getting handled very haphazardly now a days as well as water being thrown around as well 
@@ -24,8 +22,8 @@ Using all the observations above, We can make a simple ordered list of environme
 This also shows a beautiful and interwoven relationship between time and space with morning and evening being the rhythm that ties all of the unfolding of the physical creation together. 
 
 These are related ideas: 
-[[Models of Human Rhythms\|Models of Human Rhythms]]
-[[My Thoughts on Cosmology\|My Thoughts on Cosmology]]
-[[Basic Philosophies of Community Rhythm and Project Lifecycle\|Basic Philosophies of Community Rhythm and Project Lifecycle]]
+[[Models of Human Rhythms]]
+[[My Thoughts on Cosmology]]
+[[Basic Philosophies of Community Rhythm and Project Lifecycle]]
 
 ****

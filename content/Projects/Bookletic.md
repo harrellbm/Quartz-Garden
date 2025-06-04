@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-03-20","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 #🍋Fruit   #😁Strongly-Agree   #📊Project

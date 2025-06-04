@@ -1,10 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2025-06-02","Last Tended":"2025-06-02","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #🙂Agree   #🟢Conviction 
+#🌱Seed   #🙂Agree   #🟢Conviction  #🔥Doctrine-Poetry-Story 
 ****
-> `Importance`: 89%
  
 >[!Summary] The Big Idea
 > The Gloria Patri or Little Doxology is distinguished from the Gloria in Excelsis. It is a common, simple, and old liturgical prayer. Formulations of it can be found from at least the 4th century and older. 

@@ -1,17 +1,15 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-01","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🪴Sprout    #😁Strongly-Agree    #🟢Conviction 
+#🪴Sprout    #😁Strongly-Agree    #🟢Conviction   #🥾SpiritualPractices-EmbodiedLiving 
 
 ****
-
-> `Importance`: 70%
 
 > [!Summary] The Big Idea
 > I need to do a fuller write up around this some time but here are some hastily collected resources around Christian Meditation.
 
-A core picture to have in mind as we engage with and meditate on scripture is that we are having [[A Conversation with God (Epistle)\|A Conversation with God (Epistle)]]. This is an active living relationship to an active loving Word that came to free us from sin, death and the devil.
+A core picture to have in mind as we engage with and meditate on scripture is that we are having [[A Conversation with God (Epistle)]]. This is an active living relationship to an active loving Word that came to free us from sin, death and the devil.
 
 Therefore engaging the whole body is a key feature. We are creatures of God formed with bodies not given bodies later or any such Platonic nonsense. If we take that seriously then the way we move, hear, speak, draw, etc. all affect the way we engage God's word. The aim of all this to absorb the story of Scripture into our own story. God’s story is our story and vice versa.
 
@@ -29,25 +27,25 @@ Joshua is told to do the same thing as he prepares to lead the people into the p
 ****
 
 Here are some other notes around Meditation and Reading Scripture:
-- [[Quiet Muttering\|Quiet Muttering]]
-- [[Bible Book Notes/Psalms-The Language of Our Heart\|Psalms-The Language of Our Heart]]
-- [[Reading Scripture Devotionally\|Reading Scripture Devotionally]]
-- [[The Struggle to be in God's Word\|The Struggle to be in God's Word]]
-- [[Love the Lord Your God with all Your Heart\|Love the Lord Your God with all Your Heart]]
-- [[Ways to Engage Scripture\|Ways to Engage Scripture]]
-- [[Metaphor in Scripture\|Metaphor in Scripture]]
+- [[Quiet Muttering]]
+- [[Bible Book Notes/Psalms-The Language of Our Heart]]
+- [[Reading Scripture Devotionally]]
+- [[The Struggle to be in God's Word]]
+- [[Love the Lord Your God with all Your Heart]]
+- [[Ways to Engage Scripture]]
+- [[Metaphor in Scripture]]
 
 Here is a Bible Project Video that describes key features of the Bible as Jewish Meditation Literature: 
 [Bible as Jewish Meditation Literature](https://bibleproject.com/explore/video/bible-jewish-meditation-literature-h2r/?utm_source=web_social_share&medium=shared_video)
 
 Some methods for Christian Meditation:
-- [[Lectio Divina\|Lectio Divina]]
-- Luther's [[Oratio, Meditatio, Tentatio\|Oratio, Meditatio, Tentatio]]
-- [[Reading Scripture Devotionally\|Reading Scripture Devotionally]]
-- [[Gerhard Method of Theological Study\|Gerhard Method of Theological Study]] (Not fully a method of meditation per say)
-- [[Activity-A Conversion with Scripture\|Activity-A Conversion with Scripture]]
+- [[Lectio Divina]]
+- Luther's [[Oratio, Meditatio, Tentatio]]
+- [[Reading Scripture Devotionally]]
+- [[Gerhard Method of Theological Study]] (Not fully a method of meditation per say)
+- [[Activity-A Conversion with Scripture]]
 
 A couple applications of Christian Meditation:
-- [[Meditation on Psalm 8\|Meditation on Psalm 8]]
-- [[Treasure of Heaven Sermon Outline\|Treasure of Heaven Sermon Outline]]
+- [[Meditation on Psalm 8]]
+- [[Sermons/Treasure of Heaven Sermon Outline]]
 

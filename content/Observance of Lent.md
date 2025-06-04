@@ -1,10 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2025-02-19","Last Tended":"2025-04-02","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🍋Fruit   #🙂Agree   #🟢Conviction 
+#🍋Fruit   #🙂Agree   #🟢Conviction  #🔥Doctrine-Poetry-Story 
 ****
-> `Importance`: 80%
  
 >[!Summary] The Big Idea
 > A personal observation of lent and its observance.  

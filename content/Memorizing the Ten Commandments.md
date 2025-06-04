@@ -1,21 +1,20 @@
 ---
-{"Note Planted":"2025-05-06","Last Tended":"2025-05-29","publish":true,"PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #😐Neutral   #🟡Consideration   #📊Project   #📓Journal 
+#🌱Seed   #😐Neutral   #🟡Consideration   #📊Project   #📓Journal  #🥾SpiritualPractices-EmbodiedLiving 
 ****
-> `Importance`: 10%
  
 >[!Summary] The Big Idea
-> This is my second experiment in memorization after [[Memorizing the Lords Prayer\|Memorizing the Lords Prayer]].  This time I want to try using spatial and imagination to add another layer to the ten commandments. 
+> This is my second experiment in memorization after [[Memorizing the Lords Prayer]].  This time I want to try using spatial and imagination to add another layer to the ten commandments. 
 > 
 > I have always had issues recalling them by number so this will be interesting to see what additional memory strategies may be able to add.
 
 Similar Notes:
-[[Memorizing the Psalms\|Memorizing the Psalms]]
-[[Memorizing the Lords Prayer\|Memorizing the Lords Prayer]]
-[[Memory, the Things We Keep with Us\|Memory, the Things We Keep with Us]]
-[[Why Learn\|Why Learn]]
+[[Memorizing the Psalms]]
+[[Memorizing the Lords Prayer]]
+[[Memory, the Things We Keep with Us]]
+[[Why Learn]]
 ****
 
 Idea of the two greatest commandments as the most zoomed out and then ten commandments next step down before the rest of the law falls under as even more specific
@@ -29,7 +28,7 @@ zoom in to see two tablets
 > “Teacher, which is the great commandment in the Law?” And he said to him, “You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment. And a second is like it: You shall love your neighbor as yourself. On these two commandments depend all the Law and the Prophets.”
 
 When Jesus says "On these two commandments **depend** all the Law and the Prophets" the word he uses is: 
-![Pasted image 20250528110854.png](Pasted%20image%2020250528110854.png)
+![[Pasted image 20250528110854.png]]
 Therefore I will use the image of coat hooks to visualize the two great commandments with the rest of the law handing from them.  
 ## Love God Hook
 You shall love the Lord your God with all your heart and with all your soul and with all your mind

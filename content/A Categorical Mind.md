@@ -1,12 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #🙂Agree   #🟡Consideration 
-
+#🌱Seed   #🙂Agree   #🟡Consideration   #🏖️Universe-Humans 
 ****
-
-> `Importance`: 30%
 
 > [!Summary] The Big Idea
 > The Human mind works in categories. We cannot conceptually understand anything that is not on some level a category of some sort.

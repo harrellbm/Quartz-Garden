@@ -1,10 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2025-05-05","Last Tended":"2025-05-07","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #🙂Agree   #🟡Consideration
+#🌱Seed   #🙂Agree   #🟡Consideration  #🏖️Universe-Humans 
 ****
-> `Importance`: 10%
  
 >[!Summary] The Big Idea
 > We live in a world obsessed with always knowing the latest or the breaking news or the thing around the bend. I feel like we often end up forgetting what we already know or the things we should take time to know better in the midst of the constant churn. 

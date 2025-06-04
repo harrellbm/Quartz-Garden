@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-12-19","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #😐Neutral 
+#🌱Seed  #😐Neutral   #🥾SpiritualPractices-EmbodiedLiving 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > Boredom is often the genesis of creativity (need to find where that comes from).  But generally being bored is actually a good thing and something kids and adults don’t experience much. 

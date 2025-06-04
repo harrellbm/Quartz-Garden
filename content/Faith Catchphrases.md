@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-11-30","Last Tended":"2025-01-28","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree  
+#🌱Seed  #🙂Agree  #🥾SpiritualPractices-EmbodiedLiving 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > Some nice and quick catch phrases to teach important postures of the Christian life. The first is being thankful you need to stop and remember what you are grateful for. 

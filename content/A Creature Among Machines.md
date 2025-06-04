@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-29","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌿Sapling   #😁Strongly-Agree   #🟡Consideration   #📝Essay 
+#🌿Sapling   #😁Strongly-Agree   #🟡Consideration   #📝Essay   #🏖️Universe-Humans  
 
 ****
-
-> `Importance`: 95%
 
 > [!quote] Scripture Focus
 > “There is a way that seems right to a man, but its end is the way to death.” 
@@ -15,7 +13,7 @@
 > [!abstract] Thesis
 > Human beings are not best understood as a compilation of parts with a main driver, but as a holistic creature eluding any tight definition. 
 
-Thoughts proceeding these: [[Embodiment of Community\|Embodiment of Community]]
+Thoughts proceeding these: [[Embodiment of Community]]
 ****
 
 # A Brewing Crisis 
@@ -143,7 +141,7 @@ Maybe see how first commission backs this up or not
 
 From there jumping into the metaphors that address particular parts of our existence 
 
-Explore this all more in depth with [[The Chiasm or the Chasm\|The Chiasm or the Chasm]] and [[Patterns of Liturgy-The Rhythm of Life\|Patterns of Liturgy-The Rhythm of Life]]
+Explore this all more in depth with [[The Chiasm or the Chasm]] and [[Patterns of Liturgy-The Rhythm of Life]]
 
 
 

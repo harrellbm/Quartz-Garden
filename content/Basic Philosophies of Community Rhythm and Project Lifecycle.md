@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-02-24","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🪴Sprout   #🙂Agree
+#🪴Sprout   #🙂Agree   #🔥Doctrine-Poetry-Story 
 
 ****
-
-> `Importance`: 60%
 
 > [!summary] The Big Idea
 > There is a better way to think about and go about ministry than always relying on programs. 

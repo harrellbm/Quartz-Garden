@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2024-12-19","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #🙂Agree   #🟡Consideration   
+#🌱Seed   #🙂Agree   #🟡Consideration   #🍽️Community-Mission 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > Notes from an conversation with Connie George about worship planning on 9/4/2024
@@ -25,6 +23,6 @@
 - Have then look at music and show if it goes up or down with their hands as they sing
 - For older kids, Write out words on a white board and then tap the words as you sing to help them get to flow of the music
 
-Related Notes: [[Aspersion Service\|Aspersion Service]]
+Related Notes: [[Aspersion Service]]
 
 ****

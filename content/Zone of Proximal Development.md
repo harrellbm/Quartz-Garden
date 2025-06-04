@@ -1,10 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2024-12-16","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree  #🏖️Universe-Humans 
 ****
-> `Importance`: 10%
  
 > [!The Bid Idea]
 > Basically progressive overload for learning.

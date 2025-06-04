@@ -1,5 +1,5 @@
 ---
-{"Note Planted":"2025-03-03","Last Tended":"2025-04-07","publish":true,"PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 #🪴Sprout   #🙂Agree   #🟢Conviction   #📰Handout 

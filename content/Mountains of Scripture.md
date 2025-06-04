@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-12-24","Last Tended":"2025-04-02","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #🙂Agree   #🟡Consideration
+#🌱Seed   #🙂Agree   #🟡Consideration  #🔥Doctrine-Poetry-Story 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > Mountains are an important place of interaction between God and humans. Over and over God has important meetings and interactions with His people on and around mountains.

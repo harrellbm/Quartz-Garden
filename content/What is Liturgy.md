@@ -1,22 +1,20 @@
 ---
-{"publish":true,"Note Planted":"2024-12-09","Last Tended":"2025-04-17","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌿Sapling   #😁Strongly-Agree   #🟢Conviction 
+#🌿Sapling   #😁Strongly-Agree   #🟢Conviction  #🥾SpiritualPractices-EmbodiedLiving 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > Liturgy is Latin for "the work of the people." They are the wonderful way by which we get to practice our faith together as a community. They are an interesting meeting of embodied Biblical truth and human tradition. 
 
 Related Notes:
-[[Embodiment of Community\|Embodiment of Community]]
-[[Foundations of Discipleship\|Foundations of Discipleship]]
-[[Introduction to Thematic Liturgies Project\|Introduction to Thematic Liturgies Project]]
-[[Thoughts on Liturgy and Rhythm\|Thoughts on Liturgy and Rhythm]]
-[[I Heard Them Singing\|I Heard Them Singing]]
+[[Embodiment of Community]]
+[[Foundations of Discipleship]]
+[[Introduction to Thematic Liturgies Project]]
+[[Thoughts on Liturgy and Rhythm]]
+[[I Heard Them Singing]]
 
 ***
 # What is Liturgy? (Incomplete)
@@ -40,11 +38,6 @@ Many authors have used the world liturgy in many ways. a foundational use comes 
 
 Interesting blog post on Walther's perspective on vestments as well [Walther on Vestments (Not his focus)](https://backtoluther.blogspot.com/2021/10/walther-on-vestments-not-his-focus-like.html?m=1)
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Introduction-to-Thematic-Liturgies-Project#Dealing-in-Reality" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 ## Dealing in Reality
 
 The centrality of the Gospel, however, is no excuse to foster lazy unengaged believers.  Life is for more than sitting and waiting for the end.  It is also about caring for neighbors as Christ has cared for us.  Yet this deceptively simple purpose for life is fraught with difficulty.  Because of this, the current endeavor seeks to acknowledge and live in the dualities of Sinner-Saint and the-now-and-not-yet.  Real life deals in these dualities constantly.  Therefore, it is only right that our Sunday worship offers life rhythms and patterns that are useful for every day of the week.  Primary emphasis in this regard will be given to the equipping of believers in their vocations to creation, neighbor, and family. 
@@ -52,23 +45,12 @@ The centrality of the Gospel, however, is no excuse to foster lazy unengaged bel
 For this to be successful, these abstract concepts must reach our people.  The Israelites passed on the faith through deeply experiential festivals, rituals and sacrifices.  The Word became flesh to bring salvation.  God promises to be found in the physical means of grace.   Liturgy, in a very real sense, enfleshes the deep things of God for us today.  The shape of our life can be changed dramatically through the practices in which we engage.  In other words, the things we do show, and form within us, what we believe and value.  As such, we misuse these gifts of God when we truncate their expression to rational reasoning or rote meaningless ritual.  
 
 
-</div></div>
-
-
 Marriott Definition of doing the redeemed world right[^2] 
 Each of us have been habituated into particular patterns of church embodiment. Whether it's the memory of a childhood pastor, or the discomfort from visiting a church on vacation, all of us have lived experiences that have taught us what we think a church community should look like.  If we draw on the definition of liturgy as “the performance of faith,” or “‘doing the world rightly,” We can begin to see that these ideas of an ideal church are a liturgy behind our liturgy. They are the lived liturgies that have sunken in and taken root. Collectively, we can call these parts of our social imaginary: rhythms of church embodiment. They are the patterns that make us feel at home in a particular context. The things we notice the most when they lack in other communities, or when things change within our own.
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Introduction-to-Thematic-Liturgies-Project#Centrality-of-the-Gospel" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
 
 ## Centrality of the Gospel
 
 At its core, all liturgy should pivot on the delivery of the Gospel: the pinnacle of the story of everything.  The good news of Christ’s death and resurrection is quite literally the life blood of God’s people.  It is a gift and work wrought exclusively by the power of the Trinity apart from human will or works.  It is the ultimate salvation onto which we cling while we wait for its final consummation.
-
-
-</div></div>
 
 
 > [!quote] Book of Concord, Apology of the Augsburg Confession, Article 7and 8, p. 179–80.
@@ -95,11 +77,6 @@ At its core, all liturgy should pivot on the delivery of the Gospel: the pinnacl
 > useless, foolish spectacles, which are not beneficial for good order, Christian discipline, or evangelical decorum in the church, are not true adiaphora or indifferent things. On the contrary, in regard to true adiaphora or indifferent things (as defined above) we believe, teach, and confess that such ceremonies, in and of themselves, are no worship of God or any part of it. They must instead be distinguished from each other in an appropriate manner, as it is written, “In vain do they worship me, teaching human precepts as doctrines” (Matt. 15:9). Therefore, we believe, teach, and confess that the community of God in every time and place has the right, power, and authority to change, reduce, or expand such practices according to circumstances in an orderly and appropriate manner, without frivolity or offense, as seems most useful, beneficial, and best for good order, Christian discipline, evangelical decorum, and the building up of the church. Paul teaches how one may yield and make concessions to the weak in faith in such external matters of indifference with good conscience (Rom. 14:1–23), and he demonstrates this with his own example (Acts 16:3 and 21:26; 1 Cor. 9:10).[^1]
 
 # Liturgy as Reflection of Scriptural Rhythms
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Patterns-of-Liturgy-The-Rhythm-of-Life#The-Rhythm-of-Life" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
 
 # The Rhythm of Life 
 
@@ -166,9 +143,6 @@ May His liturgy grab your heart and imagination. May it call you into new life e
 > Man goes out to his work and to his labor until the evening.” 
 > - Psalm 104:19-13
 
-</div></div>
-
-
 # Distinction between Human Liturgical Traditions and the Sacraments (Incomplete)
 
 > [!quote] Kolb, Robert, et al. The Book of Concord: The Confessions of the Evangelical Lutheran Church. Fortress Press, 2000, pp. 372–75.
@@ -180,22 +154,9 @@ May His liturgy grab your heart and imagination. May it call you into new life e
 
 
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Introduction-to-Thematic-Liturgies-Project#Connection-to-the-Story-of-Everything" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 ## Connection to the Story of Everything
 
 The common language of the Psalms should shape our stories.  Yet more importantly they should connect us to the grand narrative found in Scripture’s story of everything.[^3]  It is by this story of God’s salvation, and coming recreation, that we seek to pattern our lives.  Our lives have meaning and purpose because we are a part of this story and are heading toward this wonderful and beautiful recreation.  This story connects us to each other and, most importantly, to God and His continued work in our lives.  Sunday morning is a unique opportunity to realize this identity by bringing the all powerful Word of the Word made flesh to our people in engaging and meaningful ways.  Liturgy is a pattern for life into which we seek to habituate our people.[^4]  In other words, the way we live and worship should be shaped and connected to the narrative of salvation history. 
-
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Introduction-to-Thematic-Liturgies-Project#Engaging-Worship-from-Our-Place-in-the-Story" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
 
 
 ## Engaging Worship from Our Place in the Story
@@ -205,11 +166,6 @@ Our place in God’s story sits uniquely after His crucifixion and resurrection,
 Yet we need to be careful to also hold on to translation.  Our people are a product of their time.  The things of beauty and meaning from tradition do not always land the same way they used to among Christians in a different time dealing with different struggles and life experiences.  Consequently, it is of utmost importance that liturgy be translated into forms that reach our people so that they can actually be formed by it.  This is a pull in two directions.  Striving to proclaim the alien ideas and power of God’s Gospel in its fullness, while also being sensitive to the hearer.   
 
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Ritual-Efficacy-versus-Sacramental-Efficacy#Ritual-Efficacy-versus-Sacramental-Efficacy" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 ## Ritual Efficacy versus Sacramental Efficacy
 
 Keeping in mind the tension of tradition and translation, we come to the need to differentiate between ritual efficacy and sacramental efficacy.[^1]   On the one hand, the word of God is always efficacious.  For example, a sermon can be given in the most monotone and dull method, written in the most cliche and boring style, yet it is still God’s living and active word at work among His people.  The word of God will do what the world of God will do by the power of the Holy Spirit apart from, and often in spite of, our human efforts.  The deep reality of the words sacramental efficacy is somewhat at odds, however, with our experience of ritual efficacy.  The sermon described above will be met with eye rolls and sighs as even willing listeners struggle to not fall asleep.  This same idea can be fleshed out in many other examples that all lead to the need to evaluate and work toward ritually effective forms of liturgy.  
@@ -217,12 +173,6 @@ Keeping in mind the tension of tradition and translation, we come to the need to
 To state this distinction another way, all liturgy grounded in the true word of God and the right celebration of God’s gifts (sacramental and other) are without question efficacious (sacramental efficacy).  It makes no difference how engaging, interesting or personally compelling an individual finds it.  Liturgy delivers the goods of God’s promises with 100% assurance.  Ritual efficacy, on the other hand, deals in our human experience of a particular liturgical form’s ability to engage us.  It is no secret that almost every person finds different styles of worship music more or less effective for their personal engagement in meaningful worship.  Not only this but fields such as neuroscience point out the benefits of multisensory engagement for memory and retention of material in sermons and bible reading.  By maintaining the distinction between sacramental efficacy and ritual efficacy we can critically engage our practice of liturgy affirming the value and place for all faithful forms, while also acknowledging the nuances of human engagement.       
 
 [^1]: **Marriot, Article on Liturgy and discipleship, 10. [link](https://drive.google.com/file/d/1d5CYDp1PlyT-sHoIG9Wx41NfbU37ws7s/view?usp=sharing)**
-
-</div></div>
-
-
-
-</div></div>
 
 
 # Liturgy as Hands on Teaching (Incomplete)
@@ -235,24 +185,11 @@ Liturgy is about hands on learning
 
 The book or concord is clear that the idea of Liturgy falls within the category of human traditions, rites and ceremonies. Being written in a context where church rites had become more like magic incantations (i.e. the phrase "Hocus Pocus" literally coming from the Words of Institution in the Latin mass) it makes sense that the reformers had to reorient the church to the true source of our salvation and faith. Liturgy is not what saves people. **Only faith in the saving work of Jesus saves people!** What follows is a helpful distinction to keep this balanced.
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Introduction-to-Thematic-Liturgies-Project#Our-Heart-Language" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 ## Our Heart Language
 
 The Psalms can be thought of as the Christian’s handbook for navigating life.[^1]  In it God’s people of old have expressed their joys and woes, struggles and convictions.  They speak the language of a godly life in all it’s rich beauty and pain.  A language we as God’s people should learn to speak ourselves.  However, “we are often guilty of speaking the strange words of a lament or enthronement Psalm without serious attempts to help worshipers understand what they are saying.”[^2]
 
 Out of this conviction, the Psalms should be an integral part of weekly worship.  Their language and timber should shape our worship from week to week.  This means that every element of the liturgical order should express the full range of emotion, struggle, but ultimately hope and assurance taught by the Psalms.  
-
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Introduction-to-Thematic-Liturgies-Project#Biblical-Ways-to-Engage-Worship" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
 
 
 ## Biblical Ways to Engage Worship
@@ -263,27 +200,14 @@ This participation in worship takes on two main aspects throughout the pages of 
 
 The creative worship response is a related yet distinct way the body of Christ participates in worship.  Whenever God’s people have encountered Him the natural response has always been creative.  After crossing through the Red Sea the Israelites sang a new song.  After Mary encountered the angel and the wonders of the Christmas story she sang a new song.  The giving of the covenant on mount Sinai was followed by the outpouring of God given creative power to build and decorate the tabernacle and its instruments.  Encountering God is an occasion to bring forth the creative expression of praise and wonder.  Not only this, but times of darkness and despair are also times for creative response in lament.  God’s people have always responded to God creatively, whether He feels close or far, this creative impulse should by no means be neglect.  
 
-
-</div></div>
-
 # Liturgy for Good Order and Tranquility (Incomplete)
 we often look to other means for good order or operations
 
 role of memorization
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Introduction-to-Thematic-Liturgies-Project#Variety-versus-Regularity" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 ## Variety versus Regularity 
 
 A practice done regularly makes a habit, and a habit has a way of sticking within a person.  This basic human truth is an important consideration as we seek to grow our people using liturgical forms.  There needs to be a sense of continuity and repetition for things to sink into people.  However, this need to habituate people into a regular pattern of worship and practice, should not exclude the legitimacy and importance of variety.  Scripture alone (not to mention liturgical history) brings to light a huge variety of musical and ritual expression.  We should seek to bring our people into this fullness, not at the expense of regularity, but in concert with it.  One noteworthy example of this is the practice of lament.  Lament comes directly out of the pages of Scripture but is something the church rarely practices.  We possess this very powerful practice to wrestle and deal with grief and brokenness.  Yet we often leave it on the shelf and rob our people of it.   
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Real-Loss#Real-Loss" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
 
 
 ## Real Loss
@@ -299,17 +223,6 @@ A practice done regularly makes a habit, and a habit has a way of sticking withi
 This conviction makes it clear that changing and/or generating liturgical forms is not something to be taken lightly.   In fact, many argue that the risk of loss is too great to allow for variety in liturgical forms.  This project, however, does not agree with this assessment.  While loss is real and needs to be appreciated and acknowledged, it should not bind the church from worshiping God with all the skill and talent He has placed within His body.  
 
 Rather than dismissing loss, or turning it into a crippling fear, this project seeks to engage tradition thoughtfully to bring to life liturgical forms that help pull people into the depths of Christ’s richness and unlock interaction with our scriptural and churchly heritage.
-
-</div></div>
-
-
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Introduction-to-Thematic-Liturgies-Project#Vital-Things-to-have-in-Worship" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
 
 
 ## Vital Things to have in Worship
@@ -343,9 +256,6 @@ Focus on our connection to the Story of Everything. 
 Focus on the two kinds of righteousness that order our lives.[^15]
 
 - Expressing the uniqueness of our relationship with/before God is vital for understanding the wonderful free gift of salvation.  In addition, clearly articulating our role and responsibility as neighbors in relationship with other humans is important in order to avoid lazy, or extreme, forms of Chrsitian living.
-
-
-</div></div>
 
 
 # Liturgy as language and Grammar 

@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-26","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree  #🛠️BringingLifeintotheWorld 
 
 ****
-
- > `Importance`: 10%
 
 > [!summary] The Big Idea
 > List of tips and tricks for iPhone automation and shell emulators.

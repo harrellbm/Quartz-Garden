@@ -1,5 +1,5 @@
 ---
-{"aliases":["#🪴Sprout"],"publish":true,"PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 # Tag Description

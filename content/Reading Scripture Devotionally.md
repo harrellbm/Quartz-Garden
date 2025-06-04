@@ -1,17 +1,15 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #🙂Agree   #🟢Conviction 
+#🌱Seed   #🙂Agree   #🟢Conviction  #🥾SpiritualPractices-EmbodiedLiving 
 
 ****
-
-> `Importance`: 10%
 
 > [!summary] The Big Idea
 > Reading Scripture devotionally can be thought of as having a conversation between God's word and our personal reaction to what God is saying.
 
-Related Note: [[Activity-A Conversion with Scripture\|Activity-A Conversion with Scripture]]
+Related Note: [[Activity-A Conversion with Scripture]]
 
 ****
 

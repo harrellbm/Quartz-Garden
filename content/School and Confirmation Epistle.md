@@ -1,13 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree  #📰Handout 
 
 ****
-
-> `Importance`: 10%
-
 ***The Big Idea***: Used in OS #📃Epistle September 2023
 
 Our Savior’s is full of the hum of school life once again.  It is exciting to be embarking on another school year where the love and grace of Jesus can be shared with our school children big and small. It is such a blessing to be able to provide a Christ centered education for these children as a Church and School community.  

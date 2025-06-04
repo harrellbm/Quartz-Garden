@@ -1,21 +1,20 @@
 ---
-{"publish":true,"Note Planted":"2025-06-02","Last Tended":"2025-06-02","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #🙂Agree  #🟢Conviction 
+#🌱Seed   #🙂Agree  #🟢Conviction  #🔥Doctrine-Poetry-Story 
 ****
-> `Importance`: 92%
  
 >[!Summary] The Big Idea
-> This one of the [[Canticles (Songs in the Bible)\|Canticles (Songs in the Bible)]] which is drawn from Luke 2:29-32 that was sung over Jesus by Simeon as He was being brought to the temple by Mary and Joseph. 
+> This one of the [[Canticles (Songs in the Bible)]] which is drawn from Luke 2:29-32 that was sung over Jesus by Simeon as He was being brought to the temple by Mary and Joseph. 
 
 ****
 # Setting 1 & 2 Version, LSB p. 165, 182 
-- Modern wording with closing [[Gloria Patri\|Gloria Patri]] 
+- Modern wording with closing [[Gloria Patri]] 
 # Setting 3 Version, LSB p. 199
-- Older English wording with matching closing [[Gloria Patri\|Gloria Patri]]
+- Older English wording with matching closing [[Gloria Patri]]
 # Setting 4 Version, LSB p. 211
-- Extended two verse version. First verse is Song of Simeon. Second is longer [[Gloria Patri\|Gloria Patri]] 
+- Extended two verse version. First verse is Song of Simeon. Second is longer [[Gloria Patri]] 
 # Compline Version, LSB p. 258
 - Addition of a very beautiful opening and closing Antiphon but no Gloria Patri.
 # Spoken Funeral Service Version , LSB p. 281

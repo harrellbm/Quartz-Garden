@@ -1,11 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-05-19","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌿Sapling #🙂Agree #🟢Conviction 
+#🌿Sapling #🙂Agree #🟢Conviction #🔥Doctrine-Poetry-Story 
 
 ****
-> `Importance`: 50%
 
 > [!summary] The Big Idea
 > The connection between dirt and the human person is deeply meaningful and worth investigating.

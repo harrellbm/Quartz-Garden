@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2024-10-28","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree 
+#🌱Seed  #🙂Agree #🔥Doctrine-Poetry-Story 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > It is easy to hear the term co-creator as meaning we are doing the same job as THE Creator, but really it expresses us as being contingent and jointly creating with God as reflections of His image.
@@ -17,7 +15,7 @@ The idea of being co-creators with God can be found in the book [All That is Mad
 
 It is important that we understand the proper usage of the prefix co not only for understanding being co-creators but also that so that we can understand the words of the Athanasian Creed. There the Godhead is described as coeternal and coequal. In these descriptions it is clear that the addition of co to coequal is an additional descriptor above and beyond them being equal and actually denotes the deep interconnectedness of the Godhead. 
 
-Another place that we can get confused is applying a term like co-creator in the [[Corom Deo\|Corom Deo]] realm rather than the [[Corom Mundo\|Corom Mundo]] realm. Co-creator speaks of our activity of creating within the created world, and how God relates to that, but it does not speak about how we relate to God as His creatures or as sinners needing saved. It is a rather narrow descriptor of humans and cannot cover everything or even a lot of things. 
+Another place that we can get confused is applying a term like co-creator in the [[Corom Deo]] realm rather than the [[Corom Mundo]] realm. Co-creator speaks of our activity of creating within the created world, and how God relates to that, but it does not speak about how we relate to God as His creatures or as sinners needing saved. It is a rather narrow descriptor of humans and cannot cover everything or even a lot of things. 
 
 Therefore, being a co-creator is all about the fact that as we make and create within our callings as humble creatures within creation as reflections of THE Creator. The co refers to our contingency and our going with God. Not us being at all equal or doing the same kind of creating. EVERYTHING we do should be and needs to be a reflection of who God is. This is a tangible outworking and return to the fact that we are created in the image of God.  
 

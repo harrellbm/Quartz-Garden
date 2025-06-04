@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-12-16","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #🙂Agree   #🟡Consideration
+#🌱Seed   #🙂Agree   #🟡Consideration   #🛠️BringingLifeintotheWorld 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > Over the course of my life I have struggled with two extreme when it comes to keeping track of and accomplishing tasks. Either I have not cared at all and let the wind blow where it pleases or I have been so focused on checking off all the todo list that I feel like I have no time for anything else. 

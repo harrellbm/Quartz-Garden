@@ -1,15 +1,15 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree  #📚Definition 
 
 ****
 
 > `Importance`: 10%
 
 > [!Summary] The Big Idea 
-> Large Group Socratic Method is a type of [[Pedagogy\|Pedagogy]]
+> Large Group Socratic Method is a type of [[Pedagogy]]
 
 * * *
 

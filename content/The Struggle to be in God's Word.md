@@ -1,17 +1,15 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🪴Sprout #🙂Agree #🟢Conviction 
+#🪴Sprout #🙂Agree #🟢Conviction #🥾SpiritualPractices-EmbodiedLiving 
 
 ****
-
-> `Importance`: 70%
 
 > [!Summary] The Big Idea
 > There are so many pressures that get in the way of just being in Scripture each day.
 
-***Related Epistle***: [[Love the Lord Your God with all Your Heart\|Love the Lord Your God with all Your Heart]] 
+***Related Epistle***: [[Love the Lord Your God with all Your Heart]] 
 
 ****
 

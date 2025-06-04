@@ -1,20 +1,17 @@
 ---
-publish: true
-Note Planted: 2025-04-23
-Last Tended: 2025-05-02
+{"publish":true,"cssclasses":""}
 ---
-#🌱Seed   #🙂Agree   #📊Project 
+
+#🌱Seed   #🙂Agree   #📊Project  #🛠️BringingLifeintotheWorld 
 
 ****
 
-> `Importance`: 40%
-
 > [!Summary] The Big Idea
-> Various notes on making and blending Tea.  The goal is to one day have many things grown fro [[A Tea Garden\|A Tea Garden]].
+> Various notes on making and blending Tea.  The goal is to one day have many things grown fro [[A Tea Garden]].
 
 Similar Notes:
-[[Plant Care\|Plant Care]]
-[[Plants Around Church\|Plants Around Church]]
+[[Plant Care]]
+[[Plants Around Church]]
 
 ****
 

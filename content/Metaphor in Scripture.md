@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree  #🔥Doctrine-Poetry-Story 
 
 ****
-
-> `Importance`: 10%
 
 ***The Big Idea***: Used as OS #📃Epistle Dec 2021. Part of a series Mediation on Scripture.
 

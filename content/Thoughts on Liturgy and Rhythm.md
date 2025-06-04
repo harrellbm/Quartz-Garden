@@ -1,21 +1,19 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-02-03","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree #🔥Doctrine-Poetry-Story 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 
 ***Related Notes***: 
-[[Patterns of Liturgy-The Rhythm of Life\|Patterns of Liturgy-The Rhythm of Life]]
-[[Models of Human Rhythms\|Models of Human Rhythms]]
-[[Private/Personal Reflections on My Personal Rhythms\|Personal Reflections on My Personal Rhythms]]
-[[Rhythm Reset\|Rhythm Reset]]
-[[What is Liturgy\|What is Liturgy]]
+[[Patterns of Liturgy-The Rhythm of Life]]
+[[Models of Human Rhythms]]
+[[Private/Personal Reflections on My Personal Rhythms]]
+[[Rhythm Reset]]
+[[What is Liturgy]]
 
 ****
 # Learning resources around Liturgy and liturgical history

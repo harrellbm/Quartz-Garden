@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-11-10","Last Tended":"2024-10-30","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree 
+#🌱Seed  #🙂Agree #🔥Doctrine-Poetry-Story 
 
 ****
-
-> `Importance`: 10%
 
 > [!cite] Genesis 1.:28
 > “And God blessed them. And God said to them, 
@@ -15,6 +13,6 @@ and have dominion over the fish of the sea and over the birds of the heavens and
 
 > [!Summary] The Big Idea
 
-Related Notes: [[LCOS Notes/Rhythms and Patterns/Fruitfulness\|Fruitfulness]], [[LCOS Notes/Rhythms and Patterns/Multiplication and Filling the Earth\|Multiplication and Filling the Earth]], [[LCOS Notes/Rhythms and Patterns/Dominion Over Creation\|Dominion Over Creation]]
+Related Notes: [[LCOS Notes/Rhythms and Patterns/Fruitfulness]], [[LCOS Notes/Rhythms and Patterns/Multiplication and Filling the Earth]], [[LCOS Notes/Rhythms and Patterns/Dominion Over Creation]]
 
 ****

@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree  #🍽️Community-Mission 
 
 ****
-
-> `Importance`: 10%
 
 > [!quote] 1 Corinthians 12:26
 > We are called as members of Christ’s body to look outside ourselves to the needs of others. “If one member suffers, all suffer together; if one member is honored, all rejoice together.”

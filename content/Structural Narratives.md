@@ -1,10 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2024-10-30","Last Tended":"2025-01-29","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #😐Neutral   #🟡Consideration
+#🌱Seed   #😐Neutral   #🟡Consideration  #🍽️Community-Mission 
 ****
-> `Importance`: 10%
  
 >[!Summary] The Big Idea
 > The idea that particular organizational structures arise from particular narratives about what the organization is and how it should function. 

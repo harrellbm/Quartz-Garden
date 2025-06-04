@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-24","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree 
+#🌱Seed  #🙂Agree  #📚Definition  #🔥Doctrine-Poetry-Story 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > Martin Luther's theology is summarized by four maxims, known as the "solas" of the Reformation:

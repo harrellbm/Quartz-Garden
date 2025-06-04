@@ -1,20 +1,19 @@
 ---
-{"Note Planted":"2024-10-22","Last Tended":"2025-05-27","publish":true,"PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🪴Sprout   #🙂Agree   #🟡Consideration   #📝Essay 
+#🪴Sprout   #🙂Agree   #🟡Consideration   #📝Essay  #🏖️Universe-Humans 
 ****
-> `Importance`: 10%
  
 >[!Summary] The Big Idea
 >I had no idea that memory and memorization could be as varied and useful as it is. Rote memory is only one form of memory. Here are some of my notes about what I have learned so far.
 
 Similar Notes:
-[[Why Learn\|Why Learn]]
-[[Storytelling\|Storytelling]]
-[[Memorizing the Psalms\|Memorizing the Psalms]]
-[[Memorizing the Lords Prayer\|Memorizing the Lords Prayer]]
-[[Memorizing the Ten Commandments\|Memorizing the Ten Commandments]]
+[[Why Learn]]
+[[Storytelling]]
+[[Memorizing the Psalms]]
+[[Memorizing the Lords Prayer]]
+[[Memorizing the Ten Commandments]]
 ****
 # Do I have to Memorize It?
 We live in a world where memorization is highly deemphasized. We can always look things up. Even more so with AI we can even have a conversation to get needed information easily and quickly without the trouble of storing it within our own minds. 
@@ -68,7 +67,7 @@ A common approach involves selecting peg words that rhyme with the corresponding
 
 Additionally, each item can be vividly associated with its corresponding peg word through the formation of mental imagery. For instance, if "one" is associated with "bun" and the first item to remember is "milk," one might visualize a carton of milk balanced precariously on a bun.  
 
-My experiment with adding a peg layer to my memorization of the Lord's Prayer: [[Memorizing the Lords Prayer\|Memorizing the Lords Prayer]]
+My experiment with adding a peg layer to my memorization of the Lord's Prayer: [[Memorizing the Lords Prayer]]
 
 This system offers the advantage of both sequential and random access to the memorized information. Recalling a specific peg number directly triggers the memory of its associated word, which in turn leads to the retrieval of the linked item. 
 
@@ -86,7 +85,7 @@ Describe the room you are in right now as you  see it and look around it. This i
 
 shut your eyes and do it again but describe the room from your memory. this is what we are talking about
 
-Experiment with this [[Memorizing the Ten Commandments\|Memorizing the Ten Commandments]]
+Experiment with this [[Memorizing the Ten Commandments]]
 
 outline the key pieces of things or parts of a story or idea 
 

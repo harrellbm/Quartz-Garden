@@ -1,18 +1,18 @@
 ---
-{"publish":true,"Note Planted":"2025-04-03","Last Tended":"2025-05-27","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🪴Sprout   #🙂Agree   #🟢Conviction   #📚Definition   #📓Journal 
+#🪴Sprout   #🙂Agree   #🟢Conviction   #📚Definition   #📓Journal  
+#🔥Doctrine-Poetry-Story 
 ****
-> `Importance`: 100%
  
 >[!Summary] The Big Idea
 > Starting to collect instances and resources around big biblical themes.
 
-Similar Ideas: [[Notes from Conversation with Sarah Salzburg\|Notes from Conversation with Sarah Salzburg]]
+Similar Ideas: [[Notes from Conversation with Sarah Salzburg]]
 ****
 # The Core Seven
-![Biblical Themes Symbols.jpeg](Biblical%20Themes%20Symbols.jpeg)
+![[Biblical Themes Symbols.jpeg]]
 [Biblical Themes Packet](https://docs.google.com/document/d/1KlZuGpRum8V7eOclQ2BHBTHY_auJ4MXYqUHYXTau4XQ/edit?usp=sharing)
 [Biblical Themes Outline](https://docs.google.com/document/d/1GaJg0GgUjQcQ9bhbU9nmi-CsfuVGyqHkRuI1z1fZV-A/edit?usp=sharing) (Modified one with [Questions to Ask](https://docs.google.com/document/d/17qteKuTVtZTGgd6R2tCSfo1m7pLklzh0jLY1S30FxN8/edit?usp=sharing))
 # 1. Temple (Heaven+Earth) and Mountain of God 
@@ -24,9 +24,9 @@ Similar Ideas: [[Notes from Conversation with Sarah Salzburg\|Notes from Convers
 - Presence of spiritual beings
 ### Examples:
 -  The two important mountains are Mount Zion and Mount Esau as kind of opposing places of authority and power but the end of the book pictures saviors going up to rule on both mountains under the authority of God alone.
-- [[Mountains of Scripture\|Mountains of Scripture]]
-- [[The Tabernacle\|The Tabernacle]]
-- [[Sacred Space\|Sacred Space]]
+- [[Mountains of Scripture]]
+- [[The Tabernacle]]
+- [[Sacred Space]]
 # 2. Sabbath
 - Number 7 is used to signal theme
 - Rest from `__________`
@@ -39,7 +39,7 @@ Similar Ideas: [[Notes from Conversation with Sarah Salzburg\|Notes from Convers
 - Choices made to either follow Yahweh or define good and bad for yourself
 ### Examples:
 - Path back guarded by two angels. Becomes a signal for where the path back to God is.
-- [[Sermons/2025/4.24.25 Lampstands and Glorified Christ\|4.24.25 Lampstands and Glorified Christ]] connection of Lampstand with Tree of life.
+- [[Sermons/2025/4.24.25 Lampstands and Glorified Christ]] connection of Lampstand with Tree of life.
 # 5. Exile
 - “East of `______` / “Down to `________`
 - “Babylon”/ “Egypt”/ “Assyria”
@@ -92,7 +92,7 @@ Similar Ideas: [[Notes from Conversation with Sarah Salzburg\|Notes from Convers
 	- They thought they could raise themselves up or be safe because they lived in high places. 
 - Chosen Nation and All Nations
 	- Transition from chosen nation to all nations
-	- In [[Bible Book Notes/The Book of Obadiah\|The Book of Obadiah]], Edom becomes an emblem of all the nations in the middle of the book in verse 15 where is switches to judgment against all nations for refusing to acknowledge God
+	- In [[Bible Book Notes/The Book of Obadiah]], Edom becomes an emblem of all the nations in the middle of the book in verse 15 where is switches to judgment against all nations for refusing to acknowledge God
 - Justice
 	- Justice according to God's rule and definition of what is right not what the Edomites convinced themselves was right. 
 - Rule of God

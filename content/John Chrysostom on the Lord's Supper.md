@@ -1,10 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2025-01-07","Last Tended":"2025-01-28","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #🙂Agree   #🟡Consideration
+#🌱Seed   #🙂Agree   #🟡Consideration   #🔥Doctrine-Poetry-Story 
 ****
-> `Importance`: 10%
  
 >[!Summary] The Big Idea
 > I really love this quote from John Chrysostom.

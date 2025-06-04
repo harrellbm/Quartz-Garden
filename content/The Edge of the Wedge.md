@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #😐Neutral 
+#🌱Seed  #😐Neutral #🏖️Universe-Humans 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > ”It can be anything, but first it has to be something specific.” 

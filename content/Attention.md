@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-12-09","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree 
+#🌱Seed  #🙂Agree  #🥾SpiritualPractices-EmbodiedLiving 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > the way we use and engage our attention matters. 

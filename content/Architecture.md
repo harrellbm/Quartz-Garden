@@ -1,20 +1,18 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree   #🛠️BringingLifeintotheWorld 
 
 ****
-
- > `Importance`: 20%
 
 > [!summary] The Big Idea
 > The places and space we inhabit matter. They shape the kind of life and community we can most easily have and participate in. The way we build, design and maintain the spaces we are responsible for is a vital part of our call to a Christian life in ways we often tend to overlook. 
 
-Related idea: [[Pedagogy of Space\|Pedagogy of Space]]
+Related idea: [[Pedagogy of Space]]
 
 Influential perspective toward this understanding: 
-[[Christopher Alexander (Architect, Author)\|Christopher Alexander (Architect, Author)]]
+[[Christopher Alexander (Architect, Author)]]
 
 * * *
 

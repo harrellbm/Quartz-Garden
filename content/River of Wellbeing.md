@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🪴Sprout   #😁Strongly-Agree  #📚Definition 
+#🪴Sprout   #😁Strongly-Agree  #📚Definition  #🍽️Community-Mission 
 
 ****
-
-> `Importance`: 90%
 
 > [!Summary] The Big Idea
 > **The River Of Wellbeing** – The left and right side of our brain can be imagined as the two banks of a river, the *River of Wellbeing*

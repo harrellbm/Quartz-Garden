@@ -1,11 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2025-04-16","Last Tended":"2025-04-17","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌿Sapling   #🙂Agree   #🟢Conviction   #📓Journal 
+#🌿Sapling   #🙂Agree   #🟢Conviction   #📓Journal  #🥾SpiritualPractices-EmbodiedLiving 
 ****
-> `Importance`: 10%
- 
 >[!Note] 
 > - Used as May 2025 #📃Epistle for LCOS
 > - Posted to Substack as #📝Essay in its current state April 2025
@@ -23,7 +21,7 @@ And so I ran across an idea: read through the whole Bible in thirty days. That's
 >[!Cite] Psalm 1:2 ESV
 > his delight is in the law of the Lord, and on his law he meditates day and night. 
 
-![Scripture.jpg](Scripture.jpg)
+![[Scripture.jpg]]
 
 That kind of life permeating interaction with Scripture has always seemed to elude me. How quickly do devotional moments, or reading plans, often fade into the noise of news feeds and todo lists. So many other things fight to fill my mind constantly. And so the speed of thirty days felt kind of like a depth charge set to blow apart all the conscious and unconscious ruts and mental habits I had been inhabiting. 
 

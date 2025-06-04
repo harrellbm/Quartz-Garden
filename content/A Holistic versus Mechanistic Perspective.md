@@ -1,15 +1,13 @@
 ---
-{"publish":true,"Note Planted":"2024-11-06","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🪴Sprout   #🙂Agree   #🟡Consideration 
+#🪴Sprout   #🙂Agree   #🟡Consideration   #🏖️Universe-Humans 
 
 ****
 
-> `Importance`: 50%
-
 > [!Summary] The Big Idea
-> The basic idea that Western thought has gone too far into relying only on a mechanistic explanation of the universe. Thinkers like [[Christopher Alexander (Architect, Author)\|Christopher Alexander (Architect, Author)]] suggest a reorientation to seeing the universe as a whole that is itself made of smaller things that are themselves whole (like a human) opening up the ability to see the world as more than just a set of organic machines. 
+> The basic idea that Western thought has gone too far into relying only on a mechanistic explanation of the universe. Thinkers like [[Christopher Alexander (Architect, Author)]] suggest a reorientation to seeing the universe as a whole that is itself made of smaller things that are themselves whole (like a human) opening up the ability to see the world as more than just a set of organic machines. 
 > 
 > The specifics of how things work mechanistically can (and will always be) figured out through science and other research but rather than being the base picture of the world a holistic perspective seeks to understand the universe as flowing out from the core understanding of "the whole." 
 > 
@@ -18,12 +16,12 @@
 A metaphor for this is to think of two frogs on a table. One is alive and whole the other is split open and pinned on the board. Which frog gives you a better example of what a frog really is? The dissected frog can teach you a lot about the mechanics of how a frog works internally. But if that is all you ever have access to you never really will have a good idea of what a frog is like, or how it sounds, or where it lives, or any of the other things that makes a frog "a frog" as a whole created creature.   
 
 Related Notes: 
-[[Structure Preserving Transformation or Smooth Change or Unfolding\|Structure Preserving Transformation or Smooth Change or Unfolding]], 
-[[Notes on the Nature of Order\|Notes on the Nature of Order]],
-[[The Quality of Life in Environments and Objects\|The Quality of Life in Environments and Objects]],
-[[Center Composed Wholeness\|Center Composed Wholeness]],
-[[The Ways Centers Help Each Other Have More Life\|The Ways Centers Help Each Other Have More Life]],
-[[Thinking of Spatial Relationships as Centers\|Thinking of Spatial Relationships as Centers]]
+[[Structure Preserving Transformation or Smooth Change or Unfolding]], 
+[[Notes on the Nature of Order]],
+[[The Quality of Life in Environments and Objects]],
+[[Center Composed Wholeness]],
+[[The Ways Centers Help Each Other Have More Life]],
+[[Thinking of Spatial Relationships as Centers]]
 
 ****
 

@@ -1,21 +1,18 @@
 ---
-publish: true
-Note Planted: 2024-11-06
-Last Tended: 2025-05-02
+{"publish":true,"cssclasses":""}
 ---
-#🌱Seed  #😐Neutral #📚Definition 
+
+#🌱Seed  #😐Neutral #🛠️BringingLifeintotheWorld 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > Random notes on house plants and other plant care I have found useful or interesting. 
 
 Similar Ideas:
-[[A Tea Garden\|A Tea Garden]]
-[[Plants Around Church\|Plants Around Church]]
-[[Wild Edible Garden Design Pattern\|Wild Edible Garden Design Pattern]]
+[[A Tea Garden]]
+[[Plants Around Church]]
+[[Wild Edible Garden Design Pattern]]
 ****
 # Plants Owned
 - Fig Trees

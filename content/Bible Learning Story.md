@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-27","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed #🙂Agree #📖Story
+#🌱Seed #🙂Agree #📖Story   #🔥Doctrine-Poetry-Story 
 
 ****
-
-> `Importance`: 10%
 
 ***Personal Story***: 
 I’m Springfield. A couple of students. 

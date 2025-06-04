@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 #🌱Seed  #😐Neutral 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > A way of structuring a plan that breaks actions into the first three days, the first three weeks, the first three months, and the first three years. A way to kind of ease into a situation and have things basically organized. 

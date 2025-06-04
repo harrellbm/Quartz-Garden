@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree 
+#🌱Seed  #🙂Agree  #🍽️Community-Mission 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > - **Story Questions** - questions you ask someone to get to know a story or detail about their life. Basically an invitation to tell a story or give personal details or dig into personal information.

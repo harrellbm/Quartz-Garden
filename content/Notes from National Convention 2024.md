@@ -1,21 +1,20 @@
 ---
-{"publish":true,"Note Planted":"2024-11-04","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #😐Neutral 
+#🌱Seed  #😐Neutral  #📘BookNotes 
 ****
-> `Importance`: 10%
  
 > [!summary]
 > Notes from the National Youth workers conference held in New Orleans 2024
 
 Related notes: 
-- [[Seven Practices of Healthy Youth Ministry\|Seven Practices of Healthy Youth Ministry]]
-- [[Notes on Fundraising, Travel, Risk Management and Logistics\|Notes on Fundraising, Travel, Risk Management and Logistics]]
-- [[Scaffolding Dance as Parents\|Scaffolding Dance as Parents]]
-- [[Supportive Adults\|Supportive Adults]]
-- [[Notes from Partnering with Parents\|Notes from Partnering with Parents]]
-- [[Notes from The communal shape of the Christian Life \|Notes from The communal shape of the Christian Life ]]
+- [[Seven Practices of Healthy Youth Ministry]]
+- [[Notes on Fundraising, Travel, Risk Management and Logistics]]
+- [[Scaffolding Dance as Parents]]
+- [[Supportive Adults]]
+- [[Notes from Partnering with Parents]]
+- [[Notes from The communal shape of the Christian Life ]]
 ****
 
 # Dr. Nafzger Bible study 

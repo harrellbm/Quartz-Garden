@@ -1,10 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2025-04-10","Last Tended":"2025-05-23","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🍋Fruit   #✒️Poem 
+#🍋Fruit   #✒️Poem  #🔥Doctrine-Poetry-Story 
 ****
-> `Importance`: 96%
 
 <center>Snap!  The fetters charged to hold firm this world fail – reality is lost in light.</center>
 <center>Eyes see yet closed, or do eyes see at all?  Crisp haze covers all.</center>

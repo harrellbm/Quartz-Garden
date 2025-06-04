@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2025-04-24","Last Tended":"2025-04-24","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 
-#🪴Sprout   #🙂Agree   #🟢Conviction    #📚Definition 
+#🪴Sprout   #🙂Agree   #🟢Conviction    #📚Definition  #🔥Doctrine-Poetry-Story 
 ****
-> `Importance`: 81%
-
 One of my favorite quotes about Scripture: 
 
 >[!Quote] from Gregory the Great’s _Moralia on Job,_ section 4.

@@ -1,12 +1,10 @@
 ---
-{"Note Planted":"2024-10-22","Last Tended":"2024-12-10","publish":true,"PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree #🏖️Universe-Humans 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > What are the basic traits that make something worth doing? 
@@ -19,9 +17,9 @@ The rhythms of life, the cycles, the unfinished, the in process, the slow and de
 
 The think to be avoided in all this is the look of being productive or generative but never gaining real growth or being challenged to be the best you can be.
 
-So I guess there still needs to be a basic imperative call forward but not to the standard description of success. Rather it should be the Call of [[The Two Commissions\|The Two Commissions]]. This lays out God’s definition of human flourishing because our human definitions suck. 
+So I guess there still needs to be a basic imperative call forward but not to the standard description of success. Rather it should be the Call of [[The Two Commissions]]. This lays out God’s definition of human flourishing because our human definitions suck. 
 
 ****
-Related note: [[Abstract Basis of Life\|Abstract Basis of Life]], [[A Creature Among Machines\|A Creature Among Machines]]
+Related note: [[Abstract Basis of Life]], [[A Creature Among Machines]]
 
 

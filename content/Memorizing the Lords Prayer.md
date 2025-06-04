@@ -1,10 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2025-05-18","Last Tended":"2025-05-28","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌿Sapling   #😁Strongly-Agree    #🟢Conviction    #📊Project 
+#🌿Sapling   #😁Strongly-Agree    #🟢Conviction    #📊Project  #🥾SpiritualPractices-EmbodiedLiving 
 ****
-> `Importance`: 87%
  
 >[!Summary] The Big Idea
 > Since I was a small child I have had the Lord's Prayer Memorized. I say it daily with my family and little girls now. 
@@ -19,8 +18,8 @@
 > The peg system is a mnemonic technique that hinges on the creation of mental associations. This is accomplished by utilizing a pre-memorized list of words, known as "pegs," linked to numbers (rather than spatial locations as used in other memorization techniques). A common approach involves selecting peg words that rhyme with the corresponding numbers, such as "one-bun," "two-shoe," and "three-tree," which facilitates the initial learning of the peg list. To memorize a new sequence of items, each item is then vividly associated with its corresponding peg word through the formation of mental imagery. For instance, if "one" is associated with "bun" and the first item to remember is "milk," one might visualize a carton of milk balanced precariously on a bun.
 
 Similar notes:
-[[Memorizing the Psalms\|Memorizing the Psalms]]
-[[Memory, the Things We Keep with Us\|Memory, the Things We Keep with Us]]
+[[Memorizing the Psalms]]
+[[Memory, the Things We Keep with Us]]
 ****
 This has been an interesting experiment. Since I already had the prayer memorized by rote adding another "layer" was relatively easy. In trying to compose the peg list I found it easier to simple use the opening phrase of each petition as the peg rather than a singular word. It also makes is so that if I want to say the rest of a petition or jump in or out of the prayer it all flows smoothly together.   
 # Peg List

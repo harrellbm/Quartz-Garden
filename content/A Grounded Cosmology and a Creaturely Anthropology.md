@@ -1,15 +1,13 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🪴Sprout    #🙂Agree   #🟡Consideration   #🌳Thought-Tree 
+#🪴Sprout    #🙂Agree   #🟡Consideration   #🏖️Universe-Humans 
 
 ****
 
-> `Importance`: 40%
-
 > [!Summary] The Big Idea
-> This is a [[Tree of Thought\|Tree of Thought]] for the ideas surrounding what it means to be human from a biblically founded perspective. 
+> This is a [[Tree of Thought]] for the ideas surrounding what it means to be human from a biblically founded perspective. 
 > - Where we start is that we are creatures created in the image of God for a particular kind of life that conforms to God’s definition of good not ours.
 
 # The Core question 
@@ -27,7 +25,7 @@ What is a healthy theology of change that comes for a biblical basis?
 What if mechanistic science is not the highest or best good when it comes to exploring and building? 
 
 How can we approach the world, ourselves and our communities in a holistic manner?
-# Grounded [[Cosmology\|Cosmology]]
+# Grounded [[Cosmology]]
 Wholeness and centers as ways of understanding space 
 
 Rhythm, and liturgy as ways to understand time 
@@ -36,20 +34,20 @@ God’s eternal power and divine nature can be seen clearly through creation. Se
 
 Psalm 19 creation speaks of God, then move to how the law or God is good and valuable, then ends with personal application and prayer to be in sync with Gods good law and his good creation 
 
-[[Basic Hierarchy of Elements\|Basic Hierarchy of Elements]]
+[[Basic Hierarchy of Elements]]
 
-[[My Thoughts on Cosmology\|My Thoughts on Cosmology]]
+[[My Thoughts on Cosmology]]
 
-[[The Starting Point of Theology and Cosmology\|The Starting Point of Theology and Cosmology]]
+[[The Starting Point of Theology and Cosmology]]
 
 # Creaturely Anthropology 
-[[A Creature Among Machines\|A Creature Among Machines]]
+[[A Creature Among Machines]]
 
-[[The Two Commissions\|The Two Commissions]]
+[[The Two Commissions]]
 
-[[The Theology of Dirt\|The Theology of Dirt]]
+[[The Theology of Dirt]]
 
-[[A Categorical Mind\|A Categorical Mind]]
+[[A Categorical Mind]]
 # A Theology of Change 
 
 ## Two Poor Mindsets about Change
@@ -59,16 +57,9 @@ Psalm 19 creation speaks of God, then move to how the law or God is good and val
 ## Two valid forms of change 
 ### Structure preserving transformation or Smooth Change or Unfolding
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Structure-Preserving-Transformation-or-Smooth-Change-or-Unfolding" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-#🪴Sprout  #🙂Agree  #🟡Consideration 
+#🪴Sprout  #🙂Agree  #🟡Consideration  #🏖️Universe-Humans 
 
 ****
-
-> `Importance`: 40%
 
 > [!Summary] The Big Idea
 > This change is basically the idea that all life giving change comes from an unfolding process that starts with the current structure of the whole and makes step by step changes to enhance and extend the wholeness. This process respects the current structure and basically seeks to change the least amount of big/strong/living centers in order to maximize the positive effects of the change. Because if you introduce a new strong center but destroy two others you really haven’t improved anything. 
@@ -112,14 +103,14 @@ Here are a few other helpful links from Stefan's very helpful digital garden:
 - In other words once you get a list of centers it’s time to test it out and experiment to see if this list of centers makes a coherent and meaningful whole. And then filling in any gaps of missing centers or refining center definitions etc.
 - All of this comes from the core necessities and desires of humans toward life. Basically how do we go from these being super abstract to moving them into a pattern language that is actually actionable. In a Christian setting there needs to also be the additional emphasis on the objective word of God as well and not simply rely on human feelings. But it is helpful I think to observe that we all have these deep set feelings and they are the “law on the heart” in many ways so we can observe and test them out but also be aware that they are not a sure foundation either. 
 - “This can only be done in a spiritual state of mind. We shall arrive at the stuff which produces life only by having a sense, in us, of what will actually make life in the real thing. The extent to which I am able to do this depends on the extent of my own mental and emotional awakening. I have to ask myself, first, What is real life in a person? What kind of thing will produce real, deep life in an event? What will bring real life to the conditions of a building, or garden, or street, or town? What kinds of events make us feel close to our own wholeness? And in the end my ability to ask these questions requires that I ask which kinds of centers will do the most to produce real spiritual life in people: which things, events, moments, kinds of centers, will create a spiritual awakening in a person or a person’s life.” - [looking for glimpses of eternal life](http://nature-of-order.stefan-lesser.com/b2-c13-looking-for-glimpses-of-eternal-life)
-- Alexander argues that [[Deep Feeling\|Deep Feeling]] and the production of places that convey deep feeling in the core way to identify living process and evaluate how effective the process is - [aim of every living process](http://nature-of-order.stefan-lesser.com/b2-c14-the-aim-of-every-living-process-is-at-each-step-to-increase-the-deep-feeling-of-the-whole)
+- Alexander argues that [[Deep Feeling]] and the production of places that convey deep feeling in the core way to identify living process and evaluate how effective the process is - [aim of every living process](http://nature-of-order.stefan-lesser.com/b2-c14-the-aim-of-every-living-process-is-at-each-step-to-increase-the-deep-feeling-of-the-whole)
 - he define feeling differently than emotion feeling for him is “the mode of perception and awareness which arises when a person pays attention to the whole” - [wholeness and feeling](http://nature-of-order.stefan-lesser.com/b2-c14-wholeness-and-feeling)
 - He is also a big advocate of using one’s mind eye in imagination to be able to envision a truly alive feeling image of a place and how it could be changed with the next step. All of it boils down to the objective reality of the geometry being able to generate a particular feeling in people like an engine putting out power for a car.
 - another tool he talks about for getting the flow of a plan right is an aperiodic grid. Which is basically a slightly irregular grid system put over the whole physical site with the grid lines tweaked and bent to accommodate the current structure of the site. This them can be used to help see how everything works together and where things could be moved or tweaked. - [a periodic grid](http://nature-of-order.stefan-lesser.com/b2-c15-the-aperiodic-grid) Link to full chapter: [Chapter 15. Emergence of Formal Geometry, 4 / The Aperiodic Grid](https://christopher-alexander-ces-archive.org/book-chapter/chapter-15-emergence-of-formal-geometry-4-the-aperiodic-grid/)
 - This grid is a normal grid but has some narrower and larger bands. This alternation basically allows for isolating symmetry and see how things are spaced well or not. He uses this most especially for creating middle-range order in the scale of rooms, bays etc. compared to the full volume of the building and the small details like doors and windows. - [middle-range order](http://nature-of-order.stefan-lesser.com/b2-c15-a-generative-process-for-middle-range-order-in-the-building-structure)
 - His idea of deep feelings is a kind of internal intuition about the feeling a place elicits and could or should elicit as the unfolding happens. “something more solid than a feeling, but less formed than a thing” basically it is a set and solid sense of what the feeling should be that can be used as a kind of measuring rod to see if a step or change is consistent with it or not. - [the formless but specific feeling of the whole](http://nature-of-order.stefan-lesser.com/b2-c14-the-formless-but-specific-feeling-of-the-whole)
 - In addition pattern language that looks at the functional and general relationships for forming a center. He also talks about a form language that is basically a level below a pattern language that is all about the physical geometric building blocks that can be used to achieve particular patterns. The form language is basically the LEGO set while the instructions are the pattern language. - [historical form languages](http://nature-of-order.stefan-lesser.com/b2-c16-historically-what-kind-of-thing-did-a-form-language-do)
-- For Alexander the form language he offers for building a coherent environment is to use [[The Fifteen Fundamental Properties\|The Fifteen Fundamental Properties]] I.e. [[The Ways Centers Help Each Other Have More Life\|The Ways Centers Help Each Other Have More Life]] in this way the transformations are the rules or guides that create the actual form. So rather than a bunch of random pieces of geometry a form language is a set of rules to unfold a geometry of a particular character in this case living structure - [a possibility of a form language for all future time](http://nature-of-order.stefan-lesser.com/b2-c16-possibility-of-a-form-language-for-all-future-time)
+- For Alexander the form language he offers for building a coherent environment is to use [[The Fifteen Fundamental Properties]] I.e. [[The Ways Centers Help Each Other Have More Life]] in this way the transformations are the rules or guides that create the actual form. So rather than a bunch of random pieces of geometry a form language is a set of rules to unfold a geometry of a particular character in this case living structure - [a possibility of a form language for all future time](http://nature-of-order.stefan-lesser.com/b2-c16-possibility-of-a-form-language-for-all-future-time)
 - Argues that the hallmark of living process is a profound simplicity that is defined as purity or the removal of extraneous elements. This is achieved by ““doing the simplest thing”, only the thing which is required and nothing beyond what is required”. He argues that this drive for simplicity is the foundation for all structure preserving transformations. Because they seek to preserve as much current structure as possible while introducing the elements that are most needed [spiritual simplicity of heart](http://nature-of-order.stefan-lesser.com/b2-c17-how-is-the-simple-to-be-achieved-a-spiritual-simplicity-of-heart)
 - Again the goal is simpler and richer at the same time with a packing and compressing of centers but a removal of unnecessary asymmetries. So basically a good rule of thumb is to focus on maximizing local symmetries but allowing the large to be syncopated or naturally rough [natural symmetries](http://nature-of-order.stefan-lesser.com/b2-c17-natural-symmetries)
 - “Everything in nature is symmetrical unless there is a reason for it not to be.” - [symmetry and simplicity](http://nature-of-order.stefan-lesser.com/b2-c17-symmetry-simplicity-and-just-what-is-required)
@@ -128,31 +119,21 @@ Here are a few other helpful links from Stefan's very helpful digital garden:
 - [Ornament and Function as Products of Unfolding]([https://christopher-alexander-ces-archive.org/research/ornament-and-function-as-products-of-unfolding/](https://christopher-alexander-ces-archive.org/research/ornament-and-function-as-products-of-unfolding/))
 
 
-</div></div>
-
-
 ### Radical or Disruptive change 
 - Disruption by DeYmaz is a good example of a book that lays this kind of change out. Bolsinger, Canoeing the Mountains another example.
 - The idea with this type of change is that change gets rid of the old to make space for the new. 
 - This is usually put in terms of life or death. Basically change or die. From Bolsinger
 - DeYmaz is a little less depressing and more uses the idea of disrupting a market as the kind of change he is after that the Gospel basically should come in and totally shake up an area by totally changing the name of the game. 
 
-# Mechanistic [[Cosmology\|Cosmology]] and the Death of Theological Wholeness 
+# Mechanistic [[Cosmology]] and the Death of Theological Wholeness 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/A-Holistic-versus-Mechanistic-Perspective" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-#🪴Sprout   #🙂Agree   #🟡Consideration 
+#🪴Sprout   #🙂Agree   #🟡Consideration   #🏖️Universe-Humans 
 
 ****
 
-> `Importance`: 50%
-
 > [!Summary] The Big Idea
-> The basic idea that Western thought has gone too far into relying only on a mechanistic explanation of the universe. Thinkers like [[Christopher Alexander (Architect, Author)\|Christopher Alexander (Architect, Author)]] suggest a reorientation to seeing the universe as a whole that is itself made of smaller things that are themselves whole (like a human) opening up the ability to see the world as more than just a set of organic machines. 
+> The basic idea that Western thought has gone too far into relying only on a mechanistic explanation of the universe. Thinkers like [[Christopher Alexander (Architect, Author)]] suggest a reorientation to seeing the universe as a whole that is itself made of smaller things that are themselves whole (like a human) opening up the ability to see the world as more than just a set of organic machines. 
 > 
 > The specifics of how things work mechanistically can (and will always be) figured out through science and other research but rather than being the base picture of the world a holistic perspective seeks to understand the universe as flowing out from the core understanding of "the whole." 
 > 
@@ -161,12 +142,12 @@ Here are a few other helpful links from Stefan's very helpful digital garden:
 A metaphor for this is to think of two frogs on a table. One is alive and whole the other is split open and pinned on the board. Which frog gives you a better example of what a frog really is? The dissected frog can teach you a lot about the mechanics of how a frog works internally. But if that is all you ever have access to you never really will have a good idea of what a frog is like, or how it sounds, or where it lives, or any of the other things that makes a frog "a frog" as a whole created creature.   
 
 Related Notes: 
-[[Structure Preserving Transformation or Smooth Change or Unfolding\|Structure Preserving Transformation or Smooth Change or Unfolding]], 
-[[Notes on the Nature of Order\|Notes on the Nature of Order]],
-[[The Quality of Life in Environments and Objects\|The Quality of Life in Environments and Objects]],
-[[Center Composed Wholeness\|Center Composed Wholeness]],
-[[The Ways Centers Help Each Other Have More Life\|The Ways Centers Help Each Other Have More Life]],
-[[Thinking of Spatial Relationships as Centers\|Thinking of Spatial Relationships as Centers]]
+[[Structure Preserving Transformation or Smooth Change or Unfolding]], 
+[[Notes on the Nature of Order]],
+[[The Quality of Life in Environments and Objects]],
+[[Center Composed Wholeness]],
+[[The Ways Centers Help Each Other Have More Life]],
+[[Thinking of Spatial Relationships as Centers]]
 
 ****
 
@@ -179,12 +160,9 @@ I think this has also been supported by historic "fights" between theology and s
 
 However, I think Scripture works from a holistic standpoint of the human and the universe. We see an accurate and immensely deep and nuanced perspective of everything in Scripture. Morality, the purpose of humanity, etc. are all thoroughly explored and laid out throughout the pages of Scripture. The problems comes if we take this holistic account and expect to find the mechanics of everything. Scripture does not tell you how to make your toast. But it does tell you why you should make toast (to care for yourself or others) or if the way you are making your toast is helpful or not (just use the toaster, the flamethrower is more likely to hurt someone).  Scripture and theology already have all we need to teach us how to make decisions and choose between mechanisms to live lives that are in line with our overarching holistic perspective. 
 
-
-</div></div>
-
 # Need 
 Start with the reason we need such an anthropology and basis for life and theology 
-- [[A Creature Among Machines\|A Creature Among Machines]]
+- [[A Creature Among Machines]]
 
 We have lost the ability to see God in the world around us. Sure we see him in the spectacular or the stunning but hardly ever in the normal or the ordinary or even the holy that we encounter 
 
@@ -201,7 +179,7 @@ Mechanistic nature of the universe as described by Christopher Alexander in natu
 
 We often operate like the world around us is a mechanistic world that God kind of just breaks into now and again but the actual daily moment by moment participation and perceptible reality of God is not there. Or if it is then we end up acting like conjurers looking for got to bend reality for our benefit or something along those lines 
 
-Evolutionary [[Cosmology\|cosmology]] as a way to think of change, development and “progress”
+Evolutionary [[Cosmology]] as a way to think of change, development and “progress”
 
 Both of these can come into a Christian’s interaction of the world without ever rising to the level of “worldview” but can deeply affect how we approach and enact our vocations and life in the world 
 
@@ -213,16 +191,16 @@ Next outline the basic idea of building on this basis with the idea of common ch
 
 My work with rhythm and liturgy is off of the common characteristic of being time bound beings 
 
-The work of [[Christopher Alexander (Architect, Author)\|Christopher Alexander (Architect, Author)]] is interesting in this area since it is based on the commonality of human feelings and the basis of wholeness as essential for understanding the world. 
+The work of [[Christopher Alexander (Architect, Author)]] is interesting in this area since it is based on the commonality of human feelings and the basis of wholeness as essential for understanding the world. 
 
 Many other possible common starting places that would all work legitimately off of the foundation 
 
 
-- [[Models of Human Rhythms\|Models of Human Rhythms]]
-- [[Patterns of Liturgy-The Rhythm of Life\|Patterns of Liturgy-The Rhythm of Life]]
-- [[Embodiment of Community\|Embodiment of Community]]
-- [[Sacred Space\|Sacred Space]]
-- [[Thoughts on Liturgy and Rhythm\|Thoughts on Liturgy and Rhythm]]
+- [[Models of Human Rhythms]]
+- [[Patterns of Liturgy-The Rhythm of Life]]
+- [[Embodiment of Community]]
+- [[Sacred Space]]
+- [[Thoughts on Liturgy and Rhythm]]
 - 
 
 ****

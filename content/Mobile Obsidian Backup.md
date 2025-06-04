@@ -1,8 +1,8 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-28","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #🙂Agree   #📊Project 
+#🌱Seed   #🙂Agree   #📊Project #🛠️BringingLifeintotheWorld 
 
 ****
 
@@ -12,7 +12,7 @@
 > The current set up that I am using to sync my obsidian notes from my phone to computer and backup. 
 
 Related Notes:
--  [[iPhone Shells and Automation\|iPhone Shells and Automation]]
+-  [[iPhone Shells and Automation]]
 
 * * *
 

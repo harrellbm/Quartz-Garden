@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-23","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌿Sapling  #🙂Agree   #🟢Conviction 
+#🌿Sapling   #🙂Agree   #🟢Conviction      #🔥Doctrine-Poetry-Story   #🛠️BringingLifeintotheWorld 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] Thesis
 > Technology is not value neutral. Every piece of technology works to realize a particular picture of human thriving and existence. Therefore, it is clearly not outside the realm of theology or applying Scriptural truth. 
@@ -14,11 +12,11 @@
 > [!note]
 > Used as LCOS #📃Epistle Feb 2025
 ### Related Notes 
-- [[Principles for Working with Tech Tools\|Principles for Working with Tech Tools]]
-- [[Stream of Consciousness on AI, Technostress, and Faith\|Stream of Consciousness on AI, Technostress, and Faith]]
-- [[Ritual Technology\|Ritual Technology]]
-- [[Metaphor of the Stream vs the Garden\|Metaphor of the Stream vs the Garden]]
-- [[Religion of Technology\|Religion of Technology]]
+- [[Principles for Working with Tech Tools]]
+- [[Stream of Consciousness on AI, Technostress, and Faith]]
+- [[Ritual Technology]]
+- [[Metaphor of the Stream vs the Garden]]
+- [[Religion of Technology]]
 
 ***
 # A Christ Centered perspective on Technology

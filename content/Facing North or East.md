@@ -1,8 +1,8 @@
 ---
-{"publish":true,"Note Planted":"2025-01-13","Last Tended":"2025-03-31","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #😐Neutral   #🟡Consideration
+#🌱Seed   #😐Neutral   #🟡Consideration  #🔥Doctrine-Poetry-Story 
 
 ****
 

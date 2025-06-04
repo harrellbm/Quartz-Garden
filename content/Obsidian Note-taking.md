@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree  #🛠️BringingLifeintotheWorld 
 
 ****
-
-> `Importance`: 40%
 
  > [!Summary] The Big Idea
  Stuff I have learned or what to remember about taking notes in Obsidian.
@@ -18,9 +16,9 @@
 > - [Fontbase](https://fontba.se/) is a nice app for being able to add fonts to your system easy that you can then use in Obsidian.
 
 Related Notes:
-[[Mobile Obsidian Backup\|Mobile Obsidian Backup]]
-[[Note-Taking Methods\|Note-Taking Methods]]
-[[Embed Search Results in a Note\|Embed Search Results in a Note]]
+[[Mobile Obsidian Backup]]
+[[Note-Taking Methods]]
+[[Embed Search Results in a Note]]
 
 * * *
 

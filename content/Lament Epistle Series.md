@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌿Sapling   #😁Strongly-Agree   #🟢Conviction 
+#🌿Sapling   #😁Strongly-Agree   #🟢Conviction  #🥾SpiritualPractices-EmbodiedLiving 
 
 ****
-
-> `Importance`: 80%
 
 > [!summary] The Big Idea
 > Series talking though the Biblical practice of lament. 

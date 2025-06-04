@@ -1,8 +1,8 @@
 ---
-{"Note Planted":"2025-04-10","Last Tended":"2025-05-23","publish":true,"PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌿Sapling   #✒️Poem 
+#🌿Sapling   #✒️Poem  #🔥Doctrine-Poetry-Story 
 ****
 
 <center>A story without teeth won't do anything much.</center>

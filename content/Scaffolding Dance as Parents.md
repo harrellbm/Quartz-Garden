@@ -1,18 +1,15 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #😐Neutral 
+#🌱Seed  #😐Neutral  #🍽️Community-Mission 
 
 ****
 
-> `Importance`: 10%
-> 
-> [!The Big Idea]
+> [!Summary] The Big Idea
+> Young people grow up really fast and we need to help them learn how to deal with the stress and resistance of the world around us.
 
 ****
-
-Young people grow up really fast and we need to help them learn how to deal with the stress and resistance of the world around us.
 
 Parents do a scaffolding dance - it provides support and structure as the child grows. The scaffolding needs to constantly be adjusting so that the child can stand on their own eventually 
 

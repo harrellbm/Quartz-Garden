@@ -1,15 +1,13 @@
 ---
-{"publish":true,"Note Planted":"2024-12-18","Last Tended":"2024-12-18","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #😐Neutral   #🟡Consideration
+#🌱Seed   #😐Neutral   #🟡Consideration  #🏖️Universe-Humans 
 
 ****
 
-> `Importance`: 10%
-
 > [!Summary] The Big Idea
-> The Fifteen ways [[Christopher Alexander (Architect, Author)\|Christopher Alexander (Architect, Author)]] lays out how to empirically see and test if something is more whole (has [[The Quality of Life in Environments and Objects\|The Quality of Life in Environments and Objects]])
+> The Fifteen ways [[Christopher Alexander (Architect, Author)]] lays out how to empirically see and test if something is more whole (has [[The Quality of Life in Environments and Objects]])
 
 ****
 
@@ -18,21 +16,14 @@ A link to his archive that connects with this idea:
 
 Reading notes and other collected resources I have so far:
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/The-Ways-Centers-Help-Each-Other-Have-More-Life" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-#🌱Seed   #🙂Agree   #🟡Consideration 
+#🌱Seed   #🙂Agree   #🟡Consideration #🏖️Universe-Humans 
 ****
-> `Importance`: 40%
-
 # The Ways Centers Help Each Other Have More Life
 
 > [!Summary] The Big Idea
 > One of the major points of Christopher Alexander’s idea of centers from *the Nature of Order - The Phenomenon of Life* is that centers can help each other have greater life. He outlines fifteen ways in which this can be concretely achieved or observed. 
 
-See [[The Quality of Life in Environments and Objects\|The Quality of Life in Environments and Objects]] for a full description of his definition of life which is differentiated from organic life. 
+See [[The Quality of Life in Environments and Objects]] for a full description of his definition of life which is differentiated from organic life. 
 
 > [!Quote] 
 > I managed to identity fifteen structural features which appear again and again in things which do have life. These are: 
@@ -218,6 +209,3 @@ He argues that this can only be achieved with a relaxed and carefree attitude th
 # 12. Echos
 
 
-
-
-</div></div>

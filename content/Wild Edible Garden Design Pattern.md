@@ -1,20 +1,19 @@
 ---
-{"publish":true,"Note Planted":"2025-04-03","Last Tended":"2025-05-01","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed    #🙂Agree    #🟡Consideration   #📊Project 
+#🌱Seed    #🙂Agree    #🟡Consideration   #📊Project  #🛠️BringingLifeintotheWorld 
 ****
-> `Importance`: 10%
  
 >[!Summary] The Big Idea
 > An evolving design pattern for my ideal wild and kid friendly garden. 
 > 
-> Written in the style of a Pattern Language by [[Christopher Alexander (Architect, Author)\|Christopher Alexander (Architect, Author)]]
+> Written in the style of a Pattern Language by [[Christopher Alexander (Architect, Author)]]
 
 Similar ideas: 
-[[A Tea Garden\|A Tea Garden]]
-[[Plant Care\|Plant Care]]
-[[Plants Around Church\|Plants Around Church]]
+[[A Tea Garden]]
+[[Plant Care]]
+[[Plants Around Church]]
 ****
 # Context: 
 You are creating a garden in the Central Coast of California, seeking a landscape that is beautiful, resilient, and provides a rich, engaging experience for both adults and children. 

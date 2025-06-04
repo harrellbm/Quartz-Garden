@@ -1,13 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree #📚Definition 
+#🌱Seed  #🙂Agree  #📚Definition   #🛠️BringingLifeintotheWorld 
 
 ****
-
-> `Importance`: 10%
-
 # A Christian Aesthetic
 
 > [!summary] The Big Idea

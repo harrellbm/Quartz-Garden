@@ -1,8 +1,8 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-09","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree #🥾SpiritualPractices-EmbodiedLiving 
 
 ****
 
@@ -15,7 +15,7 @@
 > “For while bodily training is of some value, godliness is of value in every way, as it holds promise for the present life and also for the life to come.”
  > - 1 Timothy 4:8
 
-***Related Notes***: [[Patterns of Liturgy-The Rhythm of Life\|Patterns of Liturgy-The Rhythm of Life]], [[Private/Personal Reflections on My Personal Rhythms\|Personal Reflections on My Personal Rhythms]], [[Rhythm Reset\|Rhythm Reset]], [[Thoughts on Liturgy and Rhythm\|Thoughts on Liturgy and Rhythm]], [[Basic Philosophies of Community Rhythm and Project Lifecycle\|Basic Philosophies of Community Rhythm and Project Lifecycle]]
+***Related Notes***: [[Patterns of Liturgy-The Rhythm of Life]], [[Private/Personal Reflections on My Personal Rhythms]], [[Rhythm Reset]], [[Thoughts on Liturgy and Rhythm]], [[Basic Philosophies of Community Rhythm and Project Lifecycle]]
 
 ****
 
@@ -72,7 +72,7 @@ And no matter which direction we may lean, life has a way of frustrating both. E
 
   
 
-My first introduction to [[Spiritual Disciplines\|Spiritual Disciplines]] was in high school. Read books on discipline and I tried to keep up with all of them. Call of monasticism was attractive. Fanatical adherence burnt me out. Still have a bit of a messed up hunger que from intense fasting.  
+My first introduction to [[Spiritual Disciplines]] was in high school. Read books on discipline and I tried to keep up with all of them. Call of monasticism was attractive. Fanatical adherence burnt me out. Still have a bit of a messed up hunger que from intense fasting.  
 
   
 
@@ -282,18 +282,18 @@ Johari’s window good reminder of realistic expectations of what we can see abo
 
 Tv as unwinding but not really. It is a ton of stimulation to our brain and senses. Yet we treat it like something to unwind with. Why is that? It seems kind of like a nicotine addiction that is perceived as calming yourself down when you smoke. 
 
-[[Rhythms of Rest\|Rhythms of Rest]]
+[[Rhythms of Rest]]
 
-[[The Biblical Rhythm of Time and Rest\|The Biblical Rhythm of Time and Rest]]
+[[The Biblical Rhythm of Time and Rest]]
   
 
-#### Enculturation and [[Repristination\|Repristination]]
+#### Enculturation and [[Repristination]]
 
 How the rhythms we see modeled are not always from a singular cultural source. 
 
   
 
-Address danger of [[Repristination\|REPRISTINATION]]
+Address danger of [[Repristination]]
 
   
 
@@ -333,19 +333,14 @@ Goal of being intentional with the model of rhythm is to seek to be faithful to 
 How do we measure the effect of a repeated action? Being  addicted to meth seems to be on one extreme while always patting your pocket to make sure you have Keys before leaving is on the other. One completely alters life and it’s purpose and desires while the other is a small functional practice to try to avoid forgetting an important object. Both form the person but one has the power to change a person’s whole outlook while the other is really only going to help one be a little less forgetful or likely to get locked out of the house. 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Ritual-Practice-Liturgy" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-#🪴Sprout  #😟Disagree  #🟡Consideration 
+#🪴Sprout  #😟Disagree  #📚Definition 
 
 ****
 
-> `Importance`: 10%
-
 > [!Summary] The Big Idea
-> This distinction is not as helpful in practice as it seemed when I first read about it from Smith and wrote it out. 
+> This distinction is not as helpful in practice as it seemed when I first read about it from Smith.
+> 
+> Smith, S. (2009). Desiring the kingdom : worship, worldview, and cultural formation. Retrieved from [https://archive.org/details/desiringkingdomw0000smit/](https://archive.org/details/desiringkingdomw0000smit/)
 > 
 > The idea that liturgy is rhythm and that liturgy is doing the redeemed world right (from Marriott) are much more compelling and useful definitions of liturgy.
 
@@ -361,10 +356,7 @@ While those practices do shape us to a certain extent, they are not quite the pr
 
 - Liturgies - The most specific kind of regular activity is liturgy. Like practices, liturgies are aimed toward an end goal. They are more specific however and are aimed at the end goal of fulfilling our identity and vision of the good life. 
 
-Liturgies are the most potent of practices. They define who we are and where we are headed. Therefore we seek to shape the liturgies of our people.
-
-</div></div>
- 
+Liturgies are the most potent of practices. They define who we are and where we are headed. Therefore we seek to shape the liturgies of our people. 
 
   
 
@@ -652,7 +644,7 @@ Vocation (table of duties) as redeeming rhythms of relationships. First commissi
     
 - Witness, confessing
     
-- Scripture, sermon, [[Storytelling\|storytelling]]
+- Scripture, sermon, [[Storytelling]]
     
 - Doing good, service
     
@@ -895,7 +887,7 @@ Passing on information, or valuable things from one generation to the next
 
 ## By Relationships
 
-### [[Two Kinds of Righteousness\|Two kinds of righteousness]] 
+### [[Two Kinds of Righteousness]] 
 
 Rhythms only make sense within the context of relationships 
 

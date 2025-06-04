@@ -1,15 +1,13 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree   #🟢Conviction   #🥾SpiritualPractices-EmbodiedLiving 
 
 ****
 
-> `Importance`: 20%
-
 > [!summary] The Big Idea
-> An activity sheet to help uses questions I condensed down from this note: [[Reading Scripture Devotionally\|Reading Scripture Devotionally]]
+> An activity sheet to help uses questions I condensed down from this note: [[Reading Scripture Devotionally]]
 
 ****
 

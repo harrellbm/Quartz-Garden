@@ -1,15 +1,13 @@
 ---
-{"publish":true,"Note Planted":"2025-01-07","Last Tended":"2025-01-07","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #😐Neutral   #🟡Consideration
+#🌱Seed   #😐Neutral   #🟡Consideration  #🏖️Universe-Humans 
 
 ****
 
-> `Importance`: 10%
-
 > [!Summary] The Big Idea
-> [[Christopher Alexander (Architect, Author)\|Christopher Alexander (Architect, Author)]] in Book 1 of The Nature of Order lays out a set of tests to look at reality and test it for its wholeness and degree of life. 
+> [[Christopher Alexander (Architect, Author)]] in Book 1 of The Nature of Order lays out a set of tests to look at reality and test it for its wholeness and degree of life. 
 
 He argues that it is based on reality and coming human attributes so that it is objective and shareable between humans and even cultures.
 

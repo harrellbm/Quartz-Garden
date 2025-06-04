@@ -1,10 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2025-02-26","Last Tended":"2025-02-26","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #😁Strongly-Agree    #🟡Consideration
+#🌱Seed   #😁Strongly-Agree    #🟡Consideration  #📘BookNotes 
 ****
-> `Importance`: 10%
  
 >[!Summary] The Big Idea
 > I have realized just how easy it is to allow lecture and expert to learning style teaching predominate with bible study for all ages. Yet at the same time you cannot just expect people to totally know or be able to access the bible and bible stories without help and gentile guidance. 
@@ -37,7 +36,7 @@ The curriculum is built on Biblical Themes. Here is the introduction packet and 
 >
 >You'll notice that we encourage them to use symbols whenever they see the Biblical Themes. Here is a picture of what we draw with them. 
 >
-> ![Biblical Themes Symbols.jpeg](Biblical%20Themes%20Symbols.jpeg)
+> ![[Biblical Themes Symbols.jpeg]]
 >
 >Many of the students write them in the margins of their personal Bibles which is pretty cool to see. In general, the symbols just help them track the themes and remember what they mean
 

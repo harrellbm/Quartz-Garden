@@ -1,10 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2025-04-02","Last Tended":"2025-06-02","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #🙂Agree   #🟡Consideration   
+#🌱Seed   #🙂Agree   #🟡Consideration   #🥾SpiritualPractices-EmbodiedLiving 
 ****
-> `Importance`: 10%
  
 >[!Summary] The Big Idea
 >  How can we understand Scripture if we are not first familiar with it? How will we know if we are indeed inline or not unless we see how scripture speaks as a whole?

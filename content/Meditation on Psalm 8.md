@@ -1,10 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🍋Fruit   #😁Strongly-Agree   #🟢Conviction 
+#🍋Fruit   #😁Strongly-Agree   #🟢Conviction  #🥾SpiritualPractices-EmbodiedLiving 
 ****
-> `Importance`: 90%
  
 > [!summary] The Big Idea
 > A guided meditation through Psalm 8. 

@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2024-12-18","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #😟Disagree #📚Definition 
+#🌱Seed  #😟Disagree #📚Definition  #🏖️Universe-Humans 
 
 ****
-
-> `Importance`: 20%
 
 ***The Big Idea***: The idea that student need to always achieve a top score in order to prove their abilities in learning. 
 

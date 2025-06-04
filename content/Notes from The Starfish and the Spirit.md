@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree   #📘BookNotes 
 
 ****
-
-> `Importance`: 10%
 
 ***The Big Idea***: reimagining church from the perspective of starfish networks 
 
@@ -24,5 +22,5 @@
 
 ## Types of Church Growth
 
-![Pasted image 20240629201456.jpg](Pasted%20image%2020240629201456.jpg)
+![[Pasted image 20240629201456.jpg]]
 - From page 22

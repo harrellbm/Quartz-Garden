@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌿Sapling   #🙂Agree   #🟢Conviction 
+#🌿Sapling   #🙂Agree   #🟢Conviction #🥾SpiritualPractices-EmbodiedLiving 
 
 ****
-
-> `Importance`: 60%
 
 > [!summary] The Big Idea
 > Maybe talking under your breath doesn't mean you're crazy.

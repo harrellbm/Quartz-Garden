@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-01","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree  #🍽️Community-Mission 
 
 ****
-
-> `Importance`: 10%
 
 > [!quote]
 > “Can a blind man lead a blind man? 
@@ -31,16 +29,9 @@ This topic in and of itself could take up many pages.  It seeks the core of our
 
 # The Two Commissions
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/The-Two-Commissions" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-#🌱Seed  #🙂Agree #🟢Conviction 
+#🌱Seed  #🙂Agree #🟢Conviction #🔥Doctrine-Poetry-Story 
 
 ****
-
-> `Importance`: 10%
 
 > [!summary] The Big Idea
  God has told humans what we were created to be up to and commissioned us or sent us out to do it in two major moments in Scripture.
@@ -50,7 +41,7 @@ This topic in and of itself could take up many pages.  It seeks the core of our
 
 ****
 
-# [[The First Commission\|The First Commission]]
+# [[The First Commission]]
 
 As the world settled into its newly created order, God spoke to humanity.  The first blessing, or benediction, uttered over humanity paints a picture of life as it has always been meant to be:
 
@@ -67,7 +58,7 @@ Since the fall, humans have wandered far afield of our original purpose as co-cr
 > [!cite] Deuteronomy 6:4-5
 “Hear, O Israel: 
 The Lord our God, the Lord is one. 
-You shall [[Love the Lord Your God with all Your Heart\|love the Lord your God with all your heart]] 
+You shall [[Love the Lord Your God with all Your Heart]] 
 and with all your soul and with all your might.”
 
 This image of a good life does not start with knowledge or power, riches or fame. A good life according to God starts with listening. Hearing the realities of who He is and responding with love. The salient action, or mode of being, is loving.  A loving that captures the entirety of our being - heart, soul, and might.   
@@ -86,9 +77,6 @@ As Jesus ended His ministry on earth He completed the picture of human purpose:
 baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you.” 
 
 The rich fabric of Scripture’s commandments and promises are brought to fruition through Jesus. Bearing the name of God in creation is no longer tied to a nation state, but the act of being a disciple. Discipleship is therefore the culmination of centuries worth of reflection, preparation, and now sending. Jesus sending us into lives lived to their fullest. To be a disciple is nothing short of becoming fully human.
-
-</div></div>
-
 The God given purpose of human living.
 # The Full Picture
 As we pull these pieces together, the call to become a disciple of Jesus takes on flesh and bone.  To be a disciple means to be a co-creator and a lover.  A follower that answers the ancient call of the creator to live life in the Gospel. This call speaks of a compelling, even enrapturing experience and dependence on God. 
@@ -155,7 +143,7 @@ As we continue to think through how we access the chain of formation and promote
 
 The movement of discipleship should therefore be animated and flow out from our Sunday liturgy. The thick habits of our daily life should be informed and corrected by the words and practices of Scripture. To this end, what follows is a short list of thick habits to think through bringing into our discipleship efforts:
  
-•	[[The Biblical Rhythm of Time and Rest\|The Biblical Rhythm of Time and Rest]]
+•	[[The Biblical Rhythm of Time and Rest]]
 •	Worship
 •	Hospitality, community, and graced dependence 
 •	Song and music
@@ -182,56 +170,39 @@ To summarize, the end goal of discipleship is about forming and shaping the deep
 
 # How should we think?
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Core-Mindsets-for-a-Healthy-Community" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-#🌿Sapling  #🙂Agree  #🟢Conviction 
+#🌿Sapling  #🙂Agree  #🟢Conviction   #🍽️Community-Mission 
 
 ****
-
-> `Importance`: 50%
 
 > [!Summary] The Big Idea
 > This is a collection of important mindsets for a healthy Christian community.
 
-The categories we use to understand our world matter: [[A Categorical Mind\|A Categorical Mind]]
+The categories we use to understand our world matter: [[A Categorical Mind]]
 
 * * *
 
-- [[Scriptural Mindset\|Scriptural Mindset]] - Scripture remains our sure and final foundation of life and practice. All other sources of wisdom must be subservient to God’s pure word. 
+- [[Scriptural Mindset]] - Scripture remains our sure and final foundation of life and practice. All other sources of wisdom must be subservient to God’s pure word. 
 
-- [[Sacramental Mindset\|Sacramental Mindset]] - The Sacraments are the foundation through which we receive God’s grace. They are the sure, tangible, communal way God has given us to encounter His grace and forgiveness. 
+- [[Sacramental Mindset]] - The Sacraments are the foundation through which we receive God’s grace. They are the sure, tangible, communal way God has given us to encounter His grace and forgiveness. 
 
-- [[Trinitarian Mindset\|Trinitarian Mindset]] - We worship and serve God who is triune in nature. We recognize the mystery of their communion and the lavish loving nature of their economy of salvation.  Salvation comes From the Father Through the Son By the Holy Spirit. We have been baptized into this triune name and serve no other. 
+- [[Trinitarian Mindset]] - We worship and serve God who is triune in nature. We recognize the mystery of their communion and the lavish loving nature of their economy of salvation.  Salvation comes From the Father Through the Son By the Holy Spirit. We have been baptized into this triune name and serve no other. 
 
-- [[Mission Mindset\|Mission Mindset]] - As God’s people we have been sent out to the four corners of the world to proclaim the Gospel and welcome Christ’s children home.  
+- [[Mission Mindset]] - As God’s people we have been sent out to the four corners of the world to proclaim the Gospel and welcome Christ’s children home.  
 
-- [[Discipleship Mindset\|Discipleship Mindset]] - We have been sent out to make disciples. People who follow Jesus into the fields of this world to do the work of the Kingdom.  
+- [[Discipleship Mindset]] - We have been sent out to make disciples. People who follow Jesus into the fields of this world to do the work of the Kingdom.  
 
-- [[Abundance Mindset\|Abundance Mindset]]  - All good things come from God and His gracious hand. We therefore steward the resources we have with gratitude and thankfulness rather than coveting those we lack. 
+- [[Abundance Mindset]]  - All good things come from God and His gracious hand. We therefore steward the resources we have with gratitude and thankfulness rather than coveting those we lack. 
 
-- [[Other Minded\|Other Minded]] - We are called as members of Christ’s body to look outside ourselves to the needs of others. “If one member suffers, all suffer together; if one member is honored, all rejoice together.” - 1 Cor. 12:26.
+- [[Other Minded]] - We are called as members of Christ’s body to look outside ourselves to the needs of others. “If one member suffers, all suffer together; if one member is honored, all rejoice together.” - 1 Cor. 12:26.
 
-- [[Humble Future Focus\|Humble Future Focus]] - Though we cannot see into the future, we expectantly plan and pray for the will of God to become manifest within our community. We can adopt the saying of James 4:15  "If the Lord wills, we will live and do this or that.
+- [[Humble Future Focus]] - Though we cannot see into the future, we expectantly plan and pray for the will of God to become manifest within our community. We can adopt the saying of James 4:15  "If the Lord wills, we will live and do this or that.
 
 Todo: add mindsets outlined in the starfish and the spirit book
-
-</div></div>
-
 # Starting Small and Growing from There
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/The-Edge-of-the-Wedge" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-#🌱Seed  #😐Neutral 
+#🌱Seed  #😐Neutral #🏖️Universe-Humans 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > ”It can be anything, but first it has to be something specific.” 
@@ -241,6 +212,3 @@ Article that describes this idea:
 [The Zombcom problem](https://open.substack.com/pub/subconscious/p/the-zombocom-problem?r=45i29i&utm_campaign=post&utm_medium=email)
 
 ****
-
-
-</div></div>

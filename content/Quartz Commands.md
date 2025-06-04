@@ -1,10 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2025-03-19","Last Tended":"2025-03-19","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #😐Neutral   #🟡Consideration
+#🌱Seed   #😐Neutral   #🟡Consideration  #🛠️BringingLifeintotheWorld 
 ****
-> `Importance`: 10%
  
 >[!Summary] The Big Idea
 > Easy reference for commands I use to update my Digital Garden.

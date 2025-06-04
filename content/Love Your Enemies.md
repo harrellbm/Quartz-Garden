@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2025-01-28","Last Tended":"2025-01-28","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #😐Neutral   #🟡Consideration
+#🌱Seed   #😐Neutral   #🟡Consideration  #🔥Doctrine-Poetry-Story 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > Musings on the classic call to love your enemies and what that actually means for us today.

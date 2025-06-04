@@ -1,17 +1,15 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #🙂Agree   #🟡Consideration 
+#🌱Seed   #🙂Agree   #🟡Consideration #🏖️Universe-Humans 
 ****
-> `Importance`: 40%
-
 # The Ways Centers Help Each Other Have More Life
 
 > [!Summary] The Big Idea
 > One of the major points of Christopher Alexander’s idea of centers from *the Nature of Order - The Phenomenon of Life* is that centers can help each other have greater life. He outlines fifteen ways in which this can be concretely achieved or observed. 
 
-See [[The Quality of Life in Environments and Objects\|The Quality of Life in Environments and Objects]] for a full description of his definition of life which is differentiated from organic life. 
+See [[The Quality of Life in Environments and Objects]] for a full description of his definition of life which is differentiated from organic life. 
 
 > [!Quote] 
 > I managed to identity fifteen structural features which appear again and again in things which do have life. These are: 

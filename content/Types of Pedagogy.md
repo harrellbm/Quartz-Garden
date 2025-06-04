@@ -1,21 +1,19 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree #🏖️Universe-Humans 
 
 ****
-
- > `Importance`: 10%
 
 > [!Summary] The Big Idea
 > A collection of various types of Pedagogy.
 
 * * *
 
-# Issue/Problem Based Work and [[Pedagogy\|Pedagogy]]
+# Issue/Problem Based Work and [[Pedagogy]]
 
-Basic idea that one way to be a continued learner and successful in a career is to be focused on the problems you are interested in learning more about and how to solve. This creates a [[Pedagogical Feedback Loop\|Pedagogical Feedback Loop]] that helps to reinforce and push forward learning. 
+Basic idea that one way to be a continued learner and successful in a career is to be focused on the problems you are interested in learning more about and how to solve. This creates a [[Pedagogical Feedback Loop]] that helps to reinforce and push forward learning. 
 
 interesting model that pairs well with redemption and the restoration of Jesus
 
@@ -27,33 +25,33 @@ Each are main sources of moving students towards addressing their stated issue.
 This is an issues based approach example: 
 - Environmental Design Education in Community Contexts - Neperud in - [Book : Built environment education in art education](https://archive.org/details/isbn_1890160059) - J. K. Guilfoil, and A. R. Sander 
 
-## Skill/Process based [[Pedagogy\|Pedagogy]]
+## Skill/Process based [[Pedagogy]]
 
 Focus on teaching the actual methods of inquiry and skills needed to complete a task or set of work
   
 Inquiry-Oriented and Mastery-Based Methods are the main goal.
 
-[[Gerhard Method of Theological Study\|Gerhard Method of Theological Study]]
+[[Gerhard Method of Theological Study]]
 
-[[Zone of Proximal Development\|Zone of Proximal Development]]
+[[Zone of Proximal Development]]
 
-## Content based [[Pedagogy\|Pedagogy]]
+## Content based [[Pedagogy]]
 
 Focus on getting the content or set of ideas into a student’s brain
 
 Information-Providing as well as Active or Performance-Based Methods are the main goal.
 
-[[Bible Study Structures\|Bible Study Structures]]
+[[Bible Study Structures]]
 
-## Rhythm/Habit based [[Pedagogy\|Pedagogy]] 
+## Rhythm/Habit based [[Pedagogy]] 
 
 Focus on forming a way of life and habits that hold on over time
 
 [Discipleship Pedagogy: Head, Heart and Hands ](https://drive.google.com/file/d/1GCuBWGA3SCKOnnqtHS9nNbmVjHy4z1T3/view?usp=drivesdk)
   
-## Learning Style based [[Pedagogy\|Pedagogy]]
+## Learning Style based [[Pedagogy]]
 
-[[Visual Teaching\|Visual Teaching]]
+[[Visual Teaching]]
 
 ## Principles of Pedagogy 
- [[Pedagogy of Space\|Pedagogy of Space]] 
+ [[Pedagogy of Space]] 

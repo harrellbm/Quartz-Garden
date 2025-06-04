@@ -1,14 +1,12 @@
 ---
-{"publish":true,"Note Planted":"2024-11-10","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree  #🔥Doctrine-Poetry-Story 
 
 ****
 
-> `Importance`: 10%
-
-***The Big Idea***: Type of [[Pedagogy\|Pedagogy]].
+***The Big Idea***: Type of [[Pedagogy]].
 
 * * *
 

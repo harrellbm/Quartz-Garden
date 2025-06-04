@@ -1,10 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2025-02-13","Last Tended":"2025-02-24","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #😐Neutral   #🟡Consideration   #📓Journal 
+#🌱Seed   #😐Neutral   #🟡Consideration   #📓Journal  #📘BookNotes 
 ****
-> `Importance`: 10%
  
 >[!Summary] The Big Idea
 >session notes from BPM
@@ -45,4 +44,4 @@ Less words on the screen with a slow song and more with a fast song
 
 You are present the words forward to the congregation to participate 
 
-Further notes have been moved to: [[Spiritual Disciplines\|Spiritual Disciplines]]
+Further notes have been moved to: [[Spiritual Disciplines]]

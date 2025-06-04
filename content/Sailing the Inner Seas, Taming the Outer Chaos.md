@@ -1,8 +1,8 @@
 ---
-{"publish":true,"Note Planted":"2025-04-09","Last Tended":"2025-05-13","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #🙂Agree   #🟢Conviction   #📓Journal   #📃Epistle 
+#🌱Seed   #🙂Agree   #🟢Conviction   #📓Journal   #🥾SpiritualPractices-EmbodiedLiving 
 ****
 > `Importance`: 10%
  
@@ -14,9 +14,9 @@
 > Why write
 
 Similar Notes:
-[[Why Learn\|Why Learn]]
-[[Memory, the Things We Keep with Us\|Memory, the Things We Keep with Us]]
-[[Storytelling\|Storytelling]]
+[[Why Learn]]
+[[Memory, the Things We Keep with Us]]
+[[Storytelling]]
 ****
 
 The difference between searching with something in mind and just blindly searching 
@@ -39,12 +39,12 @@ My Experience as atypical neuro processor
 
 Thinking in streams, spirals or gardens, or stories
 
-[[Models of Human Rhythms\|Models of Human Rhythms]]
-[[LCOS Notes/Living Process for LCOS\|Living Process for LCOS]]
-[[Learning and Writing Flow\|Learning and Writing Flow]]
-[[Grounded Learning\|Grounded Learning]]
-[[My Thoughts on Learning\|My Thoughts on Learning]]
-[[The Iterative Nature of Learning\|The Iterative Nature of Learning]]
+[[Models of Human Rhythms]]
+[[LCOS Notes/Living Process for LCOS]]
+[[Learning and Writing Flow]]
+[[Grounded Learning]]
+[[My Thoughts on Learning]]
+[[The Iterative Nature of Learning]]
 
 live in a world steeped with constant input. hours of input from other sources besides scripture verses the word of God
 

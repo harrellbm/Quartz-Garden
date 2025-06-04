@@ -1,31 +1,29 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree 
+#🌱Seed  #🙂Agree  #🏖️Universe-Humans
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > My thoughts on how the world works. Very unorganized at this point and in process.
 
 # Big Picture Perspectives
 
-- **Evolutionary [[Cosmology\|Cosmology]]** - the idea that the world works as survival of the fittest 
+- **Evolutionary [[Cosmology]]** - the idea that the world works as survival of the fittest 
 - **Wholeness and Centers** - as defined by Christopher Alexander. The idea that the world is composed of abstract layered centers. The density and configuration of these centers define how much life and health there is in a part of the world. 
 - **Mechanistic Cosmology**- the idea that the world is one big machine or that processes can be broken down into their constituent parts and the mechanism of what makes things work isolated and understood.
 - **Dualistic Cosmology** - the idea that matter is bad and spirit is good. 
 - Post-Modernism - 
-- **Platonic [[Cosmology\|Cosmology]]** - the idea that everything has a kind of disembodied "ideal" that it is leaning toward. The best things are the things that most closely meet the ideal. 
-- **Two Kingdoms and [[Two Kinds of Righteousness\|Two Kinds of Righteousness]] - The distinction between humanity's relationship with God and humanity's relationship with the world and other humans.  
-- [[The Two Commissions\|The Two Commissions]]
-- Meta-Narrative [[Cosmology\|Cosmology]] - overarching story of the Bible  or can also think of the overarching story of other religions or perspectives. 
+- **Platonic [[Cosmology]]** - the idea that everything has a kind of disembodied "ideal" that it is leaning toward. The best things are the things that most closely meet the ideal. 
+- **Two Kingdoms and [[Two Kinds of Righteousness]] - The distinction between humanity's relationship with God and humanity's relationship with the world and other humans.  
+- [[The Two Commissions]]
+- Meta-Narrative [[Cosmology]] - overarching story of the Bible  or can also think of the overarching story of other religions or perspectives. 
 
 Not a fan of evolutionary cosmology
 
-Mechanistic [[Cosmology\|cosmology]] has crept into a lot of ways I used to approach the world but centers thinking is starting to change that. Currently experimenting and testing out how useful centers can be in the way I interact with the world and understand it.  
+Mechanistic [[Cosmology]] has crept into a lot of ways I used to approach the world but centers thinking is starting to change that. Currently experimenting and testing out how useful centers can be in the way I interact with the world and understand it.  
 
 ****
 

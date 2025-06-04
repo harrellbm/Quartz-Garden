@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-29","Last Tended":"2025-03-30","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🪴Sprout   #😁Strongly-Agree   #🟢Conviction 
+#🪴Sprout   #😁Strongly-Agree   #🟢Conviction   #🔥Doctrine-Poetry-Story 
 
 ****
-
-> `Importance`: 100%
 
 > [!Summary] The Big Idea
 > As we seek to remain faithful to the Sacred Scriptures as they have been handed down to us by our ancestors in the faith, questions of Biblical translation can become deeply important from time to time.

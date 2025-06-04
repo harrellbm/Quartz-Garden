@@ -1,23 +1,24 @@
 ---
-{"publish":true,"Note Planted":"2024-10-30","Last Tended":"2025-01-22","PassFrontmatter":true}
+publish: true
+Note Planted: 2024-10-30
+Last Tended: 2025-01-22
 ---
-
-#🌱Seed  #🙂Agree  #🌳Thought-Tree 
+#🌱Seed  #🙂Agree
 
 ****
 
 > `Importance`: 10%
 
 > [!Summary] The Big Idea
-> Note Tree for various aspects as they develop [[LCOS Notes/LCOS Community Notes\|LCOS Community Notes]]
-> first part of the process undertaken: [[LCOS Notes/Handouts/Opening LCOS Visioning Process\|Opening LCOS Visioning Process]]
-> Thoughts on organizational Structure [[Structural Narratives\|Structural Narratives]] 
+> Note Tree for various aspects as they develop [[LCOS Notes/LCOS Community Notes]]
+> first part of the process undertaken: [[LCOS Notes/Handouts/Opening LCOS Visioning Process]]
+> Thoughts on organizational Structure [[Structural Narratives]] 
 
 Related Notes: 
-[[LCOS Notes/LCOS Community Notes\|LCOS Community Notes]]
-[[Notes on the Nature of Order\|Notes on the Nature of Order]]
-[[Thinking of Spatial Relationships as Centers\|Thinking of Spatial Relationships as Centers]]
-[[LCOS Notes/LCOS Pastoral Practices and Perspective\|LCOS Pastoral Practices and Perspective]]
+[[LCOS Notes/LCOS Community Notes]]
+[[Notes on the Nature of Order]]
+[[Thinking of Spatial Relationships as Centers]]
+[[LCOS Notes/LCOS Pastoral Practices and Perspective]]
 
 ****
 
@@ -40,9 +41,9 @@ This document seeks to develop and enact a cyclical living process that can be u
 
 The elements of this effort are twofold:
 1. The laying out and initiation of a living process to guide the rhythm of our life together as a whole.
-2. The construction of a pattern language that will help us to continually ask and answer the question "Is this supporting or hurting our mission?" with tangible responses. [[A Scripture Based Pattern Language\|A Scripture Based Pattern Language]]
+2. The construction of a pattern language that will help us to continually ask and answer the question "Is this supporting or hurting our mission?" with tangible responses. [[A Scripture Based Pattern Language]]
 
-Background reasons for using this approach can be found in this document: [[Mission and Visioning Potholes\|Mission and Visioning Potholes]]
+Background reasons for using this approach can be found in this document: [[Mission and Visioning Potholes]]
 # A possible integration of my thoughts on rhythm with the idea of centers 
 
 Rhythms are the basic way of seeing the world 
@@ -64,7 +65,7 @@ Centers and rhythms can then be thought of as was to reflect God and his presenc
 
 # Process Flow 
 - Word of God as Narrative and unfiltered  Pattern source 
-- We also have the “law on our heart” which correlates the Alexander’s idea of [[Deep Feeling\|Deep Feeling]]. We all have an inherent sense of if something is rightly ordered or not we just sometimes ignore it or allow our minds to warp it. It is the good or bad order of the world around us actually effecting us viserally. Not our emotional response to things 
+- We also have the “law on our heart” which correlates the Alexander’s idea of [[Deep Feeling]]. We all have an inherent sense of if something is rightly ordered or not we just sometimes ignore it or allow our minds to warp it. It is the good or bad order of the world around us actually effecting us viserally. Not our emotional response to things 
 - Doctrine as regularized grammar 
 	- This is more abstract and has to do with what we believe 
 	- Think doctrine that God hears and answers prayer 
@@ -149,23 +150,17 @@ Also get mechanistic discussion from phenomena of life
 - Form language for specific meaningful forms and geometries 
 - Review and discussion of demographics information
 - Wardley Map - [talk about Wardley Map](https://www.youtube.com/watch?v=2IW9L1uNMCs)
-- [[Life of an Environment Interview Questions\|Life of an Environment Interview Questions]]
-- [[Relationship Check\|Relationship Check]]
-- [[Story Questions and Existential Questions\|Story Questions and Existential Questions]]
+- [[Life of an Environment Interview Questions]]
+- [[Relational Health Framework]]
+- [[Story Questions and Existential Questions]]
 # Pattern Language 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/A-Scripture-Based-Pattern-Language" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-#🪴Sprout  #🙂Agree  #🟡Consideration  
+#🪴Sprout  #🙂Agree  #🟡Consideration   #🏖️Universe-Humans 
 ****
-> `Importance`: 10%
  
 >[!Summary] The Big Idea
-> The idea of a pattern language was originally laid out by [[Christopher Alexander (Architect, Author)\|Christopher Alexander (Architect, Author)]]. He developed this idea deeply over the course of his career for the use of constructing building and other physical spaces. I believe that it can also be very useful for forming a clear shared picture of life together as a congregation within a local community. 
+> The idea of a pattern language was originally laid out by [[Christopher Alexander (Architect, Author)]]. He developed this idea deeply over the course of his career for the use of constructing building and other physical spaces. I believe that it can also be very useful for forming a clear shared picture of life together as a congregation within a local community. 
 
 
 > [!Quote] 
@@ -179,11 +174,11 @@ Here are some examples of Pattern languages for various Projects:
 	- [[Site Analysis and Project Language for the SantAnna Garden.pdf]]
 	- [[An Office Pattern Language.pdf]]
 *** 
-I think the reason we often have a hard time applying scriptural directives, commands and or methods is that we have gotten caught in western mechanistic thinking [[A Holistic versus Mechanistic Perspective\|A Holistic versus Mechanistic Perspective]].
+I think the reason we often have a hard time applying scriptural directives, commands and or methods is that we have gotten caught in western mechanistic thinking [[A Holistic versus Mechanistic Perspective]].
 
 A pattern language is a tool to try and bridge us back to thinking and applying things according to patterns like our ancestors naturally did. Some example is Luther’s treatment of the Ten Commandments expanding each commandments to logical and ordinary applications. Or Paul’s arguments from nature that he assumes are self evident.
 
-Alexander worked from a concept he defined as [[Deep Feeling\|Deep Feeling]].  This is not normal touchy feely emotion but is a sense of how a space works on or affects the person who encounters it. This puts the direction of causation in the external environment moving to the person. This is why he argues deep feeling is an objective realty rather than the inside out idea of emotions. He conceptualized this human reaction to a space’s “life” as a kind of objective steady reaction across cultures and individuals. See: [[The Quality of Life in Environments and Objects\|The Quality of Life in Environments and Objects]]. Which I think can be helpful as far as it goes but as a community of faith our primary grounding is the word of God.
+Alexander worked from a concept he defined as [[Deep Feeling]].  This is not normal touchy feely emotion but is a sense of how a space works on or affects the person who encounters it. This puts the direction of causation in the external environment moving to the person. This is why he argues deep feeling is an objective realty rather than the inside out idea of emotions. He conceptualized this human reaction to a space’s “life” as a kind of objective steady reaction across cultures and individuals. See: [[The Quality of Life in Environments and Objects]]. Which I think can be helpful as far as it goes but as a community of faith our primary grounding is the word of God.
 
 Therefore while a pattern language for use in a congregation can take into account deep feeling, wholeness and the needs of individuals as Alexander defines them. They should not be the primary foundation.
 
@@ -193,7 +188,7 @@ From that foundation more specific and smaller patterns can be developed that de
 
 This follows the principle of the “primary process” that Alexander defined as differentiation which basically means that a good development or “unfolding” process should start from the big picture whole and then slowly differentiate and strengthen smaller wholes with each step. An example is how a human grows from a single cell but then grows by splitting or differentiating new cells.
 
-This whole idea of a pattern language needs to be put squarely where it belongs in the [[Corom Mundo\|Corom Mundo]] realm of relating with other humans and the world. It does not speak about our salvation relationship with Jesus.
+This whole idea of a pattern language needs to be put squarely where it belongs in the [[Corom Mundo]] realm of relating with other humans and the world. It does not speak about our salvation relationship with Jesus.
 To clarify it is not our way to Heaven but a clear description of how we want our life together to look and how we stay focused on the primary mission of sharing the gospel. 
 
 Another way to think about the function of the pattern language is that every decision we make to move something forward or choose between options is driven by some kind of implicit pattern that is being worked toward. A big picture lifecycle pattern is the “work hard and then retire at ease.” If someone is working toward embodying this pattern they will make very different decisions than someone who is not. A pattern language helps make this kind of decision making intentional and specific. 
@@ -252,6 +247,3 @@ What are things you want to see your board or group do in the future to grow and
 	- The warm and supporting people
 	- The willingness of people to help out
 	- 
-
-</div></div>
-

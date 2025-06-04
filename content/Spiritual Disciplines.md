@@ -1,10 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-02-24","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #😐Neutral   #🟡Consideration
+#🌱Seed   #😐Neutral   #🟡Consideration  #🥾SpiritualPractices-EmbodiedLiving 
 ****
-> `Importance`: 10%
  
 >[!Summary] The Big Idea
 > General Notes about various spiritual disciplines 

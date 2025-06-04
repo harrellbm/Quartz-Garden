@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-03-27","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 #🌱Seed  #🙂Agree   #📊Project 
@@ -508,7 +508,7 @@ By carefully considering these factors and experimenting with different algorith
 Certainly, here's a breakdown of how to create a rule-based procedural generation framework for 2D tilemaps in JavaScript, along with relevant libraries and examples:
 1. Core Concepts
  * Grid Representation:
-   * 2D Array: The most common approach. Each element in the array represents a tile (e.g., [["grass", "grass", "water"], ["grass", "tree", "grass"\|"grass", "grass", "water"], ["grass", "tree", "grass"]]).
+   * 2D Array: The most common approach. Each element in the array represents a tile (e.g., [["grass", "grass", "water"], ["grass", "tree", "grass"]]).
  * Tile Types:
    * Define a set of tile types (e.g., "grass", "water", "tree", "rock", "sand").
    * Each tile type can have associated properties (e.g., walkable, passable, height).

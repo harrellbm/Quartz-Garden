@@ -1,20 +1,28 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-27","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree   #🍽️Community-Mission 
 
 ****
 
-> `Importance`: 10%
-
 > [!summary] The Big Idea
-> A simple framework for thinking about where we are focusing our relational energy. 
+> A simple framework and check that can be used to think about where we are focusing our relational energy. 
+> 
+> This relationship check breaks relationships into three categories. 
+> - Up - Our Relationship with God
+> - In - Our Relationships with Other Christians
+> - Out - Our Relationships with Those who are outside our normal circles or are not Christian
 
+> **Instructions**: 
+> Check each categories and give yourself a rating on each type of relationship. 10 being everything is super good.  0 is I have absolutely no relationship(s) in this area.
 * * *
 
 - How are we joining Jesus here?
 - What area needs improvement?
 - Where are we doing well?
 
-![Pasted image 20240619105152.png](Pasted%20image%2020240619105152.png)
+![[Pasted image 20240619105152.png]]
+
+
+![[Pasted image 20240819080313.png]]

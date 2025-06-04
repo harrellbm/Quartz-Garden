@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2025-04-16","Last Tended":"2025-04-24","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #😐Neutral   #🟡Consideration
+#🌱Seed   #😐Neutral   #🟡Consideration  #🔥Doctrine-Poetry-Story 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > Holy week resources and history.

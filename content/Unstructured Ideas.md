@@ -1,8 +1,8 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-27","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree  #📓Journal 
 ****
 >`Importance`: 10%
 
@@ -10,16 +10,6 @@
 > A place to dump my random unstructured ideas and thoughts.
 
 * * *
-# Conference and Meeting Notes 
-
-[[BPM Notes 2023\|BPM Notes 2023]]
-
-[[Notes from Hartung Conversation 4-12-23\|Notes from Hartung Conversation 4-12-23]]
-
-# Book Notes 
-[[Notes from The Starfish and the Spirit\|Notes from The Starfish and the Spirit]]
-
-[[Joining Jesus Notes\|Joining Jesus Notes]]
 
 # How we read and Teach the Bible
 
@@ -44,7 +34,7 @@ Moment and story based learning about God. Focus on major memories and personal 
 The three pronged approach of scripture itself should be what shapes they way we teach and tell the story of everything. Torah (narrative and law), nevaim (prophets), ketavem (writings). Narrative, poetry, and prose discourse 
   
 
-Popular Books
+# Popular Books
 
 How to Read the Bible for All Its Worth: Fourth Edition
 

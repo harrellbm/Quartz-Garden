@@ -1,14 +1,12 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree  #📊Project  #🍽️Community-Mission 
 
 ****
 
-> `Importance`: 30%
-
-***The Big Idea***: Guidelines for applying the pallet designed in [[Our Savior's Church and School Selection Criteria 2023\|Our Savior's Church and School Selection Criteria 2023]]
+***The Big Idea***: Guidelines for applying the pallet designed in [[Our Savior's Church and School Selection Criteria 2023]]
 
 ****
 

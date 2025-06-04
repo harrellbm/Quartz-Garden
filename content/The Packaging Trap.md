@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2024-12-11","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree #🏖️Universe-Humans 
 
 ****
-
-> `Importance`: 50%
 
 > [!Summary] The Big Idea
 > The faulty idea that the best or most effective solution to distributing an idea is to cleanly package it up in a curriculum or book or journal and send it out as a polished product. 
@@ -17,6 +15,6 @@ In the instance of curriculum so often the packaging is either unusable within a
 
 Not only that but packaging immediately lends itself to the temptation to make money or market it like any other product off the internet. This approach quickly leaves the realm of sharing good ideas and practices in good faith to being just one more get rich quick scheme or fame booster. 
 
-The counter balance to this would be: [[Collaborative Distribution\|Collaborative Distribution]].
+The counter balance to this would be: [[Collaborative Distribution]].
 
 ****

@@ -1,10 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2025-04-29","Last Tended":"2025-04-29","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #😐Neutral   #🟡Consideration
+#🌱Seed   #😐Neutral   #🟡Consideration  #🍽️Community-Mission 
 ****
-> `Importance`: 10%
  
 >[!Summary] The Big Idea
 > Collections of newsletters from Pastors I actually know and trust.

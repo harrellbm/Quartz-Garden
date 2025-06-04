@@ -1,19 +1,17 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-02-25","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree #🟡Consideration 
+#🌱Seed  #🙂Agree #🟡Consideration #🏖️Universe-Humans 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > Centers are a way of thinking about the physical make up of an area, building, or any spacial part of the universe posited by Christopher Alexander.
 > 
 > The basic idea is that you can identify a kind of fuzzy zone (which he calls a center) around which there is a certain continuity and harmony around a particular function or structure.
 
-Each center is in itself a whole. This is in line with the idea of [[Center Composed Wholeness\|Center Composed Wholeness]]
+Each center is in itself a whole. This is in line with the idea of [[Center Composed Wholeness]]
 
 > [!Quote] Basic Definition
 > A local center of activity: a living system. It is a focused entity. 
@@ -57,7 +55,7 @@ This is in contrast to the usual perspective that a whole is made up of parts in
 - sharp change of feature 
 These are all factors that can strengthen the presence of a center 
 
-If composed and aligned well Centers can give each other strength: [[The Ways Centers Help Each Other Have More Life\|The Ways Centers Help Each Other Have More Life]]
+If composed and aligned well Centers can give each other strength: [[The Ways Centers Help Each Other Have More Life]]
 
 *** 
 

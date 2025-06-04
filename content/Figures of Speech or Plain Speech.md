@@ -1,10 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2025-05-20","Last Tended":"2025-05-20","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #😐Neutral   #🟡Consideration
+#🌱Seed   #😐Neutral   #🟡Consideration   #🔥Doctrine-Poetry-Story 
 ****
-> `Importance`: 10%
  
 >[!Summary] The Big Idea
 > Did a little digging around our discussion between figures of speech and speaking plainly in John 16:23–33. Seems like Jesus is pointing out the relationship between shorter more compact speaking and getting them ready to hear about His relationship with the Father in its fullness.  Also a bit of hidden poetry between the two words:

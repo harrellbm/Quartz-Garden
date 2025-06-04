@@ -1,17 +1,16 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-05-19","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree   #🟢Conviction 
+#🌱Seed  #🙂Agree   #🟢Conviction #🥾SpiritualPractices-EmbodiedLiving 
 ****
-> `Importance`: 10%
  
 > [!summary] The Big Idea
 > A collection of a few various ways to engage Scripture.
 
 ****
 # Christian Meditation 
-This is a very deep and broad way to engage scripture. Here are some notes about it: [[Christian Meditation\|Christian Meditation]]
+This is a very deep and broad way to engage scripture. Here are some notes about it: [[Christian Meditation]]
 # Listening styles:
 
 Ethos - relationships with speaker

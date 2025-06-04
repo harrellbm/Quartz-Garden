@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #😐Neutral 
+#🌱Seed   #😐Neutral  #🛠️BringingLifeintotheWorld 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > Basic notes about learning how to use QGIS for spatial data crunching

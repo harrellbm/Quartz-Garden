@@ -1,15 +1,13 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree  #🏖️Universe-Humans 
 
 ****
 
-> `Importance`: 40%
-
 ***The Big Idea***: 
-A valuable [[Systems Theory\|Systems Theory]] quote:
+A valuable [[Systems Theory]] quote:
 
 > [!quote]
 > “Every system is perfectly designed to get the result that it does.”  

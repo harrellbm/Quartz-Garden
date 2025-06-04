@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","tags":["📰Handout"],"PassFrontmatter":true}
+{"publish":true,"tags":["📰Handout"],"cssclasses":""}
 ---
 
 As we prepare to meet together for a congregational forum, I would like to lay out some key observations as they pertain to the direction and ethos of our life together as the Lutheran Church of Our Savior. 

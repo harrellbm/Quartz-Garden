@@ -1,10 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2024-10-28","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #😐Neutral   #🟡Consideration
+#🌱Seed   #😐Neutral   #🟡Consideration   #🏖️Universe-Humans 
 ****
-> `Importance`: 10%
  
 >[!Summary] The Big Idea
 > Interview Questions Based on Christopher Alexander's Philosophy

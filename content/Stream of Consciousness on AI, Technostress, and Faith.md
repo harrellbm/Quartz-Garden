@@ -1,8 +1,8 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2024-12-19","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree  #🛠️BringingLifeintotheWorld 
 
 ****
 
@@ -15,8 +15,8 @@
 
 > [!tip]
 > Start on more structured ideas:
-> [[A Theology of Technology\|A Theology of Technology]]
-> [[Principles for Working with Tech Tools\|Principles for Working with Tech Tools]]
+> [[A Theology of Technology]]
+> [[Principles for Working with Tech Tools]]
 
 Technostress is not being able to cope with the pace of change
 
@@ -43,7 +43,7 @@ Another line of inquiry is to think about the growing reality that we live in a 
 
 I think that this helps us realize the importance of memory and learning Scripture. In a world where we can offload so much information and work to technology the truly important things are the things of faith and life flowing from that. 
 
-[[The Preservation of Tail Knowledge\|The Preservation of Tail Knowledge]]
+[[The Preservation of Tail Knowledge]]
 
 The conversation that government and society affects or lives is one that is not unfamiliar. Laws and social movements put pressure on us and our loved ones to think and live a certain way. Technology is connected with this in part but I think we often fail to see the underlying narratives that drive the adoptions and development of many technologies. 
 

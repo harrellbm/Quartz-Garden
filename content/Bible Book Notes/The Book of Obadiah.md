@@ -1,5 +1,5 @@
 ---
-{"publish":true,"Note Planted":"2024-12-16","Last Tended":"2025-04-03","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 #🌱Seed   #🙂Agree   #📓Journal 
@@ -28,7 +28,7 @@ In bible study I have decided to read it eight times with the class to really le
 	- They thought they could raise themselves up or be safe because they lived in high places. 
 3. Mountains
 	- The two important mountains are Mount Zion and Mount Esau as kind of opposing places of authority and power but the end of the book pictures saviors going up to rule on both mountains under the authority of God alone.
-	- A short overview of [[Mountains of Scripture\|Mountains of Scripture]]
+	- A short overview of [[Mountains of Scripture]]
 4. All Nations
 	- Edom becomes an emblem of all the nations in the middle of the book in verse 15 where is switches to judgment against all nations for refusing to acknowledge God
 5. Justice

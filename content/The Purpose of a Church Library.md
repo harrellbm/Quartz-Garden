@@ -1,8 +1,14 @@
 ---
-Note Planted: 2025-04-01
-Last Tended: 2025-05-02
-publish: true
+{"publish":true,"cssclasses":""}
 ---
+
+#🌱Seed   #😐Neutral   #🟡Consideration  #🍽️Community-Mission 
+****
+ 
+>[!Summary] The Big Idea
+> What is the best use of a church library and the books it holds?
+
+****
 
 The image that sticks in my mind about libraries is the role of monastery libraries during the dark ages. While the Roman Empire was melting down and the political and economic landscape was changing monastery libraries emerged as a place of learning and continuity. It offered a stable place to house books and carry them through the changes generationally.
 
@@ -18,11 +24,11 @@ Church library as separate from Pastor's library
 
 # Current factors that affect things
 
-[[Why Learn\|Why Learn]]
+[[Why Learn]]
 
-a [[A Holistic versus Mechanistic Perspective\|A Holistic versus Mechanistic Perspective]] what about a perspective focused on life as the foundational activity of God in the world? 
+a [[A Holistic versus Mechanistic Perspective]] what about a perspective focused on life as the foundational activity of God in the world? 
 
-Avoidance of [[Tail Knowledge and Knowledge Collapse\|Tail Knowledge and Knowledge Collapse]] 
+Avoidance of [[Tail Knowledge and Knowledge Collapse]] 
 Search engine biases 
 AI biases 
 

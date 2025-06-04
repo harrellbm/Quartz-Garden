@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2024-11-19","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #😐Neutral #🟡Consideration 
+#🌱Seed  #😐Neutral #🟡Consideration  #🏖️Universe-Humans 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > The feeling of life in a space, object or human event that makes us feel at ease and able to be ourselves 
@@ -21,11 +19,11 @@ My favorite example he uses is that his house is better and more beautiful with 
 
 It seems to me that there are two ways to take this idea. One is to depart and dive into a the whole idea of Eastern religion where we are one with the universe and the universe is one with us. This is not helpful for Christians because this is not anything Scripture teaches 
 
-Where it can be helpful and a second way to take it is that as co creators and tenders of the earth it makes sense that the life we are charged to tend is not just our bodies or animals but God called us in the [[The Two Commissions\|The Two Commissions]] to care for all creation and part of that is promoting and creating this quality of life in our built environment as well as the way we interact with nature. 
+Where it can be helpful and a second way to take it is that as co creators and tenders of the earth it makes sense that the life we are charged to tend is not just our bodies or animals but God called us in the [[The Two Commissions]] to care for all creation and part of that is promoting and creating this quality of life in our built environment as well as the way we interact with nature. 
 
 The way to actually access the presence of life according to Alexander is through listening to the raw emotional reaction of the people who live and use an environment. This is because humans have an innate sense of if things are rightly ordered but we often get in the way of that with bureaucratic rules or abstractions 
 https://www.youtube.com/watch?v=2V4QYC-PRIw
 
-[[Notes on the Nature of Order\|Notes on the Nature of Order]] TODO: gather notes on Alexander’s approach to feeling. 
+[[Notes on the Nature of Order]] TODO: gather notes on Alexander’s approach to feeling. 
 
 ****

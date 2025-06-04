@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-12-17","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🪴Sprout    #🙂Agree    #🟢Conviction 
+#🪴Sprout    #🙂Agree    #🟢Conviction  #🔥Doctrine-Poetry-Story 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > A useful distinction for keeping liturgical practices where they need to be in our thinking and valuing.

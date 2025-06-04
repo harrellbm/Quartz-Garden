@@ -1,10 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2025-04-09","Last Tended":"2025-04-10","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #😐Neutral   #🟡Consideration
+#🌱Seed   #😐Neutral   #🟡Consideration   #🔥Doctrine-Poetry-Story 
 ****
-> `Importance`: 10%
  
 >[!Summary] The Big Idea
 >
@@ -51,21 +50,13 @@ And does the particular form of the act matter?
 Why did Jesus not spell it out more in Scripture? 
 
 The difference between sacrament and ritual. 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Ritual-Efficacy-versus-Sacramental-Efficacy#Ritual-Efficacy-versus-Sacramental-Efficacy" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 ## Ritual Efficacy versus Sacramental Efficacy
 
 Keeping in mind the tension of tradition and translation, we come to the need to differentiate between ritual efficacy and sacramental efficacy.[^1]   On the one hand, the word of God is always efficacious.  For example, a sermon can be given in the most monotone and dull method, written in the most cliche and boring style, yet it is still God’s living and active word at work among His people.  The word of God will do what the world of God will do by the power of the Holy Spirit apart from, and often in spite of, our human efforts.  The deep reality of the words sacramental efficacy is somewhat at odds, however, with our experience of ritual efficacy.  The sermon described above will be met with eye rolls and sighs as even willing listeners struggle to not fall asleep.  This same idea can be fleshed out in many other examples that all lead to the need to evaluate and work toward ritually effective forms of liturgy.  
 
 To state this distinction another way, all liturgy grounded in the true word of God and the right celebration of God’s gifts (sacramental and other) are without question efficacious (sacramental efficacy).  It makes no difference how engaging, interesting or personally compelling an individual finds it.  Liturgy delivers the goods of God’s promises with 100% assurance.  Ritual efficacy, on the other hand, deals in our human experience of a particular liturgical form’s ability to engage us.  It is no secret that almost every person finds different styles of worship music more or less effective for their personal engagement in meaningful worship.  Not only this but fields such as neuroscience point out the benefits of multisensory engagement for memory and retention of material in sermons and bible reading.  By maintaining the distinction between sacramental efficacy and ritual efficacy we can critically engage our practice of liturgy affirming the value and place for all faithful forms, while also acknowledging the nuances of human engagement.       
 
-[^1]: **Marriot, Article on Liturgy and discipleship, 10. [link](https://drive.google.com/file/d/1d5CYDp1PlyT-sHoIG9Wx41NfbU37ws7s/view?usp=sharing)**
-
-</div></div>
-  
+[^1]: **Marriot, Article on Liturgy and discipleship, 10. [link](https://drive.google.com/file/d/1d5CYDp1PlyT-sHoIG9Wx41NfbU37ws7s/view?usp=sharing)**  
 
 ritual as a human act (the things we do). Sacrament as what God does for us. Sacrament as the visible word of God. 
 

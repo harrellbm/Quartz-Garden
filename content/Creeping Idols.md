@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree  #🔥Doctrine-Poetry-Story 
 
 ****
-
-> `Importance`: 10%
 
 ***The Big Idea***: The worst kind of idols are the ones we don’t even notice creeping into our life little by little.
 

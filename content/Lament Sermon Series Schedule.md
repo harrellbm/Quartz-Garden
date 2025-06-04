@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree  #🔥Doctrine-Poetry-Story 
 
 ****
-
-> `Importance`: 50%
 
 ***The Big Idea***: Sermon Series for Lent covering the grieving process of Lament. I wrote and helped deliver this series at Bethlehem Lutheran Church in CO during my Vicarage.
 

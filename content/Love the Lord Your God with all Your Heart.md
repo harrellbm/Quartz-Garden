@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-04-02","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🍋Fruit    #😁Strongly-Agree   #🟢Conviction 
+#🍋Fruit    #😁Strongly-Agree   #🟢Conviction   #🔥Doctrine-Poetry-Story 
 
 ****
-
-> `Importance`: 95%
 
 > [!summary] The Big Idea
 > How do we actually love God with our Whole heart?
@@ -15,7 +13,7 @@
 > - Used in OS #📃Epistle Feb 2022
 > - Posted to Substack as #📝Essay in its current state Jan 2025
 
-***Related Epistle***: [[The Struggle to be in God's Word\|The Struggle to be in God's Word]]
+***Related Epistle***: [[The Struggle to be in God's Word]]
 
 ****
 

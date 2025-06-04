@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-12-05","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #😁Strongly-Agree #📓Journal 
+#🌱Seed  #😁Strongly-Agree #📓Journal  #🥾SpiritualPractices-EmbodiedLiving 
 
 ****
-
-> `Importance`: 50%
 
 > [!Summary] The Big Idea
 > I have decided to try something that I have heard about. Reading a story ten times to really soak it in and get familiar with it. It is a loose form of meditation on Scripture and one that I think will help me to actually dig deeper. So Here goes we will see how it end up!
@@ -51,7 +49,7 @@ This seems to suggest two ways of evaluating each created things:
 - The God ordained value of the thing as indicated by God's proclamation of its goodness and in some cases additional blessing. In this way of ordering things the relative value of things goes something like this:
 	- Humans - God gives the blessing of dominion and says creation is very good with humans in it
 	- Earth creatures - sees that they are good but no blessing
-	- Air and sea creatures - sees that they are good and a basic blessing of [[LCOS Notes/Rhythms and Patterns/Fruitfulness\|fruitfulness]]
+	- Air and sea creatures - sees that they are good and a basic blessing of [[LCOS Notes/Rhythms and Patterns/Fruitfulness]]
 	- Time and seasons - sees that the heavenly bodies are good
 	- Plant life - sees that they are good 
 	- Habitable Land and Sea - sees that they are good
@@ -63,7 +61,7 @@ This seems to suggest two ways of evaluating each created things:
 	- Habitable Land and Sea - First fully functional part of creation as far as habituality goes 
 	- Plant life - first organic life to inhabit creation 
 	- Time and seasons - Almost makes time and seasons a differentiation of both the light and space created in the first two days. It is the way in which the core structures come to life in the sense they are dynamic? Definitely a lot more to think about there. 
-	- Air and sea creatures - sees that they are good and a basic blessing of [[LCOS Notes/Rhythms and Patterns/Fruitfulness\|fruitfulness]]
+	- Air and sea creatures - sees that they are good and a basic blessing of [[LCOS Notes/Rhythms and Patterns/Fruitfulness]]
 	- Earth creatures - sees that they are good but no blessing
 	- Humans - God gives the blessing of dominion and says creation is very good
 
@@ -73,7 +71,7 @@ This seems to suggest two ways of evaluating each created things:
 > [!note] Reflection
 > Wow that was actually really crazy. I was not reading so that I could get the right answer or so that I could teach it or anything like that but just reading to see what is there and really chew on it. That seems to have brought forward a lot of the things I have been thinking about already but also just seeing things I had not noticed before. 
 > 
-> Because the whole [[The Two Commissions\|The Two Commissions]] way of seeing the creation story is one that I have come back to but today I was looking at very different parts of the story with the proclamations of goodness being a key part.  I kind of started down this way of thinking in [[Abstract Basis of Life\|Abstract Basis of Life]] and [[Basic Hierarchy of Elements\|Basic Hierarchy of Elements]]. But those rather abstract starts on this look dumb with the way today just kind of flowed out while I was reading this time when I wasn't really trying to "get at" them. 
+> Because the whole [[The Two Commissions]] way of seeing the creation story is one that I have come back to but today I was looking at very different parts of the story with the proclamations of goodness being a key part.  I kind of started down this way of thinking in [[Abstract Basis of Life]] and [[Basic Hierarchy of Elements]]. But those rather abstract starts on this look dumb with the way today just kind of flowed out while I was reading this time when I wasn't really trying to "get at" them. 
 > 
 > Let's keep going and see what happens!
 
@@ -145,7 +143,7 @@ It stands out to me that the curses in chapter three really lay out the major we
 
 Even the very source of sustenance from the ground is cursed and so food access and the joy of work are all tinged with the damage of sin.
 
-Everything is put on track for a hard toilsome and painful life until death comes. God was not kidding when he said that sin brings death. It literally takes the whole creation and puts it on a slow horrible decent back toward nothingness. Reminds me of the Athanasies quote I have in here: [[The Struggle to be in God's Word\|The Struggle to be in God's Word]].
+Everything is put on track for a hard toilsome and painful life until death comes. God was not kidding when he said that sin brings death. It literally takes the whole creation and puts it on a slow horrible decent back toward nothingness. Reminds me of the Athanasies quote I have in here: [[The Struggle to be in God's Word]].
 
 > [!done]
 > Read all of Chapter three

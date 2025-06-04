@@ -1,17 +1,15 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree  #🥾SpiritualPractices-EmbodiedLiving 
 
 ****
-
-> `Importance`: 10%
 
 > [!summary] The Big Idea
 > I often find the deed to restart rhythms because I fall into bad ones or other things start to take over more than they should 
 
-***Related Notes***: [[Patterns of Liturgy-The Rhythm of Life\|Patterns of Liturgy-The Rhythm of Life]], [[Models of Human Rhythms\|Models of Human Rhythms]], [[Private/Personal Reflections on My Personal Rhythms\|Personal Reflections on My Personal Rhythms]], [[Thoughts on Liturgy and Rhythm\|Thoughts on Liturgy and Rhythm]]
+***Related Notes***: [[Patterns of Liturgy-The Rhythm of Life]], [[Models of Human Rhythms]], [[Private/Personal Reflections on My Personal Rhythms]], [[Thoughts on Liturgy and Rhythm]]
 
 ****
 

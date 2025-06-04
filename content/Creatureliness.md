@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-11-19","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree  #🔥Doctrine-Poetry-Story 
 
 ****
-
-> `Importance`: 60%
 
 > [!summary] The Big Idea
 > We are created as living beings (Hebrew: nephesh) that are at the core God formed dirt into which he breathed the breath of life or His spirit into us. 

@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-23","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree 
+#🌱Seed  #🙂Agree   #🏖️Universe-Humans 
 
 ****
-
-> `Importance`: 30%
 
 > [!Summary] The Big Idea
 > There are any number of concepts or frameworks, or metaphors that can be helpful when thinking of change and how to do it healthily. What follows are a collection of concepts that I have found helpful when thinking about change.
@@ -14,12 +12,7 @@
 ****
 
 1. 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Mission-Mindset" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-#🌱Seed  #🙂Agree  #🟢Conviction 
+#🌱Seed  #🙂Agree  #🟢Conviction #📚Definition 
 
 ****
 
@@ -35,20 +28,10 @@ In other words, the core guiding principle of what we should do where we should 
 * * *
 
 [^1]: Canoeing the Mountains, Bolsinger
-
-</div></div>
-
 2. 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/River-of-Wellbeing" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-#🪴Sprout   #😁Strongly-Agree  #📚Definition 
+#🪴Sprout   #😁Strongly-Agree  #📚Definition  #🍽️Community-Mission 
 
 ****
-
-> `Importance`: 90%
 
 > [!Summary] The Big Idea
 > **The River Of Wellbeing** – The left and right side of our brain can be imagined as the two banks of a river, the *River of Wellbeing*
@@ -83,20 +66,10 @@ In other words, the core guiding principle of what we should do where we should 
 > Read Part Two [here](https://kidsthatgo.com/the-river-of-wellbeing-part-two/).
 > 
 > ### Retrieved from [kidsthatgo.com](https://kidsthatgo.com/the-river-of-wellbeing-part-one/)
-
-</div></div>
-
 3. 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Structure-Preserving-Transformation-or-Smooth-Change-or-Unfolding" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-#🪴Sprout  #🙂Agree  #🟡Consideration 
+#🪴Sprout  #🙂Agree  #🟡Consideration  #🏖️Universe-Humans 
 
 ****
-
-> `Importance`: 40%
 
 > [!Summary] The Big Idea
 > This change is basically the idea that all life giving change comes from an unfolding process that starts with the current structure of the whole and makes step by step changes to enhance and extend the wholeness. This process respects the current structure and basically seeks to change the least amount of big/strong/living centers in order to maximize the positive effects of the change. Because if you introduce a new strong center but destroy two others you really haven’t improved anything. 
@@ -140,14 +113,14 @@ Here are a few other helpful links from Stefan's very helpful digital garden:
 - In other words once you get a list of centers it’s time to test it out and experiment to see if this list of centers makes a coherent and meaningful whole. And then filling in any gaps of missing centers or refining center definitions etc.
 - All of this comes from the core necessities and desires of humans toward life. Basically how do we go from these being super abstract to moving them into a pattern language that is actually actionable. In a Christian setting there needs to also be the additional emphasis on the objective word of God as well and not simply rely on human feelings. But it is helpful I think to observe that we all have these deep set feelings and they are the “law on the heart” in many ways so we can observe and test them out but also be aware that they are not a sure foundation either. 
 - “This can only be done in a spiritual state of mind. We shall arrive at the stuff which produces life only by having a sense, in us, of what will actually make life in the real thing. The extent to which I am able to do this depends on the extent of my own mental and emotional awakening. I have to ask myself, first, What is real life in a person? What kind of thing will produce real, deep life in an event? What will bring real life to the conditions of a building, or garden, or street, or town? What kinds of events make us feel close to our own wholeness? And in the end my ability to ask these questions requires that I ask which kinds of centers will do the most to produce real spiritual life in people: which things, events, moments, kinds of centers, will create a spiritual awakening in a person or a person’s life.” - [looking for glimpses of eternal life](http://nature-of-order.stefan-lesser.com/b2-c13-looking-for-glimpses-of-eternal-life)
-- Alexander argues that [[Deep Feeling\|Deep Feeling]] and the production of places that convey deep feeling in the core way to identify living process and evaluate how effective the process is - [aim of every living process](http://nature-of-order.stefan-lesser.com/b2-c14-the-aim-of-every-living-process-is-at-each-step-to-increase-the-deep-feeling-of-the-whole)
+- Alexander argues that [[Deep Feeling]] and the production of places that convey deep feeling in the core way to identify living process and evaluate how effective the process is - [aim of every living process](http://nature-of-order.stefan-lesser.com/b2-c14-the-aim-of-every-living-process-is-at-each-step-to-increase-the-deep-feeling-of-the-whole)
 - he define feeling differently than emotion feeling for him is “the mode of perception and awareness which arises when a person pays attention to the whole” - [wholeness and feeling](http://nature-of-order.stefan-lesser.com/b2-c14-wholeness-and-feeling)
 - He is also a big advocate of using one’s mind eye in imagination to be able to envision a truly alive feeling image of a place and how it could be changed with the next step. All of it boils down to the objective reality of the geometry being able to generate a particular feeling in people like an engine putting out power for a car.
 - another tool he talks about for getting the flow of a plan right is an aperiodic grid. Which is basically a slightly irregular grid system put over the whole physical site with the grid lines tweaked and bent to accommodate the current structure of the site. This them can be used to help see how everything works together and where things could be moved or tweaked. - [a periodic grid](http://nature-of-order.stefan-lesser.com/b2-c15-the-aperiodic-grid) Link to full chapter: [Chapter 15. Emergence of Formal Geometry, 4 / The Aperiodic Grid](https://christopher-alexander-ces-archive.org/book-chapter/chapter-15-emergence-of-formal-geometry-4-the-aperiodic-grid/)
 - This grid is a normal grid but has some narrower and larger bands. This alternation basically allows for isolating symmetry and see how things are spaced well or not. He uses this most especially for creating middle-range order in the scale of rooms, bays etc. compared to the full volume of the building and the small details like doors and windows. - [middle-range order](http://nature-of-order.stefan-lesser.com/b2-c15-a-generative-process-for-middle-range-order-in-the-building-structure)
 - His idea of deep feelings is a kind of internal intuition about the feeling a place elicits and could or should elicit as the unfolding happens. “something more solid than a feeling, but less formed than a thing” basically it is a set and solid sense of what the feeling should be that can be used as a kind of measuring rod to see if a step or change is consistent with it or not. - [the formless but specific feeling of the whole](http://nature-of-order.stefan-lesser.com/b2-c14-the-formless-but-specific-feeling-of-the-whole)
 - In addition pattern language that looks at the functional and general relationships for forming a center. He also talks about a form language that is basically a level below a pattern language that is all about the physical geometric building blocks that can be used to achieve particular patterns. The form language is basically the LEGO set while the instructions are the pattern language. - [historical form languages](http://nature-of-order.stefan-lesser.com/b2-c16-historically-what-kind-of-thing-did-a-form-language-do)
-- For Alexander the form language he offers for building a coherent environment is to use [[The Fifteen Fundamental Properties\|The Fifteen Fundamental Properties]] I.e. [[The Ways Centers Help Each Other Have More Life\|The Ways Centers Help Each Other Have More Life]] in this way the transformations are the rules or guides that create the actual form. So rather than a bunch of random pieces of geometry a form language is a set of rules to unfold a geometry of a particular character in this case living structure - [a possibility of a form language for all future time](http://nature-of-order.stefan-lesser.com/b2-c16-possibility-of-a-form-language-for-all-future-time)
+- For Alexander the form language he offers for building a coherent environment is to use [[The Fifteen Fundamental Properties]] I.e. [[The Ways Centers Help Each Other Have More Life]] in this way the transformations are the rules or guides that create the actual form. So rather than a bunch of random pieces of geometry a form language is a set of rules to unfold a geometry of a particular character in this case living structure - [a possibility of a form language for all future time](http://nature-of-order.stefan-lesser.com/b2-c16-possibility-of-a-form-language-for-all-future-time)
 - Argues that the hallmark of living process is a profound simplicity that is defined as purity or the removal of extraneous elements. This is achieved by ““doing the simplest thing”, only the thing which is required and nothing beyond what is required”. He argues that this drive for simplicity is the foundation for all structure preserving transformations. Because they seek to preserve as much current structure as possible while introducing the elements that are most needed [spiritual simplicity of heart](http://nature-of-order.stefan-lesser.com/b2-c17-how-is-the-simple-to-be-achieved-a-spiritual-simplicity-of-heart)
 - Again the goal is simpler and richer at the same time with a packing and compressing of centers but a removal of unnecessary asymmetries. So basically a good rule of thumb is to focus on maximizing local symmetries but allowing the large to be syncopated or naturally rough [natural symmetries](http://nature-of-order.stefan-lesser.com/b2-c17-natural-symmetries)
 - “Everything in nature is symmetrical unless there is a reason for it not to be.” - [symmetry and simplicity](http://nature-of-order.stefan-lesser.com/b2-c17-symmetry-simplicity-and-just-what-is-required)
@@ -155,20 +128,10 @@ Here are a few other helpful links from Stefan's very helpful digital garden:
 - Further discussion of his ideas of simplicity: [Nature of Order Book 2, Chapter 17.4 Simplicity]([https://christopher-alexander-ces-archive.org/wp-content/uploads/2024/06/DOC.20240508.11603.2002.I.NoO_.2.17.4-1.pdf](https://christopher-alexander-ces-archive.org/wp-content/uploads/2024/06/DOC.20240508.11603.2002.I.NoO_.2.17.4-1.pdf))
 - [Ornament and Function as Products of Unfolding]([https://christopher-alexander-ces-archive.org/research/ornament-and-function-as-products-of-unfolding/](https://christopher-alexander-ces-archive.org/research/ornament-and-function-as-products-of-unfolding/))
 
-
-</div></div>
-
 4. 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/The-Edge-of-the-Wedge" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-#🌱Seed  #😐Neutral 
+#🌱Seed  #😐Neutral #🏖️Universe-Humans 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > ”It can be anything, but first it has to be something specific.” 
@@ -179,21 +142,10 @@ Article that describes this idea:
 
 ****
 
-
-</div></div>
-
 5. 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Real-Loss" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-#🌱Seed  #😐Neutral 
+#🌱Seed  #😐Neutral  #🍽️Community-Mission 
 
 ****
-
-> `Importance`: 10%
-
 ## Real Loss
 
 > [!Quote] The Big Idea
@@ -207,15 +159,7 @@ Article that describes this idea:
 This conviction makes it clear that changing and/or generating liturgical forms is not something to be taken lightly.   In fact, many argue that the risk of loss is too great to allow for variety in liturgical forms.  This project, however, does not agree with this assessment.  While loss is real and needs to be appreciated and acknowledged, it should not bind the church from worshiping God with all the skill and talent He has placed within His body.  
 
 Rather than dismissing loss, or turning it into a crippling fear, this project seeks to engage tradition thoughtfully to bring to life liturgical forms that help pull people into the depths of Christ’s richness and unlock interaction with our scriptural and churchly heritage.
-
-</div></div>
-
 6. 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Repristination" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
 #🪴Sprout  #🤢Strongly-Disagree  #📚Definition 
 
 ****
@@ -228,5 +172,3 @@ Rather than dismissing loss, or turning it into a crippling fear, this project s
 ****
 
 An example is going back to a “Christian” America of the 1950s by just having people go to church more, etc. 
-
-</div></div>

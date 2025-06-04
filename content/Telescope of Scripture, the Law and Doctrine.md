@@ -1,10 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2025-03-18","Last Tended":"2025-04-17","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🍋Fruit   #🙂Agree    #🟢Conviction   #📝Essay 
+#🍋Fruit   #🙂Agree    #🟢Conviction   #📝Essay  #🔥Doctrine-Poetry-Story 
 ****
-> `Importance`: 91%
  
 >[!Note] 
 >- Used as April 2025 #📃Epistle for LCOS  
@@ -14,7 +13,7 @@
 # Of Forests and Trees
 *The Continuity of Scripture, the Law, and Doctrine*
 
-![antique-spyglass-displayed-stockcake.jpg](antique-spyglass-displayed-stockcake.jpg)
+![[antique-spyglass-displayed-stockcake.jpg]]
 ## The Distracted Watchman
 There once was a man who was the watchmen of a small town. This town sat on the edge of a vast woods and was situated on the brow of a hill. It rose above the woods and plains offering a view of all the surrounding land. Built into the side of the hill, and surrounding the town, was a strong stone wall. The man's job, every day, was to sit on the highest section of the wall and look for enemies, wild animals, or anything that might endanger the town. Next to him sat a big bronze bell to ring if ever he should see any danger. 
 
@@ -39,7 +38,7 @@ Yet it is hard to escape the daily training of our soundbite culture. Our tools 
 > [!cite] Psalm 85:11 (CSB)
 > Truth will spring up from the earth, and righteousness will look down from heaven.
 
-![olive tree.jpg](olive%20tree.jpg)
+![[olive tree.jpg]]
 In order to break past this trap, we need to step back and look at the proverbial forest rather than only the trees we are used to seeing. Only then can the beauty, continuity, and harmony of ALL Scripture begin to surface. Out of Scripture arises a wonderful kind of order, a hierarchy, by which things naturally fall into place. Yet, may philosophers, politicians, and even theologians have invested immense effort to construct their own structure within which they force dismembered Biblical sayings or vaguely Christian morals. This is not the example of the prophets, apostles, or even Jesus Himself. In contrast, these hero's of the faith taught and interacted with Biblical truth in consistent ways. Ways that we would be wise to pursue. 
 
 A helpful visualization for their approach is to imagine your favorite kind of tree. A strong trunk supports the large sweeping branches. The branches fan out to support flowers, leaves, and fruit. The natural movement up and out can be easily expressed with your hands.  In the same way, accurate handling of Scripture, Biblical Laws, and Doctrine operate with the same principle. 

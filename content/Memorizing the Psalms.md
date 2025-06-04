@@ -1,23 +1,23 @@
 ---
-{"publish":true,"Note Planted":"2025-05-06","Last Tended":"2025-05-28","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #😁Strongly-Agree    #🟢Conviction    #📊Project #📓Journal 
+#🌱Seed   #😁Strongly-Agree    #🟢Conviction    #📊Project #📓Journal  #🥾SpiritualPractices-EmbodiedLiving 
 ****
 > `Importance`: 90%
  
 >[!Summary] The Big Idea
 > I have decided to work toward memorizing the whole book of Psalms. But not just a rote memorization, actually having it functionally memorized for meditation and retelling. So that I can actually use what is memorized and not just have it recitable.
 > 
-> This idea started to form in me after reading/listening through the whole Bible in 40 days. My journal of that is here: [[Shredding Spiritual Muscles\|Shredding Spiritual Muscles]] 
+> This idea started to form in me after reading/listening through the whole Bible in 40 days. My journal of that is here: [[Shredding Spiritual Muscles]] 
 > 
 > I am still trying to get my head around how I want to approach such a large memorization project. I have decided that I will undertake practicing memorization of things with the basic texts of the catechism and have started journaling about that here:
-> [[Memorizing the Lords Prayer\|Memorizing the Lords Prayer]]
-> [[Memorizing the Ten Commandments\|Memorizing the Ten Commandments]]
+> [[Memorizing the Lords Prayer]]
+> [[Memorizing the Ten Commandments]]
 
 Similar Notes:
-[[Memory, the Things We Keep with Us\|Memory, the Things We Keep with Us]]
-[[Bible Book Notes/Psalms-The Language of Our Heart\|Psalms-The Language of Our Heart]]
+[[Memory, the Things We Keep with Us]]
+[[Bible Book Notes/Psalms-The Language of Our Heart]]
  
 ****
 # Foundational Texts for this Project 

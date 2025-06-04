@@ -1,5 +1,5 @@
 ---
-{"Note Planted":"2025-03-18","Last Tended":"2025-04-03","publish":true,"PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 #🌱Seed   #🙂Agree   #🟡Consideration   #🌲Evergreen 
@@ -14,7 +14,7 @@
 ****
 
 ## Planting and Gardening Resources
-[[Plants Around Church\|Plants Around Church]]
+[[Plants Around Church]]
 
 > [!NOTE] Emailed resources from Camila Leon
 > 

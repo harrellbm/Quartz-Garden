@@ -1,15 +1,13 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree  #🛠️BringingLifeintotheWorld 
 
 ****
 
-> `Importance`: 40%
-
 > [!Summary] The Big Idea
-The idea of gardening is foundational to [[Digital Gardening\|Digital Gardening]]. It is an alterative way of "being" in digital space that is not time bound. It is opposed to the stream like interfaces of email, social media (Facebook, TickTok etc.), text, etc. that all bombard us with content that will pass us by if we don't keep up with the stream. 
+The idea of gardening is foundational to [[Digital Gardening]]. It is an alterative way of "being" in digital space that is not time bound. It is opposed to the stream like interfaces of email, social media (Facebook, TickTok etc.), text, etc. that all bombard us with content that will pass us by if we don't keep up with the stream. 
 
 ****
 

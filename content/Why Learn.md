@@ -1,8 +1,8 @@
 ---
-{"publish":true,"Note Planted":"2025-04-03","Last Tended":"2025-05-27","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #🙂Agree   #🟡Consideration   #📝Essay 
+#🌱Seed   #🙂Agree   #🟡Consideration   #📝Essay #🏖️Universe-Humans 
 ****
 > `Importance`: 90%
  
@@ -10,9 +10,9 @@
 > What is really worth learning? And how should we go about learning it?
 
 Similar Note:
-[[Memory, the Things We Keep with Us\|Memory, the Things We Keep with Us]]
-[[Story Questions and Existential Questions\|Story Questions and Existential Questions]]
-[[Storytelling\|Storytelling]]
+[[Memory, the Things We Keep with Us]]
+[[Story Questions and Existential Questions]]
+[[Storytelling]]
 ****
 
 What is really worth learning?

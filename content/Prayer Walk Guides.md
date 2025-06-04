@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree  #🥾SpiritualPractices-EmbodiedLiving 
 
 ****
-
-> `Importance`: 10%
 
 > [!summary] The Big Idea
 > Some collected Ideas and thoughts about writing prayer walk guides
@@ -47,13 +45,13 @@ There could be two main types:
 
 # Collected Notes from other Materials and Writings:
 
-- [[Reading Scripture Devotionally\|Reading Scripture Devotionally]]
-- [[Activity-A Conversion with Scripture\|Activity-A Conversion with Scripture]]
-- [[Metaphor in Scripture\|Metaphor in Scripture]]
-- [[A Conversation with God (Epistle)\|A Conversation with God (Epistle)]]
-- [[Quiet Muttering\|Quiet Muttering]]
-- [[Bible Book Notes/Psalms-The Language of Our Heart\|Psalms-The Language of Our Heart]]
-- [[Sacred Space\|Sacred Space]]
-- [[Lectio Divina\|Lectio Divina]]
-- [[Oratio, Meditatio, Tentatio\|Oratio, Meditatio, Tentatio]]
-- [[Treasure of Heaven Sermon Outline\|Treasure of Heaven Sermon Outline]]
+- [[Reading Scripture Devotionally]]
+- [[Activity-A Conversion with Scripture]]
+- [[Metaphor in Scripture]]
+- [[A Conversation with God (Epistle)]]
+- [[Quiet Muttering]]
+- [[Bible Book Notes/Psalms-The Language of Our Heart]]
+- [[Sacred Space]]
+- [[Lectio Divina]]
+- [[Oratio, Meditatio, Tentatio]]
+- [[Sermons/Treasure of Heaven Sermon Outline]]

@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-03-08","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
 #🌱Seed   #🤢Strongly-Disagree   #📚Definition 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > A watered down way of seeing faith and practice that is common in American Christianity today: 
@@ -16,4 +14,4 @@
 
 ****
 
-Definitly what [[Attraction Model\|Attraction Model]] churches end up pushing. 
+Definitly what [[Attraction Model]] churches end up pushing. 

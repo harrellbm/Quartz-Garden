@@ -1,8 +1,8 @@
 ---
-{"aliases":"Hotkeys,Keyboard Shortcuts","publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-07","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #😐Neutral 
+#🌱Seed  #😐Neutral #🛠️BringingLifeintotheWorld 
 ****
 > `Importance`: 10%
  

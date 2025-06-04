@@ -1,10 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree  
+#🌱Seed  #🙂Agree  #🔥Doctrine-Poetry-Story 
 ****
-> `Importance`: 30%
  
 > [!The Big Idea]
 > The Gospel is spoken of in many ways throughout Scripture.  Each paints a particular picture of the good news we proclaim.

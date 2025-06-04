@@ -1,10 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2025-05-05","Last Tended":"2025-05-05","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #🙂Agree   #🟡Consideration
+#🌱Seed   #🙂Agree   #🟡Consideration  #🔥Doctrine-Poetry-Story 
 ****
-> `Importance`: 10%
  
 >[!Summary] The Big Idea
 > Doctrines are clean, clear and simple expressions of faith drawn from Scripture. They are a good means to have a clear picture about what one believes and why.

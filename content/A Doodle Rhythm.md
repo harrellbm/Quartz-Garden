@@ -1,12 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2025-01-07","Last Tended":"2025-03-18","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #😐Neutral   #🟡Consideration
-
+#🌱Seed   #😐Neutral   #🟡Consideration   #🥾SpiritualPractices-EmbodiedLiving 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > I have often thought about ways to get into drawing more from picking a particular “thing” and drawing it over and over. To just drawing whatever is in front of me.  But with the pace of life I’ve often just never done any of that. 
@@ -16,7 +13,7 @@
 > [!note] The Rhythm
 > I want to try at the end of the day to just take five to ten minutes to draw one doodle. 
 
-[[The Fifteen Fundamental Properties\|The Fifteen Fundamental Properties]]
+[[The Fifteen Fundamental Properties]]
 Used the list of common good shapes in nature of order book 1 p.183
 
 ****

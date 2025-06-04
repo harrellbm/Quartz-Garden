@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree
+#🌱Seed  #🙂Agree  #🛠️BringingLifeintotheWorld 
 
 ****
-
-> `Importance`: 20%
 
 > [!summary] The Big Idea
 > The various apps I use for learning and keeping my self (kind of) organized.
@@ -20,6 +18,6 @@
 - Google docs for general docs and sharing collaboration 
 - Substack for reading different authors that put out longer form writing
 
-[[Notes from Hartung Conversation 4-12-23\|Notes from Hartung Conversation 4-12-23]]
-[[Gerhard Method of Theological Study\|Gerhard Method of Theological Study]]
+[[Notes from Hartung Conversation 4-12-23]]
+[[Gerhard Method of Theological Study]]
 

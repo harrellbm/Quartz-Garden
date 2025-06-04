@@ -1,13 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-23","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #😐Neutral 
+#🌱Seed  #😐Neutral  #🍽️Community-Mission 
 
 ****
-
-> `Importance`: 10%
-
 ## Real Loss
 
 > [!Quote] The Big Idea

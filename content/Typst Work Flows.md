@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2024-09-12","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree 
+#🌱Seed  #🙂Agree #🛠️BringingLifeintotheWorld 
 
 ****
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > I have liked using Typst for generating documents that I have to make the same thing over and over with small changes each week. The main work that fits into this are:

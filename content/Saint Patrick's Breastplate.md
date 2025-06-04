@@ -1,10 +1,9 @@
 ---
-{"publish":true,"Note Planted":"2025-05-29","Last Tended":"2025-05-29","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #🙂Agree   #🟢Conviction
+#🌱Seed   #🙂Agree   #🟢Conviction  #🔥Doctrine-Poetry-Story 
 ****
-> `Importance`: 10%
  
 >[!Summary] The Big Idea
 > One of my favorite trinitarian and baptismal hymns 

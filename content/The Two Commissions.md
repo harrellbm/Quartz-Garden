@@ -1,12 +1,10 @@
 ---
-{"publish":true,"Note Planted":"2024-10-22","Last Tended":"2025-01-22","PassFrontmatter":true}
+{"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree #🟢Conviction 
+#🌱Seed  #🙂Agree #🟢Conviction #🔥Doctrine-Poetry-Story 
 
 ****
-
-> `Importance`: 10%
 
 > [!summary] The Big Idea
  God has told humans what we were created to be up to and commissioned us or sent us out to do it in two major moments in Scripture.
@@ -16,7 +14,7 @@
 
 ****
 
-# [[The First Commission\|The First Commission]]
+# [[The First Commission]]
 
 As the world settled into its newly created order, God spoke to humanity.  The first blessing, or benediction, uttered over humanity paints a picture of life as it has always been meant to be:
 
@@ -33,7 +31,7 @@ Since the fall, humans have wandered far afield of our original purpose as co-cr
 > [!cite] Deuteronomy 6:4-5
 “Hear, O Israel: 
 The Lord our God, the Lord is one. 
-You shall [[Love the Lord Your God with all Your Heart\|love the Lord your God with all your heart]] 
+You shall [[Love the Lord Your God with all Your Heart]] 
 and with all your soul and with all your might.”
 
 This image of a good life does not start with knowledge or power, riches or fame. A good life according to God starts with listening. Hearing the realities of who He is and responding with love. The salient action, or mode of being, is loving.  A loving that captures the entirety of our being - heart, soul, and might.   
