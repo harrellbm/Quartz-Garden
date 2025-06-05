@@ -3,16 +3,19 @@
 ---
 
 #🌱Seed   #🙂Agree   #🟡Consideration   #📝Essay #🏖️Universe-Humans 
+
 ****
+
 > `Importance`: 90%
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > What is really worth learning? And how should we go about learning it?
 
 Similar Note:
 [[Memory, the Things We Keep with Us]]
 [[Story Questions and Existential Questions]]
 [[Storytelling]]
+
 ****
 
 What is really worth learning?
@@ -66,13 +69,15 @@ What we keep with us in our minds and muscle memory are what we have with us whe
 
 # A Fearful Foundation
 
-
+```bible
+Proverbs 1:7
+```
+`Ecclesiastes 12:13-14`
 > [!Cite] Proverbs 1:7, CSB
 The fear of the Lord is the beginning of knowledge;
 
 > [!Cite] Ecclesiastes 12:13-14, CSB
 >  When all has been heard, the conclusion of the matter is this: fear God and keep his commands, because this is for all humanity. For God will bring every act to judgment, including every hidden thing, whether good or evil.
-
 
 # Learning to Confess
 
@@ -99,7 +104,3 @@ the idea that the way we learn and seek information in the world actually affect
 >     and consider your ways.  
 > I delight in your decrees;  
 >     I will not neglect your word.
-
-
-
-

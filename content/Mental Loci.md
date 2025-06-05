@@ -21,7 +21,6 @@ I was raised as a Boy Scout and many of my fondest memories of growing up are se
 I think of sitting at the beach and starring off into the sea. Humanity and the universe are just as incredible but also chaotic to ponder.  
 - [[Zone of Proximal Development\|Zone of Proximal Development]]
 - [[What Makes Something Valuable\|What Makes Something Valuable]]
-- [[Why Learn\|Why Learn]]
 - [[W. Edward Deming Quotes\|W. Edward Deming Quotes]]
 - [[Visual Teaching\|Visual Teaching]]
 - [[Types of Pedagogy\|Types of Pedagogy]]
@@ -60,6 +59,7 @@ I think of sitting at the beach and starring off into the sea. Humanity and the 
 - [[A Grounded Cosmology and a Creaturely Anthropology\|A Grounded Cosmology and a Creaturely Anthropology]]
 - [[A Creature Among Machines\|A Creature Among Machines]]
 - [[A Categorical Mind\|A Categorical Mind]]
+- [[Why Learn\|Why Learn]]
 
 
 # Spiritual Practices and Embodied Living

@@ -3,9 +3,10 @@
 ---
 
 #🌱Seed   #😐Neutral   #🟡Consideration   #📊Project   #📓Journal  #🥾SpiritualPractices-EmbodiedLiving 
+
 ****
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > This is my second experiment in memorization after [[Memorizing the Lords Prayer]].  This time I want to try using spatial and imagination to add another layer to the ten commandments. 
 > 
 > I have always had issues recalling them by number so this will be interesting to see what additional memory strategies may be able to add.
@@ -15,6 +16,7 @@ Similar Notes:
 [[Memorizing the Lords Prayer]]
 [[Memory, the Things We Keep with Us]]
 [[Why Learn]]
+
 ****
 
 Idea of the two greatest commandments as the most zoomed out and then ten commandments next step down before the rest of the law falls under as even more specific
