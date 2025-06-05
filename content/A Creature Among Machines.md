@@ -14,6 +14,7 @@
 > Human beings are not best understood as a compilation of parts with a main driver, but as a holistic creature eluding any tight definition. 
 
 Thoughts proceeding these: [[Embodiment of Community]]
+
 ****
 
 # A Brewing Crisis 
@@ -87,8 +88,9 @@ The thing about deeply ingrained cultural and anthropological perspectives, is t
 In this perspective, wholeness is the overall cohesiveness and interrelated nature of everything. For example, a building (he was an architect after all) functions as a whole. Missing a roof, or doors, or plumbing affects the ability of the whole to operate. Even the earth functions as a whole. Humans, as participant in this whole, effect it but are also affected by the environment in which we live. We are not unattached, but are to a certain extent influenced and contingent on our environment. 
 
 In Alexander's more philosophical terms: 
+
 > the wholeness in any part of space is the structure defined by all the various coherent entities that exist in that part of space, and the way these entities are nested in and overlap each other.
->- Nature of Order, bk 1., p. 81
+> - Nature of Order, bk 1., p. 81
 
 A metaphor that can help picture this difference is to think of two frogs. One is alive, whole, and hopping around a pond. The other is split open and pinned to a board in a laboratory. 
 
@@ -142,8 +144,6 @@ Maybe see how first commission backs this up or not
 From there jumping into the metaphors that address particular parts of our existence 
 
 Explore this all more in depth with [[The Chiasm or the Chasm]] and [[Patterns of Liturgy-The Rhythm of Life]]
-
-
 
 [^1]: Oliveira, A. (2017). The Exponential Nature of Technology. In The Digital Mind: How Science is Redefining Humanity (pp. 3-18). Cambridge, MA: MIT Press. Retrieved from [https://doi.org/10.7551/mitpress/9780262036030.003.0002](https://doi.org/10.7551/mitpress/9780262036030.003.0002) on 29 February 2024.
 [^2]: Oliveira, A. (2017). The Exponential Nature of Technology. In The Digital Mind: How Science is Redefining Humanity (pp. 3-18). Cambridge, MA: MIT Press. Retrieved from [https://doi.org/10.7551/mitpress/9780262036030.003.0002](https://doi.org/10.7551/mitpress/9780262036030.003.0002) on 29 February 2024.

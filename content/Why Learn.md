@@ -6,8 +6,6 @@
 
 ****
 
-> `Importance`: 90%
-
 > [!Summary] The Big Idea
 > What is really worth learning? And how should we go about learning it?
 
@@ -69,10 +67,6 @@ What we keep with us in our minds and muscle memory are what we have with us whe
 
 # A Fearful Foundation
 
-```bible
-Proverbs 1:7
-```
-`Ecclesiastes 12:13-14`
 > [!Cite] Proverbs 1:7, CSB
 The fear of the Lord is the beginning of knowledge;
 

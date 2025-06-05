@@ -24,21 +24,21 @@ Here are some basic suggestions for using this garden:
 - Or you can look at my [[Wonder List]] a collection of things that I am thinking about. 
 - If you run into a 404 page it means I haven't made that note yet or haven't uploaded it. If it is interesting to you reach out to me and start a conversation about it.  
 # Notes I have Tended Recently 
-- [[Why Learn\|Why Learn]]
 - [[Indexes/Scripture Index\|Scripture Index]]
+- [[A Creature Among Machines\|A Creature Among Machines]]
+- [[Why Learn\|Why Learn]]
+- [[Memorizing the Psalms\|Memorizing the Psalms]]
 - [[Bible/ESV/Proverbs/Proverbs 1\|Proverbs 1]]
 - [[Memorizing the Ten Commandments\|Memorizing the Ten Commandments]]
 - [[Scripture Index\|Scripture Index]]
 - [[Tikka Masala\|Tikka Masala]]
 - [[Memorizing the Lords Prayer\|Memorizing the Lords Prayer]]
-- [[Memorizing the Psalms\|Memorizing the Psalms]]
 - [[Notes from Partnering with Parents\|Notes from Partnering with Parents]]
 - [[Mental Loci\|Mental Loci]]
 - [[The Organization of My Digital Garden\|The Organization of My Digital Garden]]
 - [[Zotero Library\|Zotero Library]]
 - [[Zone of Proximal Development\|Zone of Proximal Development]]
 - [[Year after Highschool Bible college model\|Year after Highschool Bible college model]]
-- [[Worship Planning Notes\|Worship Planning Notes]]
 
 # Connected by the Roots
 I aim to make this digital space a grove of sorts. A collection of thoughts, ideas, concepts, notes and experiences. 

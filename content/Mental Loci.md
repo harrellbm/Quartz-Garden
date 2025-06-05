@@ -57,9 +57,9 @@ I think of sitting at the beach and starring off into the sea. Humanity and the 
 - [[A Scripture Based Pattern Language\|A Scripture Based Pattern Language]]
 - [[A Holistic versus Mechanistic Perspective\|A Holistic versus Mechanistic Perspective]]
 - [[A Grounded Cosmology and a Creaturely Anthropology\|A Grounded Cosmology and a Creaturely Anthropology]]
-- [[A Creature Among Machines\|A Creature Among Machines]]
 - [[A Categorical Mind\|A Categorical Mind]]
 - [[Why Learn\|Why Learn]]
+- [[A Creature Among Machines\|A Creature Among Machines]]
 
 
 # Spiritual Practices and Embodied Living
@@ -110,9 +110,9 @@ Living is crazy and trying to figure out how to live well and practice my faith 
 - [[Abundance Mindset\|Abundance Mindset]]
 - [[A Doodle Rhythm\|A Doodle Rhythm]]
 - [[A Conversation with God (Epistle)\|A Conversation with God (Epistle)]]
-- [[Memorizing the Psalms\|Memorizing the Psalms]]
 - [[Memorizing the Lords Prayer\|Memorizing the Lords Prayer]]
 - [[Memorizing the Ten Commandments\|Memorizing the Ten Commandments]]
+- [[Memorizing the Psalms\|Memorizing the Psalms]]
 
 # Doctrine, Poetry, and Story
 #🔥Doctrine-Poetry-Story

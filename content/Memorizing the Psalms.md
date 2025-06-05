@@ -4,7 +4,6 @@
 
 #🌱Seed   #😁Strongly-Agree    #🟢Conviction    #📊Project #📓Journal  #🥾SpiritualPractices-EmbodiedLiving 
 ****
-> `Importance`: 90%
  
 >[!Summary] The Big Idea
 > I have decided to work toward memorizing the whole book of Psalms. But not just a rote memorization, actually having it functionally memorized for meditation and retelling. So that I can actually use what is memorized and not just have it recitable.
