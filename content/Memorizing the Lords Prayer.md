@@ -19,7 +19,9 @@
 
 Similar notes:
 [[Memorizing the Psalms]]
+[[Memorizing the Ten Commandments]]
 [[Memory, the Things We Keep with Us]]
+[[Why Learn]]
 ****
 This has been an interesting experiment. Since I already had the prayer memorized by rote adding another "layer" was relatively easy. In trying to compose the peg list I found it easier to simple use the opening phrase of each petition as the peg rather than a singular word. It also makes is so that if I want to say the rest of a petition or jump in or out of the prayer it all flows smoothly together.   
 # Peg List

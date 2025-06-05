@@ -24,14 +24,17 @@ Similar Notes:
 These are books the influenced me as I have been getting my head around this project:
 
 - Dietrich Bonhoeffer. Psalms: The Prayer Book of the Bible 
-	- A really powerful yet short book on how to see Jesus praying the Psalms with us and for us and how we can pray them faithfully.
+	- A powerful yet short book on how to see Jesus praying the Psalms with us and for us and how we can pray them faithfully.
 
 - Athanasius, Letter to Marcellinus, trans. and ed. Joel C Elowsky. New Haven, CT: ICCS Press, 2021.
-	- A really fascinating look into how familiar Athanasius was with the Psalms and how highly he regarded them as a practical way to be formed by God's word and taught how to handle every emotion or "inner movement." 
+	- A fascinating look into how familiar Athanasius was with the Psalms and how highly he regarded them as a practical way to be formed by God's word and taught how to handle every emotion or "inner movement." 
 	- PDF of the Text: [[Letter to Marcellinus translation-jce edit 08242016 final changes accepted (1).pdf]]
 
 - Timothy Saleska. Concordia Commentary on Psalm 1-50
 	- Introduction has a ton of resources and well laid out information about how to read and apply the psalms. 
+
+- Martin Luther. First Lectures on the Psalms: Psalms 1-75. Luther’s Works, Vol. 10. St. Louis, MO: Concordia Pub., 1974.
+	- Started to read through and am surprised I have never hear this part of Luther quoted much. 
 ## Suggestions from Dr. Joel Elowsky
 These are potential texts that Dr. Elowsky suggested to me:
 - Blaising, Craig and Harding, Carmen, eds. Psalms 1-50, Ancient Christian Commentary on Scripture. Downers Grove, IL: IVP, 2007.
@@ -45,8 +48,6 @@ These are potential texts that Dr. Elowsky suggested to me:
 - Theodoret of Cyrus: Commentary on the Psalms 73-150. Trans. Robert C Hill. Washington, DC: Catholic University of America Press, 2000.
 
 - Cameron, Michael. Essential Expositions of the Psalms by Augustine. Hyde Park, NY: New City Press, 2015.
-
-- Martin Luther. First Lectures on the Psalms: Psalms 1-75. Luther’s Works, Vol. 10. St. Louis, MO: Concordia Pub., 1974.
 
 - Martin Luther. Selected Psalms. Luther’s Works, Vol. 12. St. Louis, MO: Concordia Pub., 1974.
 ## Suggestions from Dr. Timothy Saleska

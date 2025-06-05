@@ -24,6 +24,10 @@ Here are some basic suggestions for using this garden:
 - Or you can look at my [[Wonder List]] a collection of things that I am thinking about. 
 - If you run into a 404 page it means I haven't made that note yet or haven't uploaded it. If it is interesting to you reach out to me and start a conversation about it.  
 # Notes I have Tended Recently 
+- [[Tikka Masala\|Tikka Masala]]
+- [[Memorizing the Ten Commandments\|Memorizing the Ten Commandments]]
+- [[Memorizing the Lords Prayer\|Memorizing the Lords Prayer]]
+- [[Memorizing the Psalms\|Memorizing the Psalms]]
 - [[Notes from Partnering with Parents\|Notes from Partnering with Parents]]
 - [[Mental Loci\|Mental Loci]]
 - [[The Organization of My Digital Garden\|The Organization of My Digital Garden]]
@@ -35,10 +39,6 @@ Here are some basic suggestions for using this garden:
 - [[Word Made Flesh\|Word Made Flesh]]
 - [[Wild Edible Garden Design Pattern\|Wild Edible Garden Design Pattern]]
 - [[Why Learn\|Why Learn]]
-- [[Who Shall Separate Us\|Who Shall Separate Us]]
-- [[What Makes Something Valuable\|What Makes Something Valuable]]
-- [[What is Liturgy\|What is Liturgy]]
-- [[Ways to Engage Scripture\|Ways to Engage Scripture]]
 
 # Connected by the Roots
 I aim to make this digital space a grove of sorts. A collection of thoughts, ideas, concepts, notes and experiences. 
