@@ -2,14 +2,15 @@
 {"publish":true,"cssclasses":""}
 ---
 
-#🍋Fruit   #😁Strongly-Agree   #📊Project
+#🍋Fruit   #😁Strongly-Agree   #📊Project   #🛠️BringingLifeintotheWorld 
+
 ****
->`Importance`: 50%
 
 > [!Summary] The Big Idea
->  A personal project to build a package for the typesetting tool Typst that allows for easy formatting of bulletins and booklets.
+> A personal project to build a package for the typesetting tool Typst that allows for easy formatting of bulletins and booklets.
 
 * * *
+
 ## Features 
 
 Fully customizable page numbers. Can define as many layouts for different page ranges. Every layout has a start number and alt start number to display and a style. Each style can define values for all, even or odd pages 
@@ -65,7 +66,6 @@ TODO: make a nice description of features
 
 ## Booklet function
 wrapper of sig function that adds convenience features like auto break into pages. But only handles a single signature
-
 
 > [!NOTE] 
 > Currently this feature seems impossible with Typst's set of features.

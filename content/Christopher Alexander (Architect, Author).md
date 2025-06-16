@@ -44,7 +44,7 @@ Here are some summaries of core ideas that come out of his way of thinking: [Hel
 YouTube of interview with Christopher Alexander: [Christopher Alexander - Life in Buildings (Full)](https://www.youtube.com/watch?v=oKO3vYjZbcs)
 
 These are my notes from reading the Nature of Order Books:
-[[Notes on the Nature of Order]]
+[[Book and Conference Notes/Notes on the Nature of Order]]
 
 Some other readings that I have not finished yet:
 [The Search for Beauty; introductory presentation at Stanford of Christopher Alexander’s work](https://christopher-alexander-ces-archive.org/article/christopher-alexander-the-search-for-beauty/)

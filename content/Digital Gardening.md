@@ -83,7 +83,7 @@ The three main tools I have started using for creating and tending my garden are
 - Google docs for general docs and sharing collaboration 
 - Substack for reading different authors that put out longer form writing
 
-[[Notes from Hartung Conversation 4-12-23]]
+[[Book and Conference Notes/Notes from Hartung Conversation 4-12-23]]
 [[Gerhard Method of Theological Study]]
 
 

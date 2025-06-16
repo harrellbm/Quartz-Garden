@@ -143,7 +143,7 @@ A metaphor for this is to think of two frogs on a table. One is alive and whole 
 
 Related Notes: 
 [[Structure Preserving Transformation or Smooth Change or Unfolding]], 
-[[Notes on the Nature of Order]],
+[[Book and Conference Notes/Notes on the Nature of Order]],
 [[The Quality of Life in Environments and Objects]],
 [[Center Composed Wholeness]],
 [[The Ways Centers Help Each Other Have More Life]],

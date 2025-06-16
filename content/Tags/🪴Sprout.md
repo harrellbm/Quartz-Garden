@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"aliases":"#🪴Sprout","cssclasses":""}
 ---
 
 # Tag Description

@@ -2,7 +2,7 @@
 {"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed  #🙂Agree #🔥Doctrine-Poetry-Story 
+#🪴Sprout   #🙂Agree    #🟡Consideration   #🔥Doctrine-Poetry-Story 
 
 ****
 

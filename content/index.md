@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Base Camp 🏕️","tags":["🌲Evergreen"],"cssclasses":""}
+{"publish":true,"aliases":"Home Base Camp","title":"Base Camp 🏕️","tags":["🌲Evergreen"],"cssclasses":""}
 ---
 
 Hello!
@@ -24,21 +24,21 @@ Here are some basic suggestions for using this garden:
 - Or you can look at my [[Wonder List]] a collection of things that I am thinking about. 
 - If you run into a 404 page it means I haven't made that note yet or haven't uploaded it. If it is interesting to you reach out to me and start a conversation about it.  
 # Notes I have Tended Recently 
+- [[Projects/Bookletic\|Bookletic]]
 - [[Indexes/Scripture Index\|Scripture Index]]
+- [[Book and Conference Notes/Notes from Conversation with Sarah Salzburg\|Notes from Conversation with Sarah Salzburg]]
+- [[Big Picture Theological Concepts\|Big Picture Theological Concepts]]
+- [[Projects/Digital Garden Map\|Digital Garden Map]]
+- [[The Use of Co and being a Co-Creator with God\|The Use of Co and being a Co-Creator with God]]
+- [[Book and Conference Notes/Notes from National Convention 2024\|Notes from National Convention 2024]]
+- [[Bible Book Notes/Psalms-The Language of Our Heart\|Psalms-The Language of Our Heart]]
 - [[A Creature Among Machines\|A Creature Among Machines]]
 - [[Why Learn\|Why Learn]]
 - [[Memorizing the Psalms\|Memorizing the Psalms]]
-- [[Bible/ESV/Proverbs/Proverbs 1\|Proverbs 1]]
 - [[Memorizing the Ten Commandments\|Memorizing the Ten Commandments]]
 - [[Scripture Index\|Scripture Index]]
-- [[Tikka Masala\|Tikka Masala]]
+- [[Recipes/Tikka Masala\|Tikka Masala]]
 - [[Memorizing the Lords Prayer\|Memorizing the Lords Prayer]]
-- [[Notes from Partnering with Parents\|Notes from Partnering with Parents]]
-- [[Mental Loci\|Mental Loci]]
-- [[The Organization of My Digital Garden\|The Organization of My Digital Garden]]
-- [[Zotero Library\|Zotero Library]]
-- [[Zone of Proximal Development\|Zone of Proximal Development]]
-- [[Year after Highschool Bible college model\|Year after Highschool Bible college model]]
 
 # Connected by the Roots
 I aim to make this digital space a grove of sorts. A collection of thoughts, ideas, concepts, notes and experiences. 

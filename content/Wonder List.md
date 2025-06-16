@@ -24,7 +24,7 @@
 
 - Sabbath [[The Biblical Rhythm of Time and Rest]] the idea that we have really messed up the idea of rest and sabbath in our culture with it basically meaning "time to do whatever you want" where sabbath had a clear focus on not doing exactly what you want but taking time to focus on God and communion with Him. [[Rhythm Reset]]
 
-- Continuing to dig into how to teach and practice typological reading of scripture to find and see the beauty and continuity of scripture. [[Notes from Conversation with Sarah Salzburg]], [[Telescope of Scripture, the Law and Doctrine]], [[Christian Meditation]]
+- Continuing to dig into how to teach and practice typological reading of scripture to find and see the beauty and continuity of scripture. [[Book and Conference Notes/Notes from Conversation with Sarah Salzburg]], [[Telescope of Scripture, the Law and Doctrine]], [[Christian Meditation]]
 
 - How to actually build and encourage a creative community that lets arts and beauty thrive. In the forms of music, art, etc. [[Aesthetic]]
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"aliases":"C h u r c h E n t r y w a y","cssclasses":""}
 ---
 
 #🪴Sprout   #🙂Agree  #🛠️BringingLifeintotheWorld 

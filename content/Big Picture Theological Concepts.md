@@ -14,6 +14,7 @@
 ## Big Picture Theological Principles and Frameworks 💡
 
 - Continuity of Biblical Teaching
+	- Old Testament Law useful for principles not direct following (I.e. Under Law of Christ not Law of Moses).
 	- [[Telescope of Scripture, the Law and Doctrine]]
 - [[Law and Gospel]]
 - [[Three Uses of the Law]]
@@ -35,6 +36,7 @@
 - [[The Process of Inculturation]]
 - [[What is Liturgy]]
 	- [[Liturgical Art]]
+	- [[Notes on Compline]]
 - Rhythms of Life and Faith
 	- [[Spiritual Disciplines]]
 	- Embodied practices (crosses, breath prayer, Using our bodies in worship, etc.)
@@ -95,7 +97,6 @@
 	- [[Repristination]]
 	- Law/Gospel reductionism.
 - Confessionalism. Subscribe to doctrine not exegesis.
-- Old Testament Law useful for principles not direct following (I.e. Under Law of Christ not Law of Moses).
 - Movement of the Presence of God in Scripture and [[Sacred Space]]
 - Proclamation vs Explanation of Theology and Faith
 - Marks of the Church (Word and Sacraments). Preaching
@@ -106,11 +107,11 @@
 - Immanent Trinity. Co equal, eternal etc. 
 - Original Sin
 - Sanctification
-- Return of Jesus, Judgment day
+- Return of Jesus, Judgment day. Eschatology
 - Free will, and predestination 
 - Biblical Poetry (Psalms, [[Bible Book Notes/Prophets]], etc.)
 - [[Mission Mindset]]: Go and Tell not always Come and See
-- Order of Creation. As it comes from the creation account and other biblical descriptions, but also as we can see it through the healthy functioning of particular created orders. [[Notes on the Nature of Order]] A similar account of seeing the health functioning of buildings.
+- Order of Creation. As it comes from the creation account and other biblical descriptions, but also as we can see it through the healthy functioning of particular created orders. [[Book and Conference Notes/Notes on the Nature of Order]] A similar account of seeing the health functioning of buildings.
 - The Use and Inhabitation of Space:
 	- [[Sacred Space]]
 	- [[Mountains of Scripture]]
@@ -120,14 +121,20 @@
 	- [[The Tabernacle]]
 - [[The Solas of the Reformation]]
 - [[Facing North or East]]
+- [[Canticles (Songs in the Bible)]]
+- Church Year
+	- [[Holy Week]]
 ## Other Notes
 - [[Faith Catchphrases]]
 - [[New Monasticism]]
 - [[Love Your Enemies]]
+- [[The Use of Co and being a Co-Creator with God]]
 
 # Unhealthy Theological Views or Ideas 🤢
 
 - [[Moralistic Therapeutic Deism]]
 - [[Repristination]]
 - [[Christian Nationalism]]
+- Law/Gospel Reductionism
+- Implicit Platonism
 

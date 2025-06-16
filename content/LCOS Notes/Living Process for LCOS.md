@@ -16,7 +16,7 @@ Last Tended: 2025-01-22
 
 Related Notes: 
 [[LCOS Notes/LCOS Community Notes]]
-[[Notes on the Nature of Order]]
+[[Book and Conference Notes/Notes on the Nature of Order]]
 [[Thinking of Spatial Relationships as Centers]]
 [[LCOS Notes/LCOS Pastoral Practices and Perspective]]
 

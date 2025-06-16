@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"aliases":"H o t k e y s K e y b o a r d S h o r t c u t s","cssclasses":""}
 ---
 
 #🌱Seed  #😐Neutral #🛠️BringingLifeintotheWorld 

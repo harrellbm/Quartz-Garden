@@ -9,7 +9,7 @@
 >[!Summary] The Big Idea
 > Starting to collect instances and resources around big biblical themes.
 
-Similar Ideas: [[Notes from Conversation with Sarah Salzburg]]
+Similar Ideas: [[Book and Conference Notes/Notes from Conversation with Sarah Salzburg]]
 ****
 # The Core Seven
 ![[Biblical Themes Symbols.jpeg]]
