@@ -18,5 +18,5 @@ Related Notes:
 
 * * *
 
-Todo: line sacred space essay 
-Todo: gather other sacred space resources and pedagogy of architecture books
+Todo: line [[Sacred Space]] essay 
+Todo: gather other sacred space resources and [[Pedagogy]] of [[Architecture]] books

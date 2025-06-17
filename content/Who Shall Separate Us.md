@@ -6,8 +6,11 @@
 
 ****
 
-***The Big Idea***: Short #📃Epistle used at OS on Sept 2021.
+> [!note]
+> Short #📃Epistle used at OS on Sept 2021.
 
+Similar Notes:
+[[Love the Lord Your God with all Your Heart]]
 ****
 
 > “Who shall separate us from the love of Christ? Shall tribulation, or distress, or persecution, or famine, or nakedness, or danger, or sword?”

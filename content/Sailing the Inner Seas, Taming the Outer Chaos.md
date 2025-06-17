@@ -52,7 +52,7 @@ Deuteronomy 6:7
 You shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise.
 
 > [!Cite] Acts 3:18 ESV
-> But what God foretold by the mouth of all the prophets, that his Christ would suffer, he thus fulfilled.
+> But what God foretold by the mouth of all the [[Bible Book Notes/Prophets]], that his Christ would suffer, he thus fulfilled.
 
 Can you answer that questions? 
 

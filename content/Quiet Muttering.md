@@ -12,6 +12,8 @@
 > [!note]
 > Used as OS #📃Epistle in series Mediation on Scripture, November 2021. 
 
+Related Notes:
+[[Christian Meditation]]
 ****
 
 Reading Scripture can sometimes be confusing. There are words you don't normally see or hear. Sentences are written in ways that may sound strange. Not to mention the life of people in the Bible can feel very different and far away from our own. Being confused by what we read in the Bible is okay. Only when we can acknowledge that something does not make sense can we begin to let the words of Scripture become more than a textbook, or words on a page. The Scriptures have important, life changing, things to tell us; no matter how old we are or if we know a little or a lot about the Bible.  

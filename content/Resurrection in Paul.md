@@ -184,7 +184,7 @@
 > to the goal of his earthly journey.&quot;
 > c. Hebrews 7:1-28
 > 6. After taking a break from the discussion (5:1 1—6: 18), the writer transitions back to Christ&#39;s high priestly office
-> in 6:19-20. Jesus has gone into the inner sanctuary (&quot;behind the curtain&quot;), that is, he has become a high priest
+> in 6:19-20. Jesus has gone into the inner [[LCOS Notes/Physical Centers/Indoor/Sanctuary]] (&quot;behind the curtain&quot;), that is, he has become a high priest
 > after the order of Melchizedek.
 > a. Heb 7:1-28 is part of how the writer displays the proof/ argument that Christ&#39;s priestly office is superior
 > to the Aaronic priesthood.

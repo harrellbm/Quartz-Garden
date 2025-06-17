@@ -24,21 +24,21 @@ Here are some basic suggestions for using this garden:
 - Or you can look at my [[Wonder List]] a collection of things that I am thinking about. 
 - If you run into a 404 page it means I haven't made that note yet or haven't uploaded it. If it is interesting to you reach out to me and start a conversation about it.  
 # Notes I have Tended Recently 
-- [[Projects/Bookletic\|Bookletic]]
+- [[Bible Book Notes/The Book of Habakkuk\|The Book of Habakkuk]]
+- [[Book and Conference Notes/Notes on the Nature of Order\|Notes on the Nature of Order]]
 - [[Indexes/Scripture Index\|Scripture Index]]
-- [[Book and Conference Notes/Notes from Conversation with Sarah Salzburg\|Notes from Conversation with Sarah Salzburg]]
-- [[Big Picture Theological Concepts\|Big Picture Theological Concepts]]
-- [[Projects/Digital Garden Map\|Digital Garden Map]]
-- [[The Use of Co and being a Co-Creator with God\|The Use of Co and being a Co-Creator with God]]
+- [[Book and Conference Notes/Notes from Partnering with Parents\|Notes from Partnering with Parents]]
 - [[Book and Conference Notes/Notes from National Convention 2024\|Notes from National Convention 2024]]
-- [[Bible Book Notes/Psalms-The Language of Our Heart\|Psalms-The Language of Our Heart]]
-- [[A Creature Among Machines\|A Creature Among Machines]]
-- [[Why Learn\|Why Learn]]
-- [[Memorizing the Psalms\|Memorizing the Psalms]]
-- [[Memorizing the Ten Commandments\|Memorizing the Ten Commandments]]
-- [[Scripture Index\|Scripture Index]]
-- [[Recipes/Tikka Masala\|Tikka Masala]]
-- [[Memorizing the Lords Prayer\|Memorizing the Lords Prayer]]
+- [[Book and Conference Notes/Nationals 2024 Teaching the Faith at Home Notes\|Nationals 2024 Teaching the Faith at Home Notes]]
+- [[Book and Conference Notes/BPM Notes 2025\|BPM Notes 2025]]
+- [[Handouts/Opening LCOS Visioning Process\|Opening LCOS Visioning Process]]
+- [[Handouts/First Communion\|First Communion]]
+- [[Handouts/Congregational Forum Handout 1.26.25\|Congregational Forum Handout 1.26.25]]
+- [[LCOS Notes/Sanctuary Screen Parameters and Guidelines\|Sanctuary Screen Parameters and Guidelines]]
+- [[LCOS Notes/Living Process for LCOS\|Living Process for LCOS]]
+- [[LCOS Notes/LCOS Pastoral Practices and Perspective\|LCOS Pastoral Practices and Perspective]]
+- [[LCOS Notes/LCOS Facility Pattern Language\|LCOS Facility Pattern Language]]
+- [[LCOS Notes/LCOS Community Notes\|LCOS Community Notes]]
 
 # Connected by the Roots
 I aim to make this digital space a grove of sorts. A collection of thoughts, ideas, concepts, notes and experiences. 

@@ -9,6 +9,8 @@
 > [!Summary] The Big Idea
 > notes copied from presentation on confirmation.
 
+Related Notes:
+[[Faith Formation]]
 ****
 
 # Ownership of Faith
@@ -16,10 +18,10 @@
 1. ﻿﻿﻿The Confirmand's Baptismal Identity is Central to their Vocation and has A Liturgical Focus: 
 
 > [!Quote]
-"First, a confirmand needs to learn the foundational tenets of the Christian faith and Lutheran tradition in order to understand the full meaning of baptism and baptismal gifts. In addition to fostering the intellectual dimension of faith, a confirmand's faith is exercised and strengthened by regular attention to the Gospel and God's preached Word, as well as by sharing the body and blood of Christ in the Eucharist. Teaching the vocational goal of ownership requires that confirmands participate in worship regularly, because a believer's ownership of faith is contingent upon the proclaimed Word in preaching and sacraments" (79, emphasis added).
+"First, a confirmand needs to learn the foundational tenets of the Christian faith and Lutheran tradition in order to understand the full meaning of baptism and baptismal gifts. In addition to fostering the intellectual dimension of faith, a confirmand's faith is exercised and strengthened by regular [[Attention]] to the Gospel and God's preached Word, as well as by sharing the body and blood of Christ in the Eucharist. Teaching the vocational goal of ownership requires that confirmands participate in worship regularly, because a believer's ownership of faith is contingent upon the proclaimed Word in preaching and sacraments" (79, emphasis added).
 
 3. ﻿﻿﻿Additionally, "confirmation ministry must implement the practices of humility such as confession, family rituals of forgiveness and reflective journaling" (79-80).
-4. ﻿﻿﻿Practicing hospitality in the congregation (i.e., personally acknowledging the youth and knowing their names as they enter the corporate body of worship).
+4. ﻿﻿﻿Practicing [[LCOS Notes/Rhythms and Patterns/Hospitality]] in the congregation (i.e., personally acknowledging the youth and knowing their names as they enter the corporate body of worship).
 5. ﻿﻿﻿Allowing them to participate in worship (e.g., ushering, acolytes, etc.).
 
 # Membership in Christ's Body

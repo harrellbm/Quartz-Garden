@@ -62,7 +62,7 @@ Instead of either sign or wisdom. We have the folly of Christ crucified 
 
 Signs only go so far
 
-Then if anyone says to you, ‘Look, here is the Christ!’ or ‘There he is!’ do not believe it. For false christs and false prophets will arise and perform great signs and wonders, so as to lead astray, if possible, even the elect. See, I have told you beforehand. - Matthew 24:23-25
+Then if anyone says to you, ‘Look, here is the Christ!’ or ‘There he is!’ do not believe it. For false christs and false [[Bible Book Notes/Prophets]] will arise and perform great signs and wonders, so as to lead astray, if possible, even the elect. See, I have told you beforehand. - Matthew 24:23-25
 
 Wisdom only goes so far instead we have the strength of God
 

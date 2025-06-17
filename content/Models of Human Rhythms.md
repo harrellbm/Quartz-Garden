@@ -8,7 +8,7 @@
 
 > `Importance`: 10%
 
-***The Big Idea***: We can encourage a community characterized by child-like wonder, awe, value of beauty, love and excitement for the things of God by organizing our life together, and individually, around God pleasing rhythms.
+***The Big Idea***: We can encourage a community characterized by child-like wonder, awe, value of beauty, love and excitement for the things of God by organizing our [[LCOS Notes/Rhythms and Patterns/Life Together]], and individually, around God pleasing rhythms.
 
 **Questions**: What are faithful and Scripturally based models to organize and teach Human Rhythms?
 
@@ -441,14 +441,14 @@ We can approach Christian living with rhythm of prayer and hearing god's word an
 |Work and Rest|Communion|
 |Familial Vocations (Father, Mother, child, etc.)|Prayer|
 |Create/Craft|Meditation on Scripture|
-|Study/Learn/Challenge|The Biblical rhythm of time and rest. Time is a gift not a commodity|
+|Study/Learn/Challenge|[[The Biblical Rhythm of Time and Rest]]. Time is a gift not a commodity|
 |Human Connection||
 |Human care||
 |Care for objects and animals||
 
 ### Two Commissions 
 
-To start us off let’s look at the meaning of the main verbs in each of these proclamations of God.  What are the main things Jesus has told us to do?  We face an ever changing and evolving world, but at its core, humans are still the same as we have always been.  We are just as in need of Jesus' forgiveness and salvation as ever.    Jesus’ words are often called the great commission and I would contend that the first could with equal confidence be called the first commission.  Across time and space, culture and context God has told us what the foundation of human life should be about.  Yet we always seem to be able to drift away or madly search for the things that give us meaning.  We build up churches and families that are founded more on the color of banners than the foundational actions God created us to do and be. Therefore, let us look at the main actions God calls us to in these two commissions. 
+To start us off let’s look at the meaning of the main verbs in each of these proclamations of God.  What are the main things Jesus has told us to do?  We face an ever changing and evolving world, but at its core, humans are still the same as we have always been.  We are just as in need of Jesus' forgiveness and salvation as ever.    Jesus’ words are often called the great commission and I would contend that the first could with equal confidence be called [[The First Commission]].  Across time and space, culture and context God has told us what the foundation of human life should be about.  Yet we always seem to be able to drift away or madly search for the things that give us meaning.  We build up churches and families that are founded more on the color of banners than the foundational actions God created us to do and be. Therefore, let us look at the main actions God calls us to in these two commissions. 
 
   
 
@@ -601,7 +601,7 @@ Psalm one description of a tree by water main image 
 
   
 
-#### Abiding Level (image of abiding in the vine) (Gospel) (Corom Deo) (first great commandment)
+#### Abiding Level (image of abiding in the vine) (Gospel) ([[Corom Deo]]) (first great commandment)
 
 Prayer and meditation on Scripture are core. Man does not live by bread alone but by every word that comes from the mouth of God. Creed and Lord’s Prayer. 
 
@@ -609,21 +609,21 @@ Prayer and meditation on Scripture are core. Man does not live by bread alone bu
   
   
 
-#### Marks of the church level (Gospel) (Corom Deo) (first great commandment)
+#### Marks of the church level (Gospel) ([[Corom Deo]]) (first great commandment)
 
 Then experience of means of Grace (confession and sacraments) and proclamation of Gospel. Which is basically word applied corporately. 
 
-#### Embodied community level (Law) (Corom Mundo) (Second great commandment)
+#### Embodied community level (Law) ([[Corom Mundo]]) (Second great commandment)
 
-Patterns taught by divine service and life together. Fruits of the spirit. Great commission 
+Patterns taught by divine service and [[LCOS Notes/Rhythms and Patterns/Life Together]]. Fruits of the spirit. Great commission 
 
   
 
-#### Redemption of Natural Rhythms level (Law) (Corom Mundo) (Second great commandment)
+#### Redemption of Natural Rhythms level (Law) ([[Corom Mundo]]) (Second great commandment)
 
 Vocation (table of duties) as redeeming rhythms of relationships. First commission.
 
-- Hospitality, community, and graced dependence 
+- [[LCOS Notes/Rhythms and Patterns/Hospitality]], community, and graced dependence 
     
 - Song and music
     

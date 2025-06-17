@@ -7,7 +7,7 @@
 ****
 
 > [!Summary] The Big Idea
-> A collection of various types of Pedagogy.
+> A collection of various types of [[Pedagogy]].
 
 * * *
 

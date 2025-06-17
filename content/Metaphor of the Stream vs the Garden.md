@@ -24,7 +24,7 @@ This was a useful summary for me to get a handle on what this idea actually offe
 > 
 > After reading all the existing takes on the term, observing a wide variety of gardens, and collecting some of the [best examples](https://github.com/MaggieAppleton/digital-gardeners), I've identified a few key qualities they all share.
 > 
-> There are a few guiding principles, design patterns and structures people are rallying around. This amounts to a kind of digital gardening [Pattern Language](https://maggieappleton.com/pattern-languages).
+> There are a few guiding principles, design patterns and structures people are rallying around. This amounts to a kind of [[Digital Gardening]] [Pattern Language](https://maggieappleton.com/pattern-languages).
 > 
 > ### 1. Topography over Timelines
 > 

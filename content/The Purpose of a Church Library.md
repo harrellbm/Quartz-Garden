@@ -2,17 +2,24 @@
 {"publish":true,"cssclasses":""}
 ---
 
-#🌱Seed   #😐Neutral   #🟡Consideration  #🍽️Community-Mission 
+#🌱Seed   #😐Neutral   #🟡Consideration  #🍽️Community-Mission  #📊Project 
+
 ****
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > What is the best use of a church library and the books it holds?
+> 
+> If you ask most people the purpose seems to be something along these lines: 
+> - Let people check stuff out like a public library.
+> - Archive Church history
 
 ****
 
-The image that sticks in my mind about libraries is the role of monastery libraries during the dark ages. While the Roman Empire was melting down and the political and economic landscape was changing monastery libraries emerged as a place of learning and continuity. It offered a stable place to house books and carry them through the changes generationally.
+While it may seem like a dumb straightforward question to try and dig deeper into the image that sticks in my mind about libraries is the role of monastic libraries during the dark ages. While the Roman Empire was melting down and the political and economic landscape was changing, monastic libraries emerged as a place of learning and continuity. It offered a stable place to house books and carry them through the many changes generationally.
 
-What if a church library could operate similarly in a very chaotic and ever changing digital and even economic world?
+What if a church library could operate similarly in a very chaotic and ever changing digital and even economic world? What are the kinds of texts resources and information that may not always be easy to find?
+
+Search engines have famously degraded in the quality of their results (need to find sources)
 
 Preservation of History
 access to material not easily found

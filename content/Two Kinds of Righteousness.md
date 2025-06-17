@@ -15,9 +15,9 @@
 > Used as OS June/July 2023 #📃Epistle 
 > Used as LCOS Dec 2025 #📃Epistle 
 
-As Lutherans we are often familiar with the wonderful teaching of the Law and Gospel. We know that the Law shows us our sin and how far the world has fallen away from the good plan of God. But the Gospel speaks of the forgiveness and renewal that Jesus offers through His death and resurrection. It helps us to see how much we need Jesus and His life giving message of peace and hope.   
+As Lutherans we are often familiar with the wonderful teaching of the [[Law and Gospel]]. We know that the Law shows us our sin and how far the world has fallen away from the good plan of God. But the Gospel speaks of the forgiveness and renewal that Jesus offers through His death and resurrection. It helps us to see how much we need Jesus and His life giving message of peace and hope.   
 
-There is an equally beautiful and important teaching that pairs with our understanding of Law and Gospel that I would like to describe today. It is the teaching of Two Kinds of Righteousness. While the teaching of Law and Gospel helps us understand the role of Jesus in saving us, Two Kinds of Righteousness (sometimes abbreviated 2KR) helps us understand our role as people saved by Jesus. 
+There is an equally beautiful and important teaching that pairs with our understanding of [[Law and Gospel]] that I would like to describe today. It is the teaching of Two Kinds of Righteousness. While the teaching of [[Law and Gospel]] helps us understand the role of Jesus in saving us, Two Kinds of Righteousness (sometimes abbreviated 2KR) helps us understand our role as people saved by Jesus. 
 
 All throughout history many Christians have struggled to understand what our role is meant to be. If Jesus does everything to save us does that mean I can just be a couch potato? Or do I have to do something to assist Jesus in saving me? Or maybe assist in saving others?  What am I supposed to do? Or not do? How do I know? 
 

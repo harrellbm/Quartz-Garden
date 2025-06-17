@@ -53,4 +53,4 @@ Basically makes the argument that building teach us about what we think about th
 Mapping experiences are a way to think through the meaning embedded in the natural and built parts of our environment and see how it differs from others 
 ## From Personal and Public Place by Guinan
 
-Hearing and learning about the stories of people who have built or live in a place helps make architecture more meaningful and helps us be more empathetic**
+Hearing and learning about the stories of people who have built or live in a place helps make [[Architecture]] more meaningful and helps us be more empathetic**

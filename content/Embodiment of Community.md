@@ -140,7 +140,7 @@ In his book *Creation and Fall* Dietrich Bonhoeffer describes the goal of Christ
 
 # Commissioned for Rhythms 
 
-We can further apply these categories using the systematic framework of [[The Two Commissions]] [^4]. The First Commission being Genesis 1:28 where God commissions humanity to flourish and have caring dominion over creation. The Second (or Great) Commission being the sending of Jesus in Matthew and Mark to make disciples through baptism and teaching.  These commissions fit nicely with natural and redeeming rhythms. It is through these two sendings of Humanity that we can anchor a basic understanding of how each type of rhythm should function. 
+We can further apply these categories using the systematic framework of [[The Two Commissions]] [^4]. [[The First Commission]] being Genesis 1:28 where God commissions humanity to flourish and have caring [[LCOS Notes/Rhythms and Patterns/Dominion Over Creation]]. The Second (or Great) Commission being the sending of Jesus in Matthew and Mark to make disciples through baptism and teaching.  These commissions fit nicely with natural and redeeming rhythms. It is through these two sendings of Humanity that we can anchor a basic understanding of how each type of rhythm should function. 
 
 As in all things, we must start with the Gospel. Through the message of Jesus’ grace and forgiveness, we are redeemed from the weight of the law. Breath restored to the breathless, life given to the walking dead. We are then released into our second commission to make disciples that observe “all that I have commanded you.” Namely, a life of love toward God and neighbor. This life of love can also be expressed as living according to humanity's first commission. In other words, the redeeming rhythms of God’s people usher us in through the Gospel, send us to be the church with the Great Commission and rightly order our natural rhythms according to the first commission.
 
@@ -166,7 +166,7 @@ As we grow and mature, we surely gain strength and speed. However, the beauty of
 
 # Communities of Rhythm 
 
-Now that we have wandered and meandered through many thoughts, let us refocus on the impetus of this discussion: the incomplete nature of a program as well as an unstructured relational model for ministry within churches. I believe rhythm and liturgy can serve as a more faithful and focused method of organization for our life together. 
+Now that we have wandered and meandered through many thoughts, let us refocus on the impetus of this discussion: the incomplete nature of a program as well as an unstructured relational model for ministry within churches. I believe rhythm and liturgy can serve as a more faithful and focused method of organization for our [[LCOS Notes/Rhythms and Patterns/Life Together]]. 
 
 This can be illustrated with a prevalent attitude toward work. So much of our work is framed by results. People speed on the road to get places faster. Laundry, dishes, and the lawn can be frustrating because they don’t “stay” done. So much of our lives and time presses us toward an imaginary finish line. The finish line that somehow keeps getting pushed farther and farther back no matter how hard we run. 
 

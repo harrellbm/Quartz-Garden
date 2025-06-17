@@ -180,7 +180,7 @@ But also Spacial ambiguity can form interlock between centers. Which means that 
 
 Contrast can be in more than just color, it can be in function, material, or even the thing and the empty space around it.
 
- But argues that contrast needs to be intentional and actually help centers have more life together. There is a kind of contrast that creates separation and disunity rather than promoting life and the wholeness of the centers. 
+ But argues that contrast needs to be intentional and actually help centers have more [[LCOS Notes/Rhythms and Patterns/Life Together]]. There is a kind of contrast that creates separation and disunity rather than promoting life and the wholeness of the centers. 
  
 Exercise for understanding the fifteen properties: 
 

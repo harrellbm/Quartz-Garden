@@ -11,7 +11,7 @@
 
 Related Notes:
 [[John Chrysostom on the Lord's Supper]]
-[[LCOS Notes/Handouts/First Communion]]
+[[Handouts/First Communion]]
 
 ****
 
@@ -21,7 +21,7 @@ to Passover, unleavened bread way to remember the rush of leaving. 
 sacrificial system
 
 # Connection three: 
-meal together, hospitality
+meal together, [[LCOS Notes/Rhythms and Patterns/Hospitality]]
 
 # Connection four: 
 real presence physical experience

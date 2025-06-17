@@ -16,10 +16,10 @@
 # Setting 4 Version, LSB p. 211
 - Extended two verse version. First verse is Song of Simeon. Second is longer [[Gloria Patri]] 
 # Compline Version, LSB p. 258
-- Addition of a very beautiful opening and closing Antiphon but no Gloria Patri.
+- Addition of a very beautiful opening and closing Antiphon but no [[Gloria Patri]].
 # Spoken Funeral Service Version , LSB p. 281
 - Spoken words of Luke 2:29-32 powerfully sandwiched between repetitions of John 11:25-26
 # LSB Hymn 937
-- 1919 versification of the Nunc Dimittis set to a 1948 American tune. Pulls in other related biblical imagery and Gloria Patri.
+- 1919 versification of the Nunc Dimittis set to a 1948 American tune. Pulls in other related biblical imagery and [[Gloria Patri]].
 # LSB Hymn 938
 - Hymn based on the Nunc Dimittis written by Martin Luther.

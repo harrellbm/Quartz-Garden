@@ -170,11 +170,11 @@ Need to move to a companion-oriented way of doing ministry
 
 Warning - no church worker can be a place sharer with all the people in a church or youth. There needs to be boundaries and a community of leaders 
 
-Church workers can think of themselves as a matchmaker putting youth and supportive adults together 
+Church workers can think of themselves as a matchmaker putting youth and [[Supportive Adults]] together 
 
 This is a way to think about how to build community in an intentional way that encourages real community that is not just based on the work of a pastor or youth worker 
 
-Bonhoeffer - life together - 
+Bonhoeffer - [[LCOS Notes/Rhythms and Patterns/Life Together]] - 
 A day spent together is praying, reading Scripture, singing, and table fellowship all done together 
 Types of Table fellowship 
 - daily meals 
@@ -207,7 +207,7 @@ Different ways to respond:
 3. Run with the world in conformity. Younger people are more tempted to run with the world in conformity. 
 4. Pursue Hospitality. Rom 12:1-2, do not be conformed to the world. Rom 12:9-18 what it looks like to live as a Christian in love. Paul talks about how to live as church but also how to respond to the world outside. This is a great section on rhythms. 
 
-What is hospitality. The Greek word is a combination of two words.
+What is [[LCOS Notes/Rhythms and Patterns/Hospitality]]. The Greek word is a combination of two words.
 Philo - love 
 Xenia- strange. 
 Which means love of those who are strange. That is what hospitality is it’s messy and hard. 

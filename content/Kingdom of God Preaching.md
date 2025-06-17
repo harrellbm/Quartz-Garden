@@ -14,7 +14,7 @@
 
 Just a chapter earlier this is the same core message John the Baptist preaches as well.
 
-What if this is the core message we should be preaching from rather than law and gospel not just trashing law gospel but focusing on this a lot more? 
+What if this is the core message we should be preaching from rather than [[Law and Gospel]] not just trashing law gospel but focusing on this a lot more? 
 
 > [!question] Question for Study
 > How was this core message used throughout the preaching of Jesus?

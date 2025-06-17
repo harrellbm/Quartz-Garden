@@ -67,18 +67,18 @@ The entryway seems to have three main functions at this point.  The first is as
 As described in the introduction to this proposal, the primary function of our entryway should be to welcome visitors.  It is the place of first impression as well as the initial space where connections can begin to form.   
 
 In addition to this, gathering, sharing information, and creating atmosphere are secondary functions of value.  
-## Aesthetic
+## [[Aesthetic]]
 # A Christian Aesthetic
 
 > [!summary] The Big Idea
-> We as God’s church have a unique perspective and relationship with the ideas of beauty and aesthetic.  Unlike businesses we do not brand or decorate with the purpose of selling people something.  Nor do we play popularity contests to try and draw the most people with what is flashy or trendy.  Rather, the foundation of what things should look like, and how art and decorations function in our spaces, comes from the way God uses these things in the history of His people.  The story of building the Tabernacle is a particularly important story for how we envision and shape sacred space.  It is from that story we see God himself placing value on the creation of beautiful space for the worship and gathering of His people.  Gold, silver, precious stones, and fine linen are just a few of the valuable materials used in the creation of this sacred space.  While an entry way does not warrant that level of ornamentation, it is important that we frame our discussion with the reality that beauty is something that matters in the way we design sacred space.
+> We as God’s church have a unique perspective and relationship with the ideas of beauty and aesthetic.  Unlike businesses we do not brand or decorate with the purpose of selling people something.  Nor do we play popularity contests to try and draw the most people with what is flashy or trendy.  Rather, the foundation of what things should look like, and how art and decorations function in our spaces, comes from the way God uses these things in the history of His people.  The story of building [[The Tabernacle]] is a particularly important story for how we envision and shape [[Sacred Space]].  It is from that story we see God himself placing value on the creation of beautiful space for the worship and gathering of His people.  Gold, silver, precious stones, and fine linen are just a few of the valuable materials used in the creation of this sacred space.  While an entry way does not warrant that level of ornamentation, it is important that we frame our discussion with the reality that beauty is something that matters in the way we design sacred space.
 
 **** 
 ### What does the space look like now?
 
 Beginning with colors, our entryway has: reds, pink, black, dark grey, light grey, green, blue, purple, various woods, and cream stone. 
 
-The design for our sanctuary is regal, modern, symmetrical and clean.  The design of our entryway does not match this or flow from any defined design pattern.  
+The design for our [[LCOS Notes/Physical Centers/Indoor/Sanctuary]] is regal, modern, symmetrical and clean.  The design of our entryway does not match this or flow from any defined design pattern.  
 
 ### What do we want it to look like?
 

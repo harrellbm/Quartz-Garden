@@ -27,7 +27,7 @@ Interestingly *Gathering Guests* by Maschke does not have any recoreded Lutheran
 > 
 > **Holy Monday — Day Two**
 > 
-> Jesus cleanses the Temple, driving out the money changers. Just as God separated the waters above from the waters below on the second day, Jesus divides and purifies the sacred space of God’s house, separating what is holy from what is profane. The Temple, a microcosm of the world, is being judged and re-ordered.
+> Jesus cleanses the Temple, driving out the money changers. Just as God separated the waters above from the waters below on the second day, Jesus divides and purifies the [[Sacred Space]] of God’s house, separating what is holy from what is profane. The Temple, a microcosm of the world, is being judged and re-ordered.
 > 
 > **Holy Tuesday — Day Three**
 > 
@@ -43,7 +43,7 @@ Interestingly *Gathering Guests* by Maschke does not have any recoreded Lutheran
 > 
 > **Good Friday — Day Six**
 > 
-> On the sixth day of Creation, God formed man from the dust and created the woman from his side. On Good Friday, the Son of Man is lifted up on the tree, the new Adam. He falls into the sleep of death. His side is pierced, and from it flows blood and water, the sacramental streams by which His Bride, the Church, will be born. Golgotha becomes a new Edenic mountain, the Tree of Death becoming the Tree of Life.
+> On the sixth day of Creation, God formed man from the dust and created the woman from his side. On Good Friday, the [[Son of Man]] is lifted up on the tree, the new Adam. He falls into the sleep of death. His side is pierced, and from it flows blood and water, the sacramental streams by which His Bride, the Church, will be born. Golgotha becomes a new Edenic mountain, the Tree of Death becoming the Tree of Life.
 > 
 > **Holy Saturday — Day Seven**
 > 

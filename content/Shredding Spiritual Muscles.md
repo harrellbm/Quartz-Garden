@@ -8,6 +8,7 @@
 > - Used as May 2025 #📃Epistle for LCOS
 > - Posted to Substack as #📝Essay in its current state April 2025
 
+ [Link to Shred Calendar used Lent 2025](https://drive.google.com/file/d/16W5BwFWGHKAQQjDAT9_Z5WjJi-Qx8EjW/view?usp=sharing)
 ****
 # A Spiritual Workout
 *Or Tilling the Heart*
@@ -40,4 +41,3 @@ Jesus' parable about the different types of soil comes to mind as a good summary
 > [!Cite] Hosea 10:12 ESV
 > break up your fallow ground, for it is the time to seek the Lord, that he may come and rain righteousness upon you.
 
- 

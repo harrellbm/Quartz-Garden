@@ -30,7 +30,7 @@ Start where you are at not where you want to be
 
 Away notice on day off 
 
-Worship slide need to harmonize with the church’s worship aesthetic 
+Worship slide need to harmonize with the church’s worship [[Aesthetic]] 
 
 Worship slides Must respects the balance between function and aesthetic 
 

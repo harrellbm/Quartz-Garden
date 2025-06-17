@@ -24,7 +24,7 @@ Lectio Divina as a method of reading the Bible that has been practiced all the w
 Lectio Divina offered a way of meditating on Scripture so that a small phrase or memorable verse became bread for the soul throughout the week. This kind of devotional reading isn’t about deep study of the Scriptures, nor is it trying to be an alternative to deep study. Lectio Divina approaches Scripture as a meeting place where we encounter the Living God and hear His particular word for us in this particular moment.
 
 > [!important]
-> It is vital to make clear that [[Christian Meditation]] is fundamentally different from Easter Meditation. Christian meditation is focused on filling oneself up with the Word of God while Easter meditation is aimed at "emptying ones self" or some other picture in order to get in touch with "the universe."
+> It is vital to make clear that [[Christian Meditation]] is fundamentally different from Easter Meditation. [[Christian Meditation]] is focused on filling oneself up with the Word of God while Easter meditation is aimed at "emptying ones self" or some other picture in order to get in touch with "the universe."
 
 ***
 

@@ -8,7 +8,7 @@
 
 > `Importance`: 20%
 
-***The Big Idea***: Stuff I have found while researching Pedagogy methods and practices.
+***The Big Idea***: Stuff I have found while researching [[Pedagogy]] methods and practices.
 
 Related Notes: [[Types of Pedagogy]], [[Pedagogy of Space]]
 
@@ -34,6 +34,6 @@ Criteria for effectiveness
 
 ⁃ Life Pattern modeling
 
-3. Read *Pedagogy of Faith* chapter 16, by Bernard Bull. (PDF)
+3. Read *[[Pedagogy]] of Faith* chapter 16, by Bernard Bull. (PDF)
 
-4. Cooperative learning article
+4. [[Cooperative Learning]] article

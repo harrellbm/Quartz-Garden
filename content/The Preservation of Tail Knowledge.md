@@ -21,3 +21,6 @@ This leads to what we are talking about as "tail knowledge." That is stuff that 
 
 > [!question]
 > Therefore, how do we as a community preserve truth when it sits in the tails of the distribution?
+
+I think the start to an answer to this question might be held here:
+[[The Purpose of a Church Library]]

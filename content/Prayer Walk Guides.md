@@ -24,7 +24,7 @@ There could be two main types:
 
 # Seasonal Themes: 
 
-- Stations of the cross - [prayer guide from my home church](https://www.stpaulsfallschurch.org/wp-content/uploads/2022/03/Stations_of_the_Cross.St_._Pauls2.pdf) 
+- [[Stations of the Cross]] - [prayer guide from my home church](https://www.stpaulsfallschurch.org/wp-content/uploads/2022/03/Stations_of_the_Cross.St_._Pauls2.pdf) 
 - Days of creation 
 - Lament 
 - Christmas O antiphons - [Lutheran Witness articles](https://witness.lcms.org/2020/o-sapientia/) 
@@ -35,7 +35,7 @@ There could be two main types:
 
 - Practice for slowing down with the Lord’s Prayer 
 
-- Christian meditation explained (as opposed to eastern meditation) 
+- [[Christian Meditation]] explained (as opposed to eastern meditation) 
 
 - Practice for praying a piece of Scripture 
 

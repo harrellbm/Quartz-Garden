@@ -42,7 +42,7 @@ This is the area where Moses first spoke to God in the burning bush (Exodus 3:1-
 
 From Rephidim (Exodus 17:8-13) the Israelites journeyed forward into “the desert of Sinai,” and encamped there “before the mountain.” Here God gave the Ten Commandments to Moses on the Mountain (Exodus 19, 20 31, 34, Numbers 3, Nehemiah 9:13,14).
 ## Mount Carmel
-Where Elijah challenged the prophets of Baal (1 Kings 18:16-46, 2 Kings 2:25).
+Where Elijah challenged the [[Bible Book Notes/Prophets]] of Baal (1 Kings 18:16-46, 2 Kings 2:25).
 
 It is ranked with Bashan on account of its rich pastures and beauty (Isaiah 33:9; Jeremiah 50:19; Amos 1:2, Song of Songs 7:5 ).
 

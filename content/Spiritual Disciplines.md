@@ -41,7 +41,7 @@
 • Definition: Giving freely of time, resources, and finances for the good of others and the glory of God. 
 • Purpose: To reflect God's generous nature, break the hold of greed, and participate in His mission of blessing others. Generosity helps align our hearts with kingdom values. 
 
-# Hospitality 
+# [[LCOS Notes/Rhythms and Patterns/Hospitality]] 
 • Definition: Welcoming others into your home or life with love and care. 
 • Purpose: To create space for community, share God's love tangibly, and demonstrate His inclusive nature. It's a way to practice service and connection. 
 

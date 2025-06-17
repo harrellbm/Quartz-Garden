@@ -13,6 +13,9 @@
 > 3. **Blind Acceptance**: We are quick to dump resources and time into a new shiny tool because it is marketed well or seems like an exciting up and coming tool. (Think Betamax or floppy disks). 
 > 	- What was true of ancient organic tools is true of our silicon technology as well: “The king is not saved by his great army; a warrior is not delivered by his great strength. The war horse is a false hope for salvation, and by its great might it cannot rescue.“ - Psalm 33:16-18
 
+Related Notes:
+[[Religion of Technology]]
+
 In order to healthily engage with, learn and employ technology, I have found a few important principles to keep in mind:
 
 1. Avoiding Vendor lock-in 

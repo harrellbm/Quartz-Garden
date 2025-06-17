@@ -12,7 +12,7 @@
 
 Teaching Bible Class in any way, with any structure or lesson plan takes place somewhere on this continuum.  The word of emphasis there is continuum, as many ways of teaching are somewhere in the middle of these different places.  The three markers below represent the two extremes and the middle of the spectrum.  Each marker has strengths and weaknesses, expressed in the chart below.  As you look towards preparing for Bible Studies, consider the strengths and weaknesses of your community in relation to the kind of study you plan to put before them.
 
-|                                      | Teacher Led | Teacher Led Discussion | Small Group Discussion |
+|                                      | Teacher Led | Teacher Led Discussion | [[Small Group Discussion]] |
 | ------------------------------------ | ----------- | ---------------------- | ---------------------- |
 | Material Covered per Class:          | Highest     | Midrange               | Lowest                 |
 | Amount of Direction:                 | Highest     | Midrange               | Lowest                 |

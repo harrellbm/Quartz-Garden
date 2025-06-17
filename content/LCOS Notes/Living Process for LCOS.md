@@ -1,8 +1,7 @@
 ---
-publish: true
-Note Planted: 2024-10-30
-Last Tended: 2025-01-22
+{"publish":true,"cssclasses":""}
 ---
+
 #🌱Seed  #🙂Agree
 
 ****
@@ -11,7 +10,7 @@ Last Tended: 2025-01-22
 
 > [!Summary] The Big Idea
 > Note Tree for various aspects as they develop [[LCOS Notes/LCOS Community Notes]]
-> first part of the process undertaken: [[LCOS Notes/Handouts/Opening LCOS Visioning Process]]
+> first part of the process undertaken: [[Handouts/Opening LCOS Visioning Process]]
 > Thoughts on organizational Structure [[Structural Narratives]] 
 
 Related Notes: 
@@ -37,7 +36,7 @@ Related Notes:
 > [!quote] Proverbs 27:1
 > Do not boast about tomorrow, for you do not know what a day may bring.
 
-This document seeks to develop and enact a cyclical living process that can be used to structure our on going life together in a way that keeps us focused on our core ideals and purpose.
+This document seeks to develop and enact a cyclical living process that can be used to structure our on going [[LCOS Notes/Rhythms and Patterns/Life Together]] in a way that keeps us focused on our core ideals and purpose.
 
 The elements of this effort are twofold:
 1. The laying out and initiation of a living process to guide the rhythm of our life together as a whole.
@@ -120,7 +119,7 @@ Also get mechanistic discussion from phenomena of life
 1. Where have we been?
 	1. Review Scriptural Foundation
 		What is our purpose as a church?
-		1. Two Kinds of Righteousness
+		1. [[Two Kinds of Righteousness]]
 		2. Two Commissions
 		3. Mission Statement
 	2. Review Past Activity
@@ -178,7 +177,7 @@ I think the reason we often have a hard time applying scriptural directives, com
 
 A pattern language is a tool to try and bridge us back to thinking and applying things according to patterns like our ancestors naturally did. Some example is Luther’s treatment of the Ten Commandments expanding each commandments to logical and ordinary applications. Or Paul’s arguments from nature that he assumes are self evident.
 
-Alexander worked from a concept he defined as [[Deep Feeling]].  This is not normal touchy feely emotion but is a sense of how a space works on or affects the person who encounters it. This puts the direction of causation in the external environment moving to the person. This is why he argues deep feeling is an objective realty rather than the inside out idea of emotions. He conceptualized this human reaction to a space’s “life” as a kind of objective steady reaction across cultures and individuals. See: [[The Quality of Life in Environments and Objects]]. Which I think can be helpful as far as it goes but as a community of faith our primary grounding is the word of God.
+Alexander worked from a concept he defined as [[Deep Feeling]].  This is not normal touchy feely emotion but is a sense of how a space works on or affects the person who encounters it. This puts the direction of causation in the external environment moving to the person. This is why he argues [[Deep Feeling]] is an objective realty rather than the inside out idea of emotions. He conceptualized this human reaction to a space’s “life” as a kind of objective steady reaction across cultures and individuals. See: [[The Quality of Life in Environments and Objects]]. Which I think can be helpful as far as it goes but as a community of faith our primary grounding is the word of God.
 
 Therefore while a pattern language for use in a congregation can take into account deep feeling, wholeness and the needs of individuals as Alexander defines them. They should not be the primary foundation.
 

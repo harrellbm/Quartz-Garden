@@ -25,7 +25,7 @@ Name: Carpobrotus glaucescens
 Name: Zantedeschia
 ![[IMG_7111.jpg]]
 
-# African Daisy
+# African Daisy Actually not that the other Gardena thing or something like that
 Name: gazania rigens
 ![[IMG_7114.jpg]]
 

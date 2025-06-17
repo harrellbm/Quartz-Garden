@@ -19,7 +19,7 @@ but everyone when he is fully trained will be like his teacher.”
 ****
 
 # Towards an Integrated Life
-What is the goal of discipleship? So often we get lost in the weeds of event planning, or the pressures of day to day ministry that taking time to reflect on the end goal of discipleship slips into the background. In our rush to do, we forget what we are meant to be.
+What is the goal of discipleship? So often we get lost in the weeds of [[Event Planning]], or the pressures of day to day ministry that taking time to reflect on the end goal of discipleship slips into the background. In our rush to do, we forget what we are meant to be.
 
 The following discussion embodies my written thoughts on this question. Through prayer, study and continued reflection, I have become increasingly convinced that being a Christian is so much more than just knowing the right things. For after all, “Even the demons believe—and shudder!” (James 2:19).
 
@@ -119,7 +119,7 @@ communal practice - to habit - to aim of desire - to image of a good life 
 is what we seek to engage through Christian formation. We need to be in the business of constantly painting the biblical picture of human flourishing as the proper end goal, or aim, of human desire.   
 
 We cannot, however, skip the chain and jump straight to grabbing the imagination of our people.  No matter how beautifully presented or compellingly argued the image of a good Christian life may be, without embodied practices, the chain of formation has not been properly started. 
-Ritual, Practice, Liturgy 
+[[Ritual, Practice, Liturgy]] 
 If we are seeking to shape the desires of our people through embodied practices. The next question becomes: What practices are we after? Are we trying to tell people how to brush their teeth or make toast? 
 
 While those practices do shape us to a certain extent, they are not quite the practices we are after. James K. A. Smith introduces a helpful hierarchy to understand different kinds of practices. 
@@ -145,7 +145,7 @@ The movement of discipleship should therefore be animated and flow out from our 
  
 •	[[The Biblical Rhythm of Time and Rest]]
 •	Worship
-•	Hospitality, community, and graced dependence 
+•	[[LCOS Notes/Rhythms and Patterns/Hospitality]], community, and graced dependence 
 •	Song and music
 •	Pattern of law, living in the groove, freedom for good
 •	Confession and Grace
@@ -155,7 +155,7 @@ The movement of discipleship should therefore be animated and flow out from our 
 •	Communion
 •	Offering
 •	Witness and Confession
-•	Scripture, Sermon, Storytelling
+•	Scripture, Sermon, [[Storytelling]]
 •	Doing good and Service
 •	Lament and Grieving
 •	Creativity, Imagination, and Future Making

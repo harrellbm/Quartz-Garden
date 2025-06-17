@@ -53,7 +53,7 @@ Can you imagine the hand of God forming the night sky?
 
 ---
 
-4 what is man that you are mindful of him,  and the son of man that you care for him?
+4 what is man that you are mindful of him,  and the [[Son of Man]] that you care for him?
 
 How small do you feel compared to the descriptions of God and the night sky before? How amazing is it that God cares about you?
 

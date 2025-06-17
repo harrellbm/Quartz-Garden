@@ -129,6 +129,8 @@
 - [[New Monasticism]]
 - [[Love Your Enemies]]
 - [[The Use of Co and being a Co-Creator with God]]
+- [[Re-enchantment]]
+- [[Creeping Idols]]
 
 # Unhealthy Theological Views or Ideas 🤢
 

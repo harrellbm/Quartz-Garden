@@ -7,7 +7,7 @@
 ****
 
 > [!Summary] The Big Idea
-> The idea of law and commandments in scripture is far deeper than how we use it in [[Law and Gospel]] law and gospel or [[Three Uses of the Law]]. Those are good starting frameworks but do not contain the fullness of scripture and Gods will expressed as law. 
+> The idea of law and commandments in scripture is far deeper than how we use it in [[Law and Gospel]] or [[Three Uses of the Law]]. Those are good starting frameworks but do not contain the fullness of scripture and Gods will expressed as law. 
 
 Related notes:
 [[Telescope of Scripture, the Law and Doctrine]]
