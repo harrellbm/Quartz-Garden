@@ -73,7 +73,6 @@ Living is crazy and trying to figure out how to live well and practice my faith 
 - [[The Biblical Rhythm of Time and Rest\|The Biblical Rhythm of Time and Rest]]
 - [[Rhythms of Rest\|Rhythms of Rest]]
 - [[Rhythm and Group Culture\|Rhythm and Group Culture]]
-- [[Reading Scripture for Familiarity\|Reading Scripture for Familiarity]]
 - [[Reading Scripture Devotionally\|Reading Scripture Devotionally]]
 - [[Reading Gen 1-3 Ten Times\|Reading Gen 1-3 Ten Times]]
 - [[Patterns of Liturgy-The Rhythm of Life\|Patterns of Liturgy-The Rhythm of Life]]
@@ -97,7 +96,6 @@ Living is crazy and trying to figure out how to live well and practice my faith 
 - [[Handouts/Act Praying with our Bodies\|Act Praying with our Bodies]]
 - [[For the Life of the World\|For the Life of the World]]
 - [[Introduction to Thematic Liturgies Project\|Introduction to Thematic Liturgies Project]]
-- [[Lament Epistle Series\|Lament Epistle Series]]
 - [[Meditation on Psalm 8\|Meditation on Psalm 8]]
 - [[Memorizing the Ten Commandments\|Memorizing the Ten Commandments]]
 - [[Models of Human Rhythms\|Models of Human Rhythms]]
@@ -106,7 +104,6 @@ Living is crazy and trying to figure out how to live well and practice my faith 
 - [[Practices of Faith\|Practices of Faith]]
 - [[Prayer Walk Guides\|Prayer Walk Guides]]
 - [[Quiet Muttering\|Quiet Muttering]]
-- [[Christian Meditation\|Christian Meditation]]
 - [[Random Notes on Sacred Space\|Random Notes on Sacred Space]]
 - [[Rhythm Reset\|Rhythm Reset]]
 - [[Sacred Space\|Sacred Space]]
@@ -114,6 +111,9 @@ Living is crazy and trying to figure out how to live well and practice my faith 
 - [[Shaping Space\|Shaping Space]]
 - [[Spiritual Disciplines\|Spiritual Disciplines]]
 - [[What is Liturgy\|What is Liturgy]]
+- [[Lament Epistle Series\|Lament Epistle Series]]
+- [[Christian Meditation\|Christian Meditation]]
+- [[Reading Scripture for Familiarity\|Reading Scripture for Familiarity]]
 
 # Doctrine, Poetry, and Story
 #🔥Doctrine-Poetry-Story
@@ -168,7 +168,6 @@ Sitting by a campfire and watching it crackle is a setting that often brings out
 - [[A Holy Meeting\|A Holy Meeting]]
 - [[Who Shall Separate Us\|Who Shall Separate Us]]
 - [[Figures of Speech or Plain Speech\|Figures of Speech or Plain Speech]]
-- [[Big Picture Theological Concepts\|Big Picture Theological Concepts]]
 - [[Bible Study Structures\|Bible Study Structures]]
 - [[Commandments and Law in Scripture\|Commandments and Law in Scripture]]
 - [[Holy Week\|Holy Week]]
@@ -186,6 +185,7 @@ Sitting by a campfire and watching it crackle is a setting that often brings out
 - [[Thoughts on Liturgy and Rhythm\|Thoughts on Liturgy and Rhythm]]
 - [[Three Uses of the Law\|Three Uses of the Law]]
 - [[Two Kinds of Righteousness\|Two Kinds of Righteousness]]
+- [[Big Picture Theological Concepts\|Big Picture Theological Concepts]]
 
 # Bringing Life into the World
 #🛠️BringingLifeintotheWorld

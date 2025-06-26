@@ -24,21 +24,21 @@ Here are some basic suggestions for using this garden:
 - Or you can look at my [[Wonder List]] a collection of things that I am thinking about. 
 - If you run into a 404 page it means I haven't made that note yet or haven't uploaded it. If it is interesting to you reach out to me and start a conversation about it.  
 # Notes I have Tended Recently 
+- [[Being Pulled Along by a Question\|Being Pulled Along by a Question]]
+- [[Reading Scripture for Familiarity\|Reading Scripture for Familiarity]]
+- [[Indexes/Scripture Index\|Scripture Index]]
+- [[LCOS Notes/LCOS Epistles\|LCOS Epistles]]
+- [[Big Picture Theological Concepts\|Big Picture Theological Concepts]]
+- [[Christian Meditation\|Christian Meditation]]
+- [[Uses of Scripture\|Uses of Scripture]]
+- [[Lament Epistle Series\|Lament Epistle Series]]
 - [[Bible Book Notes/The Book of Habakkuk\|The Book of Habakkuk]]
 - [[Book and Conference Notes/Notes on the Nature of Order\|Notes on the Nature of Order]]
-- [[Indexes/Scripture Index\|Scripture Index]]
 - [[Book and Conference Notes/Notes from Partnering with Parents\|Notes from Partnering with Parents]]
 - [[Book and Conference Notes/Notes from National Convention 2024\|Notes from National Convention 2024]]
 - [[Book and Conference Notes/Nationals 2024 Teaching the Faith at Home Notes\|Nationals 2024 Teaching the Faith at Home Notes]]
 - [[Book and Conference Notes/BPM Notes 2025\|BPM Notes 2025]]
 - [[Handouts/Opening LCOS Visioning Process\|Opening LCOS Visioning Process]]
-- [[Handouts/First Communion\|First Communion]]
-- [[Handouts/Congregational Forum Handout 1.26.25\|Congregational Forum Handout 1.26.25]]
-- [[LCOS Notes/Sanctuary Screen Parameters and Guidelines\|Sanctuary Screen Parameters and Guidelines]]
-- [[LCOS Notes/Living Process for LCOS\|Living Process for LCOS]]
-- [[LCOS Notes/LCOS Pastoral Practices and Perspective\|LCOS Pastoral Practices and Perspective]]
-- [[LCOS Notes/LCOS Facility Pattern Language\|LCOS Facility Pattern Language]]
-- [[LCOS Notes/LCOS Community Notes\|LCOS Community Notes]]
 
 # Connected by the Roots
 I aim to make this digital space a grove of sorts. A collection of thoughts, ideas, concepts, notes and experiences. 

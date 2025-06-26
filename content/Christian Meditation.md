@@ -49,3 +49,8 @@ A couple applications of Christian Meditation:
 - [[Meditation on Psalm 8]]
 - [[Sermons/Treasure of Heaven Sermon Outline]]
 
+# Books I want to read around this Subject 
+- Henri Nouwen - Making All Things New
+- Ruth Haley Barton - Invitation to Solitude and Silence: Experiencing God's Transforming Presence
+- Dietrich Bonhoeffer - Meditating on The Word 
+- John Kleinig - Grace upon Grace: Spirituality for Today
