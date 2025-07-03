@@ -16,3 +16,6 @@
 [[A Theology of Technology]]
 [[Patterns of Liturgy-The Rhythm of Life]]
 [[Models of Human Rhythms]]
+
+[[Soundbite Culture]]
+[[Information Addiction]]

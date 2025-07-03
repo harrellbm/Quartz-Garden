@@ -14,7 +14,9 @@ Similar Notes:
 [[Plants Around Church]]
 
 ****
-
+# Tea Log
+## 7-2-25
+I think that the combination of dried tangerine peel and chocolate mint is my favorite combo so far it has a perfect calm but fresh taste. 
 # Pages about Making Tea
 [diy-tea-blend-ideas](https://www.sunset.com/home-garden/flowers-plants/diy-tea-blend-ideas)
 

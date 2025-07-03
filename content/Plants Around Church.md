@@ -10,6 +10,9 @@
 
 ****
 
+# California Poppies
+collected seed pods will see if I can germinate some
+
 # Pacific Sunset Mirror Bush
 Name : Coprosma repens 'Jwncopps'
 ![[IMG_7107.jpg]]
@@ -17,17 +20,18 @@ Name : Coprosma repens 'Jwncopps'
 # Marble Queen Mirror Bush
 Name: Coprosma repens  
 ![[IMG_7108.jpg]]
-# Pig Face
+# Ice Plant or Pig Face
 Name: Carpobrotus glaucescens
 ![[IMG_7110.jpg]]
-
+Considered a costal invasive so should not try and propagate it. 
 # Calla Lily
 Name: Zantedeschia
 ![[IMG_7111.jpg]]
 
-# African Daisy Actually not that the other Gardena thing or something like that
-Name: gazania rigens
+# Gazanias or African Daisy
+Name: Gazania rigens or Gazania linearis not quite sure which 
 ![[IMG_7114.jpg]]
+Are technically invasive so no need to try too hard to keep propagating them 
 
 # African Lily 
 Name: Agapanthus africanus

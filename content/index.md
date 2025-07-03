@@ -24,28 +24,28 @@ Here are some basic suggestions for using this garden:
 - Or you can look at my [[Wonder List]] a collection of things that I am thinking about. 
 - If you run into a 404 page it means I haven't made that note yet or haven't uploaded it. If it is interesting to you reach out to me and start a conversation about it.  
 # Notes I have Tended Recently 
+- [[Digital Gardening\|Digital Gardening]]
+- [[A Case for Christian Digital Gardening\|A Case for Christian Digital Gardening]]
+- [[Making Tea\|Making Tea]]
+- [[A Tea Garden\|A Tea Garden]]
+- [[Adventures in Terraforming (Kind of)\|Adventures in Terraforming (Kind of)]]
+- [[Plant Care\|Plant Care]]
+- [[Plants Around Church\|Plants Around Church]]
+- [[Spiritual Disciplines\|Spiritual Disciplines]]
+- [[Keeping a Spiritual Perspective on Daily Life\|Keeping a Spiritual Perspective on Daily Life]]
+- [[LCOS Notes/LCOS Epistles\|LCOS Epistles]]
+- [[Activity-A Conversion with Scripture\|Activity-A Conversion with Scripture]]
+- [[Uses of Scripture\|Uses of Scripture]]
+- [[Wonder List\|Wonder List]]
 - [[Being Pulled Along by a Question\|Being Pulled Along by a Question]]
 - [[Reading Scripture for Familiarity\|Reading Scripture for Familiarity]]
-- [[Indexes/Scripture Index\|Scripture Index]]
-- [[LCOS Notes/LCOS Epistles\|LCOS Epistles]]
-- [[Big Picture Theological Concepts\|Big Picture Theological Concepts]]
-- [[Christian Meditation\|Christian Meditation]]
-- [[Uses of Scripture\|Uses of Scripture]]
-- [[Lament Epistle Series\|Lament Epistle Series]]
-- [[Bible Book Notes/The Book of Habakkuk\|The Book of Habakkuk]]
-- [[Book and Conference Notes/Notes on the Nature of Order\|Notes on the Nature of Order]]
-- [[Book and Conference Notes/Notes from Partnering with Parents\|Notes from Partnering with Parents]]
-- [[Book and Conference Notes/Notes from National Convention 2024\|Notes from National Convention 2024]]
-- [[Book and Conference Notes/Nationals 2024 Teaching the Faith at Home Notes\|Nationals 2024 Teaching the Faith at Home Notes]]
-- [[Book and Conference Notes/BPM Notes 2025\|BPM Notes 2025]]
-- [[Handouts/Opening LCOS Visioning Process\|Opening LCOS Visioning Process]]
 
 # Connected by the Roots
 I aim to make this digital space a grove of sorts. A collection of thoughts, ideas, concepts, notes and experiences. 
 
 It’s a little like a blog, but also very different. The basic concept of this site was inspired by the idea of [[Digital Gardening]]. The main idea is to create a place to plant ideas and let them grow gradually. Rather than posting content that gets sent off into the torrent of data around us, a garden looks at a note as something meant to be revisited, edited, and expanded.  
 
-In other words, this is not a chronological feed of writings, but a living network of notes I have gathered and continue to write. There is not grand organizational topic other than things that I find interesting and useful. 
+In other words, this is not a chronological feed of writings, but a living network of notes I have gathered and continue to write. There is no grand organizational topic other than things that I find interesting and useful. 
 
 I think the reason this concept resonates with me is that it mirrors my lived experience of thinking and developing ideas. No idea is at its best the first time you scribble it down. But over time a small idea can grow into something powerful.   
 

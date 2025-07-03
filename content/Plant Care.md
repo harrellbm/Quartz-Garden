@@ -15,21 +15,30 @@ Similar Ideas:
 [[Wild Edible Garden Design Pattern]]
 ****
 # Plants Owned
-- Fig Trees
-- Chocolate Mint
-- Pinapple Mint 
-- Spearmint
-- Red-Yellow Tulips
-- German Chamomile
-- Lemon Tree
-- Thanksgiving Cactus
-- Madagascar Jasmine
-- Snake Plant
+- [[Plant Care#Fig Trees]]
+- [[Plant Care#Mint]]
+	- Chocolate Mint
+	- Pineapple Mint 
+	- Spearmint
+- [[Plant Care#Tulips]]
+	- Red-Yellow 
+- [[Plant Care#German Chamomile]]
+- [[Plant Care#Lemon Tree]]
+- [[Plant Care#Peach Tree]]
+- [[Plant Care#Thanksgiving Cactus]]
+- [[Plant Care#Madagascar Jasmine]]
+- [[Plant Care#Snake Plant]]
 # A Random Crazy Idea
 
 > [!Cite] Jacob, Irene, and Walter Jacob. “Flora.” The Anchor Yale Bible Dictionary, edited by David Noel Freedman, vol. 2, Doubleday, 1992, p. 804.
 > A number of modern gardens have attempted to recreate biblical flora and to present them to a contemporary audience. In Israel, these include the Biblical Botanical Garden of the Hebrew University (Jerusalem) and the Neot Kedumim (near Tel Aviv). In America, the Denver Botanical Gardens (Colorado) has a Scriptural Garden, and biblical gardens have been created at Rodef Shalom Temple (Pittsburgh) and St. John the Divine Cathedral (New York).
 
+
+# Coulter's Matilija Poppy
+https://calscape.org/Romneya-coulteri-(Coulter's-Matilija-Poppy)
+Collected one seed pod may be too immature at this point. I will keep an eye out for others as they get bigger.
+
+[How to propagate it ](https://www.google.com/search?q=how+to+collect+matilija+poppy+seeds&rlz=1C1RXQR_enUS1133US1136&oq=how+to+collect+mati&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhge0gEJMTMzNzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:d6a7892d,vid:2QXTk4AV1wQ,st:0)
 # Purple Passion Fruit
 It could grow in central Ca
 # Plumeria 
@@ -55,3 +64,7 @@ Also water and let dry all the way out
 # Snake Plant 
 
 # Christmas Cactus 
+
+# Mint
+Having issues with spider mites I think. I am going to try washing off the leaves to get rid of them and stop the little white spots from showing up. Mostly affecting the spearmint and a little of the chocolate mint. 
+

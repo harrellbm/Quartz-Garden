@@ -3,9 +3,10 @@
 ---
 
 #🌱Seed   #😐Neutral   #🟡Consideration
+
 ****
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > In 2 Timothy 3:16 Paul lays out a set of uses for Scripture that are helpful to remember:
 > - Teaching
 > - Reproof
@@ -13,3 +14,5 @@
 > - Training in Righteousness
 
 ****
+
+We are good at the teaching part but the others are a lot harder to do well. 

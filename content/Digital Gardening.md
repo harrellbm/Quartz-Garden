@@ -44,7 +44,13 @@ The main things I want to accomplish with my garden:
 > - [Learn in Public](https://www.swyx.io/learn-in-public)
 
 ## Current State of the Garden 
-I have been using this method for a few months now and have found it very enjoyable and useful. It is interesting to even edit this note and see how things have changed as I learn and try things out. I will continue to collect things here as a bit of a process journal to help hammer out a more cohesive system for making the garden accessible for myself and others that may find it on the web. 
+I have been using this method for almost a year now and have found it very enjoyable and useful. It is a weird balancing act trying to have some organization but also to just keep notes on things. 
+
+An interesting experience has been writing the same note a few times forgetting that I already had a note about it. I think it's a good indication for myself that it is an important topic. 
+
+It is interesting to even edit this note now and seeing how things have changed as I learn and try things out. I have played a bit with obsidian plugins but have not really found any definitive set of things that I like of find useful yet.
+
+I will continue to collect things here as a bit of a process journal to help hammer out a more cohesive system for making the garden accessible for myself and others that may find it on the web. 
 
 ### Obsidian Notes, [[Zotero Library]], and Quartz Site
 The three main tools I have started using for creating and tending my garden are [Obsidian](https://obsidian.md/), [Zotero](https://www.zotero.org/), and [Quartz](https://quartz.jzhao.xyz/)
@@ -53,7 +59,8 @@ The three main tools I have started using for creating and tending my garden are
 	- Saves notes in plain text so they are always accessible and portable. (Something google docs, pdfs and word fail at miserably). If I am going to spend so much time curating my notes, I definitely don’t want to lose them for a dumb reason like a failed editor or a locked down file type.
 	- Customizable and tinkerable but also decently easy to get started with.
 	- Open source and nonproprietary. So many proprietary tools hid gotchas as a way to make money.
-- Zotero is becoming more of a resource catalog. I have many physical books as well as a list of books I want to read, and lists of tools and organizations, etc. keeping those in a note or document ends up being a lot of work and hard to find when you need it. Zotero is nice for this as a way to keep resources cataloged in a more orderly way than the full note garden in obsidian. It is also: 
+- Zotero is becoming more of a resource catalog. I use it a lot less than I did at first now. And have never gone back to fully catalog all my physical books. I should do that eventually. 
+	- I have many physical books as well as a list of books I want to read, and lists of tools and organizations, etc. keeping those in a note or document ends up being a lot of work and hard to find when you need it. Zotero is nice for this as a way to keep resources cataloged in a more orderly way than the full note garden in obsidian. It is also: 
 	- Opensource.
 	- Libraries are shareable via groups.
 - Quartz is the framework I am using to actually generate a website out of my notes and then host them on GitHub pages. 

@@ -13,6 +13,9 @@
 • Definition: Intentionally withdrawing from noise, distractions, and social interaction to be alone with God. 
 • Purpose: To foster a deeper awareness of God's presence, listen to His voice, and rest in His love. It creates space to process emotions and hear God amidst the busyness of life. 
 
+> [!quote] Henri Nouwen, Making All Things New, pg. 69
+> **Without solitude** it is **virtually impossible to live a spiritual life**. Solitude begins with **a time and place for God, and him alone**. If we really believe not only that God exists but also that he is **actively present** in our lives - **healing, teaching, and guiding** - we need to **set aside a time and space** to give him our **undivided attention**. 
+
 # Sabbath 
 • Definition: A weekly day of rest and worship modeled after God's rhythm in creation. 
 • Purpose: To cease from work, delight in God, enjoy creation, and experience renewal. It's a countercultural act of trust in God's provision and a rhythm of grace. 
@@ -49,15 +52,18 @@
 • Definition: Practicing joy and gratitude by recognizing God's goodness in life. 
 • Purpose: To cultivate a heart of worship, foster thankfulness, and counteract negativity and despair. Celebration reorients us to the joy of salvation and God's blessings.
 
-# Resources Recommended by Anthony Celia
+# Resources Recommendations around Spiritual Disciplines
 ## Ministries 
 Practicing the Way: [www.practicingtheway.org](http://www.practicingtheway.org/)
 Transforming Center: [transformingcenter.org](http://transformingcenter.org/)
 
 ## Books/Authors
+Invitation to Solitude and Silence: Experiencing God's Transforming Prescence - Ruth Haley Barton
+Meditating on the Word - Dietrich Bonhoeffer
+Grace upon Grace: Spirituality for Today - John Kleinig
 *Devotional Classics Edited* by Richard J. Foster and James Bryan Smith
 Anything by Henri Nouwen
-
+- Making All Things New - Henri Nouwen
 *Celebration of the Discipline*s by Richard J. Foster
 *The Divine Conspiracy* by Dallas Willard
 *The Life You've Always Wanted: Spiritual Disciplines for Ordinary People* by John Ortberg

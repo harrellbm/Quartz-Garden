@@ -18,14 +18,14 @@ Similar Ideas:
 ****
 A potential Design Pattern for a similar kind of Garden:  [[Wild Edible Garden Design Pattern]]
 # Plant Databases
-[Plants for a Future](https://pfaf.org/user/) - Plant uses and care 
+- [Plants for a Future](https://pfaf.org/user/) - Plant uses and care 
 
-[Calscape](https://calscape.org/search) - Search Native California Plants
+- [Calscape](https://calscape.org/search) - Search Native California Plants
 # Place to Buy Seeds and Plants
 
-https://www.fast-growing-trees.com/collections/herb-plants
+- [Fast Growing Trees](https://www.fast-growing-trees.com/collections/herb-plants)
 
-https://www.tradewindsfruit.com/herbs/
+- [Trade Winds Fruit](https://www.tradewindsfruit.com/herbs/)
 # Plants Nurseries Near By
 https://www.laspilitas.com/stores/santa-margarita - Specializes in Native Plants
 
@@ -40,6 +40,10 @@ https://birchwoodnipomo.com/
 https://polyplantshop.com/ - Connected with Cal Poly
 
 https://manzanitanursery.com/ In solvang 
+
+# Tips on Harvesting and Drying Herbs and Produce
+
+[Getty Stewart -  Home Economist](https://www.gettystewart.com/category/gardening-2/harvesting/)
 
 # Unorganized Resource Websites
 

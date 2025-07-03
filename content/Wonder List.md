@@ -15,7 +15,7 @@
 
 - What are we actually as humans and how do we hold the tension of scripture and how it describes us as multifaceted beings. [[A Creature Among Machines]], [[Creatureliness]], [[My Thoughts on Cosmology]], [[A Grounded Cosmology and a Creaturely Anthropology]]
 
-- How can care for the earth and a communities physical well being be a door way into actually caring for and being connected with the people of an area as well? [[LCOS Notes/LCOS Facility Pattern Language]]
+- How can care for the earth and a communities physical well as a door way into actually caring for and being connected with the people of an area as well? [[LCOS Notes/LCOS Facility Pattern Language]]
 	- What are the specific uses of space or patterns that could be used in the life of LCOS or even my own personal life to most fully align the use and constructions of space for our stated goals of mission and ministry?  [[LCOS Notes/LCOS Community Notes]], [[LCOS Notes/Living Process for LCOS]]
 
 - It seems like church fellowship has been over condensed in many circles in two directions. There is "all about love" that ends up becoming a "you do you" mentality that is not actually any kind of true or meaningful working and living together on shared beliefs or confession. Or there is a puritanical and almost legalistic focus on doctrine and confession that is so focused on doctrinal purity that there is no room for real living breathing human relationships. It basically becomes its own kind of group think that is unable to challenge and be challenged by others in a loving and constructive way. [[Confessions and Decentralization]], [[Cooperative Learning]]
