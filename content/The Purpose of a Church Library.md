@@ -35,7 +35,7 @@ Church library as separate from Pastor's library
 
 a [[A Holistic versus Mechanistic Perspective]] what about a perspective focused on life as the foundational activity of God in the world? 
 
-Avoidance of [[Tail Knowledge and Knowledge Collapse]] 
+Avoidance of [[Tail Knowledge and Knowledge Collapse/Tail Knowledge and Knowledge Collapse]] 
 Search engine biases 
 AI biases 
 

@@ -29,6 +29,19 @@ I also nabbed some matilija poppy seeds. I think I might have picked the pod too
 
 My [[A Tea Garden]]  has also been going well overall. I think I figured out how to get rid of the spider mites I had on my mint which is basically just washing to leaves a little while you water them. Also the fig tree that I did not bring in side is doing well and has some figs forming on it. I am also going to let one of the chamomile flowers go to seed so that I can plant the pot I have it in with more plants than the singular one I have we will see how that goes. 
 
+# 7-7-25
+SO we are getting really close to closing on our house and it is really exciting to think about making the place our own. I have been thinking about the outside and have a few dreams.
+
+1. Grow sugar cane so that there can be full things we make fully from things grown in our backyard like lemonade etc. 
+	1. The kind that will grow the best that I could find is Lemon-Lime Sugarcane (AKA San Diego Yellow) Here is one place to buy it– [Planting Justice](https://plantingjustice.org/products/sugarcane)
+2. Also an interesting site that has all kinds of resources from stuff like making beet sugar and who knows what else. https://permies.com/
+3. Also there is a very wild rosemary bush in the front of the house that I want to sprout cutting from because I think the main bush needs to go lol. https://www.gardenary.com/blog/how-to-propagate-rosemary
+
+
+
+
+
+
 # My Aspirations 
 
 the idea of wild gardening

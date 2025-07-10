@@ -21,8 +21,14 @@ Related Notes:
 [[Embed Search Results in a Note]]
 
 * * *
-
+# Useful Blog About Obsidian 
+[Obsidian Journey](https://obsidianjourney.com/about/)
 # Plugins I am Using
+
+> [!warning]
+> As of 7-3-25 this is very out of date I need to update this soon but am kind of in the flex of changing a lot of things as I go.
+
+
 - Callout Manager 
 - Editing Toolbar
 - Git

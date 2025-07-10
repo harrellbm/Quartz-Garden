@@ -22,5 +22,5 @@
 
 ## Types of Church Growth
 
-![[../Pasted image 20240629201456.jpg]]
+![[Pasted image 20240629201456.jpg]]
 - From page 22

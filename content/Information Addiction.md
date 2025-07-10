@@ -9,7 +9,7 @@
 > We live in a world obsessed with always knowing the latest or the breaking news or the thing around the bend. I feel like we often end up forgetting what we already know or the things we should take time to know better in the midst of the constant churn. 
 
 Related Notes:
-[[Tail Knowledge and Knowledge Collapse]]
+[[Tail Knowledge and Knowledge Collapse/Tail Knowledge and Knowledge Collapse]]
 [[Soundbite Culture]]
 ****
 

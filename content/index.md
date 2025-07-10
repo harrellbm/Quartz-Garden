@@ -24,11 +24,14 @@ Here are some basic suggestions for using this garden:
 - Or you can look at my [[Wonder List]] a collection of things that I am thinking about. 
 - If you run into a 404 page it means I haven't made that note yet or haven't uploaded it. If it is interesting to you reach out to me and start a conversation about it.  
 # Notes I have Tended Recently 
+- [[Tail Knowledge and Knowledge Collapse/Tail Knowledge and Knowledge Collapse\|Tail Knowledge and Knowledge Collapse]]
+- [[Adventures in Terraforming (Kind of)\|Adventures in Terraforming (Kind of)]]
+- [[Private/Central Coast Stuff to Do\|Central Coast Stuff to Do]]
+- [[Obsidian Note-taking\|Obsidian Note-taking]]
 - [[Digital Gardening\|Digital Gardening]]
 - [[A Case for Christian Digital Gardening\|A Case for Christian Digital Gardening]]
 - [[Making Tea\|Making Tea]]
 - [[A Tea Garden\|A Tea Garden]]
-- [[Adventures in Terraforming (Kind of)\|Adventures in Terraforming (Kind of)]]
 - [[Plant Care\|Plant Care]]
 - [[Plants Around Church\|Plants Around Church]]
 - [[Spiritual Disciplines\|Spiritual Disciplines]]
@@ -36,9 +39,6 @@ Here are some basic suggestions for using this garden:
 - [[LCOS Notes/LCOS Epistles\|LCOS Epistles]]
 - [[Activity-A Conversion with Scripture\|Activity-A Conversion with Scripture]]
 - [[Uses of Scripture\|Uses of Scripture]]
-- [[Wonder List\|Wonder List]]
-- [[Being Pulled Along by a Question\|Being Pulled Along by a Question]]
-- [[Reading Scripture for Familiarity\|Reading Scripture for Familiarity]]
 
 # Connected by the Roots
 I aim to make this digital space a grove of sorts. A collection of thoughts, ideas, concepts, notes and experiences. 
