@@ -1,5 +1,5 @@
 ---
-{"publish":true,"tags":["📰Handout"],"cssclasses":""}
+{"publish":true,"created":"2025-01-07T13:24:51.591-08:00","modified":"2025-06-17T14:47:48.062-07:00","published":"2025-06-17T14:47:48.063-07:00","tags":["📰Handout"],"cssclasses":""}
 ---
 
 As we prepare to meet together for a congregational forum, I would like to lay out some key observations as they pertain to the direction and ethos of our [[LCOS Notes/Rhythms and Patterns/Life Together]] as the Lutheran Church of Our Savior. 

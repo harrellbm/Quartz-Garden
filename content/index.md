@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Home Base Camp","title":"Base Camp 🏕️","tags":["🌲Evergreen"],"cssclasses":""}
+{"publish":true,"aliases":"Home Base Camp","title":"Base Camp 🏕️","created":"2024-10-22T11:39:29.726-07:00","modified":"2025-07-03T12:01:39.320-07:00","published":"2025-07-03T12:01:39.320-07:00","tags":["🌲Evergreen"],"cssclasses":""}
 ---
 
 Hello!
@@ -24,21 +24,21 @@ Here are some basic suggestions for using this garden:
 - Or you can look at my [[Wonder List]] a collection of things that I am thinking about. 
 - If you run into a 404 page it means I haven't made that note yet or haven't uploaded it. If it is interesting to you reach out to me and start a conversation about it.  
 # Notes I have Tended Recently 
-- [[Tail Knowledge and Knowledge Collapse/Tail Knowledge and Knowledge Collapse\|Tail Knowledge and Knowledge Collapse]]
-- [[Adventures in Terraforming (Kind of)\|Adventures in Terraforming (Kind of)]]
-- [[Private/Central Coast Stuff to Do\|Central Coast Stuff to Do]]
-- [[Obsidian Note-taking\|Obsidian Note-taking]]
-- [[Digital Gardening\|Digital Gardening]]
-- [[A Case for Christian Digital Gardening\|A Case for Christian Digital Gardening]]
-- [[Making Tea\|Making Tea]]
-- [[A Tea Garden\|A Tea Garden]]
-- [[Plant Care\|Plant Care]]
-- [[Plants Around Church\|Plants Around Church]]
-- [[Spiritual Disciplines\|Spiritual Disciplines]]
-- [[Keeping a Spiritual Perspective on Daily Life\|Keeping a Spiritual Perspective on Daily Life]]
+- [[Big Picture Theological Concepts\|Big Picture Theological Concepts]]
+- [[Prayer Walk Guides\|Prayer Walk Guides]]
+- [[Projects/Bookletic\|Bookletic]]
+- [[Adventures in Terraforming (Kind of)/Adventures in Terraforming (Kind of)\|Adventures in Terraforming (Kind of)]]
+- [[Private/Eden Quotes\|Eden Quotes]]
+- [[Reading Scripture Devotionally\|Reading Scripture Devotionally]]
+- [[Food Forest/Food Forest\|Food Forest]]
+- [[Reality Filter\|Reality Filter]]
+- [[Principles for Working with Tech Tools\|Principles for Working with Tech Tools]]
 - [[LCOS Notes/LCOS Epistles\|LCOS Epistles]]
-- [[Activity-A Conversion with Scripture\|Activity-A Conversion with Scripture]]
-- [[Uses of Scripture\|Uses of Scripture]]
+- [[Indexes/Scripture Index\|Scripture Index]]
+- [[Relational Health Framework\|Relational Health Framework]]
+- [[Reading Scripture for Familiarity\|Reading Scripture for Familiarity]]
+- [[Recipes/Homemade Curry\|Homemade Curry]]
+- [[Tail Knowledge and Knowledge Collapse/Tail Knowledge and Knowledge Collapse\|Tail Knowledge and Knowledge Collapse]]
 
 # Connected by the Roots
 I aim to make this digital space a grove of sorts. A collection of thoughts, ideas, concepts, notes and experiences. 

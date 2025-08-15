@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.778-07:00","modified":"2025-06-12T12:59:18.179-07:00","published":"2025-06-12T12:59:18.192-07:00","cssclasses":""}
 ---
 
 #🍋Fruit   #🙂Agree   #🟢Conviction   #📝Essay   #🔥Doctrine-Poetry-Story 

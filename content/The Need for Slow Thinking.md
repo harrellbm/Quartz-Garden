@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2024-12-11T09:22:45.547-08:00","modified":"2025-06-04T12:51:15.788-07:00","published":"2025-06-04T12:51:15.788-07:00","cssclasses":""}
 ---
 
 #🪴Sprout   #😁Strongly-Agree  #🟢Conviction #🥾SpiritualPractices-EmbodiedLiving 

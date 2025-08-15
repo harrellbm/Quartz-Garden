@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.710-07:00","modified":"2025-06-05T15:13:54.801-07:00","published":"2025-06-05T15:13:54.804-07:00","cssclasses":""}
 ---
 
 #🌿Sapling   #😁Strongly-Agree   #🟡Consideration   #📝Essay   #🏖️Universe-Humans  

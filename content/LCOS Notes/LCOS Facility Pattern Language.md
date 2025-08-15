@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2025-03-18T08:26:57.248-07:00","modified":"2025-06-17T14:47:13.353-07:00","published":"2025-06-17T14:47:13.354-07:00","cssclasses":""}
 ---
 
 #🌱Seed   #🙂Agree   #🟡Consideration   #🌲Evergreen 

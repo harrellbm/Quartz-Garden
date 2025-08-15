@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.778-07:00","modified":"2025-06-04T12:44:33.220-07:00","published":"2025-06-04T12:44:33.220-07:00","cssclasses":""}
 ---
 
 #🌱Seed  #🙂Agree  #📚Definition 

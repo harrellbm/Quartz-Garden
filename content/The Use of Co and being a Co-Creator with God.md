@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2024-10-28T11:01:31.093-07:00","modified":"2025-06-12T13:01:11.968-07:00","published":"2025-06-12T13:01:11.971-07:00","cssclasses":""}
 ---
 
 #🪴Sprout   #🙂Agree    #🟡Consideration   #🔥Doctrine-Poetry-Story 

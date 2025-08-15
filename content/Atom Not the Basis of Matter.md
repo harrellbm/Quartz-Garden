@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2024-12-05T09:48:40.942-08:00","modified":"2025-06-04T11:27:03.345-07:00","published":"2025-06-04T11:27:03.345-07:00","cssclasses":""}
 ---
 
 #🌱Seed   #😟Disagree   #🔴Uncertain   #🏖️Universe-Humans 

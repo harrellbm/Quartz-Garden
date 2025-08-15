@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2025-05-12T14:17:47.076-07:00","modified":"2025-05-13T14:44:40.280-07:00","published":"2025-05-13T14:44:40.280-07:00","cssclasses":""}
 ---
 
 #✒️Poem 

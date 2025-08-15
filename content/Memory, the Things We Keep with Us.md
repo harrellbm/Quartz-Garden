@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2025-05-06T11:20:05.662-07:00","modified":"2025-06-04T12:19:43.636-07:00","published":"2025-06-04T12:19:43.636-07:00","cssclasses":""}
 ---
 
 #🪴Sprout   #🙂Agree   #🟡Consideration   #📝Essay  #🏖️Universe-Humans 

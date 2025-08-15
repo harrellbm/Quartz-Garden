@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2024-10-29T13:46:27.723-07:00","modified":"2025-06-04T11:29:25.883-07:00","published":"2025-06-04T11:29:25.883-07:00","cssclasses":""}
 ---
 
 #🪴Sprout   #😁Strongly-Agree   #🟢Conviction   #🔥Doctrine-Poetry-Story 

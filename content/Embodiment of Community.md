@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.726-07:00","modified":"2025-06-17T14:30:26.417-07:00","published":"2025-06-17T14:30:26.419-07:00","cssclasses":""}
 ---
 
 #🍋Fruit    #🙂Agree   #📝Essay  #🟡Consideration   #🍽️Community-Mission 

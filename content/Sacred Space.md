@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.778-07:00","modified":"2025-06-17T14:41:01.587-07:00","published":"2025-06-17T14:41:01.589-07:00","cssclasses":""}
 ---
 
 #🍋Fruit  #😁Strongly-Agree #🟢Conviction   #📝Essay   #🥾SpiritualPractices-EmbodiedLiving 

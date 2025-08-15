@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2025-04-02T13:41:09.515-07:00","modified":"2025-06-30T09:35:21.271-07:00","published":"2025-06-30T09:35:21.274-07:00","cssclasses":""}
 ---
 
 #🌲Evergreen   #📓Journal 

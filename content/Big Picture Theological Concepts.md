@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.726-07:00","modified":"2025-06-25T09:55:36.145-07:00","published":"2025-08-14T13:03:11.204-07:00","cssclasses":""}
 ---
 
 #🌲Evergreen  #😁Strongly-Agree  #🟢Conviction   #🔥Doctrine-Poetry-Story 
@@ -16,10 +16,10 @@
 - Continuity of Biblical Teaching
 	- Old Testament Law useful for principles not direct following (I.e. Under Law of Christ not Law of Moses).
 	- [[Telescope of Scripture, the Law and Doctrine]]
-- [[Law and Gospel]]
+- [[Law and Gospel]] - How does God speak humans?
 - [[Three Uses of the Law]]
-- Two kingdoms
-- [[Two Kinds of Righteousness]]
+- Two kingdoms - How does God work in the world?
+- [[Two Kinds of Righteousness]] - How should the Human Creature live?
 	- [[Corom Deo]]
 	- [[Corom Mundo]]
 - [[The Two Commissions]] and cycle of gospel living

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.756-07:00","modified":"2025-06-04T12:22:27.321-07:00","published":"2025-06-04T12:22:27.321-07:00","cssclasses":""}
 ---
 
 #🌱Seed  #😐Neutral  #📚Definition 

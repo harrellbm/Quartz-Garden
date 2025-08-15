@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2024-11-30T08:44:58.488-08:00","modified":"2025-06-04T11:53:42.196-07:00","published":"2025-06-04T11:53:42.196-07:00","cssclasses":""}
 ---
 
 #🌱Seed  #🙂Agree  #🥾SpiritualPractices-EmbodiedLiving 

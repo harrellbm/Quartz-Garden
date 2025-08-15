@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"C h u r c h E n t r y w a y","cssclasses":""}
+{"publish":true,"aliases":"C h u r c h E n t r y w a y","created":"2024-10-22T11:39:29.741-07:00","modified":"2025-06-17T14:36:26.896-07:00","published":"2025-06-17T14:36:26.898-07:00","cssclasses":""}
 ---
 
 #🪴Sprout   #🙂Agree  #🛠️BringingLifeintotheWorld 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2025-02-24T13:51:25.355-08:00","modified":"2025-06-30T12:29:40.553-07:00","published":"2025-06-30T12:29:40.563-07:00","cssclasses":""}
 ---
 
 #🌱Seed   #😐Neutral   #🟡Consideration  #🥾SpiritualPractices-EmbodiedLiving 

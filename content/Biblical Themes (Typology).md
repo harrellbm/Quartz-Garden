@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2025-04-03T11:36:40.021-07:00","modified":"2025-06-04T11:29:50.487-07:00","published":"2025-06-04T11:29:50.487-07:00","cssclasses":""}
 ---
 
 #🪴Sprout   #🙂Agree   #🟢Conviction   #📚Definition   #📓Journal  

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2024-10-23T08:48:48.915-07:00","modified":"2025-06-17T14:47:55.446-07:00","published":"2025-06-17T14:47:55.446-07:00","cssclasses":""}
 ---
 
 #🌱Seed  #🙂Agree   #🟢Conviction   #📰Handout 

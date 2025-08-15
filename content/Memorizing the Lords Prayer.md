@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2025-05-23T11:21:43.673-07:00","modified":"2025-06-05T10:21:31.207-07:00","published":"2025-06-05T10:21:31.207-07:00","cssclasses":""}
 ---
 
 #🌿Sapling   #😁Strongly-Agree    #🟢Conviction    #📊Project  #🥾SpiritualPractices-EmbodiedLiving 

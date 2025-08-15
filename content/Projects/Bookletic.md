@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.726-07:00","modified":"2025-08-07T11:55:37.839-07:00","published":"2025-08-07T11:55:37.845-07:00","cssclasses":""}
 ---
 
 #🍋Fruit   #😁Strongly-Agree   #📊Project   #🛠️BringingLifeintotheWorld 
@@ -16,9 +16,6 @@
 Fully customizable page numbers. Can define as many layouts for different page ranges. Every layout has a start number and alt start number to display and a style. Each style can define values for all, even or odd pages 
 
 Easily switch between drafting and signature ordering 
-
-TODO: make a nice description of features 
-
 ## Sig 0.1.0
 
 - [x] Initial support for only single fold four page sheets to add into signatures 
@@ -52,16 +49,26 @@ TODO: make a nice description of features
 - [x] post to packages repo
 - [x] Ability to define page style per even and odd pages. Basically a sub dictionary that you can define setting for: all, even and odd pages for the layout 
 	- [x] Allow alternating page number patterns Adjust horizontal is the most important to put page numbers on outside or inside edge of pages 
+- [x] Use native page function for formatting the document's page attributes
+## Sig 0.3.1 and 0.3.2
 
+- [x] Add defaults for all different settings so that you only have to define the settings you want to change 
+- [x] Clean up documentation and examples
 ## Sig 0.4.0
 
-- [ ] Abstract out composing page to its own function 
-- [ ] Make it possible to add none to page pattern to remove page number for even and odd pages 
-- [ ] Tab page number (a number that has a shape under it)
+- [ ] Add option to lay out signatures for single sided printing. Have an output pdf for "front" then and output pdf for "back" 
+- [ ] Wait for typst 0.14 and then add the ability to add a helper function to generate the content block needed to add a pdf as pages in a book. basically pdf is added as an image that image is added as one content block that ends up being one page in the booklet
+## Sig 0.5.0
+
+- [ ] Make a nice description of features 
+- [ ] Page number features
+	- [ ]  Implement a way to only apply a page number layout to even or odd pages
+		- [ ] Make it possible to add none to page pattern to remove page number for even or odd pages
+	- [ ] Make it so that the number padding can be added to left or right not just left
+	- [ ] Add page number layout setting for setting custom font for page number 
+	- [ ] Tab page number (a number that has a shape under it)
 - [ ] Add marks for signature stitching holes or staple guides
-- [ ] Add page number layout setting for setting custom font for page number 
-- [ ] Add defaults for all different settings so that you only have to define the settings you want to change 
-- [ ]  Write manual (use AI) and tidy typst package 
+- [ ] Write manual (use AI) and tidy typst package 
 - [ ] Make post in showcase in discord
 
 ## Booklet function
@@ -79,9 +86,9 @@ same as booklet but has options for multi signature set ups 
 - [ ] Handle multi signatures. Tell it how many sheets per signature
 
 ## Wishlist 
-
-- Support for 8 16 and 32 page signatures 
 - Need to add back in flipping pages from zine example package to create the more complex signatures 
+- Think about how the signatures could be made for some of these different binding types:
+- https://www.thebookdesigner.com/self-publishing-basics-5-book-binding-styles-illustrated/
 
 # Bookbinding and Typesetting resources
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2024-11-10T13:35:53.502-08:00","modified":"2025-06-04T12:50:48.014-07:00","published":"2025-06-04T12:50:48.014-07:00","cssclasses":""}
 ---
 
 #🌱Seed  #🙂Agree #🔥Doctrine-Poetry-Story 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2025-02-16T08:13:27.813-08:00","modified":"2025-06-17T14:48:04.192-07:00","published":"2025-06-17T14:48:04.192-07:00","cssclasses":""}
 ---
 
 #🌱Seed   #😐Neutral   #🟡Consideration   #📓Journal  #📘BookNotes 

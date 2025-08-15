@@ -1,5 +1,5 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2024-12-18T11:12:58.801-08:00","modified":"2025-06-04T12:50:38.820-07:00","published":"2025-06-04T12:50:38.820-07:00","cssclasses":""}
 ---
 
 #🌱Seed   #😐Neutral   #🟡Consideration  #🏖️Universe-Humans 

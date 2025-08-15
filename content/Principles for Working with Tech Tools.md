@@ -1,8 +1,8 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.776-07:00","modified":"2025-07-31T09:02:14.003-07:00","published":"2025-07-31T09:02:14.010-07:00","cssclasses":""}
 ---
 
-#🪴Sprout   #😁Strongly-Agree  #🛠️BringingLifeintotheWorld 
+#🪴Sprout   #😁Strongly-Agree  #🟡Consideration  #🛠️BringingLifeintotheWorld 
 
 ****
 
@@ -15,7 +15,9 @@
 
 Related Notes:
 [[Religion of Technology]]
-
+[[A Theology of Technology]]
+***
+# General Principles
 In order to healthily engage with, learn and employ technology, I have found a few important principles to keep in mind:
 
 1. Avoiding Vendor lock-in 
@@ -29,6 +31,12 @@ In order to healthily engage with, learn and employ technology, I have found a f
 6. Every piece of technology is oriented toward a particular type of client or way of life. Make sure this underlying narrative will not work against our core mission. 
 	- For example, think of trying to use a point of sales system made for a business to collect church offerings. They are similar but do not solve the same fundament problems. 
 
+# Thinking about Using AI
+Many people want to talk about AI as either super accurate and amazing or point out the mistakes it makes and lament how horrible it is. But I think it is important to remember that the baseline metric all AI runs off of is statistical probability. It really does not care if it is "accurate" or "truthful" in the human sense it is simply giving the most probable response after all the guardrails, and other tweaks that are built on top of the base level neural network. This means for me that using AI as an unequivocal source of fact or as a primary [[Reality Filter]] is a bad idea. AI is not built for precision fact and truth. What it is built for is pattern recognition on a large scale. 
+
+For me this has started to look like using an AI chat as a way to kind of churn up information on a subject. it is not until I have asked the question a few times in different ways or to different models that I feel like I have an idea of what I'm looking for. In other words, AI is great for the general "what is out there" questions and getting a better answer than a search bar tends to give. It is also very efficient if you know exactly what you are looking for but can't seem to find it because that level of specificity means that the statistically likely response is probably what you want. 
+
+All of this to say that AI can be useful but it is important to know what kind of tool it is. It is easy to treat it like a human or to rely on it without secondary sources of information. I will say that the online searches with Gemini and Copilot have made it easy to access some of those secondary sources which helps address that concern within the tool. That being said it is still using AI as the filter for what secondary sources to look has the potential to still get us into trouble. 
 ****
 
 Helpful Articles:
