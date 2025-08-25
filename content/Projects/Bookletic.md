@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.726-07:00","modified":"2025-08-07T11:55:37.839-07:00","published":"2025-08-07T11:55:37.845-07:00","cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.726-07:00","modified":"2025-08-20T11:43:34.520-07:00","published":"2025-08-20T11:43:34.524-07:00","cssclasses":""}
 ---
 
 #🍋Fruit   #😁Strongly-Agree   #📊Project   #🛠️BringingLifeintotheWorld 
@@ -89,6 +89,7 @@ same as booklet but has options for multi signature set ups 
 - Need to add back in flipping pages from zine example package to create the more complex signatures 
 - Think about how the signatures could be made for some of these different binding types:
 - https://www.thebookdesigner.com/self-publishing-basics-5-book-binding-styles-illustrated/
+- Interesting video on how to stitch a 16 and 32 pane signature:[ Imposing, folding, and saddle stitching 16 and 32 page signatures](https://youtu.be/OT3Ecz7ib9c)
 
 # Bookbinding and Typesetting resources
 

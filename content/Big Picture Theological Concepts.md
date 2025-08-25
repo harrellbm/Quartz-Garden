@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.726-07:00","modified":"2025-06-25T09:55:36.145-07:00","published":"2025-08-14T13:03:11.204-07:00","cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.726-07:00","modified":"2025-06-25T09:55:36.145-07:00","published":"2025-08-21T11:01:04.761-07:00","cssclasses":""}
 ---
 
 #🌲Evergreen  #😁Strongly-Agree  #🟢Conviction   #🔥Doctrine-Poetry-Story 

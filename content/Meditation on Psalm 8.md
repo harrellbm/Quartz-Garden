@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.741-07:00","modified":"2025-06-17T14:34:26.751-07:00","published":"2025-06-17T14:34:26.751-07:00","cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.741-07:00","modified":"2025-08-21T09:51:13.101-07:00","published":"2025-08-21T09:51:13.104-07:00","cssclasses":""}
 ---
 
 #🍋Fruit   #😁Strongly-Agree   #🟢Conviction  #🥾SpiritualPractices-EmbodiedLiving 
@@ -10,10 +10,13 @@
 
 > [!note]
 > Presented to Springfield Pastor's Winkle in March 2023. Also used as OS #📃Epistle in the same month.
+> 
+> Also used as LCOS #📃Epistle in Sept 2025.
 
 ****
+I would like to invite you into a short meditation on Psalm 8. 
 
-If your life is anything like mine, there often seems to be something unexpected or stressful on the horizon. When these things happen you can feel your body begin to tense up as you brace for the impact of the next thing and the next thing.  It is easy to begin to lose hope when life puts you through the ringer.  Yet God has given us resources to make it through times like these in one piece. On our own, we quickly begin to fall apart, ground down by stress or pulled a million directions. But the word of God invites us to come to a place of rest, out of the chaos of our lives. 
+If your life is anything like mine, there often seems to be something unexpected or stressful on the horizon. When these things happen you can feel your body begin to tense up as you brace for the impact of the next thing and the next thing....  It is easy to begin to lose hope when life puts you through the ringer.  Yet God has given us resources to make it through times like these in one piece. On our own, we quickly begin to fall apart, ground down by stress or pulled a million directions. But the word of God invites us to come to a place of rest, out of the chaos of our lives. 
 
 On the seventh day God rested from creating the world, and from that moment rest became something special. It is the expression of a good God bringing everything into harmony and alignment. Things that can often feel far away from our lived experience. Yet the rest of God is not some far off ideal, but a gift offered to us every day through the words of Scripture.  It is through God’s word that we encounter the rest of God.  His words are reality shaping and reorienting. They pull us out of our brokenness and into the light of Christ.    
 
@@ -55,7 +58,7 @@ Can you imagine the hand of God forming the night sky?
 
 4 what is man that you are mindful of him,  and the [[Son of Man]] that you care for him?
 
-How small do you feel compared to the descriptions of God and the night sky before? How amazing is it that God cares about you?
+How small do you feel compared to the descriptions of God and the night sky? How amazing is it that God cares about you?
 
 ---
 
@@ -85,7 +88,7 @@ How much does God value you in giving you responsibility over this world?
 
 7 all sheep and oxen, and also the beasts of the field, 8 the birds of the heavens, and the fish of the sea, whatever passes along the paths of the seas.
 
-What is our role in taking care of animals? How does God call us to be co-creators with Him?
+What is our role in taking care of animals? How does God call us to take care of His world *with* Him?
 
 ---
 
@@ -103,4 +106,4 @@ How do these words help clarify your place in God’s creation? How is this diff
 
 ---
 
-I pray that these words may speak to your heart. Out of all the hustle and bustle of life, Jesus has created a special and beautiful place for you. A place to bring the rest and harmony of God back into a broken and frantic world. Come to Jesus and find His rest.
+I pray that these words may speak to your heart. Out of all the hustle and bustle of life, Jesus has created a special and beautiful place for you. A place to bring the rest and harmony of God back into a broken and frantic world. Come to Jesus and find His rest. Amen.

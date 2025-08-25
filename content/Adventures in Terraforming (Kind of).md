@@ -1,12 +1,22 @@
 ---
-{"publish":true,"cssclasses":""}
+{"publish":true,"created":"2025-08-20T08:45:37.050-07:00","modified":"2025-08-20T11:45:06.816-07:00","published":"2025-08-20T11:45:06.829-07:00","cssclasses":""}
 ---
 
-#🌱Seed   #🙂Agree  #📓Journal    #📊Project 
+#🪴Sprout   #🙂Agree  #📓Journal    #📊Project  #🛠️BringingLifeintotheWorld 
 ****
  
 >[!Summary] The Big Idea
 > I have decided to start a captains log style journal of my terraforming... I mean gardening mishaps and shenanigans.  This is not at all performative or public facing writing but more reflective and for myself. I will honestly laugh if anyone ever reads this and think it is worth mentioning to me. 
+## My Aspirations 
+- The idea of wild gardening and food forests.
+- Linked with that is gathering and propagating plants naturally 
+- I want to harvest and use things that grow
+- Learning how to revitalize a bed with mostly the plants that are already there or in the area
+## Areas I am currently poking around in
+- LCOS church landscape 
+- My office experiments 
+- home plants and garden
+	- my little tea and herb garden
 
 Related Notes:
 [[A Tea Garden]]
@@ -14,6 +24,52 @@ Related Notes:
 [[Plants Around Church]]
 [[LCOS Notes/LCOS Facility Pattern Language]]
 ****
+
+# 8-20-25
+Starting to get a handle on how the back yard reacts to things and how the sun and watering affects stuff.
+
+I liked reading this article that helped explain watering in less of a mechanical "this much this often way" and actually paying attention to the plants and the environment. [how often to water herbs better watering for healthy herbs](https://www.harvestingqualitythyme.com/how-often-to-water-herbs-better-watering-for-healthy-herbs/)
+
+The whitefly issue on the side yard is getting better I need to stay on top of hosing them down for a bit longer to make sure they don't come right back. 
+
+# 8-14-25
+So lots of fun stuff happening in the back yard. There is a new mandarin tree that my parents bought us. Have another strawberry plant, green onions and a small lavender. 
+
+The poor spear mint is getting full on attacked though.  I thought it had spider mites but now I think it has white flies I have sprayed it down with neem oil and put it near the green onions we will see if that helps it catch up. I think if it was a more fragile plant it would be long gone. 
+
+Also both fig trees have decided it is growing season again and have new leaves. It is funny because they took a minute to adjust to being moved here but now seem like they are doing well. Also seems like the lemon and orange tree are both doing well have been trimming and spraying them with neem. 
+
+I did try a transplant to see if I could get a rosemary bush to anchor the other side of the bed I have been planting in. the soil is also basically trash so slowly trying to get more organic matter in there. it is very interesting dealing with soil that has so much sand. The water really does just go straight down and away. 
+
+backyard matrix ideas:
+- ground cover: creeping thyme or Greek oregano and alpine strawberry
+- nitrogent fixer: white clover or tomcat clover
+- borage officianalis
+- yerba buena
+# 8-5-25
+Started dreaming about rebuilding the planter out in front of the house. I want the brick work to be beautiful not just slapped together like it is now. 
+
+Some examples of cool herringbone brick work
+- [https://share.google/GS9YmGZUdqXqOeiZ8](https://share.google/GS9YmGZUdqXqOeiZ8)
+- [https://share.google/wVJC9UxRBK8rjp3JF](https://share.google/wVJC9UxRBK8rjp3JF)
+- [HOW TO LAY BRICKS - HERRINGBONE PATTERN - YouTube]([https://share.google/XwhNSEujGWDn593GT](https://share.google/XwhNSEujGWDn593GT))
+
+# 7-32-25
+Started collecting things in new note [[Food Forest/Food Forest]]
+# 7-30-25
+So have cleared out a lot of the new yard of old overgrown bushes and what not. I have some rosemary sprigs rooting in my office and hope to use them as a kind of "anchor" for the yard. I also have a bunch of California poppy seeds ready to go for the fall to spread and see what they do sprouting. Still debating what I want to do with the gazanias and African violets I have as seedlings in my office. 
+
+I also want to go and see what kind of herbs I can find to plant around the yard too. A nice lavender or two would be amazing as well as starting to get the chamomile seeds from some of the flowers to spread and sprout. 
+# 7-28-25
+Guess what I have found a new thing to be all interested in lol. The Idea of a Food forest. Basically the idea that I am the most excited about is the idea of a guild which is a set of plants that all work together as a kind of mini ecosystem that support and sustain each other. This also is super close to the idea of [[The Ways Centers Help Each Other Have More Life]] which I think is really cool. Below are a bunch of random resources I have started to collect around it.  That have been moved to [[Food Forest/Food Forest]]
+
+# 7-7-25  
+SO we are getting really close to closing on our house and it is really exciting to think about making the place our own. I have been thinking about the outside and have a few dreams.
+
+1. Grow sugar cane so that there can be full things we make fully from things grown in our backyard like lemonade etc. 
+	1. The kind that will grow the best that I could find is Lemon-Lime Sugarcane (AKA San Diego Yellow) Here is one place to buy it– [Planting Justice](https://plantingjustice.org/products/sugarcane)
+2. Also an interesting site that has all kinds of resources from stuff like making beet sugar and who knows what else. https://permies.com/
+3. Also there is a very wild rosemary bush in the front of the house that I want to sprout cutting from because I think the main bush needs to go lol. https://www.gardenary.com/blog/how-to-propagate-rosemary
 # 7-2-25
 I have this thing I do where I get really passionate about something and then kind of forget why. So this is an attempt to store some of those ideas, plans, crazy ideas and results of those crazy ideas when it comes to plants and working with the ground around me. 
 
@@ -28,35 +84,3 @@ California poppies however are native and there is a little shoal of volunteers 
 I also nabbed some matilija poppy seeds. I think I might have picked the pod too early and will be on the look out for a more mature pod but I am exited to try growing them too. They are a lot harder than the last two so will plan on tackling that in the fall maybe or even wait until next year. 
 
 My [[A Tea Garden]]  has also been going well overall. I think I figured out how to get rid of the spider mites I had on my mint which is basically just washing to leaves a little while you water them. Also the fig tree that I did not bring in side is doing well and has some figs forming on it. I am also going to let one of the chamomile flowers go to seed so that I can plant the pot I have it in with more plants than the singular one I have we will see how that goes. 
-
-# 7-7-25
-SO we are getting really close to closing on our house and it is really exciting to think about making the place our own. I have been thinking about the outside and have a few dreams.
-
-1. Grow sugar cane so that there can be full things we make fully from things grown in our backyard like lemonade etc. 
-	1. The kind that will grow the best that I could find is Lemon-Lime Sugarcane (AKA San Diego Yellow) Here is one place to buy it– [Planting Justice](https://plantingjustice.org/products/sugarcane)
-2. Also an interesting site that has all kinds of resources from stuff like making beet sugar and who knows what else. https://permies.com/
-3. Also there is a very wild rosemary bush in the front of the house that I want to sprout cutting from because I think the main bush needs to go lol. https://www.gardenary.com/blog/how-to-propagate-rosemary
-
-
-
-
-
-
-# My Aspirations 
-
-the idea of wild gardening
-
-linked with that is gathering and propagating naturally 
-
-harvesting and using things that grow
-
-learning how to revitalize a bed with mostly the plants that are already there or in the area
-
-# Areas I am currently poking around in
-LCOS church landscape 
-
-my office experiments 
-
-home plants 
-
-my little tea and herb garden
