@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.741-07:00","modified":"2025-06-17T14:36:04.779-07:00","published":"2025-06-17T14:36:04.782-07:00","cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.741-07:00","modified":"2025-06-17T14:36:04.779-07:00","published":"2025-08-26T09:19:14.268-07:00","cssclasses":""}
 ---
 
 #🌱Seed  #🙂Agree #🥾SpiritualPractices-EmbodiedLiving 
@@ -601,7 +601,7 @@ Psalm one description of a tree by water main image 
 
   
 
-#### Abiding Level (image of abiding in the vine) (Gospel) ([[Corom Deo]]) (first great commandment)
+#### Abiding Level (image of abiding in the vine) (Gospel) ([[Coram Deo]]) (first great commandment)
 
 Prayer and meditation on Scripture are core. Man does not live by bread alone but by every word that comes from the mouth of God. Creed and Lord’s Prayer. 
 
@@ -609,17 +609,17 @@ Prayer and meditation on Scripture are core. Man does not live by bread alone bu
   
   
 
-#### Marks of the church level (Gospel) ([[Corom Deo]]) (first great commandment)
+#### Marks of the church level (Gospel) ([[Coram Deo]]) (first great commandment)
 
 Then experience of means of Grace (confession and sacraments) and proclamation of Gospel. Which is basically word applied corporately. 
 
-#### Embodied community level (Law) ([[Corom Mundo]]) (Second great commandment)
+#### Embodied community level (Law) ([[Coram Mundo]]) (Second great commandment)
 
 Patterns taught by divine service and [[LCOS Notes/Rhythms and Patterns/Life Together]]. Fruits of the spirit. Great commission 
 
   
 
-#### Redemption of Natural Rhythms level (Law) ([[Corom Mundo]]) (Second great commandment)
+#### Redemption of Natural Rhythms level (Law) ([[Coram Mundo]]) (Second great commandment)
 
 Vocation (table of duties) as redeeming rhythms of relationships. First commission.
 

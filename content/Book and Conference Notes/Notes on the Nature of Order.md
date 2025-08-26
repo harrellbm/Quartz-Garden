@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.759-07:00","modified":"2025-06-17T14:48:43.844-07:00","published":"2025-06-17T14:48:43.844-07:00","cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.759-07:00","modified":"2025-08-26T09:17:39.117-07:00","published":"2025-08-26T09:17:39.117-07:00","cssclasses":""}
 ---
 
 #🪴Sprout  #🙂Agree  #🟡Consideration #📘BookNotes 
@@ -13,7 +13,7 @@ Website that has overviews of the Books:
 [Nature of Order Website](http://www.natureoforder.com/overview.htm)
 
 > [!NOTE] idea for research 
-> It seems to me there is great congruence between his the ideas of quality of life and wholeness described by Alexander and the biblical principles of shalom and righteousness. It would be interesting to line them up next to each other and see just how similar and different they are. Because if you could sub in the idea of shalom in describing the process of creating living centers that would be a much more profound and far reaching understanding of our [[Corom Mundo]] work than the typical ministering to felt needs or providing public services. Rather all work could be seen as pushing toward peace and righteousness in a way that one day when Jesus returns will not be separated into temporal and spiritual or before man or before God when Jesus returns. But for now we just get to see the starting of there overlap
+> It seems to me there is great congruence between his the ideas of quality of life and wholeness described by Alexander and the biblical principles of shalom and righteousness. It would be interesting to line them up next to each other and see just how similar and different they are. Because if you could sub in the idea of shalom in describing the process of creating living centers that would be a much more profound and far reaching understanding of our [[Coram Mundo]] work than the typical ministering to felt needs or providing public services. Rather all work could be seen as pushing toward peace and righteousness in a way that one day when Jesus returns will not be separated into temporal and spiritual or before man or before God when Jesus returns. But for now we just get to see the starting of there overlap
 
 Another set of notes on the Nature of Order Books: [Stefan’s Notes Key Concepts](http://nature-of-order.stefan-lesser.com/key-concepts)
 

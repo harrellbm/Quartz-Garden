@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-20T08:45:37.050-07:00","modified":"2025-08-20T11:45:06.816-07:00","published":"2025-08-20T11:45:06.829-07:00","cssclasses":""}
+{"publish":true,"created":"2025-08-20T08:45:37.050-07:00","modified":"2025-08-26T10:17:24.227-07:00","published":"2025-08-26T10:17:24.229-07:00","cssclasses":""}
 ---
 
 #🪴Sprout   #🙂Agree  #📓Journal    #📊Project  #🛠️BringingLifeintotheWorld 
@@ -25,6 +25,10 @@ Related Notes:
 [[LCOS Notes/LCOS Facility Pattern Language]]
 ****
 
+# 8-26-25
+I feel like being in a kind of adventure novel where the line up of bad guys slowly gets revealed as you go. Spider mites, white flies and now.... snails. Hosing things off and keeping the plants well watered helps keep the white flies and spider mites down but then makes it a nice comfy spot for snails to chill and start eating stuff. So I have been doing nightly hunts to get the big ones at least and am going to try crushed egg shells around the strawberry plants to see if it will keep them away from the fruit. 
+
+Have a decent amount of clearing out still to do around the yard to get rid of overgrown and gangly bushes as well as other dead plants or undesirable ones. 
 # 8-20-25
 Starting to get a handle on how the back yard reacts to things and how the sun and watering affects stuff.
 
