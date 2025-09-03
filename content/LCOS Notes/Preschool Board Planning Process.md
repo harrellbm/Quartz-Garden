@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-12-12T13:48:36.411-08:00","modified":"2025-02-24T13:55:33.519-08:00","published":"2025-02-24T13:55:33.519-08:00","cssclasses":""}
+{"publish":true,"created":"2024-12-12T13:48:36.411-08:00","modified":"2025-08-26T13:12:01.451-07:00","published":"2025-08-26T13:12:01.452-07:00","cssclasses":""}
 ---
 
 #🌱Seed  #😐Neutral  #🟡Consideration
@@ -10,6 +10,10 @@
 >
 
 ****
+# Preschool Renovation Ideas
+https://www.homedepot.com/p/HOROW-Rectangular-Wall-Mount-Install-or-On-Countertop-Bathroom-Sink-17-72-in-with-Single-Faucet-Hole-in-White-HR-WS4531W/327762238
+
+
 # Initial Stabilization
 - Change as little as possible. Allow the system to cool off and equalize. 
 - Simplify things when possible to make it easier to handle for staff.

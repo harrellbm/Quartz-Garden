@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-05-12T14:19:27.705-07:00","modified":"2025-06-05T15:05:10.683-07:00","published":"2025-06-05T15:05:10.683-07:00","cssclasses":""}
+{"publish":true,"created":"2025-05-12T14:19:27.705-07:00","modified":"2025-09-03T09:23:11.221-07:00","published":"2025-09-03T09:23:11.223-07:00","cssclasses":""}
 ---
 
 #🌱Seed   #😁Strongly-Agree    #🟢Conviction    #📊Project #📓Journal  #🥾SpiritualPractices-EmbodiedLiving 
@@ -66,6 +66,28 @@ Once I have all 150 tags memorized then we will see how deepening it can go and 
 I has been my experience that the more I am in the word the more easily things bubble up in my memory. 
 
 I think that focusing on individual books will help make things more manageable. I still need to figure out the large picture structure that I can use to help organize it all in my head. Pegs is one but that seems like i will get overwhelming quickly. I think that a story or image or memory palace is the way I want to go I just need to figure out how I want to plan that. 
+
+# Psalm One and Two as portal of Prayer
+As I have thought and read and also super procrastinated this project I have come across the start of an image that will help me keep Psalm 1 and 2 firmly placed in my mind. 
+
+The image is that of walking up to the beautiful temple of Solomon and seeing the big grand pillars at the entrance. This correlates with treating the Psalter as a spiritual temple with which to worship God. I love this imagery and it helps keep the purpose of the psalms right up front as well as being memorable. 
+
+The description of these pillars being built  on the physical temple are: 1 Ki 7:21 and 2 Ch 3:17
+
+The basic identity of each pillar:
+1. Right Pillar (primary pillar like right hand is primary) and is the first to be erected. Named Jachin. Which translates to "He Will Establish."
+2. Left Pillar named Boaz. Which translates to "In Him Is Strength."
+
+This imagery even lines up with the content of the Psalms themselves. 
+### Psalm 1 
+- Priestly in character. Specks of the ideal reader and meditator of God's word and abiding in the presence of God. Jesus is the ideal mean who lived this which we are then branches of the tree that is Jesus as He abides by the stream. 
+- If we map the first pillar to this Psalm we see that "He will establish" fits well with the overall message of the psalm and who is the one establishing (not us but God). 
+### Psalm 2 
+- Kingly in character. Jesus is the true Davidic kind that the nations cannot overcome. 
+- Second pillar  means "In Him is Strength" which is the best short hand description of Jesus as king that I can think of for the messianic ruler of the universe. 
+
+This already is a very compelling image and one that fills the Psalms themselves with a deep sense of place and purpose. I think it will also be a strong anchor to possibly keep developing the "tour of the temple" style memorization as we go. 
+
 # Major Recurring Themes
 Not sure how helpful this will be for memorizations sake. 
 - The King
