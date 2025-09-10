@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-05-12T14:19:27.705-07:00","modified":"2025-09-03T09:23:11.221-07:00","published":"2025-09-03T09:23:11.223-07:00","cssclasses":""}
+{"publish":true,"created":"2025-05-12T14:19:27.705-07:00","modified":"2025-09-10T15:27:14.716-07:00","published":"2025-09-10T15:56:03.604-07:00","cssclasses":""}
 ---
 
-#🌱Seed   #😁Strongly-Agree    #🟢Conviction    #📊Project #📓Journal  #🥾SpiritualPractices-EmbodiedLiving 
+#🪴Sprout   #😁Strongly-Agree    #🟢Conviction    #📊Project #📓Journal  #🥾SpiritualPractices-EmbodiedLiving 
 ****
  
 >[!Summary] The Big Idea
@@ -88,11 +88,133 @@ This imagery even lines up with the content of the Psalms themselves.
 
 This already is a very compelling image and one that fills the Psalms themselves with a deep sense of place and purpose. I think it will also be a strong anchor to possibly keep developing the "tour of the temple" style memorization as we go. 
 
+
+# Heavenly Temple Memory Palace 
+Brief description of the memory palace method and goal: [[Memory, the Things We Keep with Us#Memory Palace Method]]
+
+As I am diving into this I have realized the Ezekiel's temple vision  (chapters 40-48) is literally an offer of a memory palace in Scripture. The fact that the only object that gets a height measurements is the outside temple is a clear clue that this is meant to be a space to have in your mind and do a mental walk about. So the first piece I will do is the actually get this temple vision in my mind so that I have a clear space with which to fill it with Psalms. 
+
+The purpose of this memory palace (Memory Temple really) is to place the psalms spatially and in a way that facilitates imagination and easy recall. I have chosen the temple vision because the temple is a place deeply connection with the psalms as songs that would have been sung in the physical temple for many reasons. In this memory palace keeping them in my mind functions as a way to enter (in a small way) the heavenly temple that Jesus cleansed with His blood and tore open the veil to allow us in by faith. 
+
+The images and placement of things are starting vaguely but as I study Ezekiel's vision I will work to flesh it out more clearly. While also allowing my imagination to create an image that is memorable and engaging for me. 
+
+Notes on the books for reference: [[Bible Book Notes/The Book of Ezekiel/The Book of Ezekiel]]
+
+## Description of overall setting:
+Imagine a kind of zoomed out view. A high huge Mountain covered in trees and plants with a kind of  temple complex at the top. A city is off to the south below. 
+
+Tour of Ezekiel starts at the eastern gateway. And follows the diagram below:
+![[Pasted image 20250910135712.png]] 
+
+The overall measurement that governs the plans is 25. This maps very well to 150 Psalms. If you were to even basically break the temple into 25 zones like this:
+
+![[Pasted image 20250910134628.png]]
+
+You would have discreet collections of 6 Psalms for each location. The zone generally line up with the outer and inner walls and the central temple compound. 
+
+The math by the five books is not quite as clean. If you divide 25 by 5 you get 5 zones per book:
+- Book 1 Psalms 1-41 (41 Psalms) 
+	- Psalm 1 and 2 as introductions 
+	- Psalms 9 and 10 one Psalm in Septuagint
+	- Psalms 15-24 (10 Psalms) Open and close with calls to covenant faithfulness
+		- Psalm 15 Opening Psalm 
+		- Psalms 16-18 David as model of such faithfulness. 
+		- Psalm 19 praising God for the Torah
+		- Psalms 20-23 symmetrical pair of Messianic king being the ultimate faithful one 
+			- Psalm 21 is chiastic center of book
+		- Psalm 24 closing Psalm
+	- Psalm 41 ends with Doxology
+- Book 2 Psalms 42-72 (31 Psalms)
+	- Psalm 42-43 hope for return to the temple
+	- Psalm 58 is chiastic center of book
+	- Psalm 72 future reign of messianic king over all nations. ends with Doxology
+- Book 3 Psalms 73-89 (17 Psalms)
+	- Psalm 82 is chiastic center of book
+	- Psalm 89 Reflect on God's promise to David in midst of exile. ends with Doxology
+- Book 4 Psalms 90-106  (17 Psalms)
+	- Psalms 90-92 (3 Psalms) living with God
+		- Psalm 90 prayer of Moses return to roots. the difficulty of dwelling well with the Lord
+		- Psalm 91 Lord as refuge and place of protection
+		- Psalm 92 a sabbath psalm. thanking God for rest 
+	- Psalm 93-99 (7 Psalms) group that announces the Lord God as the true king of all creation.
+		- Psalm 99 is chiastic center of book
+	- Psalm 100 psalm of thanksgiving
+	- Psalm 101 Davidic psalm
+	- Psalm 102 prayer of the afflicted 
+	- Psalm 103 Davidic psalm 
+	- Psalm 104 bless the lord
+	- Psalm 105 give thanks to the lord
+	- Psalm 106 praise the lord. ends with Doxology
+- Book 5 Psalms 107-150 (44 Psalms)
+	- Psalms 107-110 (4 Psalms) God hears the cry of his people and will one day send the messiah
+	- Psalms 111-112 (2 Psalms) Praise the lord pair of acrostic psalms
+	- Psalm 113-118 (6 Psalms) "Egyptian Hallel" or praise psalms focused around deliverance from Egypt 
+		- Septuagint combines 114 and 115 and splits 116 in two (verses 1-9) and (10-19). This places Hallelujah at the beginning of all six psalms 
+	- Psalm 119 (1 Psalm1) super long acrostic psalm
+	- Psalm 120-134 (15 Psalms). 15 explicit Psalms of Ascent.  
+		- Same number as the number of steps up both the outer (8 steps) and inner (7 steps) gates combined. 
+	- Psalms 138-145 (8 Psalms) Final collection of Davidic Psalms 
+	- Psalms 135-136 (2 Psalms) pair of history psalms 
+	- Psalm 137 (1 Psalm) exile lament/ imprecatory psalm
+	- Psalms 146-150 (5 Psalms) final conclusion to Psalms
+		- Psalm 148 center of the five and says all creation is summoned to praise God
+		- Psalm 150 Ends with Major Doxology
+- Off of this initial breaking of things this gives 9 "groups" of Psalms
+
+another possible division of the book 
+http://www.bible.literarystructure.info/bible/19_Psalms_e.html
+
+
+**Note: Need to Edit below**
+white marble stair way that leads straight up the side of the mountain. On the stairway flows a river. As you follow the stairs and river upward it reaches the top of the mountain and ends in a large square plaza that extends straight back off the top of the mountain suspended in space with a starry night sky behind it.  Sitting on top of this plaza is a brighter and other worldly temple designed like the old testament temple. All in white marble that has a kind of glow within it. 
+
+
+Ezekiel 40:49 - Very short description of the two pillars at the entrance of the temple itself
+The front of the temple is tall and square with two huge bronze pillars at the entrance on either side of the door. The river flows out of the doorway and down the stairs. 
+
+## Psalm 1 - He will Establish
+You stand at the top of the stairs and look at the right hand pillar. On it in bright lettering forming the name Jachin. As you look at the name letters change to say "He Will Establish." Suddenly the sides of the pillar light up with writing and you hear these words:
+
+Blessed is the man
+Who does not walk in the counsel of the wicked
+nor stands in the way of sinners 
+nor sits in the seat of scoffers
+But his delight is in the law of the Lord
+and on His law he meditates day and night.
+
+As the writing reaches the top of the pillar a tree sprouts and grows from the top of the pillar and you hear the Psalm continue:
+
+He is like a tree
+Planted by streams of water
+
+You notice the river flowing out of the temple by the pillar to your feet. You look back up at the tree and see large fruit of all kinds growing on its' branches:
+
+That bears fruit in its season
+and its leaves never wither
+In all that he does, he prospers.
+
+You look back down to you feet and notice bits of dry and broken chaff like the floor of a barn:
+
+The wicked are not so
+they are like chaff that the wind drives away
+
+A powerful wind blows out of the doorway of the temple and the bits of chaff swirl and then fly off the temple plaza and out of sight:
+
+Therefore the wicked will not stand in the judgment
+nor sinners in the congregation of the righteous 
+for the Lord knows the way of the righteous 
+but the way of the wicked will perish
+
+## Psalm 2 - In Him is Strength
+
+
+
+
 # Major Recurring Themes
 Not sure how helpful this will be for memorizations sake. 
 - The King
 - The Temple/Sanctuary
-- The way of the Righteous vs the way of the wicked
+- The way of the Righteous vs the way of the wicked   
 # Peg Words
 ## Book I
 (Psalms 1-41)

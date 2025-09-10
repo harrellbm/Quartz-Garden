@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-20T08:45:37.050-07:00","modified":"2025-08-26T10:17:24.227-07:00","published":"2025-08-26T10:17:24.229-07:00","cssclasses":""}
+{"publish":true,"created":"2025-08-20T08:45:37.050-07:00","modified":"2025-09-04T10:40:37.680-07:00","published":"2025-09-04T10:40:37.682-07:00","cssclasses":""}
 ---
 
 #🪴Sprout   #🙂Agree  #📓Journal    #📊Project  #🛠️BringingLifeintotheWorld 
@@ -25,6 +25,10 @@ Related Notes:
 [[LCOS Notes/LCOS Facility Pattern Language]]
 ****
 
+# 9-4-25
+Things seem to be going well overall. I got insecticidal soap and that seems to be keeping the white flies at bay for now. The rosemary is a lot happier and even flowering a little. I cut the spearmint way back and have seen some new sprouts starting from the roots. Once those are strong enough Ill cut out all the other old growth. 
+
+I am also thinking of looking into spreading some clover seed in our yard to cover some of the brown patches.  A link that I found interesting [Best Clover Planting Guide | Eagle Seed, LLC ](https://www.eagleseed.com/clover-planting/](https://www.eagleseed.com/clover-planting/)
 # 8-26-25
 I feel like being in a kind of adventure novel where the line up of bad guys slowly gets revealed as you go. Spider mites, white flies and now.... snails. Hosing things off and keeping the plants well watered helps keep the white flies and spider mites down but then makes it a nice comfy spot for snails to chill and start eating stuff. So I have been doing nightly hunts to get the big ones at least and am going to try crushed egg shells around the strawberry plants to see if it will keep them away from the fruit. 
 
