@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-04T09:04:38.824-07:00","modified":"2025-09-10T14:13:36.245-07:00","published":"2025-09-10T14:13:36.247-07:00","cssclasses":""}
+{"publish":true,"created":"2025-09-04T09:04:38.824-07:00","modified":"2025-09-11T08:21:02.166-07:00","published":"2025-09-11T08:21:34.252-07:00","cssclasses":""}
 ---
 
 #🌱Seed   #🙂Agree  #📓Journal 
@@ -84,9 +84,9 @@ The Number 25 in Ezekiel's Temple Vision[^1]
 
 Bergsma, “The Temple as ‘Built Jubilee’”
 
-“What is the significance of this date for understanding the rest of the vision (chs. 40-48)? The deportees, in a sense 'half-way' through the exile, would be feeling the discouragement associated with 'mid-time,' and in need of a word of hope from the Lord. Ezekiel provides that in his vision. On the Day of Atonement—on which the old temple would have been cleansed and the Lord would have renewed his presence therein—Ezekiel foresees a new, cleansed temple to which the Lord’s presence returns ... By building the temple according to the jubilee number fifty, Ezekiel suggests that the temple in some sense is Israel’s jubilee; that is, it is in proper worship of the Lord that Israel experiences her true freedom … The entire vision of restoration in chs. 40-48 are an eschatological proclamation of the jubilee on the Day of Atonement.”
+“What is the significance of this date for understanding the rest of the vision (chs. 40-48)? The deportees, in a sense 'half-way' through the exile, would be feeling the discouragement associated with 'mid-time,' and in need of a word of hope from the Lord. Ezekiel provides that in his vision. On the Day of Atonement—on which the old temple would have been cleansed and the Lord would have renewed his presence therein—Ezekiel foresees a new, cleansed temple to which the Lord’s presence returns ... By building the temple according to the jubilee number fifty, Ezekiel suggests that the temple in some sense is Israel’s jubilee; that is, it is in proper worship of the Lord that Israel experiences her true freedom … The entire vision of restoration in chs. 40-48 are an eschatological proclamation of the jubilee on the Day of Atonement.”[^2]
 
-Bergsma, John (2004). “The Temple as ‘Built Jubilee’ in Ezekiel.” Proceedings of the Eastern Great Lakes and Midwestern Biblical Societies, 24. 77, 79-80.
+
 
 
 Everything in the vision is focused on purifying Israel form everything had happened before. This is the design of the space, organization, personal and the identities of the people who are working. 
@@ -118,3 +118,5 @@ Could compare and contrast differences between this temple vision and Solomon's 
 ![[FB_Ezekiel_40_Temple_StoryPlanner_EN.pdf]]![[FB_Ezekiel_41_Temple_StoryPlanner_EN.pdf]]![[FB_Ezekiel_42_Temple_StoryPlanner_EN.pdf]]![[FB_Ezekiel_43_Temple_StoryPlanner_EN.pdf]]
 
 [^1]: Cook, Stephen L. (2018). Ezekiel 38-48: A New Translation with Introduction and Commentary. Yale University Press. 129-130.
+
+[^2]: Bergsma, John (2004). “The Temple as ‘Built Jubilee’ in Ezekiel.” Proceedings of the Eastern Great Lakes and Midwestern Biblical Societies, 24. 77, 79-80.

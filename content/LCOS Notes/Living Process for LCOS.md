@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-10-30T08:37:51.978-07:00","modified":"2025-06-17T14:47:25.679-07:00","published":"2025-06-17T14:47:25.680-07:00","cssclasses":""}
+{"publish":true,"created":"2024-10-30T08:37:51.978-07:00","modified":"2025-06-17T14:47:25.679-07:00","published":"2025-09-11T10:00:15.196-07:00","cssclasses":""}
 ---
 
 #🌱Seed  #🙂Agree
@@ -15,7 +15,7 @@
 
 Related Notes: 
 [[LCOS Notes/LCOS Community Notes]]
-[[Book and Conference Notes/Notes on the Nature of Order]]
+[[Books/The Nature of Order]]
 [[Thinking of Spatial Relationships as Centers]]
 [[LCOS Notes/LCOS Pastoral Practices and Perspective]]
 
@@ -187,7 +187,7 @@ From that foundation more specific and smaller patterns can be developed that de
 
 This follows the principle of the “primary process” that Alexander defined as differentiation which basically means that a good development or “unfolding” process should start from the big picture whole and then slowly differentiate and strengthen smaller wholes with each step. An example is how a human grows from a single cell but then grows by splitting or differentiating new cells.
 
-This whole idea of a pattern language needs to be put squarely where it belongs in the [[Corom Mundo]] realm of relating with other humans and the world. It does not speak about our salvation relationship with Jesus.
+This whole idea of a pattern language needs to be put squarely where it belongs in the [[Coram Mundo]] realm of relating with other humans and the world. It does not speak about our salvation relationship with Jesus.
 To clarify it is not our way to Heaven but a clear description of how we want our life together to look and how we stay focused on the primary mission of sharing the gospel. 
 
 Another way to think about the function of the pattern language is that every decision we make to move something forward or choose between options is driven by some kind of implicit pattern that is being worked toward. A big picture lifecycle pattern is the “work hard and then retire at ease.” If someone is working toward embodying this pattern they will make very different decisions than someone who is not. A pattern language helps make this kind of decision making intentional and specific. 

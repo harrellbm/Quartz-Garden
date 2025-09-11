@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.793-07:00","modified":"2025-06-04T12:53:45.865-07:00","published":"2025-06-04T12:53:45.865-07:00","cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.793-07:00","modified":"2025-09-11T10:04:31.191-07:00","published":"2025-09-11T10:04:31.195-07:00","cssclasses":""}
 ---
 
 #🌱Seed  #😐Neutral #🟡Consideration  #🏖️Universe-Humans 
@@ -24,6 +24,6 @@ Where it can be helpful and a second way to take it is that as co creators and t
 The way to actually access the presence of life according to Alexander is through listening to the raw emotional reaction of the people who live and use an environment. This is because humans have an innate sense of if things are rightly ordered but we often get in the way of that with bureaucratic rules or abstractions 
 https://www.youtube.com/watch?v=2V4QYC-PRIw
 
-[[Book and Conference Notes/Notes on the Nature of Order]] TODO: gather notes on Alexander’s approach to feeling. 
+[[Books/The Nature of Order]] TODO: gather notes on Alexander’s approach to feeling. 
 
 ****

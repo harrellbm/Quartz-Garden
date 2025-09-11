@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.726-07:00","modified":"2025-06-17T14:28:17.212-07:00","published":"2025-06-17T14:28:17.217-07:00","cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.726-07:00","modified":"2025-09-11T09:58:02.501-07:00","published":"2025-09-11T10:00:15.244-07:00","cssclasses":""}
 ---
 
 #🪴Sprout   #🙂Agree  #🟡Consideration  #🏖️Universe-Humans 
@@ -37,6 +37,9 @@ Here are other articles that talks about his faith:
 An interview with him about his work in general:
 [General Interview with Christopher Alexander about his work and philosophy](https://www.patternlanguage.com/archive/kohn.html)
 
+Here is an interesting article that lays out some difficulties with many of his ideas:
+[[Christopher_Alexanders_A_Pattern_Language_analysi.pdf]]
+
 A foundation of his approach that I did not like at first was the idea of [[Deep Feeling]]. Which at first sounds very subjective and hocki. But he actually goes to great length to explain that the idea is the external environment works to create an internal feeling and reaction that is tangible and objective. I think this makes sense when talking about the physical environment and how we feel and are affected by it but it seems like that does not transfer well to abstract or less grounded things. Because basically he askes questions like: Which door has more life in it? or Which garden is closer to God? and the idea is that people will respond in the same or very similar ways across cultures and life experiences because there is some kind of innate sense of good order arising from the physical geometry of a space. From a Christian perspective, I think this can be understood as the law written on all hearts, but as we know, that is often cauterized or ignored and does not have the same kind of limitless potential he seems to have thought was possible from human feeling. 
 
 Here are some summaries of core ideas that come out of his way of thinking: [Helpful Foundational Ideas](https://nature-of-order.stefan-lesser.com/helpful-foundational-ideas)
@@ -44,7 +47,7 @@ Here are some summaries of core ideas that come out of his way of thinking: [Hel
 YouTube of interview with Christopher Alexander: [Christopher Alexander - Life in Buildings (Full)](https://www.youtube.com/watch?v=oKO3vYjZbcs)
 
 These are my notes from reading the Nature of Order Books:
-[[Book and Conference Notes/Notes on the Nature of Order]]
+[[Books/The Nature of Order]]
 
 Some other readings that I have not finished yet:
 [The Search for Beauty; introductory presentation at Stanford of Christopher Alexander’s work](https://christopher-alexander-ces-archive.org/article/christopher-alexander-the-search-for-beauty/)

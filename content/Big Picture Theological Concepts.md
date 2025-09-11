@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.726-07:00","modified":"2025-08-26T10:27:38.594-07:00","published":"2025-08-26T10:27:38.596-07:00","cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.726-07:00","modified":"2025-08-26T10:27:38.594-07:00","published":"2025-09-11T10:00:15.152-07:00","cssclasses":""}
 ---
 
 #🌲Evergreen  #😁Strongly-Agree  #🟢Conviction   #🔥Doctrine-Poetry-Story 
@@ -112,7 +112,7 @@
 - Free will, and predestination 
 - Biblical Poetry (Psalms, [[Bible Book Notes/Prophets]], etc.)
 - [[Mission Mindset]]: Go and Tell not always Come and See
-- Order of Creation. As it comes from the creation account and other biblical descriptions, but also as we can see it through the healthy functioning of particular created orders. [[Book and Conference Notes/Notes on the Nature of Order]] A similar account of seeing the health functioning of buildings.
+- Order of Creation. As it comes from the creation account and other biblical descriptions, but also as we can see it through the healthy functioning of particular created orders. [[Books/The Nature of Order]] A similar account of seeing the health functioning of buildings.
 - The Use and Inhabitation of Space:
 	- [[Sacred Space]]
 	- [[Mountains of Scripture]]

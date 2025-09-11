@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-11-06T09:13:52.381-08:00","modified":"2025-06-04T11:22:17.810-07:00","published":"2025-06-04T11:22:17.810-07:00","cssclasses":""}
+{"publish":true,"created":"2024-11-06T09:13:52.381-08:00","modified":"2025-09-11T10:00:15.112-07:00","published":"2025-09-11T10:00:15.112-07:00","cssclasses":""}
 ---
 
 #🪴Sprout   #🙂Agree   #🟡Consideration   #🏖️Universe-Humans 
@@ -17,7 +17,7 @@ A metaphor for this is to think of two frogs on a table. One is alive and whole 
 
 Related Notes: 
 [[Structure Preserving Transformation or Smooth Change or Unfolding]], 
-[[Book and Conference Notes/Notes on the Nature of Order]],
+[[Books/The Nature of Order]],
 [[The Quality of Life in Environments and Objects]],
 [[Center Composed Wholeness]],
 [[The Ways Centers Help Each Other Have More Life]],
