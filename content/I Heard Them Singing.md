@@ -1,12 +1,12 @@
 ---
-{"publish":true,"created":"2025-04-09T13:43:28.957-07:00","modified":"2025-06-17T14:32:38.947-07:00","published":"2025-06-17T14:32:38.947-07:00","cssclasses":""}
+{"publish":true,"created":"2025-04-09T13:43:28.957-07:00","modified":"2025-09-15T09:00:11.213-07:00","published":"2025-09-15T09:00:43.242-07:00","cssclasses":""}
 ---
 
 #🌱Seed   #😐Neutral   #🟡Consideration   #🔥Doctrine-Poetry-Story 
 ****
  
 >[!Summary] The Big Idea
->
+> How do we engage liturgy and worship well?
 
 > [!quote] Book of Concord, Apology of the Augsburg Confession, Article 15, p. 230 
 > This topic concerning traditions involves many difficult and controversial questions, and we know from actual experience that traditions are real snares for the conscience. When they are required as necessary, they terribly torture consciences that omit any observance. At the same time, their abrogation carries with it its own evils and questions.
