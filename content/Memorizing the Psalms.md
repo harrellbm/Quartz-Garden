@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-05-12T14:19:27.705-07:00","modified":"2025-09-15T09:20:16.612-07:00","published":"2025-09-16T08:58:57.094-07:00","cssclasses":""}
+{"publish":true,"created":"2025-05-12T14:19:27.705-07:00","modified":"2025-09-18T10:52:10.068-07:00","published":"2025-09-18T11:21:19.756-07:00","cssclasses":""}
 ---
 
 #🪴Sprout   #😁Strongly-Agree    #🟢Conviction    #📊Project #📓Journal  #🥾SpiritualPractices-EmbodiedLiving 
@@ -154,33 +154,112 @@ Jerome psalm 1 like entrance to a big mansion and each psalm a chamber they all 
 
 ## Book Division 
 
-Except for Psalms 10 and 33, are psalms of David in book 1 Book 2 sons of Korah” (42; 44–49; 50 [https://www.esv.org/resources/esv-global-study-bible/chart-19-03/](https://www.esv.org/resources/esv-global-study-bible/chart-19-03/) [https://www.fbcaa.org/MAPBlog/PsalmsCategories.pdf](https://www.fbcaa.org/MAPBlog/PsalmsCategories.pdf) [https://www.fisheaters.com/psalms.html](https://www.fisheaters.com/psalms.html) 1. Davidic group I: 3-41 2. Sons of Korah group I: 42-49 3. Davidic group II: 51-65 4. Asaph group: 73-83 5. Sons of Korah group II: 84-88 [exc. 86] 6. Congregational Praise group I: 95-100 7. Hallelujah group: 111-117 8. Songs of Ascent to Jerusalem: 120-134 9. Davidic Group III: 138-145 10. Congregational Praise Group II: 146-150 [https://theislandparson.com/2024/04/12/the-organization-of-the-book-of-psalms/](https://theislandparson.com/2024/04/12/the-organization-of-the-book-of-psalms/) 1. Subscriptions 2. Author 3. Details about author 4. Event or musical notation attached 5. Formal psalm structure 6. Name of god used 7. acrostic or not 8. Other notable characteristic (repeated word or theme etc) [https://ora.ox.ac.uk/objects/uuid:b3c443db-7da7-490a-a28f-a23f133d09e9/files/swd375x11k](https://ora.ox.ac.uk/objects/uuid:b3c443db-7da7-490a-a28f-a23f133d09e9/files/swd375x11k) [https://blog.cph.org/study/the-psalms-an-overview](https://blog.cph.org/study/the-psalms-an-overview) [https://www.thetorah.com/article/hallel-how-many-psalms](https://www.thetorah.com/article/hallel-how-many-psalms) Book IV. This consists of three series of consecutive psalms with internal coherence (Pss. 90–94, 95–100 and 101–106). 
-### Master Overall Structure (kind of chaotic lol)
-Book 1 Psalms 1-41 (41 Psalms) 
-	- Psalm 1 and 2 as introductions 
+Except for Psalms 10 and 33, are psalms of David in book 1 Book 2 sons of Korah” (42; 44–49; 50 [https://www.esv.org/resources/esv-global-study-bible/chart-19-03/](https://www.esv.org/resources/esv-global-study-bible/chart-19-03/) [https://www.fbcaa.org/MAPBlog/PsalmsCategories.pdf](https://www.fbcaa.org/MAPBlog/PsalmsCategories.pdf) [https://www.fisheaters.com/psalms.html](https://www.fisheaters.com/psalms.html) 1. Davidic group I: 3-41 2. Sons of Korah group I: 42-49 3. Davidic group II: 51-65 4. Asaph group: 73-83 5. Sons of Korah group II: 84-88 [exc. 86] 6. Congregational Praise group I: 95-100 7. Hallelujah group: 111-117 8. Songs of Ascent to Jerusalem: 120-134 9. Davidic Group III: 138-145 10. Congregational Praise Group II: 146-150 [https://theislandparson.com/2024/04/12/the-organization-of-the-book-of-psalms/](https://theislandparson.com/2024/04/12/the-organization-of-the-book-of-psalms/) 1. Subscriptions 2. Author 3. Details about author 4. Event or musical notation attached 5. Formal psalm structure 6. Name of god used 7. acrostic or not 8. Other notable characteristic (repeated word or theme etc) [https://ora.ox.ac.uk/objects/uuid:b3c443db-7da7-490a-a28f-a23f133d09e9/files/swd375x11k](https://ora.ox.ac.uk/objects/uuid:b3c443db-7da7-490a-a28f-a23f133d09e9/files/swd375x11k) [https://blog.cph.org/study/the-psalms-an-overview](https://blog.cph.org/study/the-psalms-an-overview) [https://www.thetorah.com/article/hallel-how-many-psalms](https://www.thetorah.com/article/hallel-how-many-psalms) Book IV. This consists of three series of consecutive psalms with internal coherence (Ps. 90–94, 95–100 and 101–106). 
+### Master Overall Structure Attempt 1 (kind of chaotic lol)
+- Book 1 Psalms 1-41 (41 Psalms) 
+	- Psalm 1 and 2 (2 Psalms) as introductions. No superscriptions 
 		1. Blessed is the Man
 		2. Why do the Nations rage
-	- Psalms 3-32 (29 Psalms) Davidic 
-		- Psalms 3-7 individual lament
-		- Psalms 9 and 10 one Psalm in Septuagint and form a full acrostic 
-		- Psalms 10-14 individual lament
+			- Anointed, God's King set on Zion/Holy Hill
+	- Psalms 3-7 (5 Psalms) Davidic. Individual Lament or Cry for Help
+		- Psalm 3 Psalm and Episode from his life.
+		- Psalm 4-6 Psalm and To the Choir
+			- Psalm 5 God as King
+				- chiastic center of this collection of five
+		- Psalm 7 Shiggaion and Episode  
+	- Psalm 8-24 (17 Psalms) Large collection? Begins and ends with Lord over all the earth
+		- Psalm 8-14 (7 Psalms) Davidic. To the Choir (counting 10 as continuation of 9)
+			- Note: this collection seems to have a very intricate organization.
+			- Psalm 8-9 Psalm (3 Psalms) (10 tacked on)
+			- Psalm 8 
+				- Lord over all the earth. Majestic Name in all the earth
+				- Creational Praise
+			- Psalms 9 
+				- Thanks to Lord
+				- Note 9 and 10 one Psalm in Septuagint and form a full acrostic together
+			- Psalm 10 no superscription kind of a hinge
+				- God as King
+				- Lament theme matching psalms after
+				- Acrostic form matching Psalm before
+			- Psalms 10-14 (4 Psalms) Individual Lament
+				- Psalm 11 of David
+					- Lord in His Temple 
+					- Chiastic center of this group of seven
+				- Psalm 12-13 Psalm
+				- Psalm 14 of David
+					- Lord sees all have fallen away
 		- Psalms 15-24 (10 Psalms) Open and close with calls to covenant faithfulness
-			- Psalm 15 Opening Psalm 
-				- Also the chiastic middle of this group of Davidic psalms
+			- Psalm 15 Psalm. Temple dwelling 
 			- Psalms 16-18 David as model of such faithfulness. 
-			- Psalm 19 praising God for the Torah
-			- Psalms 20-23 symmetrical pair of Messianic king being the ultimate faithful one 
-			- Psalm 21 is chiastic center of book I
-			- Psalm 24 closing Psalm
-		- Psalms 25-28 individual lament
-			- Psalm 25 is an acrostic
-	- Psalm 33 No subscription steadfast love of the Lord
-	- Psalms 34-41 (8 Psalms) Davidic
-		- Psalm 34 if an acrostic. When David acted cray cray before Abimelech. 
-		- Psalms 38-43 +44 (7 Psalms) six individual laments end with communal lament
-		- Psalm 39 Ethan during the time of David written
-		- Psalm 37 is an acrostic
-	- Psalm 41 ends with Doxology
+				- Psalm 16 Miktam
+					- Clinging to the Lord
+					- Chiastic middle of this collection of 17
+				- Psalm 17 Prayer
+			- Psalm 18-22 Psalm and To the Choir
+				- Psalm 18 Episode and Long
+					- Lord comes out of Temple to save
+					- God Saves His King
+				- Psalm 19 Creational praise, praising God for the Torah
+					- On the seam of this even collection of ten
+				- Psalms 20-21 symmetrical pair of Messianic king being the ultimate faithful one 
+					- Psalm 20 request to save God's King
+					- Psalm 21 is chiastic center of Book I
+					- King rejoices in Lord's strength, and he trust the Lord
+				- Psalm 22 Cry to God
+					- Lord as King
+			- Psalm 23-24 Psalm
+				- Psalm 23 Shepherd
+				- Psalm 24 
+					- Lord over all the Earth. Earth is the Lords and the fullness thereof 
+					- Temple dwelling, gates opening for glory of the Lord to enter. 
+					- Lord King of Glory
+	- Psalm 25-41 (17 Psalms) A bigger collection? With 33 as chiastic middle. Both halves start with an acrostic Psalm
+		- Psalms 25-32 (8 Psalms) Davidic. Journey of Forgiveness and Journey to God's Prescence 
+			- Psalms 25-28 (4 Psalms) Of David. Individual Lament
+				- Psalm 25 is an acrostic
+					- Seeking forgiveness 
+					- Waiting for the Lord
+				- Psalm 27 
+					- Seeking Temple dwelling
+					- Wait for the Lord
+				- Psalm 28 
+					- far from temple
+					- Seeking refuge
+			- Psalm 29-30 (2 Psalms) psalm.
+				- Psalm 29 
+					- The Lord Shows up
+					- Heavenly praise, Voice of the Lord
+					- All cry Glory in the temple
+					- Lord as King
+				- Psalm 30 Temple dedication
+			- Psalm 31 Psalm and To the choir
+				- Take refuge, wait for the Lord even in trouble
+			- Psalm 32 first Maskil
+				- Blessed man shows up again from Psalm 1
+				- Forgiveness has been granted description of how it happened
+		- Psalm 33 No superscription. Kind of a hinge psalm or a summary Psalm
+			- Praise God for Creation
+			- Summarizes many themes from before
+				- Bring nations counsel to nothing Psalm 2
+					- Because of that there is a Blessed Nation
+				- Looks down from Heaven on all people Psalm 14
+				- Lord sees and knows way of the righteous Psalm 1
+				-  Steadfast love of the Lord 
+				- King not saved by own strength but God
+		- Psalms 34-41 (8 Psalms) Davidic
+			- Psalm 34-37 Of David
+				- Psalm 34 Episode and Acrostic. 
+					- When David acted cray cray before Abimelech. 
+					- Blessed man again
+				- Psalm 35
+				- Psalms 36 To the Choir
+				- Psalm 37 is an acrostic
+			- Psalm 38 Psalm, Temple Memorial Offering
+			- Psalm 39-41 To the Choir and Psalm 
+				- Psalm 40
+					- Blessed Man
+				- Psalm 41
+					- Blessed Man explained and ends with Doxology
 - Book 2 Psalms 42-72 (31 Psalms)
 	- Psalm 42-43 hope for return to the temple
 		- Psalm 42 Sons of Korah
@@ -225,6 +304,7 @@ Book 1 Psalms 1-41 (41 Psalms)
 		- Psalms 108-110 Davidic Psalms 
 	- Psalms 111-112 (2 Psalms) Praise the lord pair together form an acrostic
 		- 112 opening verse reflection of what the blessed man does in Psalm 1
+		- or they are individually really short acrostics?
 	- Psalm 113-118 (6 Psalms) "Egyptian Hallel" or praise psalms focused around deliverance from Egypt 
 		- Septuagint combines 114 and 115 and splits 116 in two (verses 1-9) and (10-19). This places Hallelujah at the beginning of all six psalms 
 	- Psalm 119 (1 Psalm1) super long acrostic psalm
@@ -243,13 +323,13 @@ Book 1 Psalms 1-41 (41 Psalms)
 	- Psalms 146-150 (5 Psalms) final conclusion to Psalms
 		- Psalm 148 center of the five and says all creation is summoned to praise God
 		- Psalm 150 Ends with Major Doxology
-- Off of this initial breaking of things this gives 9 "groups" of Psalms
 
 another possible division of the book 
 http://www.bible.literarystructure.info/bible/19_Psalms_e.html
 
 ### Superscriptions 
 - The next major clue to how things fit together and work together are the superscriptions. Not all Psalms have them but they can be found across all five books and over a lot of information about how to group psalms and what they are helpful for.
+- The obscure or hard to translate superscription names seem to signal shifts in the structure of the Psalms either at major beginning ending or chiastic middle positions. 
 - Notes from Jerome 
 	- psalm 5 superscripts are important Jerome 
 	- psalm 7 lot about 7 and 8 and superscriptions 
@@ -259,7 +339,9 @@ http://www.bible.literarystructure.info/bible/19_Psalms_e.html
 	- Psalm 76 connects Salem when old title of Jerusalem and where Melchizedek rules 
 	- P 93 psalm 81 associated title for the wine presses with the three main festivals Passover, Pentecost and booths,
 ### Textual Structure
-- Acrostics 
+- Acrostics seem to always signal some kind of change in the collection as well
+	- Psalm 25 and 34 seem to start complimentary groups of 8 psalms with 33 as the chiastic center. 
+	- Even Psalm 37 within one of those collections is on the "inner seam" of the eight with a special superscription in Psalm 38 immediately following. 
 - Chiasms 
 
 ### Thematic Phrases and Words 
@@ -267,17 +349,19 @@ Not sure how helpful this will be for memorizations sake.
 - The King, Anointed/messiah
 - The Temple/Sanctuary
 - The way of the Righteous vs the way of the wicked   
+- Lament
+	- Psalms 38-43 +44 (7 Psalms) six individual laments end with communal lament
 - The **blessedness** of the man in Psalm 1 is actually from a verb אֶ֫שֶׁר that means happy or joyful or blessed[^1]. It is a rare word overall but shows up mostly in wisdoms poetry books. 
 	- Shows up in a total of 19 Psalms.
 	- Book 1 Psalms 1-41 (41 Psalms) **Shows up in 5 Psalms**
-		- 1:1, 
-			- 2:12 - encloses the introduction
-		- 32:1 and 2, 
-			- 33:12, 
-			- 34:9, 
+		- 1:1, Blessed Man
+			- 2:12 Blessed who take Refuge- encloses the introduction
+		- 32:1 and 2, Blessed Man
+			- 33:11, Blessed Nation
+			- 34:8, Blessed Man
+		- 40:4 Blessed Man
+			- 41:1-2, Blessed Man explained
 	- Book 2 Psalms 42-72 (31 Psalms) **Shows up in 3 Psalms**
-		- 40:5, 
-			- 41:2
 		-  65:5
 	- Book 3 Psalms 73-89 (17 Psalms) **Shows up in 2 Psalms**
 		- 84:5 and 6, 
@@ -291,9 +375,9 @@ Not sure how helpful this will be for memorizations sake.
 		- 127:5, 
 		- 128:1 and 2, 
 		- 137:8 and 9, 
-		- 144:15,
+		- 144:15 + 2 times,
 		- 146:5
-
+- **Refuge** 
 - **Delight** in חָפֵץ has a few different forms but also a rare word that shows up in prophecy and a little history books[^2].  
 	- Shows up in 20 Psalms
 	- Psalm 40:15 same verse as 70:3
@@ -343,8 +427,9 @@ Not sure how helpful this will be for memorizations sake.
 		- 115:7
 		- 143:5
 
-- Prosper צָלֵחַ, צָלַח
+- Prosper צָלֵחַ, צָלַח[^5]
 	- ψ 45:5; ψ 118:25, ψ 37:7, 1:3
+	- 
 - Holy קֹ֫דֶשׁ a very common word and obviously a big deal across the bible 
 - 2:6, 3:4, 5:7, 11:4, 15:1, 20:2 and 6, 24:3, 28:2, 29:8, 30:4,33:21
 - 43:3, 46:4, 47:8, 48:1, 51:11, 60:6, 63:2, 65:4, 68:17 and 24, 
@@ -352,9 +437,6 @@ Not sure how helpful this will be for memorizations sake.
 - 93:5, 96:9, 97:12, 98:1, 99:9, 102:19, 103:1, 105:3 and 42, 106:47
 - 108:7, 110:3, 114:2, 134:2, 138:2, 145:21, 150:1
 
-
-
-Brown, Francis, et al. Enhanced Brown-Driver-Briggs Hebrew and English Lexicon, Clarendon Press, 1977, p. 852.
 - Refuge 
 - Trees (especially trees near water) 
 	- fruit, leaves (flaura and fauna)
@@ -364,22 +446,53 @@ Brown, Francis, et al. Enhanced Brown-Driver-Briggs Hebrew and English Lexicon, 
 - walk, stand sit
 - 
 ### First Word of Psalm
-- Book 1 Psalms 1-41 (41 Psalms) 
+- Book 1 Psalms 1-41 (41 Psalms) [^4]
 	- 1 Happy, Blessed אַ֥שְֽׁרֵי
 	- 2 Why rage לָ֭מָּה רָגְשׁ֣וּ
-	- 3 Yahweh what  יְ֭הוָה מָֽה
+	
+	- 3 Yahweh how many  יְ֭הוָה מָֽה
+		- Question
+		- Cry for Help
 	- 4 When I Cry בְּקָרְאִ֡י
-	- 5 Word אֲמָרַ֖י
+		- Cry for Help
+	- 5 Words, Listen to my words אֲמָרַ֖י הַאֲזִ֥ינָה
+		- Listen
+		- Cry for Help
 	- 6 Yahweh be not angry יְֽהוָ֗ה אַל־בְּאַפְּךָ֥
+		- Ask for Mercy
+		- Cry for Help
+
 	- 7 Yahweh Our God יְהוָ֣ה אֱ֭לֹהַי בְּךָ֣
+		- Seek refuge
+		- Cry for Help
 	- 8 Yahweh Our God יְהוָ֤ה אֲדֹנֵ֗ינוּ
+		- Creation Praise
 	- 9 Praise Yahweh אֹודֶ֣ה יְ֭הוָה
+		- Personal Praise
 	- 10 Why Yahweh לָמָ֣ה יְ֭הוָה
-	- 11 First verse not in Hebrew manuscript. 2 verse "For Behold" כִּ֤י הִנֵּ֪ה 
+		- Question
+		- God Far away
+	- 11 To Yahweh I seek refuge בַּֽיהוָ֨ה׀ חָסִ֗יתִי
+		- Seek refuge
 	- 12 Save! Yahweh הֹושִׁ֣יעָהa‬ יְ֭הוָה
+		- Cry for help
 	- 13 How long Yahweh עַד־אָ֣נָה יְ֭הוָה
-	- 14 First verse not in Hebrew manuscript. 2 verse "Yahweh from heaven" יְֽהוָ֗הa‬ מִשָּׁמַיִם֮
-	- 15 First verse not in Hebrew manuscript. 2 verse "The blameless walker" הֹולֵ֣ךְ תָּ֭מִים
+		- Question
+	- 14 Fool thinks אָ֘מַ֤ר נָבָ֣ל 
+
+	- 15 Yahweh, who can dwell יְ֭הֹוָה מִי־יָג֣וּר
+		- temple 
+	- 16 Guard me God שָֽׁמְרֵ֥נִי אֵ֝֗ל
+		- seek refuge
+	- 17 Listen Yahweh שִׁמְעָ֤ה יְהוָ֨ה
+		- Listen
+
+	- 18 I speak love to Yahweh וַיֹּאמַ֡ר a‬אֶרְחָמְךָ֖b‬ יְהוָ֣ה
+		- rescue response 
+	- 19 The sky tells הַשָּׁמַ֗יִם מְֽסַפְּרִ֥ים
+		- Creation praise
+	- 20 Answer, May the Lord answer you יַֽעַנְךָ֣ יְ֭הוָה 
+		- Blessing
 - Book 2 Psalms 42-72 (31 Psalms)
 
 - Book 3 Psalms 73-89 (17 Psalms) 
@@ -552,3 +665,7 @@ Once I have all 150 tags memorized then we will see how deepening it can go and 
 [^2]: Brown, Francis, et al. Enhanced Brown-Driver-Briggs Hebrew and English Lexicon, Clarendon Press, 1977, pp. 342–43.
 
 [^3]: Brown, Francis, et al. Enhanced Brown-Driver-Briggs Hebrew and English Lexicon, Clarendon Press, 1977, p. 211.
+
+[^4]: Elliger, K., et al. Biblia Hebraica Stuttgartensia. Electronic ed., German Bible Society, 2003, p. Ps 1-20
+
+[^5]: Brown, Francis, et al. Enhanced Brown-Driver-Briggs Hebrew and English Lexicon, Clarendon Press, 1977, p. 852.
