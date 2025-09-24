@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.726-07:00","modified":"2025-08-26T10:27:38.594-07:00","published":"2025-09-11T10:00:15.152-07:00","cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.726-07:00","modified":"2025-09-24T11:52:35.405-07:00","published":"2025-09-24T11:54:27.522-07:00","cssclasses":""}
 ---
 
 #🌲Evergreen  #😁Strongly-Agree  #🟢Conviction   #🔥Doctrine-Poetry-Story 
@@ -18,13 +18,14 @@
 	- [[Telescope of Scripture, the Law and Doctrine]]
 - [[Law and Gospel]] - How does God speak humans?
 - [[Three Uses of the Law]]
-- Two kingdoms - God's Kingdom/Kingdom of Light vs. Satan's Kingdom/Kingdom of Darkness
+- [[Two Kingdoms]]
+- [[Two Realms]] - How does God work in the World?
 - [[Two Kinds of Righteousness]] - How should the Human Creature live?
 	- [[Coram Deo]]
 	- [[Coram Mundo]]
-- [[Two Realms]] - How does God work in the World?
-- [[The Two Commissions]] and cycle of gospel living
+- [[The Three Estates]] - How does God set up authority structures
 - Meta narrative of the Bible (or the Story of Everything)
+- [[The Two Commissions]] and cycle of gospel living
 - The Personal (Jesus), Spoken, and Written Word of God
 	- [[Word Made Flesh]]
 - The three Ps of seeing Jesus in the Old Testament: Presence, Prediction, and Pattern. 

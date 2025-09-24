@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.778-07:00","modified":"2025-06-17T14:39:36.856-07:00","published":"2025-06-17T14:39:36.859-07:00","cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.778-07:00","modified":"2025-09-24T11:49:09.837-07:00","published":"2025-09-24T11:49:09.840-07:00","cssclasses":""}
 ---
 
 #🌿Sapling   #🙂Agree   #🟢Conviction #🥾SpiritualPractices-EmbodiedLiving 
@@ -11,6 +11,7 @@
 
 > [!note]
 > Used as OS #📃Epistle in series Mediation on Scripture, November 2021. 
+> Used as LCOS #📃Epistle October 2025
 
 Related Notes:
 [[Christian Meditation]]

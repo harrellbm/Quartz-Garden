@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-04-28T13:42:03.941-07:00","modified":"2025-06-04T12:50:14.770-07:00","published":"2025-06-04T12:50:14.770-07:00","cssclasses":""}
+{"publish":true,"created":"2025-04-28T13:42:03.941-07:00","modified":"2025-09-23T14:11:04.631-07:00","published":"2025-09-23T14:11:04.631-07:00","cssclasses":""}
 ---
 
 #🌱Seed   #😐Neutral   #🟡Consideration  #📝Essay  #🔥Doctrine-Poetry-Story 
@@ -10,7 +10,7 @@
 >Chasm as exile and separation  
 
 Similar Notes:
-[[Doctrinal Clarity, Poetic Grounding]]
+[[Oriented by Story, Grounded in Poetry, Clarity in Doctrine]]
 [[The Starting Point of Theology and Cosmology]]
 [[Patterns of Liturgy-The Rhythm of Life]]
 [[Sacred Space]]

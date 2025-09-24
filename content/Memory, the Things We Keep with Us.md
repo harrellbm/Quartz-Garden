@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-05-06T11:20:05.662-07:00","modified":"2025-09-04T08:21:14.643-07:00","published":"2025-09-04T08:21:14.645-07:00","cssclasses":""}
+{"publish":true,"created":"2025-05-06T11:20:05.662-07:00","modified":"2025-09-24T09:45:02.465-07:00","published":"2025-09-24T09:45:02.477-07:00","cssclasses":""}
 ---
 
 #🪴Sprout   #🙂Agree   #🟡Consideration   #📝Essay  #🏖️Universe-Humans 
@@ -14,6 +14,7 @@ Similar Notes:
 [[Memorizing the Psalms]]
 [[Memorizing the Lords Prayer]]
 [[Memorizing the Ten Commandments]]
+[[Memory, the Things We Keep with Us]]
 ****
 # Do I have to Memorize It?
 We live in a world where memorization is highly deemphasized. We can always look things up. Even more so with AI we can even have a conversation to get needed information easily and quickly without the trouble of storing it within our own minds. 
@@ -60,6 +61,53 @@ Functional memorization gives some structure to that normal process. What this l
 One word of caution with this kind of memorization is that you actually have to be living with and in the texts and things you want to share. Otherwise you will deliver a short bullet point and have nothing else to say or expand on. But if while preaching another bible verse or story comes to mind why not just add it in there. 
 
 As long as I am regularly reading my bible, practicing stories and normally thinking about faith and theology this kind of memorization has helped to make it possible for me to preach without hardly ever having to look down at notes or need to type out whole manuscripts or totally memorize things word for word.
+
+# Telescopic Memorization 
+based on the idea of chucking
+example in the small catechism and Luther
+- two great commandments down to ten commandments on the the rest 
+- creed onto the fuller story of scripture 
+- lord's prayer on to psalter on to all the prayers and songs in scripture 
+[[Telescope of Scripture, the Law and Doctrine]]
+
+## Registering Content off already memorized Content
+https://forum.artofmemory.com/t/how-i-memorized-psalm-27-14-verses-in-5-10-minutes/31110
+
+# Major System for Memorizing Numbers 
+[https://www.magneticmemorymethod.com/major-system/](https://www.magneticmemorymethod.com/major-system/)
+
+## Remembering Numbers by hand
+using hands can be a way to hold onto specific numbers
+
+### Whole fingers 
+4 long fingers 
+8 on both hands 
+
+5 fingers 
+10 on both hands 
+
+### Finger Joints 
+2 knuckles  on thumb 
+4 on both hands 
+
+3 knuckles  on each long finger 
+
+12 knuckles  on long fingers together
+24 on both hands 
+
+14 knuckles including thumb 
+28 on both hands 
+
+### Larger Arm joints 
+1 Wrist can be added whenever needed 
+1 Elbow
+1 Shoulder 
+
+3 larger joints on each arm 
+
+6 larger joints each 
+
+
 # Peg Method
 The peg system is a mnemonic technique that uses mental associations to create a memorable structure. This is done by utilizing a pre-memorized list of words, known as "pegs" that are linked to numbers. 
 
@@ -94,19 +142,28 @@ what is the rhythm of the things that keeps it moving?
 can think of the seed of a story. that is the moral point or lesson, the surprise, the turning point or general "payoff" when you hear the story. that Aha moment. In other words the think that makes the story worth telling. 
 
 # Memory Palace Method
+[https://www.magneticmemorymethod.com/memory-palace/](https://www.magneticmemorymethod.com/memory-palace/)
 Introduction: Defining the Memory Palace Technique and its Core Principles
 
-The memory palace technique, also known as the method of loci, stands as a cornerstone of mnemonic strategies, tracing its origins back to ancient Roman and Greek rhetorical practices. This powerful technique centers on the visualization of a familiar spatial environment, such as one's home or a well-known route, within which items to be remembered are mentally placed at distinct locations, referred to as loci. The fundamental principles underpinning this method involve harnessing the brain's inherent strengths in spatial memory and navigation. By creating vivid and interactive mental images of the items at these locations, individuals establish a structured pathway for recalling information as they mentally navigate through the imagined space.   
+The memory palace technique, also known as the method of loci, stands as a cornerstone of mnemonic strategies, tracing its origins back to ancient Roman and Greek rhetorical practices. This technique centers on the visualization of a familiar spatial environment, such as one's home or a well-known route, within which items to be remembered are mentally placed at distinct locations, referred to as loci. The fundamental principles underpinning this method involve harnessing the brain's inherent strengths in spatial memory and navigation. By creating vivid and interactive mental images of the items at these locations, individuals establish a structured pathway for recalling information as they mentally navigate through the imagined space.   
 
-The terms "memory palace," "method of loci," "memory journey," "mind palace," and "Roman room" are often used synonymously to describe this technique, reflecting its enduring relevance and varied applications across time. Its effectiveness is evidenced by the numerous memory contest champions who reportedly utilize this strategy to recall astonishing amounts of information, including digits, lists of words, and playing cards. The technique's success relies on the memorized spatial relationships that provide order and facilitate the recollection of memorial content. Furthermore, neurological studies involving brain scans of superior memorizers, a significant portion of whom employ the method of loci, have revealed activation in brain regions associated with spatial awareness. These areas include the medial parietal cortex, retrosplenial cortex, and the right posterior hippocampus, underscoring the neurobiological basis for the technique's efficacy.   
+The terms "memory palace," "method of loci," "memory journey," "mind palace," and "Roman room" are often used synonymously to describe this technique, reflecting its enduring relevance and varied applications across time. Its effectiveness is evidenced by the numerous memory contest champions who reportedly utilize this strategy to recall astonishing amounts of information, including digits, lists of words, and playing cards. Neurological studies involving brain scans of superior memorizers, a significant portion of whom employ the method of loci, have revealed activation in brain regions associated with spatial awareness. These areas include the medial parietal cortex, retrosplenial cortex, and the right posterior hippocampus, underscoring the neurobiological basis for the technique's efficacy.   
 
 The interchangeable use of terms like "memory palace," "memory journey," and "mind palace"  to describe the method of loci suggests a core concept with slight variations in how individuals might perceive or implement it. The term "journey" could imply a linear sequence of locations, potentially more suitable for ordered lists, while "palace" might suggest a more intricate, multi-room structure capable of housing more complex and interconnected information. This subtle distinction in terminology may reflect the personalized nature of the technique, where individuals adapt the core principles to their own cognitive styles and the specific demands of the memory task.   
 
 The technique's reliance on spatial memory  connects it to the evolutionary development of navigation and environmental awareness in primates, including humans. Over millennia, the ability to remember locations of resources, shelter, and potential threats has been crucial for survival. The memory palace technique ingeniously leverages this deeply ingrained cognitive strength, originally evolved for spatial tasks, to enhance the memorization of abstract or arbitrary information. This exploitation of a pre-existing cognitive capacity likely contributes to the technique's remarkable effectiveness compared to rote memorization, which does not tap into these evolved spatial abilities.   
 
 The documented success of memory champions who utilize this technique  provides compelling evidence of its potential for achieving high levels of memory performance. These individuals, through dedicated practice and refinement of the method, demonstrate that the memory palace technique is not merely a historical curiosity but a powerful tool for memory enhancement. Their achievements serve as inspiration and indicate that with focused effort, individuals can significantly improve their memory capabilities by adopting and adapting this ancient strategy to their own needs.
+
+# Spaced Repetition
+A plan for how often and how you will repeat things to be memorized 
+[https://www.magneticmemorymethod.com/spaced-repetition/](https://www.magneticmemorymethod.com/spaced-repetition/)
 # Journey and Story Method
 - **The Journey/Story Method: Creating Narratives and Mental Routes for Memorization**
+
+[https://www.magneticmemorymethod.com/story-method/](https://www.magneticmemorymethod.com/story-method/)
+
+[https://www.magneticmemorymethod.com/journey-method/](https://www.magneticmemorymethod.com/journey-method/)
 
 The journey method involves constructing a mental "journey" through a sequence of familiar locations, sharing similarities with the memory palace but often characterized by a more linear and narrative progression. Closely related is the story method, which focuses on interweaving the items to be remembered into a cohesive and memorable story. In the story method, items are linked through plot developments, characters, and actions, rendering the sequence of information easier to recall. The journey method can be viewed as a narrative unfolding across the loci of a memory palace, effectively merging spatial and sequential elements.  
 
@@ -124,3 +181,4 @@ The suggestion to utilize existing narratives from movies or novels as a "memory
 | Memory Palace | Spatial association, vivid imagery           | Ordered lists, speeches, complex information    | Highly versatile, leverages strong spatial memory, scalable | Requires initial setup and visualization skills                 |
 | Peg System    | Number-word association, visual imagery      | Ordered lists, direct access to items           | Ordered recall, random access, good for numerical data      | Requires pre-memorization of pegs                               |
 | Journey/Story | Narrative creation, sequential association   | Ordered lists, sequences of events, main points | Leverages natural narrative memory, engaging                | Primarily sequential recall                                     |
+A possible book to read [Moonwalking with Einstein: The Art and Science of Remembering Everything by Foer, Joshua. Health, Fitness & Dieting](https://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything-ebook/dp/B004H4XI5O)

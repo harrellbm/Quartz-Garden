@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-04-02T13:41:09.515-07:00","modified":"2025-06-30T09:35:21.271-07:00","published":"2025-06-30T09:35:21.274-07:00","cssclasses":""}
+{"publish":true,"created":"2025-04-02T13:41:09.515-07:00","modified":"2025-06-30T09:35:21.271-07:00","published":"2025-09-23T14:11:04.650-07:00","cssclasses":""}
 ---
 
 #🌲Evergreen   #📓Journal 
@@ -24,7 +24,7 @@
 
 - Sabbath [[The Biblical Rhythm of Time and Rest]] the idea that we have really messed up the idea of rest and sabbath in our culture with it basically meaning "time to do whatever you want" where sabbath had a clear focus on not doing exactly what you want but taking time to focus on God and communion with Him. [[Rhythm Reset]]
 
-- Continuing to dig into how to teach and practice typological reading of scripture to find and see the beauty and continuity of scripture. [[Book and Conference Notes/Notes from Conversation with Sarah Salzburg]], [[Telescope of Scripture, the Law and Doctrine]], [[Christian Meditation]]
+- Continuing to dig into how to teach and practice typological reading of scripture to find and see the beauty and continuity of scripture. [[Conference Notes/Notes from Conversation with Sarah Salzburg]], [[Telescope of Scripture, the Law and Doctrine]], [[Christian Meditation]]
 
 - How to actually build and encourage a creative community that lets arts and beauty thrive. In the forms of music, art, etc. [[Aesthetic]]
 
@@ -33,5 +33,5 @@
 
 - How can our local churches be connected and work together in meaningful ways that transcend the island mentality of congregations?
 
-- What does it look like to have clarity of doctrine but also to be grounded in the story and especially the poetry of Scripture [[Doctrinal Clarity, Poetic Grounding]]
+- What does it look like to have clarity of doctrine but also to be grounded in the story and especially the poetry of Scripture [[Oriented by Story, Grounded in Poetry, Clarity in Doctrine]]
 

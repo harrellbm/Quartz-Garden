@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-05-12T14:19:27.705-07:00","modified":"2025-09-18T10:52:10.068-07:00","published":"2025-09-18T11:21:19.756-07:00","cssclasses":""}
+{"publish":true,"created":"2025-05-12T14:19:27.705-07:00","modified":"2025-09-23T14:53:29.170-07:00","published":"2025-09-24T09:43:29.592-07:00","cssclasses":""}
 ---
 
 #🪴Sprout   #😁Strongly-Agree    #🟢Conviction    #📊Project #📓Journal  #🥾SpiritualPractices-EmbodiedLiving 
@@ -17,6 +17,8 @@
 > I am still trying to get my head around how I want to approach such a large memorization project. I have decided that I will undertake practicing memorization of things with the basic texts of the catechism and have started journaling about that here:
 > [[Memorizing the Lords Prayer]]
 > [[Memorizing the Ten Commandments]]
+
+Interesting that the Second Council of Nicaea 787 A.C. made it a requirement to become Bishop to memorize the whole Psalter 
 
 Similar Notes:
 [[Memory, the Things We Keep with Us]]
@@ -50,6 +52,8 @@ These are books the influenced me as I have been getting my head around this pro
 
 - Martin Luther. First Lectures on the Psalms: Psalms 1-75. Luther’s Works, Vol. 10. St. Louis, MO: Concordia Pub., 1974.
 	- Started to read through and am surprised I have never hear this part of Luther quoted much. 
+- Martin Luther. A Manual on the Book of Psalms. 
+	- ![[367-luther-psalms-cole.pdf]]
 
 - The Homilies of Saint Jerome, Volume 1 (1–59 on the Psalms) (The Fathers of the Church, Volume 48). Trans. Marie Ewald. Washington, DC: Catholic University of America Press, 1964.
 	- Started skimming his treatment of superscriptions and have found a ton of really fascinating stuff. 
@@ -154,8 +158,13 @@ Jerome psalm 1 like entrance to a big mansion and each psalm a chamber they all 
 
 ## Book Division 
 
-Except for Psalms 10 and 33, are psalms of David in book 1 Book 2 sons of Korah” (42; 44–49; 50 [https://www.esv.org/resources/esv-global-study-bible/chart-19-03/](https://www.esv.org/resources/esv-global-study-bible/chart-19-03/) [https://www.fbcaa.org/MAPBlog/PsalmsCategories.pdf](https://www.fbcaa.org/MAPBlog/PsalmsCategories.pdf) [https://www.fisheaters.com/psalms.html](https://www.fisheaters.com/psalms.html) 1. Davidic group I: 3-41 2. Sons of Korah group I: 42-49 3. Davidic group II: 51-65 4. Asaph group: 73-83 5. Sons of Korah group II: 84-88 [exc. 86] 6. Congregational Praise group I: 95-100 7. Hallelujah group: 111-117 8. Songs of Ascent to Jerusalem: 120-134 9. Davidic Group III: 138-145 10. Congregational Praise Group II: 146-150 [https://theislandparson.com/2024/04/12/the-organization-of-the-book-of-psalms/](https://theislandparson.com/2024/04/12/the-organization-of-the-book-of-psalms/) 1. Subscriptions 2. Author 3. Details about author 4. Event or musical notation attached 5. Formal psalm structure 6. Name of god used 7. acrostic or not 8. Other notable characteristic (repeated word or theme etc) [https://ora.ox.ac.uk/objects/uuid:b3c443db-7da7-490a-a28f-a23f133d09e9/files/swd375x11k](https://ora.ox.ac.uk/objects/uuid:b3c443db-7da7-490a-a28f-a23f133d09e9/files/swd375x11k) [https://blog.cph.org/study/the-psalms-an-overview](https://blog.cph.org/study/the-psalms-an-overview) [https://www.thetorah.com/article/hallel-how-many-psalms](https://www.thetorah.com/article/hallel-how-many-psalms) Book IV. This consists of three series of consecutive psalms with internal coherence (Ps. 90–94, 95–100 and 101–106). 
 ### Master Overall Structure Attempt 1 (kind of chaotic lol)
+
+#### Book 1 Structure overview
+- Layer one: Breaks into 3 main sections: 1-7 (7 Psalms), 8-24 (17 Psalms), 25-42 (17 Psalms)
+- Layer two: Breaks into 7 main sections: 1-2 (2 Psalms), 3-7 (5 Psalms), 8-24 (7 Psalms), 15-24 (10 Psalms), 25-32 (8 Psalms), 33 (1 Psalm), 34-41 (8 Psalms)
+- Still need to think about layer three 
+#### Master list
 - Book 1 Psalms 1-41 (41 Psalms) 
 	- Psalm 1 and 2 (2 Psalms) as introductions. No superscriptions 
 		1. Blessed is the Man
@@ -262,7 +271,7 @@ Except for Psalms 10 and 33, are psalms of David in book 1 Book 2 sons of Korah�
 					- Blessed Man explained and ends with Doxology
 - Book 2 Psalms 42-72 (31 Psalms)
 	- Psalm 42-43 hope for return to the temple
-		- Psalm 42 Sons of Korah
+		- Psalm 42 Sons of Korah 
 	- Psalm 44-49 Sons of Korah
 	- Psalm 50 Asaph
 	- Psalms 51-65 Davidic Psalms
@@ -330,6 +339,170 @@ http://www.bible.literarystructure.info/bible/19_Psalms_e.html
 ### Superscriptions 
 - The next major clue to how things fit together and work together are the superscriptions. Not all Psalms have them but they can be found across all five books and over a lot of information about how to group psalms and what they are helpful for.
 - The obscure or hard to translate superscription names seem to signal shifts in the structure of the Psalms either at major beginning ending or chiastic middle positions. 
+- Type and Author connected. I.e. Psalm of David, etc.
+	- Secondary Description of Author. I.e Servant of the Lord
+- Secondary Type. I.e. A song, etc. 
+- Secondary Author. I.e Heman the Ezrahite 
+- Choirmaster setting
+	- Musical Instument. I.e strings,
+- According to phrase
+	- Does it matter if this is stand alone or connected with Choir setting?
+- David Life Episode
+- Occasion for use
+Congregational Praise group I: 95-100 7. 
+Hallelujah group: 111-117 8. 
+Songs of Ascent to Jerusalem: 120-134 9. 
+Congregational Praise Group II: 146-150
+
+
+7. Subscriptions 2. Author 3. Details about author 4. Event or musical notation attached 5. Formal psalm structure 6. Name of god used 7. acrostic or not 8. Other notable characteristic (repeated word or theme etc)
+8. Egyptian Hallel - [https://ora.ox.ac.uk/objects/uuid:b3c443db-7da7-490a-a28f-a23f133d09e9/files/swd375x11k](https://ora.ox.ac.uk/objects/uuid:b3c443db-7da7-490a-a28f-a23f133d09e9/files/swd375x11k)
+9. CPH Psalm Overview - [https://blog.cph.org/study/the-psalms-an-overview](https://blog.cph.org/study/the-psalms-an-overview) 
+10. Hallel discussion - [https://www.thetorah.com/article/hallel-how-many-psalms](https://www.thetorah.com/article/hallel-how-many-psalms) 
+11. Book IV. This consists of three series of consecutive psalms with internal coherence (Ps. 90–94, 95–100 and 101–106). 
+#### People References 
+- Sons of Korah
+	- Linage Numbers 4:4-15, Sons spared from Fathers rebellion Numbers 26:11
+- Jeduthun mentioned as a person 
+	- In Psalms Super: 39
+	- Introduced 1 Chronicles 16:41-42
+	- 1 Chronicles 9:16, 1 Chronicles 16:38, 1 Chronicles 25:3, 1 Chronicles 25:3, Nehemiah 11:17
+- Asaph
+	- Introduction 1 Chronicles 6:39
+	- 2 Kings 18:18, 2 Kings 18:37, 1 Chronicles 6:39, 1 Chronicles 9:15, 1 Chronicles 15:17, 1 Chronicles 16:5 and 7 and 37, 
+- Heman 
+	- Introduction  1 Chronicles 6:33
+- Ethan the Ezrahite
+	- Introduction 1 Kings 4:31
+- Heman and Ethan
+	- 1 Kings 4:31, 1 Chronicles 2:6
+- Jeduthun, Heman
+	- 1 Chronicles 16:41-42, 2 Chronicles 29:14
+- Jeduthun, Heman and Asaph
+	- 1 Chronicles 25:1, 1 Chronicles 25:6, 2 Chronicles 5:12, 2 Chronicles 35:15
+- Heman, Asaph, Ethan
+	- 1 Chronicles 15:17 and 19
+#### Author/Musician across Books - Layer one
+- David (Psalm 73) - 
+	- Book 1 (37 Psalms): 3-9, 11-32, 34-41, 
+	- Book 2 (18 Psalms): 51-65, 68-70, 
+	- Book 3 (1 Psalm): 86, 
+	- Book 4 (2 Psalms): 101, 103, 
+	- Book 5 (15 Psalms): 108-110, 122, 124, 131, 133, 138-145
+- Sons of Korah (Psalms 11) - 
+	- Book 2 (7 Psalms): 42, 44-49, 
+	- Book 3 (4 Psalms): 84-85, 87-88
+- Asaph (12 Psalms) - 
+	- Book 2 (1 Psalms): 50, 
+	- Book 3 (11 Psalms): 73-83
+- Solomon (2 Psalms) -
+	- Book 2 (1 Psalms): 72
+	- Book 5 (1 Psalms): 127 - Song of Ascent 
+##### Author/Musician unique to a Book - Layer one
+- Ethan the Ezrahite (1 Psalm) -
+	- Book 3 (1 Psalms): 89
+- Moses (1 Psalm) -
+	- Book 4 (1 Psalms): 90
+- Afflicted One (1 Psalm) -
+	- Book 4 (1 Psalms): 102
+##### Author/Musician - Layer Two
+- Jeduthun (3 Psalm) - 
+	- Book 1 (1 Psalm): "To" 39,
+	- Book 2 (1 Psalm): "According to" 62
+	- Book 3 (1 Psalm): "According to" 77
+- Heman the Ezrahite -
+	- Book 3 (1 Psalm): 88
+#### Song/Type across Books - Layer one
+- A Psalm (58 Psalms ) - 
+	- Book 1 (23 Psalms): 3-6, 8-9, 12-13, 15, 18-24, 29-31, 38-41
+	- Book 2 (12 Psalms): 47-51, 62-68 
+	- Book 3 (12 Psalms): 73, 75-77, 79-80, 82-85, 87-88
+	- Book 4 (4 Psalms): 92, 98, 100-101 
+	- Book 5 (7 Psalms): 108-110, 139-141, 143
+- Maskil (13 Psalms) - 
+	- Book 1 (1 Psalms): 32
+	- Book 2 (7 Psalms): 42, 44-45, 52-55
+	- Book 3 (4 Psalms): 74, 78, 88-89
+	- Book 5 (1 Psalm): 142
+- A Miktam (6 Psalms) -
+	- Book 1 (1 Psalms): 16
+	- Book 2 (5 Psalms): 56-60
+- A Prayer (3 Psalms) -
+	- Book 1 (1 Psalms): 17 - David
+	- Book 3 (1 Psalms): 86 - David
+	- Book 4 (1 Psalms): 102 - Afflicted One
+##### Song/Type Unique to a Book - Layer One
+- A Shiggaion (Psalm 1) - 
+	- Book 1 (1 Psalms): 7
+- A Song of Ascent (15 Psalms) - 
+	- Book 5 (15 Psalms): 125-134 
+##### Song/Type across Books - Layer Two
+- According to Gittith (3 Psalms) -
+	- Book 1 (1 Psalms): 8
+	- Book 3 (1 Psalms): 81, 84
+- According to Lilies (3 Psalms) -
+	- Book 2 (2 Psalms): 45, 69
+	- Book 3 (1 Psalms): 80
+-  According to Mahalath - (2 Psalms): 
+	- Book 2 (1 Psalms): 53
+	- Book 3 (1 Psalms): 88
+- According to Do not Destroy (4 Psalms) -
+	- Book 2 (3 Psalms): 57-59
+	- Book 3 (1 Psalms):  75
+- A Song (14 Psalms) - 
+	- Book 2 (6 Psalms): 46, 48, 65-68,
+	- Book 3 (5 Psalms): 75-76, 83, 87-88,
+	- Book 4 (1 Psalms): 92
+	- Book 5 (2 Psalms): 108, 145
+##### Song/Type Unique to a Book - Layer Two
+- According to Sheminth (2 Psalms) - 
+	- Book 1 (1 Psalms): 6, 12
+- According to Muth-Labben "Death of the Son" (1 Psalm) -
+	- Book 1 (1 Psalms): 9
+- According to Doe of the Dawn (1 Psalm) -
+	- Book 1 (1 Psalms): 22
+- According to Alamoth (1 Psalm) -
+	- Book 2 (1 Psalms): 46
+- According to Dove (1 Psalm ) -
+	- Book 2 (1 Psalms): 56
+- According to Shushan Eduth (1 Psalm) - 
+	- Book 2 (1 Psalms): 60 
+- A Love Song (1 Psalm) -
+	- Book 2 (1 Psalms): 45
+- A Song of Praise  (1 Psalm) -
+	- Book 5 (1 Psalms): 145 - David
+- Title for David: "Servant of the Lord" (2 Psalms) - 
+	- Book 1 (2 Psalms): 18, 36
+##### Occasion across Books
+- Memorial Offering (2 Psalms) -
+	- Book 1 (1 Psalms): 38 - David
+	- Book 2 (1 Psalms): 70 - David
+	- Memorial offering reference: Leviticus 2:2 and 6:15
+##### Occasion unique to a Book
+- Temple Dedication (1 Psalm)- 
+	- Book 1 (1 Psalms): 30 - David
+- For Instruction  (1 Psalm) -
+	- Book 2 (1 Psalms): 60 - David
+- For Testimony (1 Psalm) -
+	- Book 3 (1 Psalms): 80 - Asaph
+- For the Sabbath  (1 Psalm) -
+	- Book 4 (1 Psalms): 92 - Anonymous 
+- For Giving Thanks  (1 Psalm) -
+	- Book 4 (1 Psalms): 100 - Anonymous
+- Pours out ones Heart  (1 Psalm) -
+	- Book 4 (1 Psalms): 102 - Afflicted one
+#### Instruments across Books
+- Strings (5 Psalms) -
+	- Book 1 (1 Psalms): 4
+	- Book 2 (4 Psalms): 54-55, 61, 67
+	- Book 4 (1 Psalms): 76
+##### Instruments Unique to a Book
+- Flutes (1 Psalm) -
+	- Book 1 (1 Psalms): 5
+- Far-off Terebinths (1 Psalm) - 56 
+	- Book 2 (1 Psalms): 56
+#### Need to do this with Choirmaster and David life Episode
+
 - Notes from Jerome 
 	- psalm 5 superscripts are important Jerome 
 	- psalm 7 lot about 7 and 8 and superscriptions 
@@ -664,7 +837,7 @@ Once I have all 150 tags memorized then we will see how deepening it can go and 
 
 [^2]: Brown, Francis, et al. Enhanced Brown-Driver-Briggs Hebrew and English Lexicon, Clarendon Press, 1977, pp. 342–43.
 
-[^3]: Brown, Francis, et al. Enhanced Brown-Driver-Briggs Hebrew and English Lexicon, Clarendon Press, 1977, p. 211.
+[^3]: Brown, Francis, et al. Enhanced Brown-Driver-Briggs Hebrew and English Lexicon, Clarendon Press, 1977, p. 211. 
 
 [^4]: Elliger, K., et al. Biblia Hebraica Stuttgartensia. Electronic ed., German Bible Society, 2003, p. Ps 1-20
 
