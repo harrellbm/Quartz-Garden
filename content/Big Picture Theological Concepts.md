@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.726-07:00","modified":"2025-09-24T11:52:35.405-07:00","published":"2025-09-24T11:54:27.522-07:00","cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.726-07:00","modified":"2025-09-29T08:48:20.710-07:00","published":"2025-09-29T08:48:20.711-07:00","cssclasses":""}
 ---
 
 #🌲Evergreen  #😁Strongly-Agree  #🟢Conviction   #🔥Doctrine-Poetry-Story 
@@ -19,7 +19,7 @@
 - [[Law and Gospel]] - How does God speak humans?
 - [[Three Uses of the Law]]
 - [[Two Kingdoms]]
-- [[Two Realms]] - How does God work in the World?
+- [[Two Realms/Two Realms]] - How does God work in the World?
 - [[Two Kinds of Righteousness]] - How should the Human Creature live?
 	- [[Coram Deo]]
 	- [[Coram Mundo]]
@@ -141,4 +141,6 @@
 - [[Christian Nationalism]]
 - Law/Gospel Reductionism
 - Implicit Platonism
+- Modernity - [[Making Sense of Our Moment in History]]
+- Post-Modernism - [[Making Sense of Our Moment in History]]
 

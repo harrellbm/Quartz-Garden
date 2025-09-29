@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.710-07:00","modified":"2025-06-17T14:21:02.228-07:00","published":"2025-06-17T14:21:02.228-07:00","cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.710-07:00","modified":"2025-09-29T12:27:37.114-07:00","published":"2025-09-29T12:27:37.114-07:00","cssclasses":""}
 ---
 
 #🌱Seed   #🙂Agree   #🟡Consideration   #🏖️Universe-Humans 
@@ -9,6 +9,8 @@
 > The Human mind works in categories. We cannot conceptually understand anything that is not on some level a category of some sort.
 
 ****
+
+All Categories are judgments about how things group together and relate. They are the hardlines in a drawing that give the white space its dimension. 
 
 What in the World do we do without a clean primary driver? Things can get overwhelming quickly 
 
