@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-09-24T11:50:20.304-07:00","modified":"2025-09-29T12:08:08.758-07:00","published":"2025-09-29T12:08:08.762-07:00","cssclasses":""}
+{"publish":true,"created":"2025-09-24T11:50:20.304-07:00","modified":"2025-10-02T08:50:32.043-07:00","published":"2025-10-02T08:50:32.041-07:00","cssclasses":""}
 ---
 
-#🌱Seed   #🙂Agree    #🟢Conviction 
+#🌿Sapling   #🙂Agree    #🟢Conviction  #📰Handout  #🏖️Universe-Humans 
 ****
  
 >[!Summary] The Big Idea
@@ -14,12 +14,13 @@
 ## The Enlightenment as the Birthplace of Modernity
 The revolutionary period from the late seventeenth century to the early nineteenth century in Europe and America—represented a philosophical, intellectual, and religious shift from the historical Christian understanding of faith and reason.
 ### Key Philosophers
+- [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) (1596-1650) is an early influence putting forward the famous phrase: “I think, therefore I am.” Which can be found in his 1637 _[Discourse on the Method](https://en.wikipedia.org/wiki/Discourse_on_the_Method "Discourse on the Method")_. He focuses truth and existence all on the fact that humans think and have reason. 
 - German philosopher [Immanuel Kant](https://www.ligonier.org/learn/series/consequences-of-ideas/kant-part-1) (1724–1804), encouraged people to think in a manner entirely independent of prior traditions.
 - Enlightenment ideals were developed in the essays of [John Locke](https://www.ligonier.org/learn/series/consequences-of-ideas/locke) (1632–1704).
-- Thomas Paine’s (1737–1809) “Common Sense,” “Rights of Man,” and “The Age of Reason” and Thomas Jefferson’s (1743–1826) Declaration of Independence are notable representations of Enlightenment ideals.
-- Benjamin Franklin (1706–90) championed the ideas of the Enlightenment, especially those of individual liberty, [religious toleration](https://www.ligonier.org/learn/articles/prayer-and-culture), and the free agency of man.
-- The French philosopher Voltaire (1694–1778) was an avowed advocate of Enlightenment and modernist thought. In his Philosophical Dictionary (1764), he criticized historical-traditional institutions and religion, aiming to demystify the universe and purge supernatural beliefs that clouded true knowledge and understanding. These articulations would later find a developed naturalistic system of thought in [Charles Darwin’s](https://www.ligonier.org/learn/articles/social-darwinism) On the Origin of Species (1859). 
-- The landmark, thirty-five volume Encyclopédie, compiled by Denis Diderot (1713–84), uniquely helped propel Enlightenment thought across Europe and America.
+- [Thomas Paine](https://en.wikipedia.org/wiki/Thomas_Paine)’s (1737–1809) “Common Sense,” “Rights of Man,” and “The Age of Reason” and [Thomas Jefferson](https://en.wikipedia.org/wiki/Thomas_Jefferson)’s (1743–1826) Declaration of Independence are notable representations of Enlightenment ideals.
+- [Benjamin Franklin](https://en.wikipedia.org/wiki/Benjamin_Franklin)(1706–90) championed the ideas of the Enlightenment, especially those of individual liberty, [religious toleration](https://www.ligonier.org/learn/articles/prayer-and-culture), and the free agency of man.
+- The French philosopher [Voltaire](https://en.wikipedia.org/wiki/Voltaire) (1694–1778) was an avowed advocate of Enlightenment and modernist thought. In his Philosophical Dictionary (1764), he criticized historical-traditional institutions and religion, aiming to demystify the universe and purge supernatural beliefs that clouded true knowledge and understanding. These articulations would later find a developed naturalistic system of thought in [Charles Darwin’s](https://www.ligonier.org/learn/articles/social-darwinism) On the Origin of Species (1859). 
+- The landmark, thirty-five volume Encyclopédie, compiled by [Denis Diderot](https://en.wikipedia.org/wiki/Denis_Diderot) (1713–84), uniquely helped propel Enlightenment thought across Europe and America.
 ### Modernity
 Arising out of the Enlightenment is a worldview broadly called “Modernity”. This is the era in which God and religion were set aside as the ultimate sources of knowledge, and they were replaced by science and reason.
 #### Preeminence of Human Reason, Science, and Freedom

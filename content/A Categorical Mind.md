@@ -1,24 +1,23 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.710-07:00","modified":"2025-09-29T12:27:37.114-07:00","published":"2025-09-29T12:27:37.114-07:00","cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.710-07:00","modified":"2025-10-02T08:36:54.104-07:00","published":"2025-10-02T08:36:54.097-07:00","cssclasses":""}
 ---
 
 #🌱Seed   #🙂Agree   #🟡Consideration   #🏖️Universe-Humans 
 ****
 
-> [!Summary] The Big Idea
-> The Human mind works in categories. We cannot conceptually understand anything that is not on some level a category of some sort.
+ 
 
 ****
 
 All Categories are judgments about how things group together and relate. They are the hardlines in a drawing that give the white space its dimension. 
 
-What in the World do we do without a clean primary driver? Things can get overwhelming quickly 
+We can therefore ask and seek out where a category comes from 
 
 Human mind works in categories. The first designations we teach babies are categorical names (Mom, Dad). 
 
 A human category that gets too narrow and rigid that it stops reflecting reality becomes a stereotype 
 
-Categories give stability to the world and our roles around us. Endings are or beginning are hard because the categories that apply to me are changing 
+Categories give stability to the world and our roles around us. Endings and beginnings are hard because the categories that apply to me are changing 
 
 Talk about how the categories we use shape the way we think about the world around us. 
 
@@ -26,7 +25,7 @@ Identify and pic of a dog
 
 Identify a pic of a cat
 
-Look at the pic of Fossa and see if it fits in either actually related to a mongoose.
+Look at the pic of Fossa and see if it fits in either (actually related to a mongoose).
 
 Like the category of Cat and Dog we can get a long way in understanding the animals around us but there are times where our categories fall apart. 
 
