@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Home Base Camp","title":"Base Camp 🏕️","created":"2024-10-22T11:39:29.726-07:00","modified":"2025-07-03T12:01:39.320-07:00","published":"2025-07-03T12:01:39.320-07:00","tags":["🌲Evergreen"],"cssclasses":""}
+{"publish":true,"aliases":"Home Base Camp","title":"Base Camp 🏕️","created":"2024-10-22T11:39:29.726-07:00","modified":"2025-10-02T10:07:05.489-07:00","published":"2025-10-02T10:07:05.489-07:00","tags":["🌲Evergreen"],"cssclasses":""}
 ---
 
 Hello!
@@ -8,7 +8,7 @@ My name is Brenden Harrell. I am a Husband, Father, Lutheran Pastor, and Tinkere
 > [!summary] What is this place??
 > You have stumbled upon an experiment of mine. This is a living collection of my notes, essays, and ponderings. All of which are in various stages of development and organization. You can find writing all along the continuum from deeply edited and refined to literally dumped out of my brain in raw bullet points. 
 
-I have grown increasingly dissatisfied with the exhausting, overwhelming and overstimulating digital spaces we inhabit. Content is constantly being pushed, or marketed, to us in new shiny wrappers. Why not try something different?
+I have grown increasingly dissatisfied with the exhausting, overwhelming and overstimulating digital spaces we inhabit. Content is constantly being pushed, or marketed, to us in new shiny wrappers. Why not try something different? 
 
 My hope is that this site will be more like a little quiet wilderness. A place to slow down, explore, start conversations, and collaborate. That is why I have named it - *The Aspen Grove*.
 ![[Aspen Grove.png]]
@@ -24,21 +24,21 @@ Here are some basic suggestions for using this garden:
 - Or you can look at my [[Wonder List]] a collection of things that I am thinking about. 
 - If you run into a 404 page it means I haven't made that note yet or haven't uploaded it. If it is interesting to you reach out to me and start a conversation about it.  
 # Notes I have Tended Recently 
-- [[Big Picture Theological Concepts\|Big Picture Theological Concepts]]
-- [[Prayer Walk Guides\|Prayer Walk Guides]]
-- [[Projects/Bookletic\|Bookletic]]
-- [[Adventures in Terraforming (Kind of)/Adventures in Terraforming (Kind of)\|Adventures in Terraforming (Kind of)]]
-- [[Private/Eden Quotes\|Eden Quotes]]
-- [[Reading Scripture Devotionally\|Reading Scripture Devotionally]]
-- [[Food Forest/Food Forest\|Food Forest]]
-- [[Reality Filter\|Reality Filter]]
-- [[Principles for Working with Tech Tools\|Principles for Working with Tech Tools]]
-- [[LCOS Notes/LCOS Epistles\|LCOS Epistles]]
+- [[Emerging (Reemerging) World Pictures\|Emerging (Reemerging) World Pictures]]
 - [[Indexes/Scripture Index\|Scripture Index]]
-- [[Relational Health Framework\|Relational Health Framework]]
-- [[Reading Scripture for Familiarity\|Reading Scripture for Familiarity]]
-- [[Recipes/Homemade Curry\|Homemade Curry]]
-- [[Tail Knowledge and Knowledge Collapse/Tail Knowledge and Knowledge Collapse\|Tail Knowledge and Knowledge Collapse]]
+- [[A Creature Among Machines\|A Creature Among Machines]]
+- [[Making Sense of Our Moment in History\|Making Sense of Our Moment in History]]
+- [[A Categorical Mind\|A Categorical Mind]]
+- [[Two Realms\|Two Realms]]
+- [[The Three Estates\|The Three Estates]]
+- [[Two Kingdoms\|Two Kingdoms]]
+- [[Big Picture Theological Concepts\|Big Picture Theological Concepts]]
+- [[Moralistic Therapeutic Deism\|Moralistic Therapeutic Deism]]
+- [[LCOS Notes/LCOS Epistles\|LCOS Epistles]]
+- [[Quiet Muttering\|Quiet Muttering]]
+- [[Memory, the Things We Keep with Us\|Memory, the Things We Keep with Us]]
+- [[Memorizing the Psalms\|Memorizing the Psalms]]
+- [[Private/Eden Quotes\|Eden Quotes]]
 
 # Connected by the Roots
 I aim to make this digital space a grove of sorts. A collection of thoughts, ideas, concepts, notes and experiences. 
