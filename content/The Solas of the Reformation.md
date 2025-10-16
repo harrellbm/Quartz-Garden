@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-10-24T11:47:26.147-07:00","modified":"2025-06-04T12:54:01.780-07:00","published":"2025-06-04T12:54:01.780-07:00","cssclasses":""}
+{"publish":true,"created":"2024-10-24T11:47:26.147-07:00","modified":"2025-10-02T12:59:40.336-07:00","published":"2025-10-02T12:59:40.336-07:00","cssclasses":""}
 ---
 
 #🌱Seed  #🙂Agree  #📚Definition  #🔥Doctrine-Poetry-Story 
@@ -9,7 +9,7 @@
 > [!Summary] The Big Idea
 > Martin Luther's theology is summarized by four maxims, known as the "solas" of the Reformation:
 > - **Sola fide**: Faith alone
-> Relying on faith along frees people from the fear of earning God's grace
+> Relying on faith alone frees people from the fear of earning God's grace
 > - **Sola scriptura**: Scripture alone
 > Scripture is the only authority in matters of faith and doctrine
 > - **Solus Christus**: Christ alone

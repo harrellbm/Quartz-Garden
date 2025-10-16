@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.710-07:00","modified":"2025-10-02T10:04:32.006-07:00","published":"2025-10-02T10:04:32.004-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-10-04
+updated: 2025-10-08T20:28:54.545-07:00
+edited_seconds: 1499
 ---
-
 #🌿Sapling   #😁Strongly-Agree   #🟡Consideration   #📝Essay   #🏖️Universe-Humans  
 
 ****
@@ -51,11 +54,15 @@ What is a human?
 
 A question that has been looking for an answer since sin shattered the human creature. Yet it is a question that observes a kind of universal need (at some level) to explain and explore the constitution of our human experience. Which is ironic since every one of us experiences being human every single day. Yet defining ourselves is maddeningly complex, and simple, all at the same time.
 
-This seems to explain the main move many schools of thought make in describing the human creature. Rather than take on the impossible task of explaining all facets of humanity, why not seek after the “essence” of what makes us human. Since after all, we do share many commonalities with animals. Why not narrow the search to things that make us distinct? 
+This seems to explain the main move many schools of thought make in describing the human creature. Rather than take on the impossible task of explaining all facets of humanity, why not seek after the “essence” of what makes us human? Since after all, we do share many commonalities with animals. Why not narrow the search to things that make us distinct? 
 
 In this quest, many seats of human essence have been elucidated. The Platonic soul trumping the evil flesh. The Enlightenment mind overcoming lesser superstitions and emotions. The Romantic’s love and self-conviction burning a true path through conventions and restrictions. The Pietist’s reliance on a holy attitude and way of life. The Hedonist's surrender to any and every bodily urge. The list goes on and has filled many books and lectures. Yet, no matter the school, all attempts to describe humanity in this way seek to find a primary driver or characteristic.  
 
-To get a sense of this variety and commonality, let us walk through three examples. The first of which is the famous philosophy of René Descartes.  “I think, therefore I am.” This ubiquitous phrase cleanly sums up his reliance on human reason as the core of being.[^3] In contrast, the work of Frank Senn returns to a model of embodiment. Senn summarizes his perspective by citing the work of Pope John Paul II: “I do not have a body, I am a body.”[^4] From this perspective, the human creature is defined primarily through the lens of embodiment. This perspective has an eye toward a more holistic approach but still reduces the essence of a human person down to a body. This is true even to the extent that mental state is primarily attributed to bodily state. Finally, the work of James K. A. Smith pushes for a more expansive model. Yet still conceptualizes the human creature as formed and oriented by a core of desire or as he summarizes it: “I am What I Love.”[^5] This slightly shifts away from defining humanity based on the executive function of a particular element, yet it still defines a general primary driver. 
+To get a sense of this variety and commonality, let us walk through three examples. The first of which is the famous philosophy of René Descartes.  “I think, therefore I am.” This ubiquitous phrase cleanly sums up his reliance on human reason as the core of being.[^3] 
+
+In contrast, the work of Frank Senn returns to a model of embodiment. Senn summarizes his perspective by citing the work of Pope John Paul II: “I do not have a body, I am a body.”[^4] From this perspective, the human creature is defined primarily through the lens of embodiment. This perspective has an eye toward a more holistic approach but still reduces the essence of a human person down to a body. This is true even to the extent that mental state is primarily attributed to bodily state. 
+
+Finally, the work of James K. A. Smith pushes for a more expansive model. Yet still conceptualizes the human creature as formed and oriented by a core of desire or as he summarizes it: “I am What I Love.”[^5] This slightly shifts away from defining humanity based on the executive function of a particular element, yet it still defines a general primary driver. 
 
 As can be seen, despite their differences, all of these perspectives attempt to organize the human creature around a singular center of gravity. While both Senn and Smith are concerned to avoid the reductionism of other philosophies, they nonetheless still come back to locating the human creature within a kind of “essence.” This no doubt offers a cleaner framework and sense of security by narrowing one’s philosophical focus. However, they still suffer from the inability to adequately address the true complexities of life. In other words, the major problem with these approaches is found in their constriction of definition. In attempting to find a conceptually sound and reasonable framework, each perspective more or less jettisons unhelpful aspects of the human person. Descartes disposes of all but reason, Senn more or less dismisses any “unembodied” elements of a person, and Smith is almost there but still dismisses much of the complexity between human reason, emotion, etc. in favor of placing desire as the primary driver. 
 
@@ -68,7 +75,7 @@ A simple case study in this is sleep deprivation (a physical state). Anyone who 
 # A Squishy Machine?
 Even if we grant the above points, the reductionism of western thought is more deeply rooted than we may like to admit. The Philosopher/Architect Christopher Alexander lays out a fascinating explanation of this systemic reductionism penetrating all the way to our understanding of the universe and ultimately human anthropology. He argues that Descartes, Postmodernism, and much of Western thinking all share a mechanistic explanation of the universe. What this means is that the universe is viewed as something like a great clock (a mechanism) that ticks on by itself without any outside intervention.
 
-All of these varying western perspectives debate our ability to perceive and interact with this universe, but the core of what makes up the universe stays the same across them all. Therefore, the key to understanding everything from this mechanistic perspective is to carefully break everything down into the various mechanisms that "make it go." Whether those mechanism are internal, external, consistent, inconsistent, etc. The foundational assumption is that the world around us can be accurately described through the mechanisms at work within a system (be that a human, ecosystem, country, etc.). 
+All of these varying western perspectives debate our ability to perceive and interact with this universe, but the core of what makes up the universe stays the same across them all. Therefore, the key to understanding from this mechanistic perspective is to carefully break everything down into the various mechanisms that "make it go." Whether those mechanism are internal, external, consistent, inconsistent, etc. The foundational assumption is that the world around us can be accurately described through the mechanisms at work within a system (be that a human, ecosystem, country, etc.). 
 
 Even as Christians, we often operate with this same assumption. The world is running by its laws and physics and God "breaks into" things now and again. Yet the daily, moment by moment, participation and perceptible reality of God is often left in church. Therefore, the primary mover in the world around us is perceived to be non-personal mechanisms rather than any kind of deity or other "enchanted" things as was common for pre-enlightenment perspectives.   
 
@@ -87,9 +94,9 @@ While extreme examples of misappropriated mechanisms may be easy to spot for the
 What if breaking humans down into composite parts, or obsessing over the innerworkings of this piece or that, is not the most productive or faithful way forward? In a world where machines are increasingly being made in our image, how do we perceive even a glimmer of God's image in ourselves? Are we truly just squishy broken down machines? Destined to be outclassed by our own technological creations? Or is there another approach to express the constitution of a human person?
 
 # Breaking the Mental Mold
-The thing about deeply ingrained cultural and anthropological perspectives, is that it often takes philosophy or poetry to break through our mental ruts and open up even the possibility for an alternative. One philosophical way to move beyond the mechanistic worldview has been proposed by Architect Philosopher Christopher Alexander. He proposes completely flipping the direction of approach. Rather than seeking to put together our understanding like an erector set, wholeness starts from the opposite direction. In order to understand a human, we must first start with ״the wholeness” of humanity.  
+The thing about deeply ingrained cultural and anthropological perspectives, is that it often takes philosophy or poetry to break through our mental ruts and open up even the possibility for an alternative. As a way to start us thinking, we will observe an alternative perspective posited by Christopher Alexander. He proposes completely flipping the direction of our approach to the universe. Rather than seeking to put together our understanding like an erector set, he speaks in terms of "the wholeness." From this perspective, to understand a human, we must first start with ״the wholeness” of humanity as a huge global entity.  
 
-In this perspective, wholeness is the overall cohesiveness and interrelated nature of everything. For example, a building (he was an architect after all) functions as a whole. Missing a roof, or doors, or plumbing affects the ability of the whole to operate. Even the earth functions as a whole. Humans, as participant in this whole, effect it but are also affected by the environment in which we live. We are not unattached, but are to a certain extent influenced and contingent on our environment. 
+He defines wholeness as the overall cohesiveness and interrelated nature of everything. For example, a building (he was an architect after all) functions as a whole. Missing a roof, or doors, or plumbing affects the ability of the whole to operate. Even the earth functions as a whole. Humans, as participant in this whole, effect it but are also affected by the environment in which we live. We are not unattached, but are to a certain extent influenced and contingent on our environment. 
 
 In Alexander's more philosophical terms: 
 
@@ -100,17 +107,45 @@ A metaphor that can help picture this difference is to think of two frogs. One i
 
 Which frog gives you a better understanding of what a frog really is? 
 
-The dissected frog can teach you a lot about the mechanics of how a frog works internally. But if that perspective is the totality of your understanding and experience of a frog, you will never have a good idea about what a frog is like, or how it sounds, or where it lives. Nor will you understand any of the other things that makes a frog "a frog" as a whole created creature. In the same way, seeking to understand ourselves as created creatures rather than machines must begin from the broad perspective of wholeness.   
+The dissected frog can teach you a lot about the mechanics of how a frog works internally. But if that perspective is the totality of your understanding and experience of a frog, you will never have a good idea about what a frog is like, or how it sounds, or where it lives. Nor will you understand any of the other things that makes a frog "a frog" as a whole created creature. Therefore, the mechanistic worldview is found deeply wanting for clarity and comprehensiveness. 
 
-Now that we have even considered an alternative let us go back to the basics of Genesis chapter 1.
+Christopher Alexander continues from here to develop his philosophy in very interesting ways (not all of which are helpful to a biblical understanding of the world). For our purposes, that does not really matter, we have considered him as an alternative to the prevailing mechanistic perspective to picture even the possibility of another way. We have also seen how an over reliance on a primary driver has detached many philosophes from our real world experience of being human. We are now ready to go back to the basics of Genesis chapter 1.
 # Starting from the Ground Up (Literally)
 
 
 > [!Cite]
-> - then the Lord God formed the man of dust from the ground and breathed into his nostrils the breath of life, and the man became a living creature. - Genesis 2:7
+> - Then the Lord God formed the man of dust from the ground and breathed into his nostrils the breath of life, and the man became a living creature. - Genesis 2:7
 
 > [!cite] Psalm 103:1 (ESV)
 > Bless the Lord, O my soul, and all that is within me, bless his holy name!
+
+
+
+For God, who said, “Let light shine out of darkness,” has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ. But we have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us. - 2 Corinthians 4:6-7 (ESV)
+
+Romans 9:20-21 assumed description of humans as lumps of clay formed by the potter 
+
+Isaiah 29:16
+You turn things upside down! Shall the potter be regarded as the clay, that the thing made should say of its maker, “He did not make me”; or the thing formed say of him who formed it, “He has no understanding”?
+
+Isaiah 44:24 God forms from the womb
+Isaiah 45:9
+“Woe to him who strives with him who formed him, a pot among earthen pots! Does the clay say to him who forms it, ‘What are you making?’ or ‘Your work has no handles’?
+
+Isaiah 64:8
+But now, O Lord, you are our Father; we are the clay, and you are our potter; we are all the work of your hand.
+
+Gen 3:14 dust to dust
+Gen  18:27 Abraham self describes as dust and ashes 
+Psalm 103 What we are made of is dust
+Ec 12:7 talk about life in terms of dust and spirit
+Job 10:8-9 Assumption of Job that he is made of clay 
+Job 33:6 also the assumption of Job's friend
+
+John 9:6 mud on eyes is a creational miracle  
+ Psalm 33:5 God forms hearts same form as initial creation
+Jeremiah 18:6
+“O house of Israel, can I not do with you as this potter has done? declares the Lord. Behold, like the clay in the potter's hand, so are you in my hand, O house of Israel.
 
 Genesis begins with a look into a mysterious world
 
@@ -155,6 +190,8 @@ To you I lift up my eyes - Psalm 123:1
 I have calmed and quieted my soul, like a weaned child with its mother - Psalm 131:2
 
 When my spirit faints within me, you know my way! - Psalm 142:3
+
+
 
 Within all of this is the human who is an Earthen-Spirit neither side is more important nor can they be separated 
 

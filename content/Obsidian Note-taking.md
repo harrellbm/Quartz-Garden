@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.759-07:00","modified":"2025-07-07T12:08:47.636-07:00","published":"2025-07-07T12:08:47.643-07:00","cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.759-07:00","modified":"2025-10-02T14:40:37.456-07:00","published":"2025-10-02T14:40:37.457-07:00","cssclasses":""}
 ---
 
 #🌱Seed  #🙂Agree  #🛠️BringingLifeintotheWorld 
@@ -26,7 +26,7 @@ Related Notes:
 # Plugins I am Using
 
 > [!warning]
-> As of 7-3-25 this is very out of date I need to update this soon but am kind of in the flex of changing a lot of things as I go.
+> As of 10-2-25 this is mostly up to date but have not finished making notes on which ones I use often or are integral to how I use obsidian. 
 
 
 - Callout Manager 
@@ -34,6 +34,12 @@ Related Notes:
 - Git
 - Linter
 - Update time on edit
+- BRAT
+- Dashboard Navigator
+- Chronotyper
+- Dataview
+- Scripture Indexer
+- Quartz Syncer 
 # Interesting Obsidian Plugins
 
 [quickadd](obsidian://show-plugin?id=quickadd)

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-11T08:35:03.770-07:00","modified":"2025-09-11T09:32:09.514-07:00","published":"2025-09-11T09:32:21.672-07:00","cssclasses":""}
+{"publish":true,"created":"2025-09-11T08:35:03.770-07:00","modified":"2025-10-02T15:11:08.065-07:00","published":"2025-10-02T15:11:08.067-07:00","cssclasses":""}
 ---
 
 #🌱Seed   #😐Neutral   #🟡Consideration
@@ -15,58 +15,6 @@ https://obsidian.rocks/getting-started-with-obsidian-bases/
 A possible set up 
 https://forum.obsidian.md/t/media-library-with-bases-pretty-properties/103522
 
-[
-
-[[Books/The Quest for holiness]]
-	{
-		"id": "http://zotero.org/users/14292392/items/EEN7LBJ9",
-		"type": "book",
-		"ISBN": "0-06-207621-3",
-		"title": "Toxic Charity: How Churches and Charities Hurt Those They Help, And How to Reverse It",
-		"URL": "https://www.amazon.com/Toxic-Charity-Churches-Charities-Reverse/dp/0062076213",
-		"author": [
-			{
-				"family": "Lupton",
-				"given": "Robert D."
-			}
-		]
-	},
-	{
-		"id": "http://zotero.org/users/14292392/items/A9HHDCSS",
-		"type": "book",
-		"title": "Sculptor Spirit: Models of Sanctification from Spirit Christology",
-		"URL": "https://www.amazon.com/Sculptor-Spirit-Models-Sanctification-Christology/dp/0830852336",
-		"author": [
-			{
-				"family": "Sanchez",
-				"given": "Dr. Leopoldo"
-			}
-		]
-	},
-	{
-		"id": "http://zotero.org/users/14292392/items/P6BUUNG9",
-		"type": "book",
-		"title": "Just Words",
-		"URL": "https://www.cph.org/p-359-just-words.aspx",
-		"author": [
-			{
-				"family": "Preus III",
-				"given": "Jacob A. O."
-			}
-		]
-	},
-	{
-		"id": "http://zotero.org/users/14292392/items/3BHLDKTD",
-		"type": "book",
-		"title": "Don’t Sing Songs to a Heavy Heart",
-		"URL": "https://www.stephenministries.org/books/default.cfm/753",
-		"author": [
-			{
-				"family": "Haugk",
-				"given": "Kenneth C."
-			}
-		]
-	},
 	{
 		"id": "http://zotero.org/users/14292392/items/V4F5KBXX",
 		"type": "book",

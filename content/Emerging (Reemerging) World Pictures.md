@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-29T12:08:08.673-07:00","modified":"2025-10-02T10:05:47.900-07:00","published":"2025-10-02T10:05:47.897-07:00","cssclasses":""}
+{"publish":true,"created":"2025-09-29T12:08:08.673-07:00","modified":"2025-10-02T16:48:17.056-07:00","published":"2025-10-02T16:48:17.056-07:00","cssclasses":""}
 ---
 
 #🌿Sapling  #🙂Agree  #🟡Consideration #🏖️Universe-Humans 
@@ -11,11 +11,12 @@
 ****
 # Testing Philosophies 
 1. **Jesus Christ is Lord Test**
-	If an idea or philosophy intentionally avoids committing to a full confession of Jesus as Lord of the whole heavens and earth we should be suspicious. 
-2. **Where is God Test**
-	We can ask where an idea or philosophy puts God within the picture of how the world works. Is He deeply involved or not? Is He close to each person or far away? Does the idea "work" just as well with or without God? Is there an alternative way to think about this subject that sees God more directly interacting with our lives? If so that alternative is probably closer to the truth. more right. 
-3. **Where does this Category come From Test**
-	Philosophy and Theology give us categories to see the world through. Male and Female comes straight from Gen 1 while toast and sandwich come from the culinary world. Where a category comes from should tell us how important or foundational it really is. 
+	 If an idea or philosophy intentionally avoids committing to a full confession of Jesus as Lord of the whole heavens and earth we should be suspicious.
+2. **Where is God Test** 
+    We can ask where an idea or philosophy puts God within the picture of how the world works. Is He deeply involved or not? Is He close to each person or far away? Does the idea "work" just as well with or without God? Is there an alternative way to think about this subject that sees God more directly interacting with our lives? If so, that alternative is probably closer to the truth. more right.
+3. **Where does this Category come From Test** 
+	Philosophy and Theology give us categories to see the world through. For example, Male and Female comes straight from Gen 1. While toast and sandwiches come from the culinary world. Where a category comes from should tell us how important or foundational it really is.
+	
 	Further discussion on this topic: [[A Categorical Mind]]
 ## Example Exercise
 Walk through opening lines of the U.S. Declaration of Independence and see how modernity shows up. Use the three tests to see how well it lines up with a Biblical perspective. 

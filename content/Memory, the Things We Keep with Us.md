@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-05-06T11:20:05.662-07:00","modified":"2025-09-24T09:45:02.465-07:00","published":"2025-09-24T09:45:02.477-07:00","cssclasses":""}
+{"publish":true,"created":"2025-05-06T11:20:05.662-07:00","modified":"2025-10-14T09:03:31.060-07:00","published":"2025-10-14T09:03:31.063-07:00","cssclasses":""}
 ---
 
 #🪴Sprout   #🙂Agree   #🟡Consideration   #📝Essay  #🏖️Universe-Humans 
@@ -62,7 +62,7 @@ One word of caution with this kind of memorization is that you actually have to 
 
 As long as I am regularly reading my bible, practicing stories and normally thinking about faith and theology this kind of memorization has helped to make it possible for me to preach without hardly ever having to look down at notes or need to type out whole manuscripts or totally memorize things word for word.
 
-# Telescopic Memorization 
+# Telescopic or Treasure Chest Memorization 
 based on the idea of chucking
 example in the small catechism and Luther
 - two great commandments down to ten commandments on the the rest 
@@ -79,33 +79,36 @@ https://forum.artofmemory.com/t/how-i-memorized-psalm-27-14-verses-in-5-10-minut
 ## Remembering Numbers by hand
 using hands can be a way to hold onto specific numbers
 
-### Whole fingers 
-4 long fingers 
-8 on both hands 
+article about making memory associations with physical things like fingers but also other things:
+https://forum.artofmemory.com/t/question-about-using-your-hand-or-any-memory-devices/97825
+### Numbering by fingers
+**Whole fingers** 
+- 4 long fingers 
+- 8 on both hands 
 
-5 fingers 
-10 on both hands 
+- 5 fingers total
+- 10 on both hands 
 
-### Finger Joints 
-2 knuckles  on thumb 
-4 on both hands 
+**Finger Joints** 
+- 2 knuckles  on thumb 
+- 4 on both hands 
 
-3 knuckles  on each long finger 
+- 3 knuckles  on each long finger 
 
-12 knuckles  on long fingers together
-24 on both hands 
+- 12 knuckles  on long fingers together
+- 24 on both hands 
 
-14 knuckles including thumb 
-28 on both hands 
+- 14 knuckles including thumb 
+- 28 on both hands 
 
-### Larger Arm joints 
-1 Wrist can be added whenever needed 
-1 Elbow
-1 Shoulder 
+**Larger Arm joints** 
+- 1 Wrist can be added whenever needed 
+- 1 Elbow
+- 1 Shoulder 
 
-3 larger joints on each arm 
+- 3 larger joints on each arm 
 
-6 larger joints each 
+- 6 larger joints each 
 
 
 # Peg Method
