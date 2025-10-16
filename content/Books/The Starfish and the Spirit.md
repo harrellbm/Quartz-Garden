@@ -1,10 +1,7 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.758-07:00","modified":"2025-09-11T10:04:23.066-07:00","published":"2025-09-11T10:04:23.068-07:00","tags":["📕Book"],"cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.758-07:00","modified":"2025-10-02T14:54:55.541-07:00","published":"2025-10-16T12:35:53.952-07:00","tags":["📕Book"],"cssclasses":"","socialImage":"https://upload.wikimedia.org/wikipedia/en/8/83/Starfishandthespiderbook.png"}
 ---
 
-#🌱Seed  #🙂Agree   #📘BookNotes 
-
-****
 
 ***The Big Idea***: reimagining church from the perspective of starfish networks 
 

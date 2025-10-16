@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Home Base Camp","title":"Base Camp 🏕️","created":"2024-10-22T11:39:29.726-07:00","modified":"2025-10-02T10:07:05.489-07:00","published":"2025-10-02T10:07:05.489-07:00","tags":["🌲Evergreen"],"cssclasses":""}
+{"publish":true,"aliases":"Home Base Camp","title":"Base Camp 🏕️","created":"2024-10-22T11:39:29.726-07:00","modified":"2025-10-16T12:35:38.872-07:00","published":"2025-10-16T12:35:38.871-07:00","tags":["🌲Evergreen"],"cssclasses":""}
 ---
 
 Hello!
@@ -24,21 +24,21 @@ Here are some basic suggestions for using this garden:
 - Or you can look at my [[Wonder List]] a collection of things that I am thinking about. 
 - If you run into a 404 page it means I haven't made that note yet or haven't uploaded it. If it is interesting to you reach out to me and start a conversation about it.  
 # Notes I have Tended Recently 
-- [[Emerging (Reemerging) World Pictures\|Emerging (Reemerging) World Pictures]]
-- [[Indexes/Scripture Index\|Scripture Index]]
-- [[A Creature Among Machines\|A Creature Among Machines]]
-- [[Making Sense of Our Moment in History\|Making Sense of Our Moment in History]]
-- [[A Categorical Mind\|A Categorical Mind]]
-- [[Two Realms\|Two Realms]]
-- [[The Three Estates\|The Three Estates]]
-- [[Two Kingdoms\|Two Kingdoms]]
-- [[Big Picture Theological Concepts\|Big Picture Theological Concepts]]
-- [[Moralistic Therapeutic Deism\|Moralistic Therapeutic Deism]]
-- [[LCOS Notes/LCOS Epistles\|LCOS Epistles]]
-- [[Quiet Muttering\|Quiet Muttering]]
-- [[Memory, the Things We Keep with Us\|Memory, the Things We Keep with Us]]
-- [[Memorizing the Psalms\|Memorizing the Psalms]]
-- [[Private/Eden Quotes\|Eden Quotes]]
+- [[Books/The Psalter Reclaimed\|The Psalter Reclaimed]]
+- [[ScriptIndex\|ScriptIndex]]
+- [[Books/Luther discovers the Gospel\|Luther discovers the Gospel]]
+- [[Books/The Quiet Ambition\|The Quiet Ambition]]
+- [[Books/Don’t Sing Songs to a Heavy Heart\|Don’t Sing Songs to a Heavy Heart]]
+- [[Books/Just Words\|Just Words]]
+- [[Books/Psalms the Prayer Book of the Bible\|Psalms the Prayer Book of the Bible]]
+- [[Books/Sculptor Spirit\|Sculptor Spirit]]
+- [[Books/The Rise and Triumph of the Modern Self\|The Rise and Triumph of the Modern Self]]
+- [[Books/Spiritus Creator\|Spiritus Creator]]
+- [[Books/St. John Chrysostom Six Books on the Priesthood\|St. John Chrysostom Six Books on the Priesthood]]
+- [[Books/Church and Ministry\|Church and Ministry]]
+- [[Books/Wholly Citizens\|Wholly Citizens]]
+- [[Books/Luther on Vocation\|Luther on Vocation]]
+- [[Books/On Christian Teaching\|On Christian Teaching]]
 
 # Connected by the Roots
 I aim to make this digital space a grove of sorts. A collection of thoughts, ideas, concepts, notes and experiences. 

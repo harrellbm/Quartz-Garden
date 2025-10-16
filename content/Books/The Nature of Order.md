@@ -1,10 +1,8 @@
 ---
-{"publish":true,"title":"The Nature of Order","created":"2024-10-22T11:39:29.759-07:00","modified":"2025-09-11T10:01:38.950-07:00","published":"2025-09-11T10:02:00.043-07:00","tags":["📕Book"],"cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.759-07:00","modified":"2025-10-15T13:41:47.018-07:00","published":"2025-10-16T12:35:42.407-07:00","tags":["📕Book"],"cssclasses":""}
 ---
 
-#🪴Sprout  #🙂Agree  #🟡Consideration #📘BookNotes 
 
-****
 > [!note]
 > Book One Fully Read
 > Book Two Cliff Notes Read
