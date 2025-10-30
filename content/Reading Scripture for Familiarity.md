@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-05-19T13:22:32.868-07:00","modified":"2025-07-24T11:38:10.866-07:00","published":"2025-08-20T11:57:32.739-07:00","cssclasses":""}
+publish: true
+Note Planted: 2025-04-02
+Last Tended: 2025-08-20
+updated: 2025-07-24T11:38:10.866-07:00
+edited_seconds: 1426
 ---
-
 #🌿Sapling   #🙂Agree   #🟢Conviction    #🥾SpiritualPractices-EmbodiedLiving 
 
 ****

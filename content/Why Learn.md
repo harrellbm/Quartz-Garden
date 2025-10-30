@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-04-30T13:57:04.874-07:00","modified":"2025-06-05T15:12:46.498-07:00","published":"2025-06-05T15:12:46.500-07:00","cssclasses":""}
+publish: true
+Note Planted: 2025-04-03
+Last Tended: 2025-06-05
+updated: 2025-06-05T15:12:46.498-07:00
+edited_seconds: 4
 ---
-
 #🌱Seed   #🙂Agree   #🟡Consideration   #📝Essay #🏖️Universe-Humans 
 
 ****

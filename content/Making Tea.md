@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-05-05T14:00:51.739-07:00","modified":"2025-07-02T14:57:00.874-07:00","published":"2025-07-02T14:57:00.882-07:00","cssclasses":""}
+publish: true
+Note Planted: 2025-04-23
+Last Tended: 2025-07-02
+updated: 2025-07-02T14:57:00.874-07:00
+edited_seconds: 55
 ---
-
 #🌱Seed   #🙂Agree   #📊Project  #🛠️BringingLifeintotheWorld 
 
 ****

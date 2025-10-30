@@ -1,7 +1,23 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.758-07:00","modified":"2025-10-02T14:54:55.541-07:00","published":"2025-10-16T12:35:53.952-07:00","tags":["📕Book"],"cssclasses":"","socialImage":"https://upload.wikimedia.org/wikipedia/en/8/83/Starfishandthespiderbook.png"}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-10-02
+tags:
+  - 📕Book
+read: true
+author:
+url:
+isbn:
+updated: 2025-10-20T09:54:16.486-07:00
+edited_seconds: 57
+cover: https://upload.wikimedia.org/wikipedia/en/8/83/Starfishandthespiderbook.png
+published:
+rating:
+pages:
+lists:
+  - Interesting Read
+comment:
 ---
-
 
 ***The Big Idea***: reimagining church from the perspective of starfish networks 
 

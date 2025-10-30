@@ -37,7 +37,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
       if (options.showDates) {
         if (fileData.dates) {
-          segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
+          segments.push(<span><b>Note Planted</b>: <Date date={getDate(cfg, fileData)!} locale={cfg.locale} /><br/></span>)
         }
       }
 

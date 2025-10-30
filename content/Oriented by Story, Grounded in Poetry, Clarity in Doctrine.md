@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-05-05T14:07:51.584-07:00","modified":"2025-09-24T08:17:36.091-07:00","published":"2025-09-24T08:17:36.105-07:00","cssclasses":""}
+publish: true
+Note Planted: 2025-05-05
+Last Tended: 2025-10-16
+updated: 2025-10-19T07:40:52.701-07:00
+edited_seconds: 332
 ---
-
 #🌱Seed   #🙂Agree   #🟡Consideration  #🔥Doctrine-Poetry-Story 
 ****
  
@@ -10,7 +13,30 @@
 > However, they also can become overly reductionistic if treated as an end in themselves. Doctrine is meant to help clarify not replace the full council of Scripture. 
 > With this in mind, Biblical Poetry has a wonderful balancing force. While doctrine is clean and simple and clear. Poetry is expansive, and imaginative. 
 
+Previous thoughts: [[A Creature Among Machines]]
 ****
+# Living in Limits  
+
+Two main characteristics are:
+- time bound - rhythms 
+- Space bound - chiasm 
+
+also in the description of Gen 1 
+
+We are always so focused on transcending these boundaries but what if they are a core part of what makes us human and gives us meaning? 
+
+Maybe see how first commission backs this up or not 
+
+From there jumping into the metaphors that address particular parts of our existence 
+
+Explore this all more in depth with [[The Chiasm or the Chasm]] and [[Patterns of Liturgy-The Rhythm of Life]]
+
+> [!cite] Psalm 103:1 (ESV)
+> Bless the Lord, O my soul, and all that is within me, bless his holy name!
+
+
+
+# Bible Genres
 Bible genres are often used as a way to start thinking about the huge variety of ways of speaking in scripture. 
 
 Have the epic story of the exodus and Jesus crucifixion 

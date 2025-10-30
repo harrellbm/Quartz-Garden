@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Special Elite",
-        body: "Architects Daughter",
+        header: "Architects Daughter",
+        body: "Gentium Book Plus",
         code: "Patrick Hand SC",
       },
       colors: {

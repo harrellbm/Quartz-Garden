@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.757-07:00","modified":"2025-06-17T14:48:24.988-07:00","published":"2025-06-17T14:48:24.990-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-11-04
+Last Tended: 2025-06-12
+updated: 2025-06-17T14:48:24.988-07:00
+edited_seconds: 4
 ---
-
 #🌱Seed  #😐Neutral  #📘BookNotes 
 
 ****
@@ -11,10 +14,10 @@
 
 Related notes: 
 - [[Seven Practices of Healthy Youth Ministry]]
-- [[Conference Notes/Notes on Fundraising, Travel, Risk Management and Logistics]]
+- [[Notes on Fundraising, Travel, Risk Management and Logistics]]
 - [[Scaffolding Dance as Parents]]
 - [[Supportive Adults]]
-- [[Conference Notes/Notes from Partnering with Parents]]
+- [[Notes from Partnering with Parents]]
 - [[Notes from The communal shape of the Christian Life ]]
 
 ****
@@ -170,11 +173,11 @@ Need to move to a companion-oriented way of doing ministry
 
 Warning - no church worker can be a place sharer with all the people in a church or youth. There needs to be boundaries and a community of leaders 
 
-Church workers can think of themselves as a matchmaker putting youth and [[Supportive Adults]] together 
+Church workers can think of themselves as a matchmaker putting youth and [[supportive adults]] together 
 
 This is a way to think about how to build community in an intentional way that encourages real community that is not just based on the work of a pastor or youth worker 
 
-Bonhoeffer - [[LCOS Notes/Rhythms and Patterns/Life Together]] - 
+Bonhoeffer - [[life together]] - 
 A day spent together is praying, reading Scripture, singing, and table fellowship all done together 
 Types of Table fellowship 
 - daily meals 
@@ -207,7 +210,7 @@ Different ways to respond:
 3. Run with the world in conformity. Younger people are more tempted to run with the world in conformity. 
 4. Pursue Hospitality. Rom 12:1-2, do not be conformed to the world. Rom 12:9-18 what it looks like to live as a Christian in love. Paul talks about how to live as church but also how to respond to the world outside. This is a great section on rhythms. 
 
-What is [[LCOS Notes/Rhythms and Patterns/Hospitality]]. The Greek word is a combination of two words.
+What is [[hospitality]]. The Greek word is a combination of two words.
 Philo - love 
 Xenia- strange. 
 Which means love of those who are strange. That is what hospitality is it’s messy and hard. 

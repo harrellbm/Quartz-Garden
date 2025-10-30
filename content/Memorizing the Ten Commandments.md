@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2025-05-27T14:02:29.088-07:00","modified":"2025-06-17T14:34:57.376-07:00","published":"2025-06-17T14:34:57.376-07:00","cssclasses":""}
+Note Planted: 2025-05-06
+Last Tended: 2025-06-05
+publish: true
 ---
-
 #🌱Seed   #😐Neutral   #🟡Consideration   #📊Project   #📓Journal  #🥾SpiritualPractices-EmbodiedLiving 
 
 ****
@@ -27,7 +28,7 @@ zoom in to see two tablets
 # Layer One - Two Great Commandments
 
 > [!quote] Matthew 22:36-40 ESV
-> “Teacher, which is the great commandment in the Law?” And he said to him, “You shall [[Love the Lord Your God with all Your Heart]] and with all your soul and with all your mind. This is the great and first commandment. And a second is like it: You shall love your neighbor as yourself. On these two commandments depend all the Law and the Prophets.”
+> “Teacher, which is the great commandment in the Law?” And he said to him, “You shall [[love the Lord your God with all your heart]] and with all your soul and with all your mind. This is the great and first commandment. And a second is like it: You shall love your neighbor as yourself. On these two commandments depend all the Law and the Prophets.”
 
 When Jesus says "On these two commandments **depend** all the Law and the Prophets" the word he uses is: 
 ![[Pasted image 20250528110854.png]]

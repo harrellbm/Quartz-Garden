@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.741-07:00","modified":"2025-06-17T14:48:07.184-07:00","published":"2025-06-17T14:48:07.184-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-06-04
 ---
-
 #🌱Seed  #🙂Agree  #📘BookNotes 
 
 ****
@@ -30,7 +31,7 @@ Characteristics of parents who pass on their faith
 
 Best approach 
 1. Focus on family as a unit more than age groups. How do you help cohorts of families through as a whole rather than just a single kid or group of kids. How can the church come along side of these families as they grow and mature.
-2. Take a long view in [[Faith Formation]]. Not just a short time horizon. How do you help kids and families learn how to learn and be curious about their faith and find answers together. The conversation needs to keep happening so that growth happens over time and not just being forced to agree with something.
+2. Take a long view in [[faith formation]]. Not just a short time horizon. How do you help kids and families learn how to learn and be curious about their faith and find answers together. The conversation needs to keep happening so that growth happens over time and not just being forced to agree with something.
 
 Book: Soul Searching Christian Smith source of [[Moralistic Therapeutic Deism]]
 

@@ -1,14 +1,30 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.759-07:00","modified":"2025-10-15T13:41:47.018-07:00","published":"2025-10-16T12:35:42.407-07:00","tags":["📕Book"],"cssclasses":""}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-10-15
+tags:
+  - 📕Book
+read: true
+author: Christopher Alexander
+url: http://www.natureoforder.com/overview.html
+isbn:
+updated: 2025-10-15T13:41:47.018-07:00
+edited_seconds: 50
+cover:
+published:
+rating:
+pages:
+lists:
+  - Interesting Read
+comment:
 ---
-
 
 > [!note]
 > Book One Fully Read
 > Book Two Cliff Notes Read
 
 > [!Summary] The Big Idea
-> [[Christopher Alexander (Architect, Author)]] lays out a huge perspective on how the built environment interacts with the human wellbeing and functioning of society.  This also bleeds into claims on [[Cosmology]], the order of the universe, and humanity.
+> [[Christopher Alexander (Architect, Author)]] lays out a huge perspective on how the built environment interacts with the human wellbeing and functioning of society.  This also bleeds into claims on [[cosmology]], the order of the universe, and humanity.
 
 Website that has overviews of the Books:
 [Nature of Order Website](http://www.natureoforder.com/overview.htm)
@@ -35,7 +51,7 @@ Major argument is that Descartes and other scientific thought has basically made
 
 What he argues is that this basically creates a completely chaotic world where everyone has their own value arguments and just kinda chooses a random value to work from. This creates not way to actually have any coherent community or progress together because value is all about personal opinion rather than what is actually good or whole. 
 
-This applies to [[Architecture]] with the real lived environment of our world just falling  into haphazard chaos with no way to have a conversation that finds real common ground.
+This applies to [[architecture]] with the real lived environment of our world just falling  into haphazard chaos with no way to have a conversation that finds real common ground.
 
 Lays out a new way of understanding science and scientific inquiry that includes being able to make truth claims about the value of things. The wholeness, life and harmony of objects are things that can be understood and investigated.
 
@@ -207,7 +223,7 @@ Here are specific notes on each centers relationship:
 [[The Ways Centers Help Each Other Have More Life]]
 
 > [!Quote]
-> If we are to use the theory of centers — and the concept of life — as the basis of all [[Architecture]], it would be reassuring to know that wholeness, together with the properties which bring centers to life, is a necessary feature of material reality, not merely a psychological aspect of things which arises during perception of works of art.
+> If we are to use the theory of centers — and the concept of life — as the basis of all [[architecture]], it would be reassuring to know that wholeness, together with the properties which bring centers to life, is a necessary feature of material reality, not merely a psychological aspect of things which arises during perception of works of art.
 > - Nature of Order, Bk. 1, p. 244
 
 > [!Quote] 
@@ -220,7 +236,7 @@ The method by which he observes the world
 He also redefines an alternative from of objectivity. Rather than strictly the observation method of science being the only form. He argues that there is also a consistent reaction of humans to the world around us. This reaction is the same (roughly) between people no matter of culture, gender, age or any differentiating factors. This reaction however is not the knee jerk “things I like” or normal emotional reaction but a kind of deep liking or as he calls it “mirror of the self.” In other words, we can objectively tell which environments make humans more healthy and whole if this deep liking can be brought out. The problem he argues is that we are often taught to ignore this [[Deep Feeling]] in favor of the societal ideal or popular trends. 
 
 > [!quote]
-> The scheme of things I have started to present covers all of [[Architecture]]. The scheme starts with the concept of wholeness as something which exists in space, and with the idea of centers, the way that centers help each other. It goes on to the idea of living structure — the detailed ideas about the fifteen properties that allow centers to help each other, and the observation that this structure is pervasive in nature and in deeply satisfying man-made things.
+> The scheme of things I have started to present covers all of [[architecture]]. The scheme starts with the concept of wholeness as something which exists in space, and with the idea of centers, the way that centers help each other. It goes on to the idea of living structure — the detailed ideas about the fifteen properties that allow centers to help each other, and the observation that this structure is pervasive in nature and in deeply satisfying man-made things.
 > - Nature of Order, bk 1., p. 442.
 
 

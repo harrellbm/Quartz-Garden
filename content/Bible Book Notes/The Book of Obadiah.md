@@ -1,7 +1,6 @@
 ---
 {"publish":true,"created":"2024-12-16T08:29:27.200-08:00","modified":"2025-04-03T15:28:39.738-07:00","published":"2025-04-03T15:28:39.738-07:00","cssclasses":""}
 ---
-
 #🌱Seed   #🙂Agree   #📓Journal 
 
 ****

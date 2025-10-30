@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.726-07:00","modified":"2025-08-20T11:43:34.520-07:00","published":"2025-08-20T11:43:34.524-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-10-23
+updated: 2025-10-30T09:55:05.553-07:00
+edited_seconds: 784
 ---
-
 #🍋Fruit   #😁Strongly-Agree   #📊Project   #🛠️BringingLifeintotheWorld 
 
 ****
@@ -56,6 +59,10 @@ Easily switch between drafting and signature ordering 
 - [x] Clean up documentation and examples
 ## Sig 0.4.0
 
+- [ ] Add center-blank property. If set to true will place needed blank pages in the center of the signature in order fill out clean sets of four. (Default is to place blank pages at the end of the signature).  This offers three distinct scenarios: 
+	1. For example, 5 pages will put out one full front and back four half sheet signature page. The second signature page will have a single half sheet and three blank half sheets. This allows for cutting the single half sheet from the blank pages and inserting it into the signature.
+	2. 6 pages will put out the same full front and back signature, but will have a front and back half sheet next to two blank half sheets. Also allowing for cutting the blank half sheet and inserting into the signature. Note: (This creates a six page booklet with the least amount of paper possible). 
+	3. 7 pages will print the same full signature page as above and the second signature page will have three half sheets and the one blank half sheet will be placed at its end. (This is the least useful option but handled for consistency) 
 - [ ] Add option to lay out signatures for single sided printing. Have an output pdf for "front" then and output pdf for "back" 
 - [ ] Wait for typst 0.14 and then add the ability to add a helper function to generate the content block needed to add a pdf as pages in a book. basically pdf is added as an image that image is added as one content block that ends up being one page in the booklet
 ## Sig 0.5.0

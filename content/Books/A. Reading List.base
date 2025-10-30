@@ -1,0 +1,27 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("📕Book")
+        - file.name != "New Book"
+        - read == false
+    order:
+      - title
+      - author
+      - url
+      - file.name
+    sort:
+      - property: url
+        direction: ASC
+    columnSize:
+      note.title: 285
+      note.author: 197
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.hasTag("📕Book")
+    rowHeight: medium
+    image: file.file
+    imageFit: ""

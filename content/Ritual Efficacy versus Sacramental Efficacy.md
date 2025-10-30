@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2024-12-17T09:20:22.812-08:00","modified":"2025-06-04T12:38:51.767-07:00","published":"2025-06-04T12:38:51.767-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-12-17
+Last Tended: 2025-01-22
 ---
-
 #🪴Sprout    #🙂Agree    #🟢Conviction  #🔥Doctrine-Poetry-Story 
 
 ****

@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2025-02-16T08:13:27.813-08:00","modified":"2025-06-17T14:48:04.192-07:00","published":"2025-06-17T14:48:04.192-07:00","cssclasses":""}
+publish: true
+Note Planted: 2025-02-13
+Last Tended: 2025-06-04
 ---
-
 #🌱Seed   #😐Neutral   #🟡Consideration   #📓Journal  #📘BookNotes 
 ****
  
@@ -30,7 +31,7 @@ Start where you are at not where you want to be
 
 Away notice on day off 
 
-Worship slide need to harmonize with the church’s worship [[Aesthetic]] 
+Worship slide need to harmonize with the church’s worship [[aesthetic]] 
 
 Worship slides Must respects the balance between function and aesthetic 
 

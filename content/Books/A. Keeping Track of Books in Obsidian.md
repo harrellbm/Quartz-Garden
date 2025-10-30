@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-09-11T08:35:03.770-07:00","modified":"2025-10-02T15:11:08.065-07:00","published":"2025-10-02T15:11:08.067-07:00","cssclasses":""}
+publish: true
+Note Planted: 2025-09-11
+Last Tended: 2025-10-21
+updated: 2025-10-21T08:53:49.882-07:00
+edited_seconds: 475
 ---
-
 #🌱Seed   #😐Neutral   #🟡Consideration
 ****
  
@@ -15,57 +18,6 @@ https://obsidian.rocks/getting-started-with-obsidian-bases/
 A possible set up 
 https://forum.obsidian.md/t/media-library-with-bases-pretty-properties/103522
 
-	{
-		"id": "http://zotero.org/users/14292392/items/V4F5KBXX",
-		"type": "book",
-		"title": "Fate or Africa",
-		"author": [
-			{
-				"family": "Meredith",
-				"given": "Martin"
-			}
-		]
-	},
-	{
-		"id": "http://zotero.org/users/14292392/items/3QYDSHSK",
-		"type": "book",
-		"title": "In Search of History",
-		"URL": "https://www.amazon.com/Search-History-Personal-Adventure/dp/0446971464",
-		"author": [
-			{
-				"family": "White",
-				"given": "Teddy"
-			}
-		]
-	},
-	{
-		"id": "http://zotero.org/users/14292392/items/2N2AJ3XT",
-		"type": "book",
-		"title": "Faith for Exiles: 5 Ways for a New Generation to Follow Jesus in Digital Babylon",
-		"URL": "https://www.amazon.com/Faith-Exiles-Generation-Digital-Babylon/dp/0801013151",
-		"author": [
-			{
-				"family": "Kinnaman",
-				"given": "David"
-			},
-			{
-				"family": "Matlock",
-				"given": "Mark"
-			}
-		]
-	},
-	{
-		"id": "http://zotero.org/users/14292392/items/W4SKPCG7",
-		"type": "book",
-		"title": "Bondage Breaker",
-		"URL": "https://www.amazon.com/Bondage-Breaker-Neil-T-Anderson/dp/0736918140",
-		"author": [
-			{
-				"family": "Anderson",
-				"given": "Neal"
-			}
-		]
-	},
 	{
 		"id": "http://zotero.org/users/14292392/items/BUJNKJYN",
 		"type": "book",
@@ -1087,33 +1039,6 @@ https://forum.obsidian.md/t/media-library-with-bases-pretty-properties/103522
 					"2015",
 					1,
 					21
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/14292392/items/6A4PVW9I",
-		"type": "book",
-		"abstract": "Central to God’s character is the quality of holiness. Yet, even so, most people are hard-pressed to define what God’s holiness precisely is. Many preachers today avoid the topic altogether because people today don’t quite know what to do with words like “awe” or “fear.” R. C. Sproul, in this classic work, puts the holiness of God in its proper and central place in the Christian life. He paints an awe-inspiring vision of God that encourages Christian to become holy just as God is holy. Once you encounter the holiness of God, your life will never be the same.",
-		"edition": "Revised edition",
-		"ISBN": "978-0-8423-3965-0",
-		"language": "English",
-		"number-of-pages": "240",
-		"publisher": "Tyndale Momentum",
-		"source": "Amazon",
-		"title": "The Holiness of God",
-		"author": [
-			{
-				"family": "Sproul",
-				"given": "R. C."
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2000",
-					7,
-					1
 				]
 			]
 		}

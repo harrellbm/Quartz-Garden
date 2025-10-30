@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-06-17T13:12:34.052-07:00","modified":"2025-06-17T13:28:01.635-07:00","published":"2025-06-17T13:28:01.644-07:00","cssclasses":""}
+publish: true
+updated: 2025-06-17T13:28:01.635-07:00
+edited_seconds: 83
+Note Planted: 2025-06-17
+Last Tended: 2025-06-17
 ---
-
 #🌿Sapling    #🙂Agree    #🟢Conviction   #📰Handout  #🥾SpiritualPractices-EmbodiedLiving 
 ****
 # **Act: Praying with Our Bodies**

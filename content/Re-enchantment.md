@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-04-01T15:46:01.902-07:00","modified":"2025-06-17T13:38:02.022-07:00","published":"2025-06-17T14:40:15.606-07:00","cssclasses":""}
+publish: true
+Note Planted: 2025-04-01
+Last Tended: 2025-06-17
+updated: 2025-06-17T13:38:02.022-07:00
+edited_seconds: 334
 ---
-
 #🌱Seed   #😐Neutral   #🟡Consideration  #🔥Doctrine-Poetry-Story 
 ****
  
@@ -14,4 +17,4 @@ While pointing out a real issue I think that the bare drive to re-enchant is not
 
 ****
 
-In contrast we need to show that the [[Cosmology]] of Christianity is alive and vivid even more so than this disembodied goal of enchantment.  The active work of God and the reality of spiritual warfare are two places where Christian [[Cosmology]] highlights the true and vivid nature of the world. This needs to avoid the animism and idol making that can quickly come out of an ungrounded dive into a world full of spirits fairies and any other beings one might like to imagine. Rather we can accept the desire to return to a more vivid world picture but acknowledge that that world picture starts and stops with the sovereignty of Christ. 
+In contrast we need to show that the [[cosmology]] of Christianity is alive and vivid even more so than this disembodied goal of enchantment.  The active work of God and the reality of spiritual warfare are two places where Christian [[cosmology]] highlights the true and vivid nature of the world. This needs to avoid the animism and idol making that can quickly come out of an ungrounded dive into a world full of spirits fairies and any other beings one might like to imagine. Rather we can accept the desire to return to a more vivid world picture but acknowledge that that world picture starts and stops with the sovereignty of Christ. 

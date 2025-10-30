@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-02-26T13:23:17.691-08:00","modified":"2025-09-09T14:04:28.576-07:00","published":"2025-09-09T14:04:28.577-07:00","cssclasses":""}
+publish: true
+Note Planted: 2025-02-26
+Last Tended: 2025-09-09
+updated: 2025-09-09T14:04:28.576-07:00
+edited_seconds: 84
 ---
-
 #🌱Seed   #😁Strongly-Agree    #🟡Consideration  #📘BookNotes 
 ****
  
@@ -23,10 +26,10 @@
 The curriculum is built on Biblical Themes. Here is the introduction packet and the "cheat sheet" they get for reading through the Word on their own.
 >
 >[Biblical Themes Packet](https://docs.google.com/document/d/1KlZuGpRum8V7eOclQ2BHBTHY_auJ4MXYqUHYXTau4XQ/edit?usp=sharing) (
->Working copy to markdown - [[LCOS Notes/LCOS Biblical Themes Packet/LCOS Biblical Themes Packet]])
+>Working copy to markdown - [[LCOS Biblical Themes Packet]])
 >
 >[Biblical Themes Outline](https://docs.google.com/document/d/1GaJg0GgUjQcQ9bhbU9nmi-CsfuVGyqHkRuI1z1fZV-A/edit?usp=sharing) (Modified one with [Questions to Ask](https://docs.google.com/document/d/17qteKuTVtZTGgd6R2tCSfo1m7pLklzh0jLY1S30FxN8/edit?usp=sharing))
->Working copy to markdown - ([[LCOS Notes/LCOS Biblical Themes Outline]])
+>Working copy to markdown - ([[LCOS Biblical Themes Outline]])
 >
 >We use Meditation Logs as our primary method for students engaging with the Word, asking questions and making observations. Here they are for the Genesis through Numbers:
 >

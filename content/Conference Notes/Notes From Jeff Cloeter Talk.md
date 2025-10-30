@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2025-06-17T13:06:26.204-07:00","modified":"2025-06-17T13:10:09.850-07:00","published":"2025-06-17T13:10:09.851-07:00","cssclasses":""}
+publish: true
+updated: 2025-06-17T13:10:09.850-07:00
+edited_seconds: 105
 ---
-
   #🌱Seed   #😐Neutral   #🟡Consideration  #📘BookNotes 
 ****
  

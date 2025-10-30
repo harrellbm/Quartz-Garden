@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2025-04-03T11:36:40.021-07:00","modified":"2025-06-04T11:29:50.487-07:00","published":"2025-06-04T11:29:50.487-07:00","cssclasses":""}
+publish: true
+Note Planted: 2025-04-03
+Last Tended: 2025-06-04
 ---
-
 #🪴Sprout   #🙂Agree   #🟢Conviction   #📚Definition   #📓Journal  
 #🔥Doctrine-Poetry-Story 
 ****
@@ -9,7 +10,7 @@
 >[!Summary] The Big Idea
 > Starting to collect instances and resources around big biblical themes.
 
-Similar Ideas: [[Book and Conference Notes/Notes from Conversation with Sarah Salzburg]]
+Similar Ideas: [[Notes from Conversation with Sarah Salzburg]]
 ****
 # The Core Seven
 ![[Biblical Themes Symbols.jpeg]]
@@ -39,7 +40,7 @@ Similar Ideas: [[Book and Conference Notes/Notes from Conversation with Sarah Sa
 - Choices made to either follow Yahweh or define good and bad for yourself
 ### Examples:
 - Path back guarded by two angels. Becomes a signal for where the path back to God is.
-- [[Sermons/2025/4.24.25 Lampstands and Glorified Christ]] connection of Lampstand with Tree of life.
+- [[4.24.25 Lampstands and Glorified Christ]] connection of Lampstand with Tree of life.
 # 5. Exile
 - “East of `______` / “Down to `________`
 - “Babylon”/ “Egypt”/ “Assyria”
@@ -92,7 +93,7 @@ Similar Ideas: [[Book and Conference Notes/Notes from Conversation with Sarah Sa
 	- They thought they could raise themselves up or be safe because they lived in high places. 
 - Chosen Nation and All Nations
 	- Transition from chosen nation to all nations
-	- In [[Bible Book Notes/The Book of Obadiah]], Edom becomes an emblem of all the nations in the middle of the book in verse 15 where is switches to judgment against all nations for refusing to acknowledge God
+	- In [[The Book of Obadiah]], Edom becomes an emblem of all the nations in the middle of the book in verse 15 where is switches to judgment against all nations for refusing to acknowledge God
 - Justice
 	- Justice according to God's rule and definition of what is right not what the Edomites convinced themselves was right. 
 - Rule of God

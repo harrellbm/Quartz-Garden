@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-09-04T09:04:38.824-07:00","modified":"2025-09-11T08:21:02.166-07:00","published":"2025-09-11T08:21:34.252-07:00","cssclasses":""}
+publish: true
+Note Planted: 2025-05-12
+Last Tended: 2025-09-11
+updated: 2025-09-11T08:21:02.166-07:00
+edited_seconds: 1634
 ---
-
 #🌱Seed   #🙂Agree  #📓Journal 
 ****
  

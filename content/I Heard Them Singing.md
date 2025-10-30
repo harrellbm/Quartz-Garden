@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-04-09T13:43:28.957-07:00","modified":"2025-09-15T09:00:11.213-07:00","published":"2025-09-15T09:00:43.242-07:00","cssclasses":""}
+publish: true
+Note Planted: 2025-04-09
+Last Tended: 2025-09-15
+updated: 2025-09-15T09:00:11.213-07:00
+edited_seconds: 7
 ---
-
 #🌱Seed   #😐Neutral   #🟡Consideration   #🔥Doctrine-Poetry-Story 
 ****
  
@@ -26,7 +29,7 @@ my connection with Irish music
 
 This participation in worship takes on two main aspects throughout the pages of Scripture.  One is remembrance and connection to story; the second is the creative worship response.  Connection to story is important because we come into God’s story.  He has defined and laid out the course of the salvation narrative.  Therefore, we should not be trying to fit Him into our lives, but humbly entering His.  His story started long before our birth and encompasses many more lives than our own.  Being connected to God’s story is to be connected with His community: the Church.  We read words that are not our words, but become ours.  We sing songs that are not our songs, but become ours.  We do and say and think and act in ways that are not ours, but become ours as we are connected to the heritage of our faith.  Communal worship is a space to encounter, learn, connect, and participate in this grand old story.  
 
-The creative worship response is a related yet distinct way the body of Christ participates in worship.  Whenever God’s people have encountered Him the natural response has always been creative.  After crossing through the Red Sea the Israelites sang a new song.  After Mary encountered the angel and the wonders of the Christmas story she sang a new song.  The giving of the covenant on mount Sinai was followed by the outpouring of God given creative power to build and decorate [[The Tabernacle]] and its instruments.  Encountering God is an occasion to bring forth the creative expression of praise and wonder.  Not only this, but times of darkness and despair are also times for creative response in lament.  God’s people have always responded to God creatively, whether He feels close or far, this creative impulse should by no means be neglect.  
+The creative worship response is a related yet distinct way the body of Christ participates in worship.  Whenever God’s people have encountered Him the natural response has always been creative.  After crossing through the Red Sea the Israelites sang a new song.  After Mary encountered the angel and the wonders of the Christmas story she sang a new song.  The giving of the covenant on mount Sinai was followed by the outpouring of God given creative power to build and decorate [[the tabernacle]] and its instruments.  Encountering God is an occasion to bring forth the creative expression of praise and wonder.  Not only this, but times of darkness and despair are also times for creative response in lament.  God’s people have always responded to God creatively, whether He feels close or far, this creative impulse should by no means be neglect.  
 
 ## Engaging Worship from Our Place in the Story
 
@@ -50,13 +53,7 @@ And does the particular form of the act matter?
 Why did Jesus not spell it out more in Scripture? 
 
 The difference between sacrament and ritual. 
-## Ritual Efficacy versus Sacramental Efficacy
-
-Keeping in mind the tension of tradition and translation, we come to the need to differentiate between ritual efficacy and sacramental efficacy.[^1]   On the one hand, the word of God is always efficacious.  For example, a sermon can be given in the most monotone and dull method, written in the most cliche and boring style, yet it is still God’s living and active word at work among His people.  The word of God will do what the world of God will do by the power of the Holy Spirit apart from, and often in spite of, our human efforts.  The deep reality of the words sacramental efficacy is somewhat at odds, however, with our experience of ritual efficacy.  The sermon described above will be met with eye rolls and sighs as even willing listeners struggle to not fall asleep.  This same idea can be fleshed out in many other examples that all lead to the need to evaluate and work toward ritually effective forms of liturgy.  
-
-To state this distinction another way, all liturgy grounded in the true word of God and the right celebration of God’s gifts (sacramental and other) are without question efficacious (sacramental efficacy).  It makes no difference how engaging, interesting or personally compelling an individual finds it.  Liturgy delivers the goods of God’s promises with 100% assurance.  Ritual efficacy, on the other hand, deals in our human experience of a particular liturgical form’s ability to engage us.  It is no secret that almost every person finds different styles of worship music more or less effective for their personal engagement in meaningful worship.  Not only this but fields such as neuroscience point out the benefits of multisensory engagement for memory and retention of material in sermons and bible reading.  By maintaining the distinction between sacramental efficacy and ritual efficacy we can critically engage our practice of liturgy affirming the value and place for all faithful forms, while also acknowledging the nuances of human engagement.       
-
-[^1]: **Marriot, Article on Liturgy and discipleship, 10. [link](https://drive.google.com/file/d/1d5CYDp1PlyT-sHoIG9Wx41NfbU37ws7s/view?usp=sharing)**  
+![[Ritual Efficacy versus Sacramental Efficacy#Ritual Efficacy versus Sacramental Efficacy]]  
 
 ritual as a human act (the things we do). Sacrament as what God does for us. Sacrament as the visible word of God. 
 
