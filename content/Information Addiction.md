@@ -1,10 +1,7 @@
 ---
-publish: true
-Note Planted: 2025-05-05
-Last Tended: 2025-06-17
-updated: 2025-06-17T13:06:24.959-07:00
-edited_seconds: 53
+{"publish":true,"created":"2025-05-05T14:01:29.243-07:00","modified":"2025-06-17T13:06:24.959-07:00","published":"2025-06-17T13:06:24.963-07:00","cssclasses":""}
 ---
+
 #🌱Seed   #🙂Agree   #🟡Consideration  #🏖️Universe-Humans 
 ****
  
@@ -12,7 +9,7 @@ edited_seconds: 53
 > We live in a world obsessed with always knowing the latest or the breaking news or the thing around the bend. I feel like we often end up forgetting what we already know or the things we should take time to know better in the midst of the constant churn. 
 
 Related Notes:
-[[Tail Knowledge and Knowledge Collapse]]
+[[Tail Knowledge and Knowledge Collapse/Tail Knowledge and Knowledge Collapse]]
 [[Soundbite Culture]]
 ****
 

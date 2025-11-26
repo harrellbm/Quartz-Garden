@@ -1,13 +1,7 @@
 ---
-publish: true
-Note Planted: 2025-05-06
-Last Tended: 2025-10-30
-updated: 2025-10-30T13:59:04.987-07:00
-edited_seconds: 17125
+{"publish":true,"created":"2025-05-12T14:19:27.705-07:00","modified":"2025-11-13T09:31:20.120-08:00","published":"2025-11-13T09:31:20.121-08:00","tags":["🪴Sprout","😁Strongly-Agree","🟢Conviction","📊Project","📓Journal","🥾SpiritualPractices-EmbodiedLiving"],"cssclasses":""}
 ---
-  #🪴Sprout   #😁Strongly-Agree    #🟢Conviction    #📊Project #📓Journal  #🥾SpiritualPractices-EmbodiedLiving 
-****
- 
+
 >[!Summary] The Big Idea
 > # An Experiment: Memorizing the Psalter
 > 
@@ -32,7 +26,7 @@ edited_seconds: 17125
 
 Similar Notes:
 [[Memory, the Things We Keep with Us]]
-[[Psalms-The Language of Our Heart]]
+[[Bible Book Notes/Psalms-The Language of Our Heart]]
 [[Christian Meditation]]
 [[Embodiment of Community]]
 [[I Heard Them Singing]]
@@ -86,13 +80,13 @@ These are potential texts that Dr. Saleska suggested to me. They are especally f
 - Wilfred Watson. “Classical Hebrew Poetry: A Guide to its Techniques.” 
 ## Other Possible Reads
 - Martin Luther. Selected Psalms. Luther’s Works, Vol. 11,13-14
-- [[Luther discovers the Gospel]]
+- [[Books/Luther discovers the Gospel]]
 # Seeking Overall Shape and Structure 
 Since the main goal is to memorize everything having a handle on the overall structure of how the Psalter holds together will make it easier to keep things in memory as a dynamic unit and not a million individual unrelated chunks or a huge rote memorized list that I cannot access except at the beginning and end. 
 
 To this end I will use the following higherarchy of features to start grouping and noticing structure within the Psalter
 
-1. **Psalter as a Unified Whole** - I believe that the whole psalter is meant to work together and puts forward a coherent prayer life, as well as teaching us a full bodied grammar and language in which to pray faithfully. This is inline with many early church Fathers who treated it as a kind of manual for Christian living. Some related thoughts: [[Psalms-The Language of Our Heart]]
+1. **Psalter as a Unified Whole** - I believe that the whole psalter is meant to work together and puts forward a coherent prayer life, as well as teaching us a full bodied grammar and language in which to pray faithfully. This is inline with many early church Fathers who treated it as a kind of manual for Christian living. Some related thoughts: [[Bible Book Notes/Psalms-The Language of Our Heart]]
 	1.  **Opening and Closing** - Treating Psalm 1 and 2 as an overall introduction and 146-150 as the overall conclusion. I think this will be important to identify important themes and how they start and all lead toward the final praise of God. 
 2. **Book Division** - The five books offer the most clear division of the psalms and will serve as the next step down in organization. I think that it will help keep things in a nicely memorable packet. Therefore I will look for how Psalms relate within each book especially the start end and chiastic middle of each book.
 3. **Superscriptions** - The next major clue to how things fit together and work together are the superscriptions. Not all Psalms have them but they can be found across all five books and offer a lot of information about how to group psalms and what they are helpful for.
@@ -994,7 +988,7 @@ The purpose of this memory palace (Memory Temple really) is to place the psalms 
 
 The images and placement of things are starting vaguely but as I study Ezekiel's vision I will work to flesh it out more clearly. While also allowing my imagination to create an image that is memorable and engaging for me. 
 
-Notes on the books for reference: [[The Book of Ezekiel]]
+Notes on the books for reference: [[Bible Book Notes/The Book of Ezekiel/The Book of Ezekiel]]
 
 ### Description of overall setting:
 Imagine a kind of zoomed out view. A high huge Mountain covered in trees and plants with a kind of  temple complex at the top. A city is off to the south below. 

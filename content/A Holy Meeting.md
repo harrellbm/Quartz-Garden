@@ -1,8 +1,7 @@
 ---
-publish: true
-Note Planted: 2025-04-10
-Last Tended: 2025-06-04
+{"publish":true,"created":"2025-05-23T10:34:28.072-07:00","modified":"2025-06-04T11:21:48.834-07:00","published":"2025-06-04T11:21:48.834-07:00","cssclasses":""}
 ---
+
 #🍋Fruit   #✒️Poem  #🔥Doctrine-Poetry-Story 
 ****
 

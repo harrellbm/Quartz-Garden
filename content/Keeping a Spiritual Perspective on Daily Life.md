@@ -1,8 +1,7 @@
 ---
-publish: true
-updated: 2025-06-30T09:48:03.422-07:00
-edited_seconds: 260
+{"publish":true,"created":"2025-06-30T09:41:36.590-07:00","modified":"2025-06-30T09:48:03.422-07:00","published":"2025-06-30T09:48:03.425-07:00","cssclasses":""}
 ---
+
 #🌱Seed   #🙂Agree   #🟡Consideration   #📘BookNotes 
 ****
  

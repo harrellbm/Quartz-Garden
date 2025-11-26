@@ -1,8 +1,7 @@
 ---
-publish: true
-Note Planted: 2024-10-23
-Last Tended: 2025-01-22
+{"publish":true,"created":"2024-10-23T08:48:48.915-07:00","modified":"2025-06-17T14:47:55.446-07:00","published":"2025-06-17T14:47:55.446-07:00","cssclasses":""}
 ---
+
 #🌱Seed  #🙂Agree   #🟢Conviction   #📰Handout 
 
 ****
@@ -16,7 +15,7 @@ Last Tended: 2025-01-22
 
 A little background in my training will help to lay the ground work for this brief document. The leadership books Pastor Allen has suggested like *Canoeing the Mountains,* *Leadership and Self Deception*, etc. are the leadership frameworks I was trained in over the course of my Seminary training. All of these book grapple with the reality that we live in a different world than existed even twenty years ago. We now live in a "Post-Christian" or "Post-Constantinian" world. 
 
-Therefore, as we begin doing [[life together]], it is vital that we address this 10,000 pound gorilla in the room. The Church has often become comfortable with status quos that no longer effectively communicate the Gospel to our changed world. It is vital that we enter into the visioning feedback loop in order to evaluate, experiment, and dream of how to be the church among the new and arising challenges of our world. The core of who we are will never change but the mode of our witness must be focused and refocused on what really matters. Every plan, no matter how well intended, will eventually go off track if it is not held in line with our core principles and ethos. The formal term for this is "mission drift." 
+Therefore, as we begin doing [[LCOS Notes/Rhythms and Patterns/Life Together]], it is vital that we address this 10,000 pound gorilla in the room. The Church has often become comfortable with status quos that no longer effectively communicate the Gospel to our changed world. It is vital that we enter into the visioning feedback loop in order to evaluate, experiment, and dream of how to be the church among the new and arising challenges of our world. The core of who we are will never change but the mode of our witness must be focused and refocused on what really matters. Every plan, no matter how well intended, will eventually go off track if it is not held in line with our core principles and ethos. The formal term for this is "mission drift." 
 
 In order to avoid this drift, a core principle can help to structure our conversations and planning:
 

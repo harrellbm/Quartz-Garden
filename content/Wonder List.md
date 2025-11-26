@@ -1,10 +1,7 @@
 ---
-publish: true
-Note Planted: 2025-04-02
-Last Tended: 2025-06-26
-updated: 2025-06-30T09:35:21.271-07:00
-edited_seconds: 3
+{"publish":true,"created":"2025-04-02T13:41:09.515-07:00","modified":"2025-06-30T09:35:21.271-07:00","published":"2025-09-23T14:11:04.650-07:00","cssclasses":""}
 ---
+
 #🌲Evergreen   #📓Journal 
 ****
 
@@ -18,8 +15,8 @@ edited_seconds: 3
 
 - What are we actually as humans and how do we hold the tension of scripture and how it describes us as multifaceted beings. [[A Creature Among Machines]], [[Creatureliness]], [[My Thoughts on Cosmology]], [[A Grounded Cosmology and a Creaturely Anthropology]]
 
-- How can care for the earth and a communities physical well as a door way into actually caring for and being connected with the people of an area as well? [[LCOS Facility Pattern Language]]
-	- What are the specific uses of space or patterns that could be used in the life of LCOS or even my own personal life to most fully align the use and constructions of space for our stated goals of mission and ministry?  [[LCOS Community Notes]], [[Living Process for LCOS]]
+- How can care for the earth and a communities physical well as a door way into actually caring for and being connected with the people of an area as well? [[LCOS Notes/LCOS Facility Pattern Language]]
+	- What are the specific uses of space or patterns that could be used in the life of LCOS or even my own personal life to most fully align the use and constructions of space for our stated goals of mission and ministry?  [[LCOS Notes/LCOS Community Notes]], [[LCOS Notes/Living Process for LCOS]]
 
 - It seems like church fellowship has been over condensed in many circles in two directions. There is "all about love" that ends up becoming a "you do you" mentality that is not actually any kind of true or meaningful working and living together on shared beliefs or confession. Or there is a puritanical and almost legalistic focus on doctrine and confession that is so focused on doctrinal purity that there is no room for real living breathing human relationships. It basically becomes its own kind of group think that is unable to challenge and be challenged by others in a loving and constructive way. [[Confessions and Decentralization]], [[Cooperative Learning]]
 
@@ -27,7 +24,7 @@ edited_seconds: 3
 
 - Sabbath [[The Biblical Rhythm of Time and Rest]] the idea that we have really messed up the idea of rest and sabbath in our culture with it basically meaning "time to do whatever you want" where sabbath had a clear focus on not doing exactly what you want but taking time to focus on God and communion with Him. [[Rhythm Reset]]
 
-- Continuing to dig into how to teach and practice typological reading of scripture to find and see the beauty and continuity of scripture. [[Notes from Conversation with Sarah Salzburg]], [[Telescope of Scripture, the Law and Doctrine]], [[Christian Meditation]]
+- Continuing to dig into how to teach and practice typological reading of scripture to find and see the beauty and continuity of scripture. [[Conference Notes/Notes from Conversation with Sarah Salzburg]], [[Telescope of Scripture, the Law and Doctrine]], [[Christian Meditation]]
 
 - How to actually build and encourage a creative community that lets arts and beauty thrive. In the forms of music, art, etc. [[Aesthetic]]
 

@@ -1,8 +1,7 @@
 ---
-publish: true
-Note Planted: 2025-04-01
-Last Tended: 2025-06-04
+{"publish":true,"created":"2025-04-01T13:26:37.035-07:00","modified":"2025-06-04T12:49:45.768-07:00","published":"2025-06-04T12:49:45.768-07:00","cssclasses":""}
 ---
+
 #🌱Seed   #😐Neutral   #🟡Consideration  #🥾SpiritualPractices-EmbodiedLiving 
 ****
  
@@ -11,7 +10,7 @@ Last Tended: 2025-06-04
 
 ****
 
-[[7.25.21 Living in the Grind]]
+[[Sermons/2021/7.25.21 Living in the Grind]]
 
 [[A Grounded Cosmology and a Creaturely Anthropology]]
 

@@ -1,19 +1,4 @@
 ---
-publish: true
-tags:
-  - 📕Book
-read: false
-title: "Faith for Exiles: 5 Ways for a New Generation to Follow Jesus in Digital Babylon"
-author: David Kinnaman and Mark Matlock
-url: https://www.amazon.com/Faith-Exiles-Generation-Digital-Babylon/dp/0801013151
-isbn:
-updated: 2025-10-21T08:49:16.745-07:00
-edited_seconds: 45
-cover:
-published:
-rating:
-pages:
-lists:
-  - Want to Read
-comment:
+{"publish":true,"title":"Faith for Exiles: 5 Ways for a New Generation to Follow Jesus in Digital Babylon","created":"2025-10-21T08:48:24.246-07:00","modified":"2025-10-21T08:49:16.745-07:00","published":"2025-10-21T09:12:55.032-07:00","tags":["📕Book"],"cssclasses":""}
 ---
+

@@ -1,10 +1,7 @@
 ---
-publish: true
-Note Planted: 2025-07-02
-Last Tended: 2025-09-04
-updated: 2025-09-04T10:40:37.680-07:00
-edited_seconds: 3091
+{"publish":true,"created":"2025-08-20T08:45:37.050-07:00","modified":"2025-09-04T10:40:37.680-07:00","published":"2025-09-04T10:40:37.682-07:00","cssclasses":""}
 ---
+
 #🪴Sprout   #🙂Agree  #📓Journal    #📊Project  #🛠️BringingLifeintotheWorld 
 ****
  
@@ -25,7 +22,7 @@ Related Notes:
 [[A Tea Garden]]
 [[Plant Care]]
 [[Plants Around Church]]
-[[LCOS Facility Pattern Language]]
+[[LCOS Notes/LCOS Facility Pattern Language]]
 ****
 
 # 9-4-25
@@ -66,13 +63,13 @@ Some examples of cool herringbone brick work
 - [HOW TO LAY BRICKS - HERRINGBONE PATTERN - YouTube]([https://share.google/XwhNSEujGWDn593GT](https://share.google/XwhNSEujGWDn593GT))
 
 # 7-32-25
-Started collecting things in new note [[Food Forest]]
+Started collecting things in new note [[Food Forest/Food Forest]]
 # 7-30-25
 So have cleared out a lot of the new yard of old overgrown bushes and what not. I have some rosemary sprigs rooting in my office and hope to use them as a kind of "anchor" for the yard. I also have a bunch of California poppy seeds ready to go for the fall to spread and see what they do sprouting. Still debating what I want to do with the gazanias and African violets I have as seedlings in my office. 
 
 I also want to go and see what kind of herbs I can find to plant around the yard too. A nice lavender or two would be amazing as well as starting to get the chamomile seeds from some of the flowers to spread and sprout. 
 # 7-28-25
-Guess what I have found a new thing to be all interested in lol. The Idea of a Food forest. Basically the idea that I am the most excited about is the idea of a guild which is a set of plants that all work together as a kind of mini ecosystem that support and sustain each other. This also is super close to the idea of [[The Ways Centers Help Each Other Have More Life]] which I think is really cool. Below are a bunch of random resources I have started to collect around it.  That have been moved to [[Food Forest]]
+Guess what I have found a new thing to be all interested in lol. The Idea of a Food forest. Basically the idea that I am the most excited about is the idea of a guild which is a set of plants that all work together as a kind of mini ecosystem that support and sustain each other. This also is super close to the idea of [[The Ways Centers Help Each Other Have More Life]] which I think is really cool. Below are a bunch of random resources I have started to collect around it.  That have been moved to [[Food Forest/Food Forest]]
 
 # 7-7-25  
 SO we are getting really close to closing on our house and it is really exciting to think about making the place our own. I have been thinking about the outside and have a few dreams.

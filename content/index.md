@@ -1,16 +1,7 @@
 ---
-title: Base Camp 🏕️
-aliases:
-  - Home
-  - Base Camp
-publish: true
-tags:
-  - 🌲Evergreen
-Note Planted: 2024-10-22
-Last Tended: 2025-10-16
-updated: 2025-10-21T09:16:48.551-07:00
-edited_seconds: 0
+{"publish":true,"aliases":"Home Base Camp","title":"Base Camp 🏕️","created":"2024-10-22T11:39:29.726-07:00","modified":"2025-10-21T09:16:48.551-07:00","published":"2025-10-21T09:16:48.552-07:00","tags":["🌲Evergreen"],"cssclasses":""}
 ---
+
 Hello!
 My name is Brenden Harrell. I am a Husband, Father, Lutheran Pastor, and Tinkerer.
 
@@ -33,12 +24,22 @@ Here are some basic suggestions for using this garden:
 - Or you can look at my [[Wonder List]] a collection of things that I am thinking about. 
 - If you run into a 404 page it means I haven't made that note yet or haven't uploaded it. If it is interesting to you reach out to me and start a conversation about it.  
 # Notes I have Tended Recently 
-```dataview
-LIST FROM ""
-WHERE file.name != this.file.name
-SORT file.mtime DESC
-LIMIT 15
-```
+- [[A Creature Among Machines\|A Creature Among Machines]]
+- [[Indexes/Scripture-Index\|Scripture-Index]]
+- [[LCOS Notes/LCOS Epistles\|LCOS Epistles]]
+- [[Christmas Reflection\|Christmas Reflection]]
+- [[Resurrection in Luke-Acts\|Resurrection in Luke-Acts]]
+- [[A Comparison of the Johannine Account with the Synoptic Accounts of the Crucifixion\|A Comparison of the Johannine Account with the Synoptic Accounts of the Crucifixion]]
+- [[Private/To Love My Wife\|To Love My Wife]]
+- [[Memorizing the Psalms\|Memorizing the Psalms]]
+- [[Templates/Note Template\|Note Template]]
+- [[Inhabiting the Place Where Heaven and Earth Meet\|Inhabiting the Place Where Heaven and Earth Meet]]
+- [[Projects/Bookletic\|Bookletic]]
+- [[Love the Lord Your God with all Your Heart\|Love the Lord Your God with all Your Heart]]
+- [[On the Distinction between the Old and New Testament\|On the Distinction between the Old and New Testament]]
+- [[LCOS Notes/Rhythms and Patterns/Communing\|Communing]]
+- [[Books/Faith for Exiles\|Faith for Exiles]]
+
 # Connected by the Roots
 I aim to make this digital space a grove of sorts. A collection of thoughts, ideas, concepts, notes and experiences. 
 

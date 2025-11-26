@@ -1,10 +1,7 @@
 ---
-publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-10-23
-updated: 2025-10-30T09:55:05.553-07:00
-edited_seconds: 784
+{"publish":true,"created":"2024-10-22T11:39:29.726-07:00","modified":"2025-10-30T09:55:05.553-07:00","published":"2025-10-30T09:55:05.555-07:00","cssclasses":""}
 ---
+
 #🍋Fruit   #😁Strongly-Agree   #📊Project   #🛠️BringingLifeintotheWorld 
 
 ****

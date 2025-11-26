@@ -1,8 +1,7 @@
 ---
-publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-06-04
+{"publish":true,"created":"2024-10-22T11:39:29.778-07:00","modified":"2025-06-04T12:42:07.089-07:00","published":"2025-06-04T12:42:07.089-07:00","cssclasses":""}
 ---
+
 #🪴Sprout  #😟Disagree  #📚Definition 
 
 ****

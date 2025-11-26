@@ -1,8 +1,7 @@
 ---
-publish: true
-Note Planted: 2025-04-03
-Last Tended: 2025-06-04
+{"publish":true,"created":"2025-05-01T11:56:04.538-07:00","modified":"2025-06-17T14:44:31.531-07:00","published":"2025-06-17T14:44:31.531-07:00","cssclasses":""}
 ---
+
 #🌱Seed    #🙂Agree    #🟡Consideration   #📊Project  #🛠️BringingLifeintotheWorld 
 ****
  
@@ -52,7 +51,7 @@ APL Digitized: [patternlanguage.cc](https://patternlanguage.cc/README)
 
 This pattern is supported by:
  * [POSITIVE OUTDOOR SPACE (106)](https://patternlanguage.cc/Patterns/Positive-Outdoor-Space-(106)): By giving the garden a defined yet informal structure with paths and seating, you create inviting "outdoor rooms" that draw people in.
- * [GARDEN GROWING WILD (172)](https://patternlanguage.cc/Patterns/Garden-Growing-Wild-(172)): The emphasis on self-propagation, native plants, and a less formal [[aesthetic]] directly embodies this pattern.
+ * [GARDEN GROWING WILD (172)](https://patternlanguage.cc/Patterns/Garden-Growing-Wild-(172)): The emphasis on self-propagation, native plants, and a less formal [[Aesthetic]] directly embodies this pattern.
  * [PATHS AND GOALS (120)](https://patternlanguage.cc/Patterns/Paths-and-Goals-(120)): The meandering paths lead to discoveries – a hidden seat, a particularly fragrant plant, a patch of pickable flowers.
  * [SEAT SPOTS (241)](https://patternlanguage.cc/Patterns/Seat-Spots-(241)): Good placement of seats help to make the garden inviting and useful.
  

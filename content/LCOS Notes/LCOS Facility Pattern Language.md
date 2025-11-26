@@ -1,10 +1,7 @@
 ---
-Note Planted: 2025-03-18
-Last Tended: 2025-04-03
-publish: true
-updated: 2025-06-17T14:47:13.353-07:00
-edited_seconds: 3
+{"publish":true,"created":"2025-03-18T08:26:57.248-07:00","modified":"2025-06-17T14:47:13.353-07:00","published":"2025-06-17T14:47:13.354-07:00","cssclasses":""}
 ---
+
 #🌱Seed   #🙂Agree   #🟡Consideration   #🌲Evergreen 
 
 ****
@@ -103,7 +100,7 @@ We seem like we should qualify for this:
         - Create a "musical garden" with simple instruments like drums and xylophones.
         - Include bird feeders and birdhouses.
 2. **Create a central gathering space:**
-    - Provide a shaded area with seating for [[storytelling]], group activities, and snack time.
+    - Provide a shaded area with seating for [[Storytelling]], group activities, and snack time.
     - Use natural materials like logs or large stones for seating.
 3. **Incorporate playful elements:**
     - Include a small tunnel or playhouse.
@@ -291,7 +288,7 @@ The environment plays a crucial role in the effectiveness of a prayer walk. Natu
 
 The design of the prayer walk should encourage a slow and deliberate pace, allowing participants to fully engage with their thoughts and feelings. The path should also offer a sense of journey, with a clear beginning and end, even if it is a circular route. Opportunities for both solitude and potential interaction with others should be considered, recognizing that prayer can be a deeply personal or a shared communal experience.
 
-Ultimately, a well-designed prayer walk creates a [[sacred space]] in motion, a place where the physical act of walking becomes an integral part of the spiritual practice, fostering a deeper sense of connection, peace, and purpose.
+Ultimately, a well-designed prayer walk creates a [[Sacred Space]] in motion, a place where the physical act of walking becomes an integral part of the spiritual practice, fostering a deeper sense of connection, peace, and purpose.
 
 **Cross-references:**
 
@@ -348,7 +345,7 @@ Ultimately, a well-designed prayer walk creates a [[sacred space]] in motion, a 
 - **Improved Air Quality:** Plants absorb pollutants from the air, improving air quality for the campus community.
 - **Enhanced Biodiversity:** Hedgerows provide habitat for a wide range of wildlife, including birds, insects, and small mammals.
 - **Erosion Control:** Hedgerows help to stabilize soil and prevent erosion.
-- **Visual Appeal:** A well-maintained hedgerow can significantly enhance the [[aesthetic]] appeal of the campus.
+- **Visual Appeal:** A well-maintained hedgerow can significantly enhance the [[Aesthetic]] appeal of the campus.
 - **Educational Opportunities:** The hedgerow can serve as a living laboratory for students to learn about ecology, biodiversity, and environmental stewardship.
 
 **Related Patterns:**

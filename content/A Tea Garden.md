@@ -1,10 +1,7 @@
 ---
-Note Planted: 2025-04-03
-Last Tended: 2025-07-02
-publish: true
-updated: 2025-07-02T10:36:09.374-07:00
-edited_seconds: 89
+{"publish":true,"created":"2025-04-03T09:38:22.883-07:00","modified":"2025-07-02T10:36:09.374-07:00","published":"2025-07-02T10:36:09.389-07:00","cssclasses":""}
 ---
+
 
 #🪴Sprout   #🙂Agree   #🟡Consideration   #📊Project   #🛠️BringingLifeintotheWorld 
 
@@ -14,7 +11,7 @@ edited_seconds: 89
 > I want to plant a tea garden. Tea has long been something that I enjoy and fascinates me. [[Making Tea]]
 
 Similar Ideas:
-[[LCOS Facility Pattern Language]]
+[[LCOS Notes/LCOS Facility Pattern Language]]
 [[Plant Care]]
 [[Plants Around Church]]
 

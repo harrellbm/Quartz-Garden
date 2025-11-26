@@ -1,8 +1,6 @@
 ---
 {"publish":true,"created":"2024-10-22T11:39:29.710-07:00","modified":"2025-10-02T08:36:54.104-07:00","published":"2025-10-02T08:36:54.097-07:00","cssclasses":""}
 ---
-#🌱Seed   #🙂Agree   #🟡Consideration   #🏖️Universe-Humans 
-****
 
 #🌱Seed   #🙂Agree   #🟡Consideration   #🏖️Universe-Humans 
 ****

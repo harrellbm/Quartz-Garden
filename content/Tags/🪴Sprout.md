@@ -1,8 +1,7 @@
 ---
-aliases:
-  - "#🪴Sprout"
-publish: true
+{"publish":true,"aliases":"#🪴Sprout","created":"2025-03-27T14:19:45.523-07:00","modified":"2025-03-27T14:29:33.421-07:00","published":"2025-03-27T14:29:33.421-07:00","cssclasses":""}
 ---
+
 # Tag Description
 
 | Category                                                                        | Definition                                                                                  |

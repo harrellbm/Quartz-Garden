@@ -1,24 +1,7 @@
 ---
-publish: true
-tags:
-  - 📕Book
-read: true
-title: On the Distinction between the Old and New Testament
-author: Philip Melanchthon
-url: https://open.substack.com/pub/treasuresfromthelutheranchurch/p/on-the-distinction-between-the-old?utm_campaign=post&utm_medium=email
-isbn:
-updated: 2025-10-21T15:04:28.604-07:00
-edited_seconds: 108
-cover:
-published:
-rating:
-pages:
-lists:
-  - Want to Read
-comment:
-Note Planted: 2025-10-21
-Last Tended: 2025-10-21
+{"publish":true,"title":"On the Distinction between the Old and New Testament","created":"2025-10-21T11:55:22.632-07:00","modified":"2025-10-21T15:04:28.604-07:00","published":"2025-10-21T15:04:28.607-07:00","tags":["📕Book"],"cssclasses":""}
 ---
+
 ****
  
 >[!cite] Translated Text

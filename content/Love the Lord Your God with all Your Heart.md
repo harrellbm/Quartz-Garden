@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.741-07:00","modified":"2025-06-04T12:17:47.429-07:00","published":"2025-06-04T12:17:47.429-07:00","cssclasses":""}
+{"publish":true,"created":"2024-10-22T11:39:29.741-07:00","modified":"2025-10-22T13:52:19.137-07:00","published":"2025-10-22T13:52:19.140-07:00","cssclasses":""}
 ---
 
 #🍋Fruit    #😁Strongly-Agree   #🟢Conviction   #🔥Doctrine-Poetry-Story 
@@ -12,6 +12,7 @@
 > [!NOTE]
 > - Used in OS #📃Epistle Feb 2022
 > - Posted to Substack as #📝Essay in its current state Jan 2025
+> - Used in LCOS #📃Epistle Sept 2025
 
 ***Related Epistle***: [[The Struggle to be in God's Word]]
 

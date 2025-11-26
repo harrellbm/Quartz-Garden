@@ -1,10 +1,7 @@
 ---
-publish: true
-Note Planted: 2025-05-20
-Last Tended: 2025-06-17
-updated: 2025-06-17T13:40:11.285-07:00
-edited_seconds: 37
+{"publish":true,"created":"2025-05-20T14:42:28.830-07:00","modified":"2025-06-17T13:40:11.285-07:00","published":"2025-06-17T13:40:11.287-07:00","cssclasses":""}
 ---
+
 #🌱Seed   #🙂Agree   #🟢Conviction   #🔥Doctrine-Poetry-Story 
 ****
  

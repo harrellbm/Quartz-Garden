@@ -1,10 +1,7 @@
 ---
-publish: true
-Note Planted: 2025-04-16
-Last Tended: 2025-06-17
-updated: 2025-06-17T13:24:33.567-07:00
-edited_seconds: 33
+{"publish":true,"created":"2025-04-16T14:50:54.433-07:00","modified":"2025-06-17T13:24:33.567-07:00","published":"2025-06-17T13:24:33.579-07:00","cssclasses":""}
 ---
+
 #🌿Sapling   #🙂Agree   #🟢Conviction   #📓Journal  #🥾SpiritualPractices-EmbodiedLiving 
 ****
 >[!Note] 

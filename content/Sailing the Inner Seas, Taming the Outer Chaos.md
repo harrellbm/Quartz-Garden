@@ -1,8 +1,7 @@
 ---
-publish: true
-Note Planted: 2025-04-09
-Last Tended: 2025-06-04
+{"publish":true,"created":"2025-04-09T13:39:16.617-07:00","modified":"2025-06-17T14:41:09.091-07:00","published":"2025-06-17T14:41:09.091-07:00","cssclasses":""}
 ---
+
 #🌱Seed   #🙂Agree   #🟢Conviction   #📓Journal   #🥾SpiritualPractices-EmbodiedLiving 
 ****
 > `Importance`: 10%
@@ -41,7 +40,7 @@ My Experience as atypical neuro processor
 Thinking in streams, spirals or gardens, or stories
 
 [[Models of Human Rhythms]]
-[[Living Process for LCOS]]
+[[LCOS Notes/Living Process for LCOS]]
 [[Learning and Writing Flow]]
 [[Grounded Learning]]
 [[My Thoughts on Learning]]
@@ -53,7 +52,7 @@ Deuteronomy 6:7
 You shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise.
 
 > [!Cite] Acts 3:18 ESV
-> But what God foretold by the mouth of all the [[prophets]], that his Christ would suffer, he thus fulfilled.
+> But what God foretold by the mouth of all the [[Bible Book Notes/Prophets]], that his Christ would suffer, he thus fulfilled.
 
 Can you answer that questions? 
 

@@ -1,10 +1,7 @@
 ---
-publish: true
-Note Planted: 2025-08-28
-Last Tended: 2025-09-08
-updated: 2025-09-09T08:51:49.303-07:00
-edited_seconds: 651
+{"publish":true,"created":"2025-08-28T13:41:44.898-07:00","modified":"2025-09-09T08:51:49.303-07:00","published":"2025-09-09T08:51:49.324-07:00","cssclasses":""}
 ---
+
 #🌱Seed   #😐Neutral   #🟡Consideration
 ****
  
@@ -15,7 +12,7 @@ edited_seconds: 651
 
 
 
-I have started using typst for worship planning and laying out liturgy. Those efforts are not in a formal project yet but are using the [[Bookletic]] package I wrote for typst when needing the lay things out in a bulletin or booklet format
+I have started using typst for worship planning and laying out liturgy. Those efforts are not in a formal project yet but are using the [[Projects/Bookletic]] package I wrote for typst when needing the lay things out in a bulletin or booklet format
 
 # Current Work Flow for Music 
 I have started using Lilypond as a program to engrave the music. It takes a text file that it then converts to the music and lyrics. I export that as an SVG from Lilypond and then open it in Inkscape. In Inkscape I trim the document specifications down to fit just the line of music. Then I select all the lyrics and go to the path menu and hit "Object to path" so that the lyrics are now a full part of the svg. 

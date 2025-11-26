@@ -1,8 +1,7 @@
 ---
-publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-04-02
+{"publish":true,"created":"2025-02-19T08:48:29.803-08:00","modified":"2025-09-11T08:49:42.984-07:00","published":"2025-09-11T08:49:42.984-07:00","cssclasses":""}
 ---
+
 #🌱Seed   #😐Neutral   #🟡Consideration
 ****
 > `Importance`: 10%

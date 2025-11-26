@@ -1,8 +1,7 @@
 ---
-publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-06-04
+{"publish":true,"created":"2024-10-22T11:39:29.757-07:00","modified":"2025-06-17T14:48:26.673-07:00","published":"2025-06-17T14:48:26.673-07:00","cssclasses":""}
 ---
+
 #🌱Seed  #😐Neutral  #
 ****
  
@@ -28,7 +27,7 @@ Adult discipleship and youth discipleship need to go hand in hand. Because if pa
 
 Back to the idea that we need to focus on family units first and then age groups 
 
-Need to have strong [[faith formation]] in youth and adults 
+Need to have strong [[Faith Formation]] in youth and adults 
 
 It is hard to get parents of older kids connected with youth ministry. It needs to start as early as possible. 
 

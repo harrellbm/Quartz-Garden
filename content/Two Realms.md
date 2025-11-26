@@ -1,10 +1,7 @@
 ---
-publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-09-29
-updated: 2025-09-29T10:22:58.239-07:00
-edited_seconds: 266
+{"publish":true,"created":"2025-08-26T10:27:17.093-07:00","modified":"2025-09-29T10:22:58.239-07:00","published":"2025-09-29T10:22:58.243-07:00","cssclasses":""}
 ---
+
 #🌱Seed   #😁Strongly-Agree   #🟢Conviction   #🏖️Universe-Humans 
 ****
  

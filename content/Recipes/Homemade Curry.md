@@ -1,10 +1,7 @@
 ---
-Note Planted: 2025-04-04
-Last Tended: 2025-09-03
-publish: true
-updated: 2025-09-03T15:36:08.650-07:00
-edited_seconds: 5
+{"publish":true,"created":"2025-04-07T13:22:21.481-07:00","modified":"2025-09-03T15:36:08.650-07:00","published":"2025-09-03T15:36:08.690-07:00","cssclasses":""}
 ---
+
 #🍴Recipe 
 ****
  
