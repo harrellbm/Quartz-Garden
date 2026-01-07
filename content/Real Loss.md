@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2024-10-23T13:37:57.206-07:00","modified":"2025-06-04T12:33:16.386-07:00","published":"2025-06-04T12:33:16.386-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-10-23
+Last Tended: 2025-06-04
 ---
-
 #🌱Seed  #😐Neutral  #🍽️Community-Mission 
 
 ****

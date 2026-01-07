@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-09-09T13:58:40.376-07:00","modified":"2025-09-09T14:02:59.421-07:00","published":"2025-09-09T14:02:59.424-07:00","cssclasses":""}
+publish: true
+Note Planted: 2025-02-26
+Last Tended: 2025-09-09
+updated: 2025-09-09T14:02:59.421-07:00
+edited_seconds: 155
 ---
-
 #🌱Seed   #🙂Agree    #🟢Conviction  #📰Handout 
 ****
 #  **Biblical Themes**  

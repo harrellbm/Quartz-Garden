@@ -1,7 +1,23 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.759-07:00","modified":"2025-10-15T13:41:47.018-07:00","published":"2025-10-16T12:35:42.407-07:00","tags":["📕Book"],"cssclasses":""}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-10-15
+tags:
+  - 📕Book
+read: true
+author: Christopher Alexander
+url: http://www.natureoforder.com/overview.html
+isbn:
+updated: 2025-10-15T13:41:47.018-07:00
+edited_seconds: 50
+cover:
+published:
+rating:
+pages:
+lists:
+  - Interesting Read
+comment:
 ---
-
 
 > [!note]
 > Book One Fully Read

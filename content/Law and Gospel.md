@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2024-12-11T14:49:08.619-08:00","modified":"2025-06-17T14:33:57.317-07:00","published":"2025-06-17T14:33:57.319-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-12-11
+Last Tended: 2025-06-17
+updated: 2025-06-17T14:33:57.317-07:00
+edited_seconds: 10
 ---
-
 #🌱Seed   #😁Strongly-Agree   #🟢Conviction  #📚Definition 
 
 ****

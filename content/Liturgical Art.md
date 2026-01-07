@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2025-01-08T12:34:39.834-08:00","modified":"2025-06-04T12:17:19.739-07:00","published":"2025-06-04T12:17:19.739-07:00","cssclasses":""}
+publish: true
+Note Planted: 2025-01-08
+Last Tended: 2025-06-04
 ---
-
 #🌲Evergreen   #😐Neutral   #📓Journal  #🛠️BringingLifeintotheWorld 
 
 ****

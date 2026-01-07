@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-04-01T15:44:39.968-07:00","modified":"2025-06-17T14:08:20.264-07:00","published":"2025-06-17T14:08:20.272-07:00","cssclasses":""}
+Note Planted: 2025-04-01
+Last Tended: 2025-06-17
+publish: true
+updated: 2025-06-17T14:08:20.264-07:00
+edited_seconds: 222
 ---
-
 #🌱Seed   #😐Neutral   #🟡Consideration  #🍽️Community-Mission  #📊Project 
 
 ****
@@ -35,7 +38,7 @@ Church library as separate from Pastor's library
 
 a [[A Holistic versus Mechanistic Perspective]] what about a perspective focused on life as the foundational activity of God in the world? 
 
-Avoidance of [[Tail Knowledge and Knowledge Collapse/Tail Knowledge and Knowledge Collapse]] 
+Avoidance of [[Tail Knowledge and Knowledge Collapse]] 
 Search engine biases 
 AI biases 
 

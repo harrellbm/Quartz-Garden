@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.726-07:00","modified":"2025-11-26T11:46:34.513-08:00","published":"2025-11-26T11:46:34.515-08:00","cssclasses":""}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-11-25
+updated: 2025-11-26T11:46:34.513-08:00
+edited_seconds: 30
 ---
-
 #🍋Fruit  #🙂Agree  #🔥Doctrine-Poetry-Story 
 
 ****

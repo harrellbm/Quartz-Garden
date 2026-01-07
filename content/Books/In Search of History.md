@@ -1,4 +1,21 @@
 ---
-{"publish":true,"title":"In Search of History","created":"2025-10-21T08:47:10.633-07:00","modified":"2025-10-21T08:48:13.288-07:00","published":"2025-10-21T09:12:52.692-07:00","tags":["📕Book"],"cssclasses":""}
+Note Planted: 2025-09-11
+Last Tended: 2025-10-21
+publish: true
+tags:
+  - 📕Book
+read: false
+title: In Search of History
+author: Teddy White
+url: https://www.amazon.com/Search-History-Personal-Adventure/dp/0446971464
+isbn:
+updated: 2025-10-21T08:48:13.288-07:00
+edited_seconds: 44
+cover:
+published:
+rating:
+pages:
+lists:
+  - Want to Read
+comment:
 ---
-

@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2024-12-18T11:12:58.801-08:00","modified":"2025-06-04T12:50:38.820-07:00","published":"2025-06-04T12:50:38.820-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-12-18
+Last Tended: 2025-06-04
 ---
-
 #🌱Seed   #😐Neutral   #🟡Consideration  #🏖️Universe-Humans 
 
 ****
@@ -15,7 +16,11 @@ A link to his archive that connects with this idea:
 [Geometry and Fifteen Fundamental Properties](https://christopher-alexander-ces-archive.org/research/geometry-and-fifteen-fundamental-properties/)
 
 Reading notes and other collected resources I have so far:
-
+---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-06-04
+---
 #🌱Seed   #🙂Agree   #🟡Consideration #🏖️Universe-Humans 
 ****
 # The Ways Centers Help Each Other Have More Life

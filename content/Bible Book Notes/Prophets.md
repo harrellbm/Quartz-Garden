@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-02-19T08:48:29.803-08:00","modified":"2025-09-11T08:49:42.984-07:00","published":"2025-09-11T08:49:42.984-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-12-02
+updated: 2025-12-02T15:48:34.755-08:00
+edited_seconds: 34
 ---
-
 #🌱Seed   #😐Neutral   #🟡Consideration
 ****
 > `Importance`: 10%
@@ -12,6 +15,8 @@
 ****
 # Minor Prophets 
 or the Book of the Twelve
+ 
+Link to Blog Post by Pastor Alexs: [zionslopastor](https://zionslopastor.blogspot.com/2023/02/overview-of-bible-minor-prophets.html)
 
 - Pre-Assyrian prophets Jonah, Amos, Hosea, Micah, and Isaiah
 - Pre-Babylonian prophets Nahum, Zephaniah, Habakkuk, Jeremiah, and Ezekiel

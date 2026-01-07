@@ -1,4 +1,21 @@
 ---
-{"publish":true,"title":"Wholly Citizens: God's Two Realms and Christian Engagement with the World","created":"2025-09-11T09:09:59.170-07:00","modified":"2025-10-02T15:06:22.519-07:00","published":"2025-10-16T12:36:08.847-07:00","tags":["📕Book"],"cssclasses":""}
+publish: true
+tags:
+  - 📕Book
+read: false
+title: "Wholly Citizens: God's Two Realms and Christian Engagement with the World"
+author: Joel D. Biermann
+url: https://www.amazon.com/Wholly-Citizens-Realms-Christian-Engagement/dp/1506420354
+isbn:
+updated: 2025-10-02T15:06:22.519-07:00
+edited_seconds: 52
+Note Planted: 2025-09-11
+Last Tended: 2025-10-02
+cover:
+published:
+rating:
+pages:
+lists:
+  - Want to Read
+comment:
 ---
-

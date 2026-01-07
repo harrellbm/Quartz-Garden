@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2024-10-28T11:01:31.093-07:00","modified":"2025-06-12T13:01:11.968-07:00","published":"2025-08-26T09:19:14.271-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-06-12
+updated: 2025-06-12T13:01:11.968-07:00
+edited_seconds: 25
 ---
-
 #🪴Sprout   #🙂Agree    #🟡Consideration   #🔥Doctrine-Poetry-Story 
 
 ****

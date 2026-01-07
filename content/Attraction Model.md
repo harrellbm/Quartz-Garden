@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2024-11-04T09:38:37.276-08:00","modified":"2025-06-04T11:27:57.851-07:00","published":"2025-06-04T11:27:57.851-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-11-04
+Last Tended: 2025-01-22
 ---
-
 #🌱Seed  #🤢Strongly-Disagree #🟢Conviction   #🔥Doctrine-Poetry-Story 
 
 ****

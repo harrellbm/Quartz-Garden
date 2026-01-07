@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-03-03T10:57:27.185-08:00","modified":"2025-06-17T14:47:53.984-07:00","published":"2025-06-17T14:47:53.986-07:00","cssclasses":""}
+Note Planted: 2025-03-03
+Last Tended: 2025-06-17
+publish: true
+updated: 2025-06-17T14:47:53.984-07:00
+edited_seconds: 3
 ---
-
 #🪴Sprout   #🙂Agree   #🟢Conviction   #📰Handout 
 ****
 > `Importance`: 70%

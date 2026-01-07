@@ -1,4 +1,21 @@
 ---
-{"publish":true,"title":"Luther on Vocation","created":"2025-09-11T09:09:47.611-07:00","modified":"2025-10-02T15:05:49.428-07:00","published":"2025-10-16T12:36:06.851-07:00","tags":["📕Book"],"cssclasses":""}
+publish: true
+tags:
+  - 📕Book
+read: false
+title: Luther on Vocation
+author: Gustaf Wingren
+url: https://www.amazon.com/Luther-Vocation-Gustaf-Wingren/dp/1592445616
+isbn:
+updated: 2025-10-02T15:05:49.428-07:00
+edited_seconds: 55
+Note Planted: 2025-09-11
+Last Tended: 2025-10-02
+cover:
+published:
+rating:
+pages:
+lists:
+  - Want to Read
+comment:
 ---
-

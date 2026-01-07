@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2024-11-04T14:08:54.943-08:00","modified":"2025-06-04T12:24:14.884-07:00","published":"2025-06-04T12:24:14.884-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-11-04
+Last Tended: 2025-06-04
 ---
-
 #🌱Seed  #😐Neutral  #🥾SpiritualPractices-EmbodiedLiving 
 
 ****

@@ -1,7 +1,14 @@
 ---
-{"publish":true,"created":"2025-11-24T09:26:17.209-08:00","modified":"2025-11-24T09:32:30.978-08:00","published":"2025-11-24T09:32:30.987-08:00","tags":["#🌱Seed","😐Neutral","🟡Consideration"],"cssclasses":""}
+publish: true
+tags:
+  - "#🌱Seed"
+  - 😐Neutral
+  - 🟡Consideration
+updated: 2025-11-24T09:32:30.978-08:00
+edited_seconds: 120
+Note Planted: 2025-11-24
+Last Tended: 2025-11-24
 ---
-
 >[!Summary] The Big Idea
 >
 

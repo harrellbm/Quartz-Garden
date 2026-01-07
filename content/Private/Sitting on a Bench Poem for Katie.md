@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2025-05-12T14:17:47.076-07:00","modified":"2025-05-13T14:44:40.280-07:00","published":"2025-05-13T14:44:40.280-07:00","cssclasses":""}
+publish: true
+Note Planted: 2025-05-12
+Last Tended: 2025-05-13
 ---
-
 #✒️Poem 
 ****
 > `Importance`: 101%

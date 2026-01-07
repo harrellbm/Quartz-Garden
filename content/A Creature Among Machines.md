@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.710-07:00","modified":"2025-11-25T13:26:11.354-08:00","published":"2025-11-26T12:59:26.856-08:00","tags":["#🌿Sapling","😁Strongly-Agree","🟡Consideration","📝Essay","🏖️Universe-Humans"],"cssclasses":""}
+{"publish":true,"created":"2025-12-22T09:38:50.752-08:00","modified":"2025-12-22T10:29:04.594-08:00","published":"2025-12-29T20:49:42.813-08:00","tags":["#🌿Sapling","😁Strongly-Agree","🟡Consideration","📝Essay","🏖️Universe-Humans"],"cssclasses":""}
 ---
 
 > [!quote] Scripture Focus
@@ -13,12 +13,24 @@ Thoughts proceeding these: [[Embodiment of Community]]
 
 ****
 
-When I first began writing this essay more than a year ago, Artificial Intelligence (or AI) was just beginning to emerge as a buzz word. I had experimented with early versions of AI as one of Google's beta "search lab" participants. It was fun and novel at first, but I quickly began writing because I knew I needed something in order to face this changing technology. There was a part of my self-understanding that was not prepared to live in the world of AI. And so the following essay has been written and rewritten as I have wrestled with what it means to be human in the midst of machines. 
+When I first began writing this essay more than a year ago, Artificial Intelligence (or AI) was just beginning to emerge as a buzz word. I had experimented with early versions of AI as one of Google's beta "search lab" participants. It was fun and novel at first, but I quickly began writing because I knew I needed something in order to face this changing technology. 
 
-We live in an increasingly mechanized and machine driven world and environment. In the face of this ever changing landscape the answer to the question: What are you? is no longer one that is an interesting subject of academia. The givenness of being human has slowly leeched out of our culture to the point that picturing ourselves without machine language is becoming more and more difficult. The purpose of this discussion is to poke at some of the self assumptions that have been flying around our chaotic world and often pass as neutral. With the hope that we may reapproach the basic human definition offered in Genesis 1 as a completely different mental model and self-understanding. 
-# A Brewing Crisis 
+A personal story that still sticks in my mind of just how fast things have been changing was watching my wife's reaction to an AI chatbot drastically change. The first time I showed her an AI chat she was creeped out by the eerie automatic writing and the sensation of not knowing who, or what, was spitting out so much text in response to a simple question. She swore she would never use something so freaky and strange. Fast forward to today and that reaction almost seems comical with how pedestrian the experience of chatting with an AI has become. 
+
+And so I have be writing, and rewriting, and deleting, and starting over because I have realized that there was a part of my self-understanding that was not prepared to live in the world of AI. And so the following essay has been an internal dialogue of sorts as I have wrestled with what it means to be human in the midst of our quickly evolving machines. 
+
+Afterall, we live in an increasingly mechanized and machine driven world. Every space we inhabit has some machine close by to do our bidding. We have shaped and reshaped our environment in order to accommodate cars, electricity, TVs, computers, smartphones, etc. The advent of AI really only brings to awareness the cogs and levers we have become accustom to living with. The technological landscape and the machines it creates is an ever changing and flexing reality. 
+
+In the face of this constant movement answering the simple question: What are you? is no longer one that is an interesting subject of academia. The givenness of being human has slowly leeched out of our culture to the point that picturing ourselves without machine language is becoming more and more difficult. The warning of renowned computer scientist  Joseph Weizenbaum is becoming uncomfortably pressing:
+
+> [!cite] Joseph Weizenbaum, Computer Power and Human Reason (1976)
+> I want them to have heard me affirm that the computer is a powerful new metaphor for helping us to understand many aspects of the world, but that it enslaves the mind that has no other metaphors and few other resources to call on.
+
+The purpose of this discussion is to poke at some of the self assumptions that have been flying around our chaotic world and often pass as neutral. The places we have allowed our minds to become enslaved to a world defined by levers and gears. With the hope that we not abolish machines, or their usefulness, but more clearly understand who we are so that we may use them profitably, rather than be controlled by them.  
+# A Brewing (or Brewed?) Crisis 
 AI promises itself as the next technological revolution. Yet another total redefinition of the world and how it works. It comes on the heels of Modernity, the Industrial Revolution, Post-Modernism, the iPhone, etc.... Ever since it's early "success" (depending on what you count that as) it is now being bled into every piece of hardware and software imaginable. The rate of this diffusion is so rapid that one can scarcely ask the question *IF* you will use it but rather *HOW* you will react when it shows up in your browser, or on your phone, or comes knocking at your door (probably literally).  
-In many ways, Artificial Intelligence is jumping off the pages of science fiction into more and more everyday forms. At the time of writing, asking an AI for assistance with many tasks has reached the point of common conversation and adoption. Not to mention, well known Large Language Models like ChatGPT or Gemini are but one type of AI model arising from the underlying technology of Neural Networks. Theorists have clearly outlined the exponential nature of this kind of technological change.[^1]  Meaning that our projections of emerging AI should not follow a mindset of small regular improvements, but that of a snowball effect. This trend has already played out in the development of AI up to this point. Initial theorization and experimentation with the basic concepts behind today's top AI models started in 1949 with Donald Hebb.[^2] Here we are seventy five years later quickly passing many tipping points. No longer are developments measured in decades, or years, but every month there is a new announcement of a breakthrough and additional capability of some sort. Regardless of if these technologies ever reach the mythical level of Hal 9000 (or not) the overall trajectory and pace of change is clear. 
+
+In many ways, Artificial Intelligence is jumping off the pages of science fiction into more and more everyday forms. At the time of writing, asking an AI for assistance with many tasks has reached the point of common conversation and adoption. Not to mention, well known Large Language Models like ChatGPT or Gemini are but one type of AI model arising from the underlying technology of Neural Networks. Theorists have clearly outlined the exponential nature of this kind of technological change.[^1]  Meaning that our projections of emerging AI should not follow a mindset of small regular improvements, but that of a snowball effect. This trend has already played out in the development of AI up to this point. Initial theorization and experimentation with the basic concepts behind today's top AI models started in 1949 with Donald Hebb.[^2] Here we are seventy five years later quickly passing many tipping points. Yet regardless of if these technologies ever reach the mythical level of Hal 9000 (or not) the overall trajectory and pace of change is clear. 
 
 ## The Human Response 
 All of us have a certain capacity to healthily cope with change, but if our great grandparents, and grandparents struggled to adapt to the rate of technological change in their lifetime (from car to moon landing), this problem is set to be unimaginably worse in ours and our children’s generation. Even the companies developing these technologies do not always seem to have a clear picture of what they are building or why.   
@@ -30,11 +42,13 @@ Still others caution of danger for humans that "offload" and subsequently loose 
 The future from these various perspectives are wildly different. One approach imagines a world where human workers are by and large replaced by AI agents. While the other imagines AI as a trusty partner. The apocalyptic scenario is easily floated around as well. Yet no matter one's chosen approach, picturing human flourishing in the midst of this new world relies on underlying assumptions of what a human is and what humans should be doing. 
 
 ## To Be Human
-A major foundation for what makes humans human has traditionally been a list of unique human abilities. Whether that be reason, art, language, etc. Humans have an impressive list of things that only we can do in the larger scope of the animal kingdom. A potential side effect of the AI boom is that the list of human abilities that make us unique are positioned to become fewer and fewer. I doubt we are prepared to live as humans in a world where our reason, creativity, and productivity (to name a few) are dwarfed by the sear force of an emerging never sleeping AI. Even if only in perception, this sentiment will most likely grow into full blown reliance on AI in one capacity or another. What will it be like to watch our prized abilities be set aside or “out classed” in as yet unseen ways by the machines around us? How will be maintain a sense of our humanity?
+A major foundation for what makes humans human has traditionally been a list of unique human abilities. Whether that be reason, art, language, etc. Humans have an impressive list of things that only we can do in the larger scope of the animal kingdom. A potential side effect of the AI boom is that the list of human abilities that make us unique are positioned to become fewer and fewer. I doubt we are prepared to live as humans in a world where our reason, creativity, and productivity (to name a few) are dwarfed by the sear force of an emerging never sleeping AI. Even if only in perception, this sentiment will most likely grow into full blown reliance on AI in one capacity or another. What will it be like to watch our prized abilities be set aside or “out classed” in as yet unseen ways by the machines around us? How will we maintain a sense of our own humanity? What makes you human even if a machine can do everything better?
 
 Not only this, but we live in a world where questions of identity are increasingly subjective and vague. For example, the already overwhelming reality of puberty is made even more difficult with additional “decisions” surrounding sexual orientation, and even “species” as evidenced by the presence of litter boxes in public school bathrooms. 
 
-All of these, and many other swirling realities, make answering questions of human anthropology and identity from a Christian (and more specifically Lutheran) perspective more important than ever. These kinds of foundational answers shape our understanding of the world around us in deeply meaningful, yet often subliminal ways. For example, I have been surprised to hear individuals near death proclaim a stalwart platonic ideal of shedding this prison of flesh in order to float up to heaven. It is often in these deeply liminal moments (like death and birth) that we get glimpses into an individual's basic assumptions about what it means to be human. 
+All of these, and many other swirling realities, make answering questions of human anthropology and identity from a Christian (and more specifically Lutheran) perspective more important than ever. These kinds of foundational answers shape our understanding of the world around us in deeply meaningful, yet often subliminal ways. 
+
+For example, I have been surprised to hear individuals near death proclaim a stalwart platonic ideal of shedding this prison of flesh in order to float up to heaven. It is often in these deeply liminal moments (like death and birth) that we get glimpses into an individual's basic assumptions about what it means to be human. 
 
 Yet not only during key times do these foundational beliefs bear weight on the path of an individual.  Everything we do, including the way we approach theology and practice, are affected by our basic answer to the question of human anthropology. 
 
@@ -110,12 +124,12 @@ The dissected frog can teach you a lot about the mechanics of how a frog works i
 
 Christopher Alexander continues from here to develop his philosophy in very interesting ways (not all of which are helpful to a biblical understanding of the world). For our purposes, however, that does not really matter. We have considered him as a brief alternative to the prevailing mechanistic perspective. He has helped us picture the possibility of another way. Now we are ready to return to the pages of Scripture with new eyes.
 # Starting from the Ground Up (Literally)
-As we have been grappling with what it is to be human, we have seen many pitfalls in attempts to understand humanity. Many books and ponderings have been posited in this effort to track down the "essence" of our human constitution. But as we noted previously, such efforts always end up becoming reductionistic and flat. Likewise, even the supposed expansion to see humans as a collection of mechanisms and processes leaves out and tamps down the full-bodied earthiness of being human. This way of thinking has brought to light many insights about ourselves but also supplies its fare share of blind spots. 
+As we have been grappling with what it is to be human, we have seen many pitfalls in attempts to understand humanity. Many books and ponderings have been posited in this effort to track down the "essence" of our human constitution. But as we noted previously, such efforts always end up becoming reductionistic and flat. Likewise, even the supposed expansion to see humans as a collection of mechanisms and processes leaves out and tamps down the full-bodied earthiness of being human. These ways of thinking have brought to light many insights about ourselves but also supplies their fare share of blind spots. 
 
 What then is the alternative? The wholeness spoken of by Christopher Alexander may be poetic and even compelling. But how does a broader perspective avoid becoming convoluted or paralyzed by the sheer volume of the human experience?
 
 ## The making of a Nephesh
-Scripture uses a variety of metaphors and images to describe humans and our relationship with the world and God, but none is as foundational as the description of humanity found in Genesis chapter 2. The forming of the man for dirt lays the foundation for our self understanding in a way that is metaphoric, poetic, historically accurate, and tangible all at once. 
+Scripture uses a variety of metaphors and images to describe humans and our relationship with the world and God, but none is as foundational as the description of humanity found in Genesis chapter 2. The forming of the man from dirt lays the foundation for our self understanding in a way that is metaphoric, poetic, historically accurate, and tangible all at once. 
 
 > [!Cite] Genesis 2:7
 > Then the Lord God formed the man of dust from the ground and breathed into his nostrils the breath of life, and the man became a living creature.
@@ -124,18 +138,36 @@ This picture puts forward a simple yet deeply engaging picture of what pieces ma
 
 (Dust + Breath) Formed by God = Living Creature
 
-To see how this picture begins to hook into all kind of places around scripture we need to keep in mind a few pieces of background. 
+To see how this picture begins to hook into all kind of places around Scripture we need to keep in mind a few pieces of background. 
 
 ## Spirit and Breath
-First, the word breath of life, breath, Spirit all come from the same Hebrew word Ruah רוּח. This gives the image that God's spirit is his breath that he breaths over creation and into human beings. So when we speak of spirit breath is right there with it
+First, the word breath of life, breath, Spirit all come from the same Hebrew word:  Ruah רוּח. This continuity ties together the giving of the image of God, God's breathing and Spirit over creation, and His breathing His life and spirit into human beings. So any time God's spirit is described His breath is right there as well. 
+
+This speaks to a profoundly simple connection point between our human constitution and God. Breathing is a profoundly normal, ordinary and physical thing yet it is also the constant reminder of where our life comes from and how close God's sustaining hand dwells with us. 
 
 ## Clay in the Hands of the Potter
+Not only this but even the verb to form pictures a particular metaphor/reality of what it means to be human. We see this metaphor born out in the words of Isaiah:
+
 > [!cite] Isaiah 64:8
 > O Lord, you are our Father; we are the clay, and you are our potter; we are all the work of your hand.
 
+Being formed form the earth means that at once we are literally, physically, but also metaphorically clay in the hand of our potter.  This is a profoundly different starting place than many modern philosophical perspectives pursue. 
+
+picture self as a vessel. Ask a lot of different questions about yourself like. What are you carrying inside you? How are you being formed? What is your purpose as it has been given to you? 
+
+Your existence is tied to the work of God immediately and in inseparable ways. Where God is in your life is everywhere. 
+
+The foundation of our human understanding should not be defined by the new and shiny technologies we create in our image but hooked back to the originator, the creator, the one who makes and breaths and shakes. 
+
+This changes our approach to God entirely. Rather than try to always assume that I am right and the world needs to bow to me. Or that I am a squishy machine. I can approach God like many before me
+
+> [!cite]  Genesis 18:27 (ESV)
+>Abraham answered and said, “Behold, I have undertaken to speak to the Lord, I who am but dust and ashes.
+
+
+
 Next, word for formed is the same used to talk about potting 
 
-metaphor of a potter with clay
 a foundational one is that of a earthen pot
 
 The picture of a person as a clay jar as an image to hold on to for this. 
@@ -166,8 +198,7 @@ Isaiah 44:24 God forms from the womb
 Isaiah 45:9
 “Woe to him who strives with him who formed him, a pot among earthen pots! Does the clay say to him who forms it, ‘What are you making?’ or ‘Your work has no handles’?
 
-Isaiah 64:8
-But now, O Lord, you are our Father; we are the clay, and you are our potter; we are all the work of your hand.
+
 
 Gen 3:14 dust to dust
 

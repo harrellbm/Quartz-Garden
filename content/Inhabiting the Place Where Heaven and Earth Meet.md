@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-09-14T07:44:09.013-07:00","modified":"2025-11-12T13:57:00.922-08:00","published":"2025-11-12T13:57:00.924-08:00","cssclasses":""}
+publish: true
+Note Planted: 2025-09-14
+Last Tended: 2025-09-15
+updated: 2025-11-12T13:57:00.922-08:00
+edited_seconds: 722
 ---
-
 #🌱Seed   #😐Neutral   #🟡Consideration
 ****
  

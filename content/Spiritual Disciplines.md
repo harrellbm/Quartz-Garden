@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-02-24T13:51:25.355-08:00","modified":"2025-06-30T12:29:40.553-07:00","published":"2025-06-30T12:29:40.563-07:00","cssclasses":""}
+{"publish":true,"created":"2025-12-22T09:38:56.802-08:00","modified":"2026-01-05T12:47:12.966-08:00","published":"2026-01-05T12:47:12.981-08:00","cssclasses":""}
 ---
 
 #🌱Seed   #😐Neutral   #🟡Consideration  #🥾SpiritualPractices-EmbodiedLiving 
@@ -8,6 +8,7 @@
 >[!Summary] The Big Idea
 > General Notes about various spiritual disciplines 
 
+Similar Notes: [[Practices of Faith]]
 ****
 # Silence and Solitude 
 • Definition: Intentionally withdrawing from noise, distractions, and social interaction to be alone with God. 

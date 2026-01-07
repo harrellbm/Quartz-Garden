@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2024-10-24T11:47:26.147-07:00","modified":"2025-10-02T12:59:40.336-07:00","published":"2025-10-02T12:59:40.336-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-10-24
+Last Tended: 2025-10-02
 ---
-
 #🌱Seed  #🙂Agree  #📚Definition  #🔥Doctrine-Poetry-Story 
 
 ****

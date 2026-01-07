@@ -1,16 +1,32 @@
 ---
-{"publish":true,"title":"On the Distinction between the Old and New Testament","created":"2025-10-21T11:55:22.632-07:00","modified":"2025-10-21T15:04:28.604-07:00","published":"2025-10-21T15:04:28.607-07:00","tags":["📕Book"],"cssclasses":""}
+publish: true
+tags:
+  - 📕Book
+read: true
+title: On the Distinction between the Old and New Testament
+author: Philip Melanchthon
+url: https://open.substack.com/pub/treasuresfromthelutheranchurch/p/on-the-distinction-between-the-old?utm_campaign=post&utm_medium=email
+isbn:
+updated: 2025-12-17T13:42:05.649-08:00
+edited_seconds: 137
+cover:
+published:
+rating:
+pages:
+lists:
+  - Interesting Read
+comment:
+Note Planted: 2025-10-21
+Last Tended: 2025-10-21
 ---
-
 ****
  
 >[!cite] Translated Text
 >Philip Melanchthon, “Vom underschied deß alten und Neuwen Testaments,” in Veit Dietrich, _Summaria uber die gantze Biblia des alten und neuen Testaments_ (1567 edition)
 >
->Source Link: https://open.substack.com/pub/treasuresfromthelutheranchurch/p/on-the-distinction-between-the-old?utm_campaign=post&utm_medium=email
+>Source Link:  [Part 1](https://open.substack.com/pub/treasuresfromthelutheranchurch/p/on-the-distinction-between-the-old?utm_campaign=post&utm_medium=email) [Part 2](https://treasuresfromthelutheranchurch.substack.com/p/on-the-distinction-between-the-old-e42?utm_source=publication-search)
 
 ****
-
 # On the Distinction between the Old and New Testament
 
 Many indolent ones think it is not necessary to know the entire Scriptures of the New and Old Testament, that it is enough to read something in the Gospel, and they do not consider why God, from the beginning, had initiated, increased, and preserved this entire book for His Church. For this reason, a short reminder ought to be made.
@@ -75,5 +91,58 @@ These and many more similar promises, even of temporal gifts, are attached to th
 
 This is said of the Gospel, of the Ten Commandments, and of the promises and threats that are attached to them. For this teaching remains common to the whole human race from the beginning to the end.
 
+Now, as for what ought to be further taken for instruction from the ceremonies of Moses and the civil laws the learned should consider for you. It certainly requires sound understanding, so that one does not make monkey’s work out of it, as has unfortunately often happened. Because external sacrifices are found in Moses, some have made the mass into a sacrifice for sin, for the living and the dead, and so on. And such misunderstanding has been driven throughout the world.
+
+It was a very beautiful order, the whole priesthood and office with teaching and the exercise of ceremonies, and everything was especially ordered unto the constant preservation of Holy Scripture, to remember the wonderful works which God continually performed among this people, and for the preservation of the promise and the Law in preaching. As for how the high priest Aaron signified the eternal priest, Christ, etc., and as for how the preaching office and the spiritual offerings were signified, that is, the true invocation of God and our suffering—which is not to be recounted here—the prudent can further contemplate this.
+
+Similarly, although the civil law of Moses is not binding upon us, there is nevertheless a distinction to be maintained therein. What belongs to natural order is binding on all people for all time, such as that no one should intermingle with their closest relatives (which Lev 18 recounts) and that such intermingling can be no marriage—these are natural commandments.
+
+Likewise, it is especially to be noted with civil laws that they are a clear testimony that worldly governance, civil life, judgment, punishment, just war, buying, and selling are good works and God’s order. But it is thereby to be noted that these elements must rest on the first commandment, namely: You shall love God with your whole heart. Additionally, this obedience proceeds in the knowledge of the promise. Where this foundation is laid, there governance and all of civic life is God-pleasing and a proper service to God. For it happens as an obedience towards God, proceeds in faith, is a daily and great exercise of faith, and is directed towards this righteous end, namely, to God’s praise, that is, for the preservation and promotion of right knowledge and invocation of God among the people among whom we govern and live. For God created the human race especially that they should dwell together, protect and serve one another, that we might spread the knowledge of Him, and in every manner of work and danger exercise His invocation, etc.
+
+For this reason, it is to be noticed in Moses that the laws are not only concerning the protection of the body and goods, as is the case in heathen laws, but there are also two other elements concerning the punishment of public idolatry and blasphemy. There is likewise punishment for idolatry and all manner of fornication, which the heathen also do not observe. These elements are to be numbered among the natural laws. Such examples are prescribed to all authority in the divine Law in order to admonish them that they should not only serve the protection of the body, like a shepherd safeguarding a flock, but they are also obligated to serve the right knowledge of God and chaste living.
+
+For although other elements in civil laws, which are not properly called natural laws, do not concern our government and are not binding on us, nevertheless those parts which are natural and moral laws are binding on us, as said above. Moreover, each one who has Christian understanding can take much useful admonition from the punishments which are prescribed in Moses, to consider the wrath of God against sin, and what blasphemy an earnest ruler ought to especially punish, whom God Himself also punishes with misfortune, sickness, war, destructions, and every manner of common and particular plagues, if they are slothful.
+
+The heathen did not punish idolatry, blasphemy, and manifold unchastity, and the authorities still show little earnestness or zeal in these matters according to the heathen custom. Therefore, God punishes the kingdoms with manifold dire seditions and wars. One who is God-fearing ought to take this reminder from this part of divine Scripture, and there are many similar elements to be perceived therein, which would be too lengthy to recount here. For the external governance ordered by God is a beautiful mirror, wherein one who has Christian understanding can perceive much useful instruction.
+
+Consequently, since it is distinctly important that one knows and maintains the proper distinction between the Law and the promise of grace, as well as between the Old Testament and the New Testament, that is, the revelation of the Law and the beginning of the eternal kingdom of Christ, I ask the reader to carefully contemplate these points. For as soon as these distinctions are lost, a great darkness thoroughly follows in the Church’s teaching, as happened with the Pharisees and afterwards with the monks. It is obvious that this article is not to be learned from the canonists, Thomists, and the books of those similar to them. Indeed, they have established Pharisaic errors about this and say: “There are three laws, the natural, the Levitical, and the evangelical, and each one has under his respective law merited the forgiveness of sins and salvation through such works and discipline.” This is sheer blindness, a rejection of the savior, and so on, which I do not say to shame anyone, but rather as a necessary warning to the youth so that they might give proper attention to these most important articles and be thankful to God that He has brought the right teaching about this to light again.
+
+Moreover, divine Scripture reminds us quite often that we should prudently distinguish between the two Testaments. Indeed, God prefigured this reminder when He had His throne made in the tabernacle, to which He made the high and salutary promise that He would thereby preserve the teaching office and that He would hear the people’s prayer. For the same structure was to be an image of the entire Church, namely:
+
+The ark in the tabernacle was named the ark of the covenant, that is, a chest which testified that God made a covenant with this people, that He accepted them, that they have His public service and teaching office, and thereby He would receive their prayer. The ark signifies the Church of all times, that is, the people with whom God made a covenant, accepted, and has given the promise to hear and save.
+
+And Moses had the command to place the tablets of Moses into the ark. This signifies that the books of the prophets and afterwards of the apostles should always be and remain in the Church. This is also a special work of God and a special blessing for the Church, for which we ought to heartily thank God, namely, that these books continually remain in the Church.
+
+Moreover, this signifies that the Church ought to be governed by God’s Word, that one should erect no strange entertainments beside it, as the heathen, heretics, monks, and others have done. Moreover, it signifies that this Word should live and reign in the hearts of the Church, through faith, proper invocation of God, and true obedience.
+
+For this present mortal life, compared to the eternal, is to be regarded as the life of a child in the mother’s womb, compared to the life that follows after birth. The body in which we now live is the divine Word, in which we should remain, and we should not seek or set up a different teaching apart from the one doctrine concerning God and the obedience that we owe Him. As a child is destroyed if it is torn out before the proper time, so also the man torn away from the divine Word places himself in the devil’s snares, error, punishments, and so on, as seen with the heathen.
+
+Next on the ark is a covering made completely of gold, which is called the mercy seat, because God said that in this place where He established the office of preaching, He also wishes to hear the people’s prayer. This covering signifies the savior, Christ, who from the beginning to the end protects His Church and is the mercy seat wherein God dwells and reveals Himself, and for whose sake God graciously receives us.
+
+Over the mercy seat were two angels with wings touching one another. There are thereby signified two sermons or teachings. The first is the one revealed to the people in the Old Testament. The second is that which is spread abroad in the New Testament. In the Old Testament, the Law is revealed from heaven, and bodily governance, discipline, and exercise are thereby established. But the foundation was previously laid, namely, the promise of the Messiah. Without this foundation, the Law was a pure terror or hypocrisy. In the New Testament the fulfillment of the promise and of the Law is preached, and it did not come about for the sake of bodily discipline, but rather there began a new light in the heart and soul, the knowledge of God, trust in God, fear and love, eternal righteousness, and eternal life.
+
+And the wings touched each other, that is, both preachings should follow one another, bear witness to each other, and not strive against each other, like the Pharisees, who, on account of their ignorance of the Law, persecuted the Gospel, and similarly the blinded Jews and monks who, due to their ignorance of the Law, contend against the Gospel.
+
+The wings were the throne of God, that is, God desired His teaching office to be preserved there, and for this reason He desired to be invoked in this place and to hear His people’s prayer there. Thus, at all times the true preaching office is the throne of God. Through right preaching, God comes to us and speaks with us. And it is certain that where the right doctrine is, there is God’s Church, and there also must be there several who live, who are members of Christ, who ought to call upon God in the knowledge of His Word and be certain that God receives their prayers, as it is written in John 15: “If you remain in Me and My Word remains in you, whatever you wish to ask shall be done for you.” This is a great comfort that all those who are God-fearing should diligently consider. The human heart, which is in anguish and thinks about God’s wrath, cannot seek help from God if it does not know of the divine promise and how it should call upon Him. So that the promise might be known to the people of Israel, God determined a certain place, namely, the place of His preaching, and He promised to hear the people’s prayer there. This determination of the place is only a sign and reminder of the promise, and it contained so much in itself. Whoever recognizes and believes this teaching which was ordained for this throne shall be heard.
+
+Thus it is with us as well. We ought to know the promise, and it ought to be proclaimed in the preaching office. In this promise, we should seek and call upon God. Yea, it is in the mercy seat that we should call upon this God, who revealed Himself in Christ, and trust that we will be heard for the sake of Christ.
+
+Two angels also stand upon the mercy seat, that is, all preaching should be built upon Christ. It is mighty through Him and should proclaim Him.
+
+The rings upon the ark, the poles, and all those who should bear it—this all signifies the ministers of the divine Word, who should bear the Church, preach the testament commended to them, and proclaim the mercy seat. This is no light burden, for the preaching office is persecuted, and the people who must also be borne are quite disparate. Every ruler experiences how difficult it is to deal with disparate people, to bring the weak into a better state, to punish disobedience, to soften the hardened, and to defend against the unfaithful.
+
+I have affixed this as a reminder that the reader would consider that this article ought to be earnestly taught and contemplated. In 2 Corinthians 3, St. Paul calls the Old Testament a ministry of death, contained in writing upon stone tablets. For he wants it to be clear that the Old Testament is the revelation of the Law, which God has given with such great, serious testimonies, so that we should recognize and contemplate His judgment over all human sin.
+
+In addition, He also established an external governance for the good of this people. For there needed to be a certain people and place wherein the savior Christ was to be born. Therefore, God also performed great, public miracles among this same people, which took place as public testimony of His Word and His presence.
+
+The same stands in the Epistle to the Hebrews: The Old Testament was weak and useless—note this well—to take away sin and death and to give grace and eternal life. This word should especially be understood of the Law, which proclaims God’s wrath against sin and promises neither grace nor merit. But the promise of the coming savior offered grace and blessing and was not useless for grace.
+
+Because of this and many other reasons, I have made the above distinction between the promise of the savior and the Old Testament and presented this definition: The Old Testament is actually the revelation of the Law, or the covenant, through which Israel was bound to the Law and this particular polity, to this end: that therein there would be preserved the promise of the future savior. Thus, this Law also possesses ceremonies which were signifiers of the same future savior.
+
+Others construct this definition: The Old Testament is the covenant or accepting of the people Israel, on account of the promise of the savior. Moreover, this people was to be formed as a particular polity in which the Law is revealed so that God’s judgment against sin would be known. And because this people was accepted on account of the promise, the Law had many signs of this promise, so that they should have, arouse, and exercise their invocation and faith. I do not dislike this definition if it is understood rightly. But the difference between the two definitions, and which is more suitable or correct, that I ask the prudent to consider with diligence. For I have not written this to stir up strife, but as an admonition for myself and for others, and I would receive a clear review with thanksgiving. I am well aware that my understanding is not great, and that we ought to listen to another, and especially that we should gladly hear the churches, that is, the God-fearing exercised in God’s Word.
+
+But this is easy for the simple to understand, and is highly necessary for all to know: The distinction is between the Law and the promise of grace; the forgiveness of sins is given for the sake of the savior, Christ, and not on account of our merit; the Law is God’s unchangeable will; we need to have faith in this promise, and so on.
+
+This is sufficient on this matter, and I ask the Christian reader that he would consider this article well. But what the enemies of divine truth direct against it does not trouble me greatly, for they know very little about it, they do not seek the truth, and they cannot endure the light of truth. Such people ought not to be the judges of doctrine. For true teaching is foolishness to them, as St. Paul says in 1 Corinthians 1. Rather, the God-fearing have regard for true doctrine, and they perceive and note which teaching accords with faith.
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.710-07:00","modified":"2025-10-02T08:36:54.104-07:00","published":"2025-10-02T08:36:54.097-07:00","cssclasses":""}
+{"publish":true,"created":"2025-12-22T09:38:50.719-08:00","modified":"2025-12-22T10:34:47.143-08:00","published":"2025-12-22T10:34:47.154-08:00","cssclasses":""}
 ---
 
 #🌱Seed   #🙂Agree   #🟡Consideration   #🏖️Universe-Humans 
@@ -29,7 +29,7 @@ Look at the pic of Fossa and see if it fits in either (actually related to a mon
 
 Like the category of Cat and Dog we can get a long way in understanding the animals around us but there are times where our categories fall apart. 
 
-Sometimes our categories blind us to the true reality of the world around us.
+Sometimes our categories blind us to the true reality of the world around us. Every category makes choices about what does or does not belong.
 
 We see this especially in cultural or racial contexts where people are considered a particular way just because of how they look or where they come from. 
 

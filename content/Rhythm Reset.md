@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.778-07:00","modified":"2025-06-17T14:40:39.530-07:00","published":"2025-06-17T14:40:39.532-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-06-17
+updated: 2025-06-17T14:40:39.530-07:00
+edited_seconds: 0
 ---
-
 #🌱Seed  #🙂Agree  #🥾SpiritualPractices-EmbodiedLiving 
 
 ****

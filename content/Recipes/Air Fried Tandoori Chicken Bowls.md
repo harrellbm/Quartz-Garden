@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-09-03T09:24:31.941-07:00","modified":"2025-09-03T16:21:52.051-07:00","published":"2025-09-03T16:21:52.052-07:00","cssclasses":""}
+publish: true
+updated: 2025-09-03T16:21:52.051-07:00
+edited_seconds: 136
+Note Planted: 2025-09-03
+Last Tended: 2025-09-03
 ---
-
 #🍴Recipe 
 ****
  

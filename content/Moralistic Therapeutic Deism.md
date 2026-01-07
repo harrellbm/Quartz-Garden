@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.741-07:00","modified":"2025-09-29T08:48:08.879-07:00","published":"2025-09-29T08:48:15.710-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-09-29
+updated: 2025-09-29T08:48:08.879-07:00
+edited_seconds: 0
 ---
-
 #🌱Seed   #🤢Strongly-Disagree   #📚Definition 
 
 ****

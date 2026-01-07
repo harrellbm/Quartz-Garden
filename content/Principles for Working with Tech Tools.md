@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.776-07:00","modified":"2025-07-31T09:02:14.003-07:00","published":"2025-07-31T09:02:14.010-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-07-31
+updated: 2025-07-31T09:02:14.003-07:00
+edited_seconds: 490
 ---
-
 #🪴Sprout   #😁Strongly-Agree  #🟡Consideration  #🛠️BringingLifeintotheWorld 
 
 ****

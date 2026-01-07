@@ -1,7 +1,11 @@
 ---
-{"publish":true,"aliases":"C h u r c h E n t r y w a y","created":"2024-10-22T11:39:29.741-07:00","modified":"2025-06-17T14:36:26.896-07:00","published":"2025-06-17T14:36:26.898-07:00","cssclasses":""}
+aliases: Church Entryway
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-06-04
+updated: 2025-06-17T14:36:26.896-07:00
+edited_seconds: 0
 ---
-
 #🪴Sprout   #🙂Agree  #🛠️BringingLifeintotheWorld 
 
 ****

@@ -1,13 +1,16 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.792-07:00","modified":"2025-06-17T13:40:49.276-07:00","published":"2025-06-17T13:40:49.283-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-10-24
+Last Tended: 2025-06-17
+updated: 2025-06-17T13:40:49.276-07:00
+edited_seconds: 25
 ---
-
 #🌱Seed  #🙂Agree   #🟢Conviction  #🏖️Universe-Humans 
 
 ****
 
 > [!summary] The Big Idea
-> With the rise of AI and the deterioration of search engines (i.e. you can pay enough to be the first result), preserving knowledge that can not be easily accessed because it is not in the main distribution  (i.e. [[Tail Knowledge and Knowledge Collapse/Tail Knowledge and Knowledge Collapse]]) will be increasingly important. Because, realistically, good solid theology will most likely find itself in the tail. Being less accessed and more easily forgotten and pushed aside.
+> With the rise of AI and the deterioration of search engines (i.e. you can pay enough to be the first result), preserving knowledge that can not be easily accessed because it is not in the main distribution  (i.e. [[Tail Knowledge and Knowledge Collapse]]) will be increasingly important. Because, realistically, good solid theology will most likely find itself in the tail. Being less accessed and more easily forgotten and pushed aside.
 
 * * *
 

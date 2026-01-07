@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.726-07:00","modified":"2025-07-03T12:01:00.185-07:00","published":"2025-07-03T12:01:00.187-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-07-03
+updated: 2025-07-03T12:01:00.185-07:00
+edited_seconds: 173
 ---
-
 #🌿Sapling   #😁Strongly-Agree  #🟢Conviction  #🛠️BringingLifeintotheWorld 
 
 * * *
@@ -73,7 +76,13 @@ The three main tools I have started using for creating and tending my garden are
 > - [[Zotero Library]]
 
 ## Overall Learning and Writing Apps 
-
+---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-06-17
+updated: 2025-06-17T14:33:31.615-07:00
+edited_seconds: 0
+---
 #🌱Seed  #🙂Agree  #🛠️BringingLifeintotheWorld 
 
 ****
@@ -90,7 +99,7 @@ The three main tools I have started using for creating and tending my garden are
 - Google docs for general docs and sharing collaboration 
 - Substack for reading different authors that put out longer form writing
 
-[[Book and Conference Notes/Notes from Hartung Conversation 4-12-23]]
+[[Conference Notes/Notes from Hartung Conversation 4-12-23]]
 [[Gerhard Method of Theological Study]]
 
 

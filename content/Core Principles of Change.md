@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2024-10-23T13:27:48.034-07:00","modified":"2025-06-04T11:40:50.010-07:00","published":"2025-06-04T11:40:50.010-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-10-23
+Last Tended: 2025-01-22
 ---
-
 #🌱Seed  #🙂Agree   #🏖️Universe-Humans 
 
 ****
@@ -11,7 +12,11 @@
 
 ****
 
-1. 
+1. ---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-06-04
+---
 #🌱Seed  #🙂Agree  #🟢Conviction #📚Definition 
 
 ****
@@ -28,7 +33,13 @@ In other words, the core guiding principle of what we should do where we should 
 * * *
 
 [^1]: Canoeing the Mountains, Bolsinger
-2. 
+2. ---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-06-17
+updated: 2025-06-17T14:40:45.786-07:00
+edited_seconds: 0
+---
 #🪴Sprout   #😁Strongly-Agree  #📚Definition  #🍽️Community-Mission 
 
 ****
@@ -66,7 +77,13 @@ In other words, the core guiding principle of what we should do where we should 
 > Read Part Two [here](https://kidsthatgo.com/the-river-of-wellbeing-part-two/).
 > 
 > ### Retrieved from [kidsthatgo.com](https://kidsthatgo.com/the-river-of-wellbeing-part-one/)
-3. 
+3. ---
+publish: true
+Note Planted: 2024-10-23
+Last Tended: 2025-06-04
+updated: 2025-06-17T14:42:30.237-07:00
+edited_seconds: 2
+---
 #🪴Sprout  #🙂Agree  #🟡Consideration  #🏖️Universe-Humans 
 
 ****
@@ -128,7 +145,11 @@ Here are a few other helpful links from Stefan's very helpful digital garden:
 - Further discussion of his ideas of simplicity: [Nature of Order Book 2, Chapter 17.4 Simplicity]([https://christopher-alexander-ces-archive.org/wp-content/uploads/2024/06/DOC.20240508.11603.2002.I.NoO_.2.17.4-1.pdf](https://christopher-alexander-ces-archive.org/wp-content/uploads/2024/06/DOC.20240508.11603.2002.I.NoO_.2.17.4-1.pdf))
 - [Ornament and Function as Products of Unfolding]([https://christopher-alexander-ces-archive.org/research/ornament-and-function-as-products-of-unfolding/](https://christopher-alexander-ces-archive.org/research/ornament-and-function-as-products-of-unfolding/))
 
-4. 
+4. ---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-01-22
+---
 #🌱Seed  #😐Neutral #🏖️Universe-Humans 
 
 ****
@@ -142,7 +163,11 @@ Article that describes this idea:
 
 ****
 
-5. 
+5. ---
+publish: true
+Note Planted: 2024-10-23
+Last Tended: 2025-06-04
+---
 #🌱Seed  #😐Neutral  #🍽️Community-Mission 
 
 ****
@@ -159,7 +184,11 @@ Article that describes this idea:
 This conviction makes it clear that changing and/or generating liturgical forms is not something to be taken lightly.   In fact, many argue that the risk of loss is too great to allow for variety in liturgical forms.  This project, however, does not agree with this assessment.  While loss is real and needs to be appreciated and acknowledged, it should not bind the church from worshiping God with all the skill and talent He has placed within His body.  
 
 Rather than dismissing loss, or turning it into a crippling fear, this project seeks to engage tradition thoughtfully to bring to life liturgical forms that help pull people into the depths of Christ’s richness and unlock interaction with our scriptural and churchly heritage.
-6. 
+6. ---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-01-22
+---
 #🪴Sprout  #🤢Strongly-Disagree  #📚Definition 
 
 ****

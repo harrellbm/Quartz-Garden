@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2024-10-23T13:33:13.426-07:00","modified":"2025-06-17T14:42:30.237-07:00","published":"2025-06-17T14:42:30.241-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-10-23
+Last Tended: 2025-06-04
+updated: 2025-06-17T14:42:30.237-07:00
+edited_seconds: 2
 ---
-
 #🪴Sprout  #🙂Agree  #🟡Consideration  #🏖️Universe-Humans 
 
 ****

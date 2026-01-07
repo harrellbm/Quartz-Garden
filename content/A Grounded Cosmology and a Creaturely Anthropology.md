@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.710-07:00","modified":"2025-06-17T14:21:32.766-07:00","published":"2025-06-17T14:21:32.766-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-01-22
 ---
-
 #🪴Sprout    #🙂Agree   #🟡Consideration   #🏖️Universe-Humans 
 
 ****
@@ -56,7 +57,13 @@ Psalm 19 creation speaks of God, then move to how the law or God is good and val
 
 ## Two valid forms of change 
 ### [[Structure Preserving Transformation or Smooth Change or Unfolding]]
-
+---
+publish: true
+Note Planted: 2024-10-23
+Last Tended: 2025-06-04
+updated: 2025-06-17T14:42:30.237-07:00
+edited_seconds: 2
+---
 #🪴Sprout  #🙂Agree  #🟡Consideration  #🏖️Universe-Humans 
 
 ****
@@ -127,7 +134,11 @@ Here are a few other helpful links from Stefan's very helpful digital garden:
 
 # Mechanistic [[Cosmology]] and the Death of Theological Wholeness 
 
-
+---
+publish: true
+Note Planted: 2024-11-06
+Last Tended: 2025-06-04
+---
 #🪴Sprout   #🙂Agree   #🟡Consideration   #🏖️Universe-Humans 
 
 ****
@@ -143,7 +154,7 @@ A metaphor for this is to think of two frogs on a table. One is alive and whole 
 
 Related Notes: 
 [[Structure Preserving Transformation or Smooth Change or Unfolding]], 
-[[Book and Conference Notes/Notes on the Nature of Order]],
+[[Books/The Nature of Order]],
 [[The Quality of Life in Environments and Objects]],
 [[Center Composed Wholeness]],
 [[The Ways Centers Help Each Other Have More Life]],

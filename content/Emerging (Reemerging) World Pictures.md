@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-09-29T12:08:08.673-07:00","modified":"2025-10-02T16:48:17.056-07:00","published":"2025-10-02T16:48:17.056-07:00","cssclasses":""}
+publish: true
+Note Planted: 2025-09-24
+Last Tended: 2025-10-02
+updated: 2025-10-02T16:48:17.056-07:00
+edited_seconds: 1058
 ---
-
 #🌿Sapling  #🙂Agree  #🟡Consideration #🏖️Universe-Humans 
 ****
  

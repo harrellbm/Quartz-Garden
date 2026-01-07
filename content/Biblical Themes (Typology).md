@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2025-04-03T11:36:40.021-07:00","modified":"2025-06-04T11:29:50.487-07:00","published":"2025-06-04T11:29:50.487-07:00","cssclasses":""}
+publish: true
+Note Planted: 2025-04-03
+Last Tended: 2025-06-04
 ---
-
 #🪴Sprout   #🙂Agree   #🟢Conviction   #📚Definition   #📓Journal  
 #🔥Doctrine-Poetry-Story 
 ****
@@ -9,7 +10,7 @@
 >[!Summary] The Big Idea
 > Starting to collect instances and resources around big biblical themes.
 
-Similar Ideas: [[Book and Conference Notes/Notes from Conversation with Sarah Salzburg]]
+Similar Ideas: [[Conference Notes/Notes from Conversation with Sarah Salzburg]]
 ****
 # The Core Seven
 ![[Biblical Themes Symbols.jpeg]]

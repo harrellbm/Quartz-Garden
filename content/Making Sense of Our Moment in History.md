@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-09-24T11:50:20.304-07:00","modified":"2025-10-02T08:50:32.043-07:00","published":"2025-10-02T08:50:32.041-07:00","cssclasses":""}
+publish: true
+updated: 2025-10-02T08:50:32.043-07:00
+edited_seconds: 2223
+Note Planted: 2025-09-24
+Last Tended: 2025-10-02
 ---
-
 #🌿Sapling   #🙂Agree    #🟢Conviction  #📰Handout  #🏖️Universe-Humans 
 ****
  
@@ -90,7 +93,13 @@ Example of Luther on absorbing philosophy that is not from Scripture:
 Luther's Works Vol 31: Career of the Reformer. "*Disputation Against Scholastic Theology*", PP. 12 Para. 50
 
 ## Two Kingdoms
-
+---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-09-29
+updated: 2025-09-29T10:06:26.751-07:00
+edited_seconds: 20
+---
 #🌱Seed   #😐Neutral   #🟡Consideration
 ****
  
@@ -104,7 +113,13 @@ There are two overall kingdoms in the world. God’s and Satan’s. Everyone bel
 ### Apology of the Augsburg Confession Articles VII and VIII para 17.
 “If the church, which is truly the kingdom of Christ, is distinguished from the kingdom of the devil, it necessarily follows that the ungodly, since they are in the kingdom of the devil, are not the church—although in this life, because the kingdom of Christ has not yet been revealed, they intermingle with the church and hold offices in the church.”
 ## Two Realms
-
+---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-09-29
+updated: 2025-09-29T10:22:58.239-07:00
+edited_seconds: 266
+---
 #🌱Seed   #😁Strongly-Agree   #🟢Conviction   #🏖️Universe-Humans 
 ****
  
@@ -146,7 +161,13 @@ Biermann Systems Lecture: [Systematics IV Class 15](https://scholar.csl.edu/syst
 Break down of how the Two Kingdoms shows up in Luther's writing
 ![[Luthers Doctrine of the Two Kingdoms in the Context of His Theol.pdf]]
 # The Three Estates
-
+---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-09-29
+updated: 2025-09-29T10:19:07.548-07:00
+edited_seconds: 184
+---
 #🌱Seed   #😁Strongly-Agree   #🟢Conviction #🔥Doctrine-Poetry-Story 
 ****
  

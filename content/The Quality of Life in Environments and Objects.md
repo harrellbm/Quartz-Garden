@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.793-07:00","modified":"2025-09-11T10:04:31.191-07:00","published":"2025-09-11T10:04:31.195-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-09-11
+updated: 2025-09-11T10:04:31.191-07:00
+edited_seconds: 0
 ---
-
 #🌱Seed  #😐Neutral #🟡Consideration  #🏖️Universe-Humans 
 
 ****

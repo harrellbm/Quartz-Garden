@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2024-10-30T08:37:51.978-07:00","modified":"2025-06-17T14:47:25.679-07:00","published":"2025-09-11T10:00:15.196-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-10-30
+Last Tended: 2025-01-22
+updated: 2025-06-17T14:47:25.679-07:00
+edited_seconds: 2
 ---
-
 #🌱Seed  #🙂Agree
 
 ****
@@ -154,7 +157,11 @@ Also get mechanistic discussion from phenomena of life
 - [[Story Questions and Existential Questions]]
 # Pattern Language 
 
-
+---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-06-04
+---
 #🪴Sprout  #🙂Agree  #🟡Consideration   #🏖️Universe-Humans 
 ****
  

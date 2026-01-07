@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-01-07T12:43:28.346-08:00","modified":"2025-06-17T14:36:29.257-07:00","published":"2025-06-17T14:36:29.259-07:00","cssclasses":""}
+publish: true
+Note Planted: 2025-01-07
+Last Tended: 2025-06-17
+updated: 2025-06-17T14:36:29.257-07:00
+edited_seconds: 0
 ---
-
 #🌱Seed   #🙂Agree   #🟡Consideration  #🍽️Community-Mission 
 
 ****

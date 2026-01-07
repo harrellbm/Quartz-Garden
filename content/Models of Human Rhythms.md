@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.741-07:00","modified":"2025-06-17T14:36:04.779-07:00","published":"2025-08-26T09:19:14.268-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-06-04
+updated: 2025-06-17T14:36:04.779-07:00
+edited_seconds: 12
 ---
-
 #🌱Seed  #🙂Agree #🥾SpiritualPractices-EmbodiedLiving 
 
 ****
@@ -332,7 +335,11 @@ Goal of being intentional with the model of rhythm is to seek to be faithful to 
 
 How do we measure the effect of a repeated action? Being  addicted to meth seems to be on one extreme while always patting your pocket to make sure you have Keys before leaving is on the other. One completely alters life and it’s purpose and desires while the other is a small functional practice to try to avoid forgetting an important object. Both form the person but one has the power to change a person’s whole outlook while the other is really only going to help one be a little less forgetful or likely to get locked out of the house. 
 
-
+---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-06-04
+---
 #🪴Sprout  #😟Disagree  #📚Definition 
 
 ****

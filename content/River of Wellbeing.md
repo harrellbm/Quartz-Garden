@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.778-07:00","modified":"2025-06-17T14:40:45.786-07:00","published":"2025-06-17T14:40:45.791-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-06-17
+updated: 2025-06-17T14:40:45.786-07:00
+edited_seconds: 0
 ---
-
 #🪴Sprout   #😁Strongly-Agree  #📚Definition  #🍽️Community-Mission 
 
 ****

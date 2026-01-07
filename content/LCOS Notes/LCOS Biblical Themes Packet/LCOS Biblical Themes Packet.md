@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-09-09T08:57:01.781-07:00","modified":"2025-09-09T14:03:43.759-07:00","published":"2025-09-09T14:03:43.761-07:00","cssclasses":""}
+Note Planted: 2025-02-26
+Last Tended: 2025-09-09
+updated: 2025-09-09T14:03:43.759-07:00
+edited_seconds: 249
+publish: true
 ---
-
 #🌱Seed   #🙂Agree    #🟢Conviction  #📰Handout 
 ****
 # Temple: Where Heaven and Earth Meet

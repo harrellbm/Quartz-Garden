@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.757-07:00","modified":"2025-06-17T14:48:24.988-07:00","published":"2025-06-17T14:48:24.990-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-11-04
+Last Tended: 2025-06-12
+updated: 2025-06-17T14:48:24.988-07:00
+edited_seconds: 4
 ---
-
 #🌱Seed  #😐Neutral  #📘BookNotes 
 
 ****

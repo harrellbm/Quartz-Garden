@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-03-18T08:26:57.248-07:00","modified":"2025-06-17T14:47:13.353-07:00","published":"2025-06-17T14:47:13.354-07:00","cssclasses":""}
+Note Planted: 2025-03-18
+Last Tended: 2025-04-03
+publish: true
+updated: 2025-06-17T14:47:13.353-07:00
+edited_seconds: 3
 ---
-
 #🌱Seed   #🙂Agree   #🟡Consideration   #🌲Evergreen 
 
 ****

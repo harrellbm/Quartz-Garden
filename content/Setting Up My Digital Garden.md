@@ -1,7 +1,8 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.778-07:00","modified":"2025-06-04T12:45:33.167-07:00","published":"2025-06-04T12:45:33.167-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-01-22
 ---
-
 #🌿Sapling   #🙂Agree   #📊Project  #🛠️BringingLifeintotheWorld 
 
 ****
@@ -42,7 +43,11 @@ Body: Architects Daughter
 Code: Amatic SC
 
 ## Commands I use
-
+---
+publish: true
+Note Planted: 2025-03-19
+Last Tended: 2025-06-04
+---
 #🌱Seed   #😐Neutral   #🟡Consideration  #🛠️BringingLifeintotheWorld 
 ****
  
@@ -84,7 +89,7 @@ npx quartz build --serve
 - [ ] Figure out how to help people use the RSS feed 
 - [ ] Maybe set up a better meta data tag to make it possible to display properties of page.
 - [ ] edit the footer to be clearer and simpler invite for people to reach out about an idea 
-- [ ]  change [[index\|home]] to base camp on breadcrumbs
+- [ ]  change [[Index\|home]] to base camp on breadcrumbs
 - [ ] Style comments box to match the rest of the page in both light and dark mode
 - [ ] Figure out analytics as well
 - [x] make graph look better by tweaking settings

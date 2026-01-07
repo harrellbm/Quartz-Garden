@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.726-07:00","modified":"2025-06-17T14:32:19.187-07:00","published":"2025-06-17T14:32:19.190-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-06-17
+updated: 2025-06-17T14:32:19.187-07:00
+edited_seconds: 0
 ---
-
 #🌱Seed  #🙂Agree  #🍽️Community-Mission 
 
 ****
@@ -28,7 +31,11 @@ So much of modernity has shrunk humanity down to brains on sticks.  If you just
 This topic in and of itself could take up many pages.  It seeks the core of our existence and the purpose for living.  Things no one can quite get away from, no matter the life one may choose.  Because of this, we will use three defining moments from salvation history to anchor our description of humanity.  
 
 # The Two Commissions
-
+---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-06-04
+---
 #🌱Seed  #🙂Agree #🟢Conviction #🔥Doctrine-Poetry-Story 
 
 ****
@@ -169,7 +176,11 @@ To summarize, the end goal of discipleship is about forming and shaping the deep
 “If Scholarship is the goal of discipleship, then we end up with scholars who make more scholars who know right answers. If joining Jesus is the goal of discipleship, then we end up with disciples who make more disciples who participate in the redemption and restoration of all things.” 
 
 # How should we think?
-
+---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-06-04
+---
 #🌿Sapling  #🙂Agree  #🟢Conviction   #🍽️Community-Mission 
 
 ****
@@ -199,7 +210,11 @@ The categories we use to understand our world matter: [[A Categorical Mind]]
 
 Todo: add mindsets outlined in the starfish and the spirit book
 # Starting Small and Growing from There
-
+---
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-01-22
+---
 #🌱Seed  #😐Neutral #🏖️Universe-Humans 
 
 ****

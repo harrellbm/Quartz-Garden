@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2024-10-22T11:39:29.741-07:00","modified":"2025-08-21T09:51:13.101-07:00","published":"2025-08-21T09:51:13.104-07:00","cssclasses":""}
+publish: true
+Note Planted: 2024-10-22
+Last Tended: 2025-08-20
+updated: 2025-08-21T09:51:13.101-07:00
+edited_seconds: 51
 ---
-
 #🍋Fruit   #😁Strongly-Agree   #🟢Conviction  #🥾SpiritualPractices-EmbodiedLiving 
 ****
  
