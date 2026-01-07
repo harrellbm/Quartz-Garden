@@ -1,25 +1,5 @@
 ---
-updated: 2025-10-02T14:47:01.745-07:00
-edited_seconds: 40
-Note Planted: 2025-09-11
-Last Tended: 2025-09-11
-publish: true
-title: "The Rise and Triumph of the Modern Self: Cultural Amnesia, Expressive Individualism, and the Road to Sexual Revolution"
-isbn: 978-1-4335-5633-3,
-shorttitle: The Rise and Triumph of the Modern Self
-url: https://www.amazon.com/Rise-Triumph-Modern-Self-Individualism/dp/1433556332
-abstract: “Carl Trueman explains modernity to the church, with depth, clarity, and force. The significance of The Rise and Triumph of the Modern Self . . . is hard to overstate.”—Rod Dreher, from the ForewordModern culture is obsessed with identity. Since the landmark Obergefell v. Hodges Supreme Court decision in 2015, sexual identity has dominated both public discourse and cultural trends—yet no historical phenomenon is its own cause. From Augustine to Marx, various views and perspectives have contributed to the modern understanding of the self.In this timely book, Carl Trueman analyzes the development of the sexual revolution as a symptom—rather than the cause—of the human search for identity. Trueman surveys the past, brings clarity to the present, and gives guidance for the future as Christians navigate the culture in humanity’s ever-changing quest for identity."
-publisher: Crossway
-author: Trueman, Carl R. and Dreher, Rod
-tags:
-  - 📕Book
-read: false
-cover:
-published:
-rating:
-pages:
-lists:
-  - Want to Read
-comment:
+{"publish":true,"title":"The Rise and Triumph of the Modern Self: Cultural Amnesia, Expressive Individualism, and the Road to Sexual Revolution","created":"2025-12-22T09:38:51.716-08:00","modified":"2025-10-02T14:47:01.745-07:00","published":"2026-01-07T12:11:39.213-08:00","tags":["📕Book"],"cssclasses":""}
 ---
+
 

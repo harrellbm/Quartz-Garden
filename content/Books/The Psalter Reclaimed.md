@@ -1,19 +1,4 @@
 ---
-publish: true
-tags:
-  - 📕Book
-read: false
-title: The Psalter Reclaimed
-author: " Gordon Wenham"
-url: https://a.co/d/dNKeX7W
-isbn:
-updated: 2025-10-13T14:19:51.658-07:00
-edited_seconds: 42
-cover:
-published:
-rating:
-pages: "208"
-lists:
-  - Want to Read
-comment:
+{"publish":true,"title":"The Psalter Reclaimed","created":"2025-12-22T09:38:51.689-08:00","modified":"2025-10-13T14:19:51.658-07:00","published":"2026-01-07T13:09:43.168-08:00","tags":["📕Book"],"cssclasses":""}
 ---
+

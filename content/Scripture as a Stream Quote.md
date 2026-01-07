@@ -1,11 +1,11 @@
 ---
-publish: true
-Note Planted: 2025-04-24
-Last Tended: 2025-04-24
+{"publish":true,"created":"2025-12-22T09:38:56.271-08:00","modified":"2026-01-07T13:11:32.503-08:00","published":"2026-01-07T13:11:32.513-08:00","cssclasses":""}
 ---
+
 
 #🪴Sprout   #🙂Agree   #🟢Conviction    #📚Definition  #🔥Doctrine-Poetry-Story 
 ****
+# Scripture as a Stream
 One of my favorite quotes about Scripture: 
 
 >[!Quote] from Gregory the Great’s _Moralia on Job,_ section 4.

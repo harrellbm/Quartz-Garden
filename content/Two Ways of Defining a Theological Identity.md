@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-01-03T11:34:07.313-08:00","modified":"2026-01-07T11:30:45.477-08:00","published":"2026-01-07T11:31:17.653-08:00","tags":["#🌱Seed","🟡Consideration","🙂Agree"],"cssclasses":""}
+{"publish":true,"created":"2026-01-03T11:34:07.313-08:00","modified":"2026-01-07T13:11:26.514-08:00","published":"2026-01-07T13:12:07.791-08:00","tags":["#🌱Seed","🟡Consideration","🙂Agree"],"cssclasses":""}
 ---
 
 >[!Summary] The Big Idea
@@ -24,13 +24,18 @@ A balanced use of this approach can be seen in classical Christian confessions l
 
 The primary way in which we should think about defining our theological identity is first and foremost in the positive proposition of what we do indeed believe and confess. The Apostles' and Nicene creeds are the classical example of this. Even though the Nicene creed was literally written in response to Arianism and other heresy's the main focus is on what we DO believe not on what we DON'T believe. 
 
-The best way to think about what all this should look like together is in a bit of a thought experiment. Beauty is one of those things that is widely debated but it can serve as a good foundation for this experiment. 
+# Putting them Together
+The best way to think about what all this should look can be approached using a thought experiment. Beauty is one of those things that is widely debated but it can serve as a good foundation for this experiment. There are fundamentally two kinds of beauty. 
 
-There are fundamentally two kinds of beauty. Beauty like that of a song or poem that invites one into the experience and broadens beauty in the world around it. When one sings a song you do not take away from the beauty of the song but can add and even bring others into experiencing the beauty of that song. But there is also beauty that excludes and sees status by pushing others down. You can think about any kind of beauty pageant and the entire premise of the thing is that someone is "more" beautiful than everyone else. One beauty invites and welcomes while the other seeks to exclude and be self elevated. 
+Beauty like that of a song or poem that invites one into the experience of the sound and poetry. This kind of beauty broadens and shares freely with the world around it. When one sings a song, you do not take away from its beauty, but can even add to it and bring others into experiencing its beauty with you.
 
-In much the same way a theological identity can be lived out in both of these ways. One can weaponize differences and use them as a way to exclude and elevate the self at the expense of others. This can often be seen in some that claim to fight for doctrinal purity in a way that alienates and antagonizes others. However the same is true with those that go the other direction and claim that doctrinal boundaries do not matter. This weaponizes the lack of boundaries as a defining characteristic of the self. This attitude creates its own kind of elite who are enlightened enough to have dispensed of theological moorings.  Yet whether one elevates ones self by viscously exerting boundaries or wantonly dismissing them, both operate from the kind of beauty that seeks to elevate ones self at the expense of others.  
+But there is also beauty that excludes and seeks status by pushing others down. To imagine this kind of beauty you can think about any kind of beauty pageant.  The entire premise of the thing is that someone is "more" beautiful than everyone else. The only thing that makes winning meaningful is that others lost. No one wants a crown that is easy to get. 
 
-The better alternative is the seek the beauty that welcomes and expands. One is welcomed in to a defined space to walk around and explore. Psalm 46 is a wonderful example of what this kind of experience can look like. 
+One beauty invites and welcomes, while the other seeks to exclude and self-elevate. In much the same way, a theological identity can be lived out in both of these ways. 
+
+One can weaponize differences and use them as a way to exclude and elevate the self at the expense of others. This can often be seen in some that claim to fight for doctrinal purity in a way that alienates and antagonizes others. However the same is true with those that go the other direction and claim that doctrinal boundaries do not matter. This weaponizes the lack of boundaries as a defining characteristic of the self. This attitude creates its own kind of elite who are enlightened enough to have dispensed with any kind of theological moorings.  Yet whether one elevates ones self by viscously exerting boundaries, or wantonly dismissing them, both operate from the kind of beauty that seeks to elevate ones self at the expense of others.  
+
+The better alternative is the beauty that welcomes and expands. One is welcomed in to a defined space to walk around and explore. Psalm 46 is a wonderful example of what this kind of experience should look like. 
 
 >[!cite] Psalm 48:12-14 (ESV)
 > Walk about Zion, go around her,
@@ -41,6 +46,18 @@ The better alternative is the seek the beauty that welcomes and expands. One is 
 > our God forever and ever.
 > He will guide us forever.
 
+God is compared to the towers and spires of Jerusalem and the temple. The psalmist invites you not into a place that is elevated for its own sake, but a place that is valuable because it is true. The invitation is for everyone! The beauty expands and broadens to all who accept the invitation to come and see. After all, this is the same invitation as "Come and follow me" uttered by Jesus on the sea shore. An invitation that is not a ridged set of rules, nor a nondescript "going with the flow," it is the real enfleshed reality of living near God. Because living near God should be the goal of any theological perspective. It is not primarily to be proved right (elevating the self again) but to be welcomed and to welcome others into the place of truth. A place built not by human hands, or minds, but by the hands of God before the foundation of the world. That place is one we should seek to inhabit with trembling and humility just as the Israelites walked through the red sea with awe. We too are invited to come and see who God is, and when we do, we begin to understand. A theological identity is meant to be an expansive welcoming. One that is defined and discreet just like the temple and its city. Yet large enough to encompass the grandeur of God. Strong walls that guard and protect with an open gate to welcome and host.  
 
-God is compared to the towers and spires of Jerusalem and the temple. The psalmist invites you not into a place that is elevated for its own sake but a place that is valuable because it is true. The invitation is for everyone the beauty expands and broadens to all who accept the invitation to come and see. After all this is the same invitation as "Come and follow me" not a didactive ridged set of rules nor a nondescript "going with the flow" it is the real enfleshed reality of living near God. Because after all that should be the goal of any theological perspective is not primarily to be proved right (elevated the self again) but to welcome into the place of truth a place built not by human hands or minds but by the hands of God before the foundation of the world. That place is one we should seek with trembling and humility just as the Israelites walked through the red sea with awe. We too are invited to come and see who God is and when we do we begin to understand who we are too. An expansive welcoming that is yet defined and discreet. Strong walls that guard and protect with an open gate to welcome and host.  
+It reminds me of one of my favorite quotes about Scripture: 
+
+# Scripture as a Stream
+One of my favorite quotes about Scripture: 
+
+>[!Quote] from Gregory the Great’s _Moralia on Job,_ section 4.
+>Scripture is like a river . . . broad and deep, shallow enough here for the lamb to go wading, but deep enough there for the elephant to swim.
+>
+
+[Link to the full text](https://faculty.georgetown.edu/jod/texts/moralia1.html)
+****
+Made famous by C.S. Lewis's use of it.
 

@@ -1,8 +1,7 @@
 ---
-publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-06-04
+{"publish":true,"created":"2025-12-22T09:38:58.267-08:00","modified":"2026-01-07T12:11:04.773-08:00","published":"2026-01-07T12:11:04.773-08:00","cssclasses":""}
 ---
+
 #🌱Seed   #🙂Agree   #🟡Consideration   #🍽️Community-Mission 
 
 ****
