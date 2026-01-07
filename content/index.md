@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Home Base Camp","title":"Base Camp 🏕️","created":"2024-10-22T11:39:29.726-07:00","modified":"2025-10-21T09:16:48.551-07:00","published":"2025-10-21T09:16:48.552-07:00","tags":["🌲Evergreen"],"cssclasses":""}
+{"publish":true,"aliases":"Home Base Camp","title":"Base Camp 🏕️","created":"2025-12-22T09:38:53.080-08:00","modified":"2025-10-21T09:16:48.551-07:00","published":"2026-01-07T13:22:49.574-08:00","tags":["🌲Evergreen"],"cssclasses":""}
 ---
 
 Hello!
@@ -20,25 +20,26 @@ Here are some basic suggestions for using this garden:
 - Use the search bar to see if I have notes on something specific. If not you could email me and see what I think!
 - Look at a particular note tag and see what other notes have the same tag.
 	- #🟢Conviction or #📝Essay are good ones to try first.
-- Take a look at my big picture [[Mental Loci]] these are broad sweeping topics that have interested me for a long time.
-- Or you can look at my [[Wonder List]] a collection of things that I am thinking about. 
+- Take a look at my big picture [[Mental Loci]] these are broad sweeping topics that have interested me for a long time. (These need updated but have not had the time as of 1.7.26)
+- Or you can look at my [[Wonder List]] a collection of things that I am thinking about. (Also need updated but have not had the time as of 1.7.26)
 - If you run into a 404 page it means I haven't made that note yet or haven't uploaded it. If it is interesting to you reach out to me and start a conversation about it.  
+- Or below are a list of the top 15 notes I have edited recently:
 # Notes I have Tended Recently 
-- [[A Creature Among Machines\|A Creature Among Machines]]
 - [[Indexes/Scripture-Index\|Scripture-Index]]
-- [[LCOS Notes/LCOS Epistles\|LCOS Epistles]]
-- [[Christmas Reflection\|Christmas Reflection]]
-- [[Resurrection in Luke-Acts\|Resurrection in Luke-Acts]]
-- [[A Comparison of the Johannine Account with the Synoptic Accounts of the Crucifixion\|A Comparison of the Johannine Account with the Synoptic Accounts of the Crucifixion]]
-- [[Private/To Love My Wife\|To Love My Wife]]
+- [[Two Ways of Defining a Theological Identity\|Two Ways of Defining a Theological Identity]]
+- [[Scripture as a Stream Quote\|Scripture as a Stream Quote]]
+- [[Books/The Psalter Reclaimed\|The Psalter Reclaimed]]
+- [[Books/The Quest for holiness\|The Quest for holiness]]
+- [[Books/The Quiet Ambition\|The Quiet Ambition]]
+- [[Books/The Rise and Triumph of the Modern Self\|The Rise and Triumph of the Modern Self]]
+- [[Books/The Screwtape Letters\|The Screwtape Letters]]
+- [[Books/The Starfish and the Spirit\|The Starfish and the Spirit]]
+- [[Books/Wholly Citizens\|Wholly Citizens]]
+- [[Through New Eyes Developing a Biblical View of the World\|Through New Eyes Developing a Biblical View of the World]]
+- [[Worship Planning Notes\|Worship Planning Notes]]
+- [[Athanasius's Categories and Chain Method\|Athanasius's Categories and Chain Method]]
 - [[Memorizing the Psalms\|Memorizing the Psalms]]
-- [[Templates/Note Template\|Note Template]]
-- [[Inhabiting the Place Where Heaven and Earth Meet\|Inhabiting the Place Where Heaven and Earth Meet]]
-- [[Projects/Bookletic\|Bookletic]]
-- [[Love the Lord Your God with all Your Heart\|Love the Lord Your God with all Your Heart]]
-- [[On the Distinction between the Old and New Testament\|On the Distinction between the Old and New Testament]]
-- [[LCOS Notes/Rhythms and Patterns/Communing\|Communing]]
-- [[Books/Faith for Exiles\|Faith for Exiles]]
+- [[Thematic Phrases and Words in the Psalms\|Thematic Phrases and Words in the Psalms]]
 
 # Connected by the Roots
 I aim to make this digital space a grove of sorts. A collection of thoughts, ideas, concepts, notes and experiences. 
