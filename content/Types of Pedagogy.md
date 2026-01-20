@@ -1,8 +1,11 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-01-22
+created: 2025-12-22T09:38:57.939-08:00
+modified: 2026-01-08T08:14:31.035-08:00
+published: 2026-01-08T08:14:31.045-08:00
+cssclasses: ""
 ---
+
 #🌱Seed  #🙂Agree #🏖️Universe-Humans 
 
 ****
@@ -11,7 +14,7 @@ Last Tended: 2025-01-22
 > A collection of various types of [[Pedagogy]].
 
 * * *
-
+Related notes: [[Study With Class/Study With Class]]
 # Issue/Problem Based Work and [[Pedagogy]]
 
 Basic idea that one way to be a continued learner and successful in a career is to be focused on the problems you are interested in learning more about and how to solve. This creates a [[Pedagogical Feedback Loop]] that helps to reinforce and push forward learning. 

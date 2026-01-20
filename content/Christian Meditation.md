@@ -1,10 +1,11 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-06-18
-updated: 2025-06-25T09:49:29.361-07:00
-edited_seconds: 111
+created: 2025-12-22T09:38:51.810-08:00
+modified: 2025-06-25T09:49:29.361-07:00
+published: 2026-01-08T10:32:40.462-08:00
+cssclasses: ""
 ---
+
 #🪴Sprout    #😁Strongly-Agree    #🟢Conviction   #🥾SpiritualPractices-EmbodiedLiving 
 
 ****

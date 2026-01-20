@@ -1,5 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-22T09:38:50.719-08:00","modified":"2025-12-22T10:34:47.143-08:00","published":"2025-12-22T10:34:47.154-08:00","cssclasses":""}
+publish: true
+created: 2025-12-22T09:38:50.719-08:00
+modified: 2025-12-22T10:34:47.143-08:00
+published: 2025-12-22T10:34:47.154-08:00
+cssclasses: ""
 ---
 
 #🌱Seed   #🙂Agree   #🟡Consideration   #🏖️Universe-Humans 

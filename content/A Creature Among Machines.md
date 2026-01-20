@@ -1,5 +1,15 @@
 ---
-{"publish":true,"created":"2025-12-22T09:38:50.752-08:00","modified":"2025-12-22T10:29:04.594-08:00","published":"2025-12-29T20:49:42.813-08:00","tags":["#🌿Sapling","😁Strongly-Agree","🟡Consideration","📝Essay","🏖️Universe-Humans"],"cssclasses":""}
+publish: true
+created: 2025-12-22T09:38:50.752-08:00
+modified: 2025-12-22T10:29:04.594-08:00
+published: 2025-12-29T20:49:42.813-08:00
+tags:
+  - "#🌿Sapling"
+  - 😁Strongly-Agree
+  - 🟡Consideration
+  - 📝Essay
+  - 🏖️Universe-Humans
+cssclasses: ""
 ---
 
 > [!quote] Scripture Focus

@@ -1,5 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-22T09:38:55.531-08:00","modified":"2026-01-05T14:37:18.017-08:00","published":"2026-01-05T14:37:18.039-08:00","cssclasses":""}
+publish: true
+created: 2025-12-22T09:38:55.531-08:00
+modified: 2026-01-05T14:37:18.017-08:00
+published: 2026-01-05T14:37:18.039-08:00
+cssclasses: ""
 ---
 
 #🪴Sprout   #🙂Agree  #🥾SpiritualPractices-EmbodiedLiving 

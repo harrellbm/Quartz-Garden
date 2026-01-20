@@ -1,5 +1,13 @@
 ---
-{"publish":true,"created":"2026-01-07T11:52:49.522-08:00","modified":"2026-01-07T12:01:01.531-08:00","published":"2026-01-07T12:01:01.541-08:00","tags":["#🌱Seed","😐Neutral","🟡Consideration"],"cssclasses":""}
+publish: true
+created: 2026-01-07T11:52:49.522-08:00
+modified: 2026-01-07T12:01:01.531-08:00
+published: 2026-01-07T12:01:01.541-08:00
+tags:
+  - "#🌱Seed"
+  - 😐Neutral
+  - 🟡Consideration
+cssclasses: ""
 ---
 
 >[!Summary] The Big Idea

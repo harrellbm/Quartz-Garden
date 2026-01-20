@@ -1,5 +1,16 @@
 ---
-{"publish":true,"created":"2025-12-22T09:38:54.038-08:00","modified":"2026-01-07T12:06:56.842-08:00","published":"2026-01-07T12:06:56.852-08:00","tags":["🪴Sprout","😁Strongly-Agree","🟢Conviction","📊Project","📓Journal","🥾SpiritualPractices-EmbodiedLiving"],"cssclasses":""}
+publish: true
+created: 2025-12-22T09:38:54.038-08:00
+modified: 2026-01-14T13:44:40.828-08:00
+published: 2026-01-14T13:44:40.840-08:00
+tags:
+  - 🪴Sprout
+  - 😁Strongly-Agree
+  - 🟢Conviction
+  - 📊Project
+  - 📓Journal
+  - 🥾SpiritualPractices-EmbodiedLiving
+cssclasses: ""
 ---
 
 >[!Summary] The Big Idea
@@ -49,6 +60,9 @@ This was not all for nothing however. It is amazing how even having some rudimen
 
 # Attempt 2
 In response to this, I have zeroed in on Athanasius's letter to Marcellinus as a wise laying out of the Psalter from many different angles. Here is a first dive into how I am using that to memorize the core 8 psalms he outlines for personal formation: [[The Pattern to Manage Souls]]
+
+Using that acronym I now have that set of 8 Psalms clearly organized in my mind and can walk through them. It will be fascinating to see how learning the text of the Psalms next fit into that. 
+
 
 Also here are more extended notes on the Letter to Macellinus: [[Athanasius's Categories and Chain Method]]
 Also the full text of the letter:

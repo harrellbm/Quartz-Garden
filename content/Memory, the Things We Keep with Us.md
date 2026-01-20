@@ -1,10 +1,11 @@
 ---
-Note Planted: 2024-10-22
-Last Tended: 2025-10-14
 publish: true
-updated: 2025-10-14T09:03:31.060-07:00
-edited_seconds: 516
+created: 2025-12-22T09:38:54.065-08:00
+modified: 2026-01-15T11:06:28.355-08:00
+published: 2026-01-15T11:06:28.369-08:00
+cssclasses: ""
 ---
+
 #🪴Sprout   #🙂Agree   #🟡Consideration   #📝Essay  #🏖️Universe-Humans 
 ****
  
@@ -64,6 +65,16 @@ Functional memorization gives some structure to that normal process. What this l
 One word of caution with this kind of memorization is that you actually have to be living with and in the texts and things you want to share. Otherwise you will deliver a short bullet point and have nothing else to say or expand on. But if while preaching another bible verse or story comes to mind why not just add it in there. 
 
 As long as I am regularly reading my bible, practicing stories and normally thinking about faith and theology this kind of memorization has helped to make it possible for me to preach without hardly ever having to look down at notes or need to type out whole manuscripts or totally memorize things word for word.
+
+# Memory as Play
+[Source Article](https://circeinstitute.org/blog/memory-play/)
+
+From a Romanic theory of memory that sees memory as a way to be refreshed and to play within the world looking for truth and virtue and holding on to it.
+
+Memory Games
+- Sight-seeing - have a child go look at a scene and then come back and describe it to you. As questions for more and more detail so that you can picture the scene without having seen it. When they cannot remember the answer to a question they run back to look more until they can come describe more details. 
+- “picture-painting”; children and adults together take turns looking at some landscape before them, then closing their eyes, recapturing a mental image of the scene, and then “saying what they see”—each member of the group trying to outdo the others in vividness and exactitude of description.
+- 
 
 # Telescopic or Treasure Chest Memorization 
 based on the idea of chucking

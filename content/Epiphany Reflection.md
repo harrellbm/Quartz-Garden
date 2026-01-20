@@ -1,5 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-22T09:38:52.279-08:00","modified":"2025-12-22T13:43:04.693-08:00","published":"2025-12-22T13:43:04.693-08:00","cssclasses":""}
+publish: true
+created: 2025-12-22T09:38:52.279-08:00
+modified: 2025-12-22T13:43:04.693-08:00
+published: 2025-12-22T13:43:04.693-08:00
+cssclasses: ""
 ---
 
 #🍋Fruit   #🙂Agree  #🔥Doctrine-Poetry-Story 

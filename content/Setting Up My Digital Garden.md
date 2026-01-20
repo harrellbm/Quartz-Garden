@@ -89,7 +89,7 @@ npx quartz build --serve
 - [ ] Figure out how to help people use the RSS feed 
 - [ ] Maybe set up a better meta data tag to make it possible to display properties of page.
 - [ ] edit the footer to be clearer and simpler invite for people to reach out about an idea 
-- [ ]  change [[Index\|home]] to base camp on breadcrumbs
+- [ ]  change [[index\|home]] to base camp on breadcrumbs
 - [ ] Style comments box to match the rest of the page in both light and dark mode
 - [ ] Figure out analytics as well
 - [x] make graph look better by tweaking settings

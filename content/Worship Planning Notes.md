@@ -1,5 +1,9 @@
 ---
-{"publish":true,"created":"2025-12-22T09:38:58.267-08:00","modified":"2026-01-07T12:11:04.773-08:00","published":"2026-01-07T12:11:04.773-08:00","cssclasses":""}
+publish: true
+created: 2025-12-22T09:38:58.267-08:00
+modified: 2026-01-07T12:11:04.773-08:00
+published: 2026-01-07T12:11:04.773-08:00
+cssclasses: ""
 ---
 
 #🌱Seed   #🙂Agree   #🟡Consideration   #🍽️Community-Mission 
