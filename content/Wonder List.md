@@ -1,10 +1,11 @@
 ---
 publish: true
-Note Planted: 2025-04-02
-Last Tended: 2025-06-26
-updated: 2025-06-30T09:35:21.271-07:00
-edited_seconds: 3
+created: 2025-12-22T09:38:58.215-08:00
+modified: 2026-01-20T15:15:43.588-08:00
+published: 2026-01-20T15:15:43.602-08:00
+cssclasses: ""
 ---
+
 #🌲Evergreen   #📓Journal 
 ****
 
@@ -14,9 +15,27 @@ edited_seconds: 3
 ****
 - How do we actually have a confessional position on worship and practice that is not in the extreme of imposition of tradition on consciences or the prideful jettisoning of heritage. [[What is Liturgy]] 
 
+> [!cite] [Britannica](https://www.britannica.com/technology/technology)
+> The word technology is a combination of the Greek technē, which means “art, craft,” and logos, which means “word, speech.” 
 - What is the proper use of a church library in a digital, AI drive, "easy" data access culture. [[The Purpose of a Church Library]] 
+- What is the Role of new technology: Cars, Social media, Phones,
+- What is the Role of ancient technology: memory, imagination and logic: Memory tools, Logic tools. They open up imagination
+	- Grammar, logic and rhetoric as core goals of education (even for emotive based content) [[Trivium Learning]]
 
 - What are we actually as humans and how do we hold the tension of scripture and how it describes us as multifaceted beings. [[A Creature Among Machines]], [[Creatureliness]], [[My Thoughts on Cosmology]], [[A Grounded Cosmology and a Creaturely Anthropology]]
+
+- What it is to be human who has an innately categorical mind. We live within categories that make choices of how to world holds together Categories are never lossless but no categories is impossible and would be utter chaos Cycles of certainty and uncertainty in categories [[A Categorical Mind]]
+- Loci communes from Philip Melanchthon. How can these catagories function along side the [[Grammar of the Small Catechism]] 
+	1. Concerning Human Virtue and Free Will 
+	2. Concerning Sin 
+	3.  Concerning the Law
+	4. Concerning the Gospel 
+	5. Concerning Grace 
+	6. Concerning Justification and Faith
+	7. Concerning the Distinction between the Old and New Testaments and Abolishment of the Law 
+	8. Concerning Signs 
+	9. Concerning Charity 
+	10. Concerning the Magistrates 11. 11. Concerning Scandal (Adiaphora)
 
 - How can care for the earth and a communities physical well as a door way into actually caring for and being connected with the people of an area as well? [[LCOS Notes/LCOS Facility Pattern Language]]
 	- What are the specific uses of space or patterns that could be used in the life of LCOS or even my own personal life to most fully align the use and constructions of space for our stated goals of mission and ministry?  [[LCOS Notes/LCOS Community Notes]], [[LCOS Notes/Living Process for LCOS]]
@@ -38,3 +57,4 @@ edited_seconds: 3
 
 - What does it look like to have clarity of doctrine but also to be grounded in the story and especially the poetry of Scripture [[Oriented by Story, Grounded in Poetry, Clarity in Doctrine]]
 
+- How can the Church operate outside of the set market and cultural dynamics. To look out for the oppressed in ways that no other group will or can? 

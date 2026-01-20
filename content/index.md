@@ -1,5 +1,13 @@
 ---
-{"publish":true,"aliases":"Home Base Camp","title":"Base Camp 🏕️","created":"2025-12-22T09:38:53.080-08:00","modified":"2025-10-21T09:16:48.551-07:00","published":"2026-01-07T13:22:49.574-08:00","tags":["🌲Evergreen"],"cssclasses":""}
+publish: true
+aliases: Home Base Camp
+title: Base Camp 🏕️
+created: 2025-12-22T09:38:53.080-08:00
+modified: 2026-01-20T15:24:26.469-08:00
+published: 2026-01-20T15:24:26.480-08:00
+tags:
+  - 🌲Evergreen
+cssclasses: ""
 ---
 
 Hello!
@@ -9,6 +17,8 @@ My name is Brenden Harrell. I am a Husband, Father, Lutheran Pastor, and Tinkere
 > You have stumbled upon an experiment of mine. This is a living collection of my notes, essays, and ponderings. All of which are in various stages of development and organization. You can find writing all along the continuum from deeply edited and refined to literally dumped out of my brain in raw bullet points. 
 
 I have grown increasingly dissatisfied with the exhausting, overwhelming and overstimulating digital spaces we inhabit. Content is constantly being pushed, or marketed, to us in new shiny wrappers. Why not try something different? 
+
+For those of you who are more organized than me, there is not huge or tightly regulated organization (sorry).  Rather you are invited into my active learning. All notes are under construction or "being grown" in real time. Each one is a snapshot of thoughts and research at a particular moment in time.  For more see [[A Case for Christian Digital Gardening]]
 
 My hope is that this site will be more like a little quiet wilderness. A place to slow down, explore, start conversations, and collaborate. That is why I have named it - *The Aspen Grove*.
 ![[Aspen Grove.png]]
@@ -20,42 +30,21 @@ Here are some basic suggestions for using this garden:
 - Use the search bar to see if I have notes on something specific. If not you could email me and see what I think!
 - Look at a particular note tag and see what other notes have the same tag.
 	- #🟢Conviction or #📝Essay are good ones to try first.
-- Take a look at my big picture [[Mental Loci]] these are broad sweeping topics that have interested me for a long time. (These need updated but have not had the time as of 1.7.26)
-- Or you can look at my [[Wonder List]] a collection of things that I am thinking about. (Also need updated but have not had the time as of 1.7.26)
+- Or you can look at my [[Wonder List]] a collection of things that I am thinking about. 
 - If you run into a 404 page it means I haven't made that note yet or haven't uploaded it. If it is interesting to you reach out to me and start a conversation about it.  
-- Or below are a list of the top 15 notes I have edited recently:
-# Notes I have Tended Recently 
+# Notes I have Worked in Recently 
+- [[A Case for Christian Digital Gardening\|A Case for Christian Digital Gardening]]
+- [[Wonder List\|Wonder List]]
 - [[Indexes/Scripture-Index\|Scripture-Index]]
+- [[Obsidian Note-taking\|Obsidian Note-taking]]
+- [[How AI Destroys Institutions\|How AI Destroys Institutions]]
+- [[Tail Knowledge and Knowledge Collapse\|Tail Knowledge and Knowledge Collapse]]
+- [[Study With Class\|Study With Class]]
+- [[10 Deeper Parts of Speech\|10 Deeper Parts of Speech]]
 - [[Two Ways of Defining a Theological Identity\|Two Ways of Defining a Theological Identity]]
 - [[Scripture as a Stream Quote\|Scripture as a Stream Quote]]
-- [[Books/The Psalter Reclaimed\|The Psalter Reclaimed]]
-- [[Books/The Quest for holiness\|The Quest for holiness]]
-- [[Books/The Quiet Ambition\|The Quiet Ambition]]
-- [[Books/The Rise and Triumph of the Modern Self\|The Rise and Triumph of the Modern Self]]
-- [[Books/The Screwtape Letters\|The Screwtape Letters]]
-- [[Books/The Starfish and the Spirit\|The Starfish and the Spirit]]
-- [[Books/Wholly Citizens\|Wholly Citizens]]
-- [[Through New Eyes Developing a Biblical View of the World\|Through New Eyes Developing a Biblical View of the World]]
-- [[Worship Planning Notes\|Worship Planning Notes]]
-- [[Athanasius's Categories and Chain Method\|Athanasius's Categories and Chain Method]]
-- [[Memorizing the Psalms\|Memorizing the Psalms]]
-- [[Thematic Phrases and Words in the Psalms\|Thematic Phrases and Words in the Psalms]]
-
-# Connected by the Roots
-I aim to make this digital space a grove of sorts. A collection of thoughts, ideas, concepts, notes and experiences. 
-
-It’s a little like a blog, but also very different. The basic concept of this site was inspired by the idea of [[Digital Gardening]]. The main idea is to create a place to plant ideas and let them grow gradually. Rather than posting content that gets sent off into the torrent of data around us, a garden looks at a note as something meant to be revisited, edited, and expanded.  
-
-In other words, this is not a chronological feed of writings, but a living network of notes I have gathered and continue to write. There is no grand organizational topic other than things that I find interesting and useful. 
-
-I think the reason this concept resonates with me is that it mirrors my lived experience of thinking and developing ideas. No idea is at its best the first time you scribble it down. But over time a small idea can grow into something powerful.   
-
-Therefore the nature of this garden can be summarized with the following points:
-
-- **No note is finished**: This follows [[The Iterative Nature of Learning]]. I have added clues to the start of notes to help you see how I view them and if I have put much work into them or not. You can find more details about this here:  [[The Organization of My Digital Garden]]
-
-- **Notes are interconnected**: This allows for [[Topological Navigation]] by using links that connect related ideas together. This creates a kind of map that allows for navigation around the garden by following paths of ideas. You can think of this a lot like going for a physical walk in a garden. 
-
-By structuring this site according to these concepts, I hope to explore a different way of “Being” in digital space.
-
-I also hope that this space can be the start for collaboration on ideas and projects. A few thoughts I have on this can be found here: [[Christian Collaboration]]
+- [[Christmas Reflection\|Christmas Reflection]]
+- [[LCOS Notes/LCOS Epistles\|LCOS Epistles]]
+- [[Trivium Learning\|Trivium Learning]]
+- [[Grammar of the Small Catechism\|Grammar of the Small Catechism]]
+- [[Catechism Mind Map\|Catechism Mind Map]]
