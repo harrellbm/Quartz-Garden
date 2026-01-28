@@ -1,8 +1,11 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-06-04
+created: 2025-12-22T09:38:50.968-08:00
+modified: 2026-01-27T14:42:38.178-08:00
+published: 2026-01-27T14:42:38.194-08:00
+cssclasses: ""
 ---
+
 #🌿Sapling   #🙂Agree   #🟢Conviction      #🔥Doctrine-Poetry-Story   #🛠️BringingLifeintotheWorld 
 
 ****
@@ -21,7 +24,9 @@ Last Tended: 2025-06-04
 
 ***
 # A Christ Centered perspective on Technology
-It is easy to think that difficulties and debates surrounding technology are a modern occurrence. After all, what other generation has had to navigate so many technological changes in almost every area of life? While this may be true, humans have always struggled with using technology in healthy ways.  All the way back in Genesis 11 we read about the poor use of technology to build a tower, not for the health of people, or the care of the earth, but to "make a name for ourselves." This underlying conflict is one that is alive and well today. Our technologies may be more advanced than brick and mortar but the human desire to build our own little empire has never changed.
+It is easy to think that difficulties and debates surrounding technology are a modern occurrence. After all, what other generation has had to navigate so many technological changes in almost every area of life? While this may be true, humans have always struggled with using technology in healthy ways. All the way back in Genesis 11 we read about the poor use of technology to build a tower, not for the health of people, or the care of the earth, but to "make a name for ourselves." This underlying conflict is one that is alive and well today. Our technologies may be more advanced than brick and mortar but the human desire to build our own little empire has never changed.
+
+
 # Charting a Middle Course
 What then is the proper role of Christians in using, developing, and interacting with technology? 
 

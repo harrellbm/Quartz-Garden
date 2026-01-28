@@ -1,8 +1,11 @@
 ---
 publish: true
-Note Planted: 2024-12-05
-Last Tended: 2025-06-04
+created: 2025-12-22T09:38:55.823-08:00
+modified: 2026-01-27T14:38:50.878-08:00
+published: 2026-01-27T14:38:50.878-08:00
+cssclasses: ""
 ---
+
 #🌱Seed  #😁Strongly-Agree #📓Journal  #🥾SpiritualPractices-EmbodiedLiving 
 
 ****
@@ -168,7 +171,7 @@ The word for rib is also interesting it is only used as "rib" in this particular
 ## 12.31.24
 Read through all in one sitting this time. Was outside facing east in the morning. Definitely a different emotional and physical atmosphere with that. 
 
-It strikes me that we can kind of think of technology in all its forms in regards to the curses of sin. Every piece of technology either helps to ward of sickness, the toil of work or even provide security from the danger of the sinful other. It makes sense how tech can so easily turn into an idol when it literally is trying to undo the effects of sin without ever really dealing with the root of it.
+
 
 > [!done]
 > Ended on at the end of Gen 3

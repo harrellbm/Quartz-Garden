@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-01-08T08:12:22.072-08:00
-modified: 2026-01-20T13:33:34.363-08:00
-published: 2026-01-20T13:33:34.374-08:00
+modified: 2026-01-18T21:53:06.550-08:00
+published: 2026-01-22T19:58:42.171-08:00
 tags:
   - "#🌱Seed"
   - 😐Neutral
@@ -11,57 +11,54 @@ cssclasses: ""
 ---
 
 >[!Summary] The Big Idea
-> The major goal of all Scripture reading should be to foster a love and commitment to Christ and His word. Yet in its simplicity, this goal is very lofty in its true aspirations. 
-> 
-> With this in mind, most Bible classes generally have two formats:
+> Most Bible classes generally have two formats:
 > 1. The teacher stands up front and walks the class through what they should know about the text. 
 > 2. A group sits around and discusses the text unusually following some sort of curriculum. 
 > 
-> Both of these forms are good and have their individual strengths and weaknesses. But one of the skills we rarely teach or practice together is HOW to study and dig deeper into a text without it being handed on a silver platter. What are the nitty gritty methods of study, memory, interpretation and meditation? What is the shape of my life and mind in regards to Scripture? 
-> 
-> These types of harder questions are difficult to approach in the above mentioned formats. Therefore I have undertaken to explore and try out additional formats for bringing the truth of Scripture into our midst. The basic form of this new class will be one of "Study With" or "Study Together." We will embark on the full process of study from opening tasks of familiarity to deep integration. 
+> Both of these forms are good and have their individual strengths and weaknesses. But one of the skills we rarely teach or practice together is HOW to study and dig deeper into a text without it being handed on a silver platter. 
 
 ****
+Since this is a rather large goal core framework is needed in order to avoid getting lost in the weeds or overwhelmed by the interpretative task. The major goal is to be lead into the text of Scripture and foster a love for His word and the life we receive by His hand. 
 
-The framework that will be used to give this class shape is the classical education model of [[Trivium Learning]]. The Trivium approaches learning along three complementary paths: Grammar, Logic, and Rhetoric. 
+The framework that will be used to give this class shape is the classical education model of [[Trivium Learning/Trivium Learning]]. The Trivium approaches learning along three complementary paths: Grammar, Logic and Rhetoric. 
+
 ## Grammar 
 Every discipline, or area of study, has its own grammar. This grammar is more than just the core function of sentences and language structure.  It is the basic vocabulary and pieces of knowledge you need in order to get around within that discipline (i.e. you need to know the parts of the body when working in medicine). 
 
 ## Logic 
-Logic aims to think and use knowledge clearly and consistently. It takes time to identify and introspect the kinds of assumptions and mechanisms we use to make sense of things. In other words, it is learning how to actually use the building blocks of grammar. 
+Building upon grammar, logic aims to think and use knowledge clearly and consistently.
 
 ## Rhetoric 
-Knowing the building blocks of grammar and being able to work with them using logic are both good. But if that work always remains internal it is a waste. Therefore, being able to express and communicate using rhetorical tools is equally important. Afterall, the message of the gospel is not shared unless it is spoken.  
-
-# "Study With" Activities 
-These three areas work together in a cycle to move between things like basic memorization and familiarity, to questioning and reasoning, to clear articulation and sharing. 
+Being able to express and communicate the grammar and logic of the chosen discipline in a way that is compelling and persuasive. 
+# Study with Activities 
+These three areas work together in a cycle to move between things like basic memorization and familiarity to questioning and reasoning to clear articulation. 
 ## Grammar
-We will engage in grammar style learning in order to become familiar with the pieces of studying Scripture and internalize their basic shape. Activities in this domain will look like:
+We will engage in grammar style learning in order to become familiar with the pieces of studying Scripture and internalize their basic shape. Activities in these domain will look like:
 - Hand write out the text and start to look for things that stand out to you. Highlight, underline or circle things as you go or after you are done. 
-- Chart and/or divide sentences into the eight major parts of speech. Paying close attention to how the text is physically structured.
+- Chart and/or divide sentences into the eight major parts of speech
 	- Noun, Pronoun, Adjective (modifies nouns and pronouns)
 	- Verb, Adverb
 	- Preposition, Conjunction
 	- Interjection (word added for emotional expression)
-	- Added difficulty: [[10 Deeper Parts of Speech]]
-- Look at different translations of a text side by side. Get a sense of how they differ. Then look into why.
-- Use an interlinear Bible to take a look at the original text and how it lines up with its English translation.
-- Learn how to use a lexicon and basic lexical grammar. Think a bit about the original words, verbs, and grammar structures.
-- Research classical resources such as the Confessions, Early Church Fathers, Luther, etc. How do they interpret the current text and why? 
-- Research technical resources like commentaries, concordances, and critical apparatus. How could these tools be useful to you?
+- Added difficulty: Go into 10 deeper parts of speech. [Source](https://americantesol.com/blogger/beyond-the-basics-10-essential-parts-of-speech/)
+	- Articles 
+		- Articles and determiners function like adjectives by modifying nouns, but they are different than adjectives in that they are necessary for a sentence to have proper syntax. Articles and determiners specify and identify nouns, and there are indefinite and definite articles. Examples of articles: a, an, the; examples of determiners: these, that, those, enough, much, few, which, what.
+	- Determiners - Numerals, quantifiers, Demonstratives
+	- Auxiliary Verbs - Helping verbs that add meaning to main verbs by changing tense, mood, or voice. Examples: be, do, have, can, will
+		- Modal Verbs: A specific type of auxiliary verb that expresses possibility, ability, obligation, or permission. Examples: can, could, should, might
+	- Infinitive Markers - The word “to” often signals an infinitive form of a verb. Examples: to run, to swim, to sing
+	- Participle Markers: The words “having” and “been” often accompany participles, which are verb forms that function as adjectives. Examples: having eaten, been seen
+	- Expletives: Words that fill grammatical space but don’t have specific meaning. Examples: it in “it is raining” or there in “there are many books”.
+- Take a look at the original text itself and think a little about the original words and grammar. Learn how to use a lexicon and interlinear Bible. 
+- Research technical resources like commentaries and concordances that are useful resources to help do the above
+-  
 ## Logic 
-- Identify the shape and flow of the current text. Can you see its underlying structure? What is repeated or restated. How does it move from point a to point b? 
-- How does the text sit within its rings of context (Immediate, Book, Neighboring Books, Whole Scripture)? 
-- Where in the overall arch of Scripture does this text sit?
-- What kind of genre considerations are their in reading this text?
-- Are there others texts that compare or contrast to this one?
-- What other texts across the Bible are connected with this one. Why and how? 
-	- Is it through Quotations, Allusions, Common language and Metaphor, or Typology?
-## Rhetoric
-- In your own words, Summarize this text. 
-- What difference does any of this make to your life? How would you share that with others?
-- What kind of connection to personal stories or conversational elements could you bring with you out of the text into daily life?
-- Who is someone in your life that needs to hear these truths. How could you tell them about it?
+- What kind of shape does the flow of this section make? can you see its underlying structure? What is repeated or restated. How do we move from point a to point b? 
+- Compare and contrast different translations of a text to start and see the shape of the original text  
+- What other texts across the bible are connected with this one. Why and how? 
+	- Quotations, Allusions, Common language or metaphor, typology
+- Learn how to navigate resources as study aids 
+- Research and find other texts that can help us gain a picture of how Christians throughout the centuries have thought about the text
 
 
 Source Articles:

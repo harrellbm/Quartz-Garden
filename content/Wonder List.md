@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-22T09:38:58.215-08:00
-modified: 2026-01-20T15:15:43.588-08:00
-published: 2026-01-20T15:15:43.602-08:00
+modified: 2026-01-28T08:57:23.590-08:00
+published: 2026-01-28T08:57:23.600-08:00
 cssclasses: ""
 ---
 
@@ -20,22 +20,11 @@ cssclasses: ""
 - What is the proper use of a church library in a digital, AI drive, "easy" data access culture. [[The Purpose of a Church Library]] 
 - What is the Role of new technology: Cars, Social media, Phones,
 - What is the Role of ancient technology: memory, imagination and logic: Memory tools, Logic tools. They open up imagination
-	- Grammar, logic and rhetoric as core goals of education (even for emotive based content) [[Trivium Learning]]
+	- Grammar, logic and rhetoric as core goals of education (even for emotive based content) [[Trivium Learning/Trivium Learning]]
 
 - What are we actually as humans and how do we hold the tension of scripture and how it describes us as multifaceted beings. [[A Creature Among Machines]], [[Creatureliness]], [[My Thoughts on Cosmology]], [[A Grounded Cosmology and a Creaturely Anthropology]]
 
 - What it is to be human who has an innately categorical mind. We live within categories that make choices of how to world holds together Categories are never lossless but no categories is impossible and would be utter chaos Cycles of certainty and uncertainty in categories [[A Categorical Mind]]
-- Loci communes from Philip Melanchthon. How can these catagories function along side the [[Grammar of the Small Catechism]] 
-	1. Concerning Human Virtue and Free Will 
-	2. Concerning Sin 
-	3.  Concerning the Law
-	4. Concerning the Gospel 
-	5. Concerning Grace 
-	6. Concerning Justification and Faith
-	7. Concerning the Distinction between the Old and New Testaments and Abolishment of the Law 
-	8. Concerning Signs 
-	9. Concerning Charity 
-	10. Concerning the Magistrates 11. 11. Concerning Scandal (Adiaphora)
 
 - How can care for the earth and a communities physical well as a door way into actually caring for and being connected with the people of an area as well? [[LCOS Notes/LCOS Facility Pattern Language]]
 	- What are the specific uses of space or patterns that could be used in the life of LCOS or even my own personal life to most fully align the use and constructions of space for our stated goals of mission and ministry?  [[LCOS Notes/LCOS Community Notes]], [[LCOS Notes/Living Process for LCOS]]
@@ -51,7 +40,7 @@ cssclasses: ""
 - How to actually build and encourage a creative community that lets arts and beauty thrive. In the forms of music, art, etc. [[Aesthetic]]
 
 - I desperately want to get better at [[Storytelling]] and the way that emotion, meaning and content are all transmitted through a well told story that actually affects the way the hearer things and feels about the world. [[Story Questions and Existential Questions]] Deeply connected with this is our answer to the question [[Why Learn]]
-	- This has also gotten me thinking about memorization and keeping Scripture in my mind but in a functional way not just a bunch of rote memorized material. [[Memory, the Things We Keep with Us]] and [[Memorizing the Psalms]] and [[Reading Scripture for Familiarity]]
+	- This has also gotten me thinking about memorization and keeping Scripture in my mind but in a functional way not just a bunch of rote memorized material. [[Memory Journal/Memory, the Things We Keep with Us/Memory, the Things We Keep with Us]] and [[Memory Journal/Memorizing the Psalms]] and [[Reading Scripture for Familiarity]]
 
 - How can our local churches be connected and work together in meaningful ways that transcend the island mentality of congregations?
 

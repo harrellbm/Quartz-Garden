@@ -1,10 +1,11 @@
 ---
-Note Planted: 2025-04-01
-Last Tended: 2025-06-17
 publish: true
-updated: 2025-06-17T14:08:20.264-07:00
-edited_seconds: 222
+created: 2025-12-22T09:38:57.591-08:00
+modified: 2025-06-17T14:08:20.264-07:00
+published: 2026-01-27T14:36:07.061-08:00
+cssclasses: ""
 ---
+
 #🌱Seed   #😐Neutral   #🟡Consideration  #🍽️Community-Mission  #📊Project 
 
 ****

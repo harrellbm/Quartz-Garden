@@ -1,10 +1,11 @@
 ---
 publish: true
-Note Planted: 2025-07-02
-Last Tended: 2025-09-04
-updated: 2025-09-04T10:40:37.680-07:00
-edited_seconds: 3091
+created: 2025-12-22T09:38:51.004-08:00
+modified: 2026-01-27T14:27:24.574-08:00
+published: 2026-01-27T14:27:24.583-08:00
+cssclasses: ""
 ---
+
 #🪴Sprout   #🙂Agree  #📓Journal    #📊Project  #🛠️BringingLifeintotheWorld 
 ****
  
@@ -27,6 +28,14 @@ Related Notes:
 [[Plants Around Church]]
 [[LCOS Notes/LCOS Facility Pattern Language]]
 ****
+
+# 1-27-26
+
+It has been a while and I need time to do a full right up but here are some seeds I am thinking about getting for the preschool/ our side brim 
+[https://www.americanmeadows.com/products/dry-meadow-wildflower-seed-mix](https://www.americanmeadows.com/products/dry-meadow-wildflower-seed-mix)
+
+[https://www.americanmeadows.com/products/native-southeast-wildflower-seed-mix](https://www.americanmeadows.com/products/native-southeast-wildflower-seed-mix)
+
 
 # 9-4-25
 Things seem to be going well overall. I got insecticidal soap and that seems to be keeping the white flies at bay for now. The rosemary is a lot happier and even flowering a little. I cut the spearmint way back and have seen some new sprouts starting from the roots. Once those are strong enough Ill cut out all the other old growth. 
