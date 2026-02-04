@@ -1,8 +1,11 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-01-22
+created: 2025-12-22T09:38:50.628-08:00
+modified: 2026-02-02T11:09:44.102-08:00
+published: 2026-02-02T11:09:44.102-08:00
+cssclasses: ""
 ---
+
 #🌱Seed  #😐Neutral 
 
 ****

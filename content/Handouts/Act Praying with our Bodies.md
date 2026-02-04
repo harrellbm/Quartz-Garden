@@ -1,10 +1,11 @@
 ---
 publish: true
-updated: 2025-06-17T13:28:01.635-07:00
-edited_seconds: 83
-Note Planted: 2025-06-17
-Last Tended: 2025-06-17
+created: 2025-12-22T09:38:52.635-08:00
+modified: 2026-02-02T13:02:00.317-08:00
+published: 2026-02-02T13:02:00.322-08:00
+cssclasses: ""
 ---
+
 #🌿Sapling    #🙂Agree    #🟢Conviction   #📰Handout  #🥾SpiritualPractices-EmbodiedLiving 
 ****
 # **Act: Praying with Our Bodies**

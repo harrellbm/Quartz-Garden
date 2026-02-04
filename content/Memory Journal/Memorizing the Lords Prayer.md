@@ -1,27 +1,33 @@
 ---
 publish: true
 created: 2025-12-22T09:38:54.024-08:00
-modified: 2026-01-22T20:50:51.841-08:00
-published: 2026-01-22T20:50:57.478-08:00
+modified: 2026-02-02T12:56:06.220-08:00
+published: 2026-02-02T12:56:06.225-08:00
+tags:
+  - 💭Memory
+  - 🌿Sapling
+  - 😁Strongly-Agree
+  - 🟢Conviction
+  - 📊Project
+  - 🥾SpiritualPractices-EmbodiedLiving
 cssclasses: ""
 ---
 
-#🌿Sapling   #😁Strongly-Agree    #🟢Conviction    #📊Project  #🥾SpiritualPractices-EmbodiedLiving 
-****
- 
->[!Summary] The Big Idea
+> [!Summary] The Big Idea
 > Since I was a small child I have had the Lord's Prayer Memorized. I say it daily with my family and little girls now. 
 > 
 > But something I have realized is that the core form of memorization I have been taught to use is rote memory. I can say word after word but am not able to access things by petition or recall only smaller pieces. 
 > 
->  Over the course of this project I have added an additional "layer" to my memorization. It is the first time that I have used the peg system for memorization. It has opened up a very different dimension of ability to interact with the words of the Lord's Prayer in my mind in new ways that were not accessible before. Below is a general descriptions of it: 
+> Over the course of this project I have added an additional "layer" to my memorization. It is the first time that I have used the peg system for memorization. It has opened up a very different dimension of ability to interact with the words of the Lord's Prayer in my mind in new ways that were not accessible before. Below is a general descriptions of it: 
 
 Similar notes:
 [[Memory Journal/Memorizing the Psalms]]
 [[Memory Journal/Memorizing the Ten Commandments]]
-[[Memory Journal/Memory, the Things We Keep with Us/Memory, the Things We Keep with Us]]
-[[Why Learn]]
+[[Memory Journal/Memory, the Things We Keep with Us]]
+[[Learning and the Inner Life/Why Learn]]
+
 ****
+
 This has been an interesting experiment. Since I already had the prayer memorized by rote adding another "layer" was relatively easy. In trying to compose the peg list I found it easier to simple use the opening phrase of each petition as the peg rather than a singular word. It also makes is so that if I want to say the rest of a petition or jump in or out of the prayer it all flows smoothly together.   
 # Peg List
 

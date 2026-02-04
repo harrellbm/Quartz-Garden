@@ -1,8 +1,11 @@
 ---
 publish: true
-Note Planted: 2025-01-13
-Last Tended: 2025-03-31
+created: 2025-12-22T09:38:52.415-08:00
+modified: 2026-02-02T10:43:58.140-08:00
+published: 2026-02-02T10:43:58.140-08:00
+cssclasses: ""
 ---
+
 #🌱Seed   #😐Neutral   #🟡Consideration  #🔥Doctrine-Poetry-Story 
 
 ****

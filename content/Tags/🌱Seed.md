@@ -1,10 +1,12 @@
 ---
-aliases:
-  - "#🌱Seed"
-Note Planted: 2025-03-27
-Last Tended: 2025-03-27
 publish: true
+aliases: "#🌱Seed"
+created: 2025-12-22T09:38:57.155-08:00
+modified: 2026-02-02T09:46:06.812-08:00
+published: 2026-02-02T09:46:06.812-08:00
+cssclasses: ""
 ---
+
 # Tag Description
 
 | Category                                                                        | Definition                                                                                                                                          |

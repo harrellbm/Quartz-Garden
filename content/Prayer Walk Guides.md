@@ -38,7 +38,7 @@ There could be two main types:
 
 - Practice for slowing down with the Lord’s Prayer 
 
-- [[Christian Meditation]] explained (as opposed to eastern meditation) 
+- [[Learning and the Inner Life/Inner Faculties/Christian Meditation]] explained (as opposed to eastern meditation) 
 
 - Practice for praying a piece of Scripture 
 
@@ -48,13 +48,13 @@ There could be two main types:
 
 # Collected Notes from other Materials and Writings:
 
-- [[Reading Scripture Devotionally]]
-- [[Activity-A Conversion with Scripture]]
-- [[Metaphor in Scripture]]
-- [[A Conversation with God (Epistle)]]
-- [[Quiet Muttering]]
-- [[Bible Book Notes/Psalms-The Language of Our Heart]]
-- [[Sacred Space]]
-- [[Lectio Divina]]
-- [[Oratio, Meditatio, Tentatio]]
+- [[Bible Study and Theology/Reading Scripture Devotionally]]
+- [[Handouts/Activity-A Conversion with Scripture]]
+- [[Typology, Imagery and Metaphor/Metaphor in Scripture]]
+- [[Bible Study and Theology/A Conversation with God (Epistle)]]
+- [[Learning and the Inner Life/Inner Faculties/Quiet Muttering]]
+- [[Bible Book Notes/Psalms/Psalms-The Language of Our Heart]]
+- [[Liturgy and Sacred Space/Sacred Space]]
+- [[Learning and the Inner Life/Rhythms/Lectio Divina]]
+- [[Learning and the Inner Life/Rhythms/Oratio, Meditatio, Tentatio]]
 - [[Sermons/Treasure of Heaven Sermon Outline]]

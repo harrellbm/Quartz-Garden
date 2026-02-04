@@ -1,14 +1,15 @@
 ---
 publish: true
+created: 2025-12-22T09:38:55.996-08:00
+modified: 2025-11-25T13:25:08.793-08:00
+published: 2026-02-02T11:11:31.225-08:00
 tags:
   - "#🌱Seed"
   - 😐Neutral
   - 🟡Consideration
-updated: 2025-11-25T13:25:08.793-08:00
-edited_seconds: 493
-Note Planted: 2025-11-24
-Last Tended: 2025-11-24
+cssclasses: ""
 ---
+
 >[!Summary] The Big Idea
 >
 

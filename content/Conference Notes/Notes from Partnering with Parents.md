@@ -28,7 +28,7 @@ Adult discipleship and youth discipleship need to go hand in hand. Because if pa
 
 Back to the idea that we need to focus on family units first and then age groups 
 
-Need to have strong [[Faith Formation]] in youth and adults 
+Need to have strong [[Kids (Young and Old) and Catechism/Faith Formation]] in youth and adults 
 
 It is hard to get parents of older kids connected with youth ministry. It needs to start as early as possible. 
 

@@ -1,14 +1,17 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-06-04
+created: 2025-12-22T09:38:51.273-08:00
+modified: 2026-02-02T09:51:46.291-08:00
+published: 2026-02-02T09:51:46.302-08:00
+cssclasses: ""
 ---
+
 #🪴Sprout   #🙂Agree   #🔥Doctrine-Poetry-Story 
 
 ****
 
 > [!summary] The Big Idea
-> There is a better way to think about and go about ministry than always relying on programs. 
+> There is a better way to think about and go about ministry than always relying on programs. What if we started to think about things in terms of the space we provide for people to learn, grow and belong as they are now and as they grow and change. 
 
 ****
 

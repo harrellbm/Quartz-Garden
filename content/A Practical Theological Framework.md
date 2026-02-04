@@ -1,8 +1,11 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-01-22
+created: 2025-12-22T09:38:50.936-08:00
+modified: 2026-01-29T10:04:45.402-08:00
+published: 2026-01-29T10:04:45.402-08:00
+cssclasses: ""
 ---
+
 #🌱Seed  #😐Neutral 
 ****
  
@@ -371,7 +374,7 @@ It is important that we watch out for the following pit falls:
 ignorant of God.
  Theodicy - Attempts to justify God to a suffering world.
  Christianizing Science - Attempts to use science as a way of proving scripture.
- [[Moralistic Therapeutic Deism]] - Attempts to keep God distant from natural science.
+ [[Bible Study and Theology/Moralistic Therapeutic Deism]] - Attempts to keep God distant from natural science.
  Moral Logic - Scripture is interpreted through the existing cultures understanding.
 First Article Wisdom informs us about the creation we live in. We can read research articles or textbooks
 to see what is being discovered but the data will always need to be interpreted. The interpretation of the

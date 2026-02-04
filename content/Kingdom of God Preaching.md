@@ -1,8 +1,11 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-06-04
+created: 2025-12-22T09:38:53.187-08:00
+modified: 2026-02-02T11:08:28.565-08:00
+published: 2026-02-02T11:08:28.565-08:00
+cssclasses: ""
 ---
+
 #🌱Seed  #🙂Agree   #🔥Doctrine-Poetry-Story 
 
 ****
@@ -15,7 +18,7 @@ Last Tended: 2025-06-04
 
 Just a chapter earlier this is the same core message John the Baptist preaches as well.
 
-What if this is the core message we should be preaching from rather than [[Law and Gospel]] not just trashing law gospel but focusing on this a lot more? 
+What if this is the core message we should be preaching from rather than [[Bible Study and Theology/Law and Gospel]] not just trashing law gospel but focusing on this a lot more? 
 
 > [!question] Question for Study
 > How was this core message used throughout the preaching of Jesus?

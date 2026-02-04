@@ -17,7 +17,7 @@ edited_seconds: 3
 ****
 
 ## Planting and Gardening Resources
-[[Plants Around Church]]
+[[Plants/Plants Around Church]]
 
 > [!NOTE] Emailed resources from Camila Leon
 > 
@@ -103,7 +103,7 @@ We seem like we should qualify for this:
         - Create a "musical garden" with simple instruments like drums and xylophones.
         - Include bird feeders and birdhouses.
 2. **Create a central gathering space:**
-    - Provide a shaded area with seating for [[Storytelling]], group activities, and snack time.
+    - Provide a shaded area with seating for [[Learning and the Inner Life/Methods/Storytelling]], group activities, and snack time.
     - Use natural materials like logs or large stones for seating.
 3. **Incorporate playful elements:**
     - Include a small tunnel or playhouse.
@@ -291,7 +291,7 @@ The environment plays a crucial role in the effectiveness of a prayer walk. Natu
 
 The design of the prayer walk should encourage a slow and deliberate pace, allowing participants to fully engage with their thoughts and feelings. The path should also offer a sense of journey, with a clear beginning and end, even if it is a circular route. Opportunities for both solitude and potential interaction with others should be considered, recognizing that prayer can be a deeply personal or a shared communal experience.
 
-Ultimately, a well-designed prayer walk creates a [[Sacred Space]] in motion, a place where the physical act of walking becomes an integral part of the spiritual practice, fostering a deeper sense of connection, peace, and purpose.
+Ultimately, a well-designed prayer walk creates a [[Liturgy and Sacred Space/Sacred Space]] in motion, a place where the physical act of walking becomes an integral part of the spiritual practice, fostering a deeper sense of connection, peace, and purpose.
 
 **Cross-references:**
 

@@ -1,10 +1,11 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-07-31
-updated: 2025-07-31T09:02:14.003-07:00
-edited_seconds: 490
+created: 2025-12-22T09:38:55.560-08:00
+modified: 2025-07-31T09:02:14.003-07:00
+published: 2026-02-02T10:33:26.954-08:00
+cssclasses: ""
 ---
+
 #🪴Sprout   #😁Strongly-Agree  #🟡Consideration  #🛠️BringingLifeintotheWorld 
 
 ****
@@ -17,8 +18,8 @@ edited_seconds: 490
 > 	- What was true of ancient organic tools is true of our silicon technology as well: “The king is not saved by his great army; a warrior is not delivered by his great strength. The war horse is a false hope for salvation, and by its great might it cannot rescue.“ - Psalm 33:16-18
 
 Related Notes:
-[[Religion of Technology]]
-[[A Theology of Technology]]
+[[Learning and the Inner Life/Technology and Tools/Religion of Technology]]
+[[Learning and the Inner Life/Technology and Tools/A Theology of Technology]]
 ***
 # General Principles
 In order to healthily engage with, learn and employ technology, I have found a few important principles to keep in mind:
@@ -35,7 +36,7 @@ In order to healthily engage with, learn and employ technology, I have found a f
 	- For example, think of trying to use a point of sales system made for a business to collect church offerings. They are similar but do not solve the same fundament problems. 
 
 # Thinking about Using AI
-Many people want to talk about AI as either super accurate and amazing or point out the mistakes it makes and lament how horrible it is. But I think it is important to remember that the baseline metric all AI runs off of is statistical probability. It really does not care if it is "accurate" or "truthful" in the human sense it is simply giving the most probable response after all the guardrails, and other tweaks that are built on top of the base level neural network. This means for me that using AI as an unequivocal source of fact or as a primary [[Reality Filter]] is a bad idea. AI is not built for precision fact and truth. What it is built for is pattern recognition on a large scale. 
+Many people want to talk about AI as either super accurate and amazing or point out the mistakes it makes and lament how horrible it is. But I think it is important to remember that the baseline metric all AI runs off of is statistical probability. It really does not care if it is "accurate" or "truthful" in the human sense it is simply giving the most probable response after all the guardrails, and other tweaks that are built on top of the base level neural network. This means for me that using AI as an unequivocal source of fact or as a primary [[Learning and the Inner Life/Technology and Tools/Reality Filter]] is a bad idea. AI is not built for precision fact and truth. What it is built for is pattern recognition on a large scale. 
 
 For me this has started to look like using an AI chat as a way to kind of churn up information on a subject. it is not until I have asked the question a few times in different ways or to different models that I feel like I have an idea of what I'm looking for. In other words, AI is great for the general "what is out there" questions and getting a better answer than a search bar tends to give. It is also very efficient if you know exactly what you are looking for but can't seem to find it because that level of specificity means that the statistically likely response is probably what you want. 
 

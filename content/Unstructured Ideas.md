@@ -32,7 +32,7 @@ Avoid letting motivations twist into obsession compulsion 
 Moment and story based learning about God. Focus on major memories and personal stories we want people that have around there understanding and relationship with God 
   
 
-The three pronged approach of scripture itself should be what shapes they way we teach and tell the story of everything. Torah (narrative and law), nevaim ([[Bible Book Notes/Prophets]]), ketavem (writings). Narrative, poetry, and prose discourse 
+The three pronged approach of scripture itself should be what shapes they way we teach and tell the story of everything. Torah (narrative and law), nevaim ([[Bible Book Notes/Prophets/Prophets]]), ketavem (writings). Narrative, poetry, and prose discourse 
   
 
 # Popular Books

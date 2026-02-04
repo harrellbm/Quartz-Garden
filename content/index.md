@@ -3,8 +3,8 @@ publish: true
 aliases: Home Base Camp
 title: Base Camp 🏕️
 created: 2025-12-22T09:38:53.080-08:00
-modified: 2026-01-20T15:24:26.469-08:00
-published: 2026-01-20T15:24:26.480-08:00
+modified: 2026-02-04T10:17:30.548-08:00
+published: 2026-02-04T10:17:30.556-08:00
 tags:
   - 🌲Evergreen
 cssclasses: ""
@@ -21,7 +21,7 @@ I have grown increasingly dissatisfied with the exhausting, overwhelming and ove
 For those of you who are more organized than me, there is not huge or tightly regulated organization (sorry).  Rather you are invited into my active learning. All notes are under construction or "being grown" in real time. Each one is a snapshot of thoughts and research at a particular moment in time.  For more see [[A Case for Christian Digital Gardening]]
 
 My hope is that this site will be more like a little quiet wilderness. A place to slow down, explore, start conversations, and collaborate. That is why I have named it - *The Aspen Grove*.
-![[Aspen Grove.png]]
+![[Images/Aspen Grove.png]]
 
 If you care about my personal story and connection to Aspen groves you can read it here: [[The Calm after the Storm]]
 # How to Use this Garden
@@ -30,21 +30,21 @@ Here are some basic suggestions for using this garden:
 - Use the search bar to see if I have notes on something specific. If not you could email me and see what I think!
 - Look at a particular note tag and see what other notes have the same tag.
 	- #🟢Conviction or #📝Essay are good ones to try first.
-- Or you can look at my [[Wonder List]] a collection of things that I am thinking about. 
+- Or you can look at my [[Learning and the Inner Life/Wonder List]] a collection of things that I am thinking about. 
 - If you run into a 404 page it means I haven't made that note yet or haven't uploaded it. If it is interesting to you reach out to me and start a conversation about it.  
 # Notes I have Worked in Recently 
-- [[A Biblical Framework for Technology\|A Biblical Framework for Technology]]
-- [[Early Lutheran Loci or Commonplaces\|Early Lutheran Loci or Commonplaces]]
-- [[Memory Journal/Magnetic Memory Method Resources\|Magnetic Memory Method Resources]]
-- [[Trivium Learning/Trivium Learning\|Trivium Learning]]
-- [[Wonder List\|Wonder List]]
-- [[Memory Journal/Memory, the Things We Keep with Us/Memory, the Things We Keep with Us\|Memory, the Things We Keep with Us]]
-- [[A Theology of Technology\|A Theology of Technology]]
-- [[Reading Gen 1-3 Ten Times\|Reading Gen 1-3 Ten Times]]
-- [[The Purpose of a Church Library\|The Purpose of a Church Library]]
-- [[Stream of Consciousness on AI, Technostress, and Faith\|Stream of Consciousness on AI, Technostress, and Faith]]
-- [[Sermons/2021/8.15.21 Full Participation\|8.15.21 Full Participation]]
-- [[Adventures in Terraforming (Kind of)\|Adventures in Terraforming (Kind of)]]
-- [[Memory Journal/Mental Loci\|Mental Loci]]
-- [[Bible Tools\|Bible Tools]]
-- [[Memory Journal/Memorizing the Lords Prayer\|Memorizing the Lords Prayer]]
+- [[Private/Sitting on a Bench Poem for Katie\|Sitting on a Bench Poem for Katie]]
+- [[Private/Personal Reflections on My Personal Rhythms\|Personal Reflections on My Personal Rhythms]]
+- [[Private/Personal Philosophy of Ministry\|Personal Philosophy of Ministry]]
+- [[Private/Letter of Acceptance\|Letter of Acceptance]]
+- [[Private/Ideas for Katie\|Ideas for Katie]]
+- [[Private/Eden Quotes\|Eden Quotes]]
+- [[Private/Congregational Feedback from Our Savior's Springfield while transitioning to LCOS\|Congregational Feedback from Our Savior's Springfield while transitioning to LCOS]]
+- [[Private/Central Coast Stuff to Do\|Central Coast Stuff to Do]]
+- [[Learning and the Inner Life/Methods/Trivium Learning\|Trivium Learning]]
+- [[Memory Journal/Early Lutheran Loci or Commonplaces\|Early Lutheran Loci or Commonplaces]]
+- [[Books/The Trivium-The Liberal Arts of Logic, Grammar, and Rhetoric\|The Trivium-The Liberal Arts of Logic, Grammar, and Rhetoric]]
+- [[Pastor Newsletters and Resources\|Pastor Newsletters and Resources]]
+- [[Memory Journal/Magnetic Memory Mini course/Start Here - Magnetic Memory Method Resources\|Start Here - Magnetic Memory Method Resources]]
+- [[Learning and the Inner Life/Technology and Tools/An Introductory Framework for Technology\|An Introductory Framework for Technology]]
+- [[Artificial Mountains\|Artificial Mountains]]

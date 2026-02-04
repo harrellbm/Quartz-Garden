@@ -1,12 +1,13 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-06-17
+created: 2025-12-22T09:38:52.646-08:00
+modified: 2025-06-17T14:47:48.062-07:00
+published: 2026-02-02T12:59:35.372-08:00
 tags:
   - 📰Handout
-updated: 2025-06-17T14:47:48.062-07:00
-edited_seconds: 0
+cssclasses: ""
 ---
+
 As we prepare to meet together for a congregational forum, I would like to lay out some key observations as they pertain to the direction and ethos of our [[LCOS Notes/Rhythms and Patterns/Life Together]] as the Lutheran Church of Our Savior. 
 
 All of us have unique upbringings, personalities, likes and dislikes, and experiences. All of this variety can quickly lead to a huge array of opinions and feeling concerning even the most minor subject. But as we prepare to meet, I encourage you to take a long look at this warning from Dietrich Bonhoeffer:

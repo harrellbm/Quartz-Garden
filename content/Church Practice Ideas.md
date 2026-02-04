@@ -1,8 +1,11 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-01-22
+created: 2025-12-22T09:38:51.877-08:00
+modified: 2026-02-02T11:07:02.623-08:00
+published: 2026-02-02T11:07:02.623-08:00
+cssclasses: ""
 ---
+
 #🌱Seed   #🙂Agree   #🟡Consideration  #🍽️Community-Mission 
 
 ****
@@ -17,13 +20,13 @@ Last Tended: 2025-01-22
 
 [[Year after Highschool Bible college model]]
 
-[[Joining Jesus Notes]]
+[[Books/Joining Jesus]]
 
 [[Community Walk-in Space]]
 
 [[Five Year Cap Mission Planting]]  
 
-[[Children Focused Worship Service]]
+[[Kids (Young and Old) and Catechism/Children Focused Worship Service]]
 # Exercises  and Resources
 
 [[Relational Health Framework]]
@@ -34,7 +37,7 @@ Last Tended: 2025-01-22
 
 [[Church Health Metrics (Other than Butts in Pews)]]
 
-[[Practices of Faith]]
+[[Learning and the Inner Life/Rhythms/Practices of Faith]]
 
 [[3333 Plan Structure]]
 

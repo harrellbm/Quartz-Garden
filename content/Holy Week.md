@@ -1,10 +1,11 @@
 ---
 publish: true
-Note Planted: 2025-04-16
-Last Tended: 2025-06-04
-updated: 2025-06-17T14:32:34.729-07:00
-edited_seconds: 1
+created: 2025-12-22T09:38:52.689-08:00
+modified: 2025-06-17T14:32:34.729-07:00
+published: 2026-02-02T13:02:56.564-08:00
+cssclasses: ""
 ---
+
 #🌱Seed   #😐Neutral   #🟡Consideration  #🔥Doctrine-Poetry-Story 
 
 ****
@@ -30,7 +31,7 @@ Interestingly *Gathering Guests* by Maschke does not have any recoreded Lutheran
 > 
 > **Holy Monday — Day Two**
 > 
-> Jesus cleanses the Temple, driving out the money changers. Just as God separated the waters above from the waters below on the second day, Jesus divides and purifies the [[Sacred Space]] of God’s house, separating what is holy from what is profane. The Temple, a microcosm of the world, is being judged and re-ordered.
+> Jesus cleanses the Temple, driving out the money changers. Just as God separated the waters above from the waters below on the second day, Jesus divides and purifies the [[Liturgy and Sacred Space/Sacred Space]] of God’s house, separating what is holy from what is profane. The Temple, a microcosm of the world, is being judged and re-ordered.
 > 
 > **Holy Tuesday — Day Three**
 > 

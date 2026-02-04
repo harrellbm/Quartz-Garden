@@ -24,13 +24,13 @@ comment:
 > Book Two Cliff Notes Read
 
 > [!Summary] The Big Idea
-> [[Christopher Alexander (Architect, Author)]] lays out a huge perspective on how the built environment interacts with the human wellbeing and functioning of society.  This also bleeds into claims on [[Cosmology]], the order of the universe, and humanity.
+> [[Cosmology and Anthropology/Christopher Alexander (Architect, Author)]] lays out a huge perspective on how the built environment interacts with the human wellbeing and functioning of society.  This also bleeds into claims on [[Cosmology and Anthropology/Cosmology]], the order of the universe, and humanity.
 
 Website that has overviews of the Books:
 [Nature of Order Website](http://www.natureoforder.com/overview.htm)
 
 > [!NOTE] idea for research 
-> It seems to me there is great congruence between his the ideas of quality of life and wholeness described by Alexander and the biblical principles of shalom and righteousness. It would be interesting to line them up next to each other and see just how similar and different they are. Because if you could sub in the idea of shalom in describing the process of creating living centers that would be a much more profound and far reaching understanding of our [[Coram Mundo]] work than the typical ministering to felt needs or providing public services. Rather all work could be seen as pushing toward peace and righteousness in a way that one day when Jesus returns will not be separated into temporal and spiritual or before man or before God when Jesus returns. But for now we just get to see the starting of there overlap
+> It seems to me there is great congruence between his the ideas of quality of life and wholeness described by Alexander and the biblical principles of shalom and righteousness. It would be interesting to line them up next to each other and see just how similar and different they are. Because if you could sub in the idea of shalom in describing the process of creating living centers that would be a much more profound and far reaching understanding of our [[Bible Study and Theology/Coram Mundo]] work than the typical ministering to felt needs or providing public services. Rather all work could be seen as pushing toward peace and righteousness in a way that one day when Jesus returns will not be separated into temporal and spiritual or before man or before God when Jesus returns. But for now we just get to see the starting of there overlap
 
 Another set of notes on the Nature of Order Books: [Stefan’s Notes Key Concepts](http://nature-of-order.stefan-lesser.com/key-concepts)
 
@@ -66,7 +66,7 @@ Defines life as not an organic living organism but that everything has some degr
 So I like it more than I thought it’s about the human feeling of life in things that we have a certain emotional resonance with things like waves that is not present in just any form of water. Not anything to do with an animistic sense of things actually being biologically alive but our human reaction to things 
 
 A way to talk about this is felt life:
-[[The Quality of Life in Environments and Objects]]
+[[Cosmology and Anthropology/The Quality of Life in Environments and Objects]]
 
 This quality is put forward as an objective empirical quality that is a structure within space itself. It is in the organization and arrangement of matter that gives something more or less life in it. 
 
@@ -102,7 +102,7 @@ Argues that the strength of various entities that make up a whole can actually b
 > - Nature of order, bk 1., p. 84
 
 ## The Whole Made Up of Centers 
-This leads to a different way of conceptualizing wholeness that can be called:  [[Center Composed Wholeness]]
+This leads to a different way of conceptualizing wholeness that can be called:  [[Cosmology and Anthropology/Center Composed Wholeness]]
 
 > [!Quote] What is a Center?
 > Each one of these entities has, as its defining mark, the fact that it appears to exist as a local center within a larger whole. It is a phenomenon of centeredness in space. 
@@ -113,7 +113,7 @@ This leads to a different way of conceptualizing wholeness that can be called:  
 > - Nature of Order, bk 1., p. 84
 
 More expanded notes on centers: 
-[[Thinking of Spatial Relationships as Centers]] 
+[[Liturgy and Sacred Space/Thinking of Spatial Relationships as Centers]] 
 
 > [!Quote] What is Wholeness?
 > My answer is that the wholeness is not merely a way of focusing on the gestalt of a thing, but is instead a real structure, an actual “thing” in itself….
@@ -220,7 +220,7 @@ This is the basic list:
 > 15. Not-Separateness
 
 Here are specific notes on each centers relationship: 
-[[The Ways Centers Help Each Other Have More Life]]
+[[Cosmology and Anthropology/The Ways Centers Help Each Other Have More Life]]
 
 > [!Quote]
 > If we are to use the theory of centers — and the concept of life — as the basis of all [[Architecture]], it would be reassuring to know that wholeness, together with the properties which bring centers to life, is a necessary feature of material reality, not merely a psychological aspect of things which arises during perception of works of art.
@@ -231,9 +231,9 @@ Here are specific notes on each centers relationship:
 > - Nature of Order, bk 1., p. 246
 
 The method by which he observes the world 
-[[Tests of Wholeness]]
+[[Cosmology and Anthropology/Tests of Wholeness]]
 
-He also redefines an alternative from of objectivity. Rather than strictly the observation method of science being the only form. He argues that there is also a consistent reaction of humans to the world around us. This reaction is the same (roughly) between people no matter of culture, gender, age or any differentiating factors. This reaction however is not the knee jerk “things I like” or normal emotional reaction but a kind of deep liking or as he calls it “mirror of the self.” In other words, we can objectively tell which environments make humans more healthy and whole if this deep liking can be brought out. The problem he argues is that we are often taught to ignore this [[Deep Feeling]] in favor of the societal ideal or popular trends. 
+He also redefines an alternative from of objectivity. Rather than strictly the observation method of science being the only form. He argues that there is also a consistent reaction of humans to the world around us. This reaction is the same (roughly) between people no matter of culture, gender, age or any differentiating factors. This reaction however is not the knee jerk “things I like” or normal emotional reaction but a kind of deep liking or as he calls it “mirror of the self.” In other words, we can objectively tell which environments make humans more healthy and whole if this deep liking can be brought out. The problem he argues is that we are often taught to ignore this [[Cosmology and Anthropology/Deep Feeling]] in favor of the societal ideal or popular trends. 
 
 > [!quote]
 > The scheme of things I have started to present covers all of [[Architecture]]. The scheme starts with the concept of wholeness as something which exists in space, and with the idea of centers, the way that centers help each other. It goes on to the idea of living structure — the detailed ideas about the fifteen properties that allow centers to help each other, and the observation that this structure is pervasive in nature and in deeply satisfying man-made things.
