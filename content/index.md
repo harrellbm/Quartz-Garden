@@ -33,6 +33,10 @@ Here are some basic suggestions for using this garden:
 - Or you can look at my [[Learning and the Inner Life/Wonder List]] a collection of things that I am thinking about. 
 - If you run into a 404 page it means I haven't made that note yet or haven't uploaded it. If it is interesting to you reach out to me and start a conversation about it.  
 # Notes I have Worked in Recently 
+- [[Learning and the Inner Life/Study With Class\|Study With Class]]
+- [[Learning and the Inner Life/Methods/Teach With Method\|Teach With Method]]
+- [[Learning and the Inner Life/Methods/Trivium Learning\|Trivium Learning]]
+- [[Learning and the Inner Life/Methods/Being Pulled Along by a Question\|Being Pulled Along by a Question]]
 - [[Private/Sitting on a Bench Poem for Katie\|Sitting on a Bench Poem for Katie]]
 - [[Private/Personal Reflections on My Personal Rhythms\|Personal Reflections on My Personal Rhythms]]
 - [[Private/Personal Philosophy of Ministry\|Personal Philosophy of Ministry]]
@@ -41,10 +45,6 @@ Here are some basic suggestions for using this garden:
 - [[Private/Eden Quotes\|Eden Quotes]]
 - [[Private/Congregational Feedback from Our Savior's Springfield while transitioning to LCOS\|Congregational Feedback from Our Savior's Springfield while transitioning to LCOS]]
 - [[Private/Central Coast Stuff to Do\|Central Coast Stuff to Do]]
-- [[Learning and the Inner Life/Methods/Trivium Learning\|Trivium Learning]]
 - [[Memory Journal/Early Lutheran Loci or Commonplaces\|Early Lutheran Loci or Commonplaces]]
 - [[Books/The Trivium-The Liberal Arts of Logic, Grammar, and Rhetoric\|The Trivium-The Liberal Arts of Logic, Grammar, and Rhetoric]]
 - [[Pastor Newsletters and Resources\|Pastor Newsletters and Resources]]
-- [[Memory Journal/Magnetic Memory Mini course/Start Here - Magnetic Memory Method Resources\|Start Here - Magnetic Memory Method Resources]]
-- [[Learning and the Inner Life/Technology and Tools/An Introductory Framework for Technology\|An Introductory Framework for Technology]]
-- [[Artificial Mountains\|Artificial Mountains]]
