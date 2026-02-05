@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-01-12T10:37:43.579-08:00
-modified: 2026-02-04T10:32:25.082-08:00
-published: 2026-02-04T10:32:25.088-08:00
+modified: 2026-02-04T14:12:32.192-08:00
+published: 2026-02-04T14:12:32.206-08:00
 tags:
   - "#🌱Seed"
   - 🟡Consideration
@@ -64,7 +64,61 @@ Here is a good article about taking notes with the trivium as the guide:
 [Classical Note Taking Method](https://andrewbharker.substack.com/p/classical-notes)
 
 ![[Learning and the Inner Life/Methods/Classical Notes.pdf]]
-
+## Use Method
+> [!quote] [Classical Note Taking Method](https://andrewbharker.substack.com/p/classical-notes)
+> #### Grammar Stage
+> 
+> - Note-Taking Phase 1: Recall
+>     
+>     - **Time Range (Examples)**: 2-6 minutes
+>         
+>     - **What It Accomplishes:** Forces honest retrieval of information pertaining to your study (i.e. everything you remember from a previous session, book chapter, lecture, etc.)
+>         
+>     - **How to Do It:** Spend time writing all of the information that you remember, starting in the Recall column on Page 1.
+>         
+> - Note-Taking Phase 2: Initial Notes
+>     
+>     - **Time Range (Examples):** 7-23 minutes
+>         
+>     - **What It Accomplishes:** Raw, faithful capture and active interrogation of the new material, including every confusion, wonder, contradiction, or doubt that pops into the learner’s mind.
+>         
+>     - **How to Do It:** After the Recall Phase, begin writing down all of the most important information regarding the subject and your understanding of it, taking mental notes of questions that arise during your initial interaction with the material.
+>         
+> #### Logic Stage
+> 
+> - Note-Taking Phase 3: Reasoning and Questions
+>     
+>     - **Time Range (Examples):** 7-18 minutes
+>         
+>     - **What It Accomplishes:** Dialectic, discursive, productive struggle with the new material to begin making sense and memory.
+>         
+>     - **How to Do It:** After your notes have been taken, begin wrestling with the information by writing down any questions that are relevant to your understanding of the subject, and applying techniques that not only force you to recall the material (i.e. refraining from looking at the previous stage), but also rationalize it in a way that transforms it into deeper understanding.
+>         
+>         - Some examples of techniques to use during this stage:
+>             
+>             - Concept mapping
+>                 
+>             - identification and paraphrasing of key arguments/ideas
+>                 
+>             - Practice with the material
+>                 
+> #### Rhetoric Stage
+> 
+> - Note-Taking Phase 4: Summary and Synthesis of Knowledge
+>     
+>     - **Time Range (Examples):** 4-13 minutes
+>         
+>     - **What It Accomplishes:** Solidifies the newly studied material into memory that is the learner’s own.
+>         
+>     - **How to Do It:** Refraining from any of the source material or notes taken in the previous stages, apply techniques that help you convert your _understanding_ of the material to more cohesive _knowledge_ that sticks with you.
+>         
+>         - Some examples of techniques to use during this stage:
+>             
+>             - Summary of the content in your own words, ranging from a single sentence to multiple paragraphs.
+>                 
+>             - Construction of analogies
+>                 
+>             - Soliloquy (dialogue with yourself about the information)
 # Loose Notes 
 
 ### The Definitive Formalization (c. 410–420 AD)
