@@ -2,7 +2,7 @@
 publish: true
 created: 2026-01-07T11:42:47.204-08:00
 modified: 2026-02-05T14:19:11.440-08:00
-published: 2026-02-05T14:21:16.011-08:00
+published: 2026-02-05T14:38:45.288-08:00
 tags:
   - "#🌱Seed"
   - 😐Neutral
@@ -231,9 +231,9 @@ Beginning in Para 15 Athanasius before a full walk through of the Psalter (almos
 49. -
 50. -
 51. 51
-52. 52 - Same continuous grouping as in the core 8 for personal formation
+52. 52 
 53. -
-54. 54, 56
+54. 54, 56 - Same continuous grouping as in the core 8 for personal formation
 55. -
 56. -
 57. 57, 142 - End persecution group 
