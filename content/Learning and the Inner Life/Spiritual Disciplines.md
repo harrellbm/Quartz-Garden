@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-22T09:38:56.802-08:00
-modified: 2026-01-05T12:47:12.966-08:00
-published: 2026-01-05T12:47:12.981-08:00
+modified: 2026-02-17T11:01:01.822-08:00
+published: 2026-02-17T11:01:01.828-08:00
 cssclasses: ""
 ---
 
@@ -13,6 +13,7 @@ cssclasses: ""
 > General Notes about various spiritual disciplines 
 
 Similar Notes: [[Learning and the Inner Life/Rhythms/Practices of Faith]]
+External Resource: [Online Disciplines planner](https://www.practicingtheway.org/)
 ****
 # Silence and Solitude 
 • Definition: Intentionally withdrawing from noise, distractions, and social interaction to be alone with God. 

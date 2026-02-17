@@ -1,15 +1,14 @@
 ---
 publish: true
-created: 2026-02-03T08:20:31.547-08:00
-modified: 2026-02-03T08:24:54.085-08:00
-published: 2026-02-03T08:25:08.740-08:00
 tags:
   - "#🌱Seed"
   - 😐Neutral
   - 🟡Consideration
-cssclasses: ""
+updated: 2026-02-03T08:24:54.085-08:00
+edited_seconds: 101
+Note Planted: 2026-01-27
+Last Tended: 2026-02-03
 ---
-
 
 >[!Summary] The Big Idea
 >Our relationship with Technology can be charted out according to key opening stories in Genesis. From the Fall, to the Tower, to Storehouses and Monuments these early stories offer a comprehensive look at how we should think about and use technology as a whole.

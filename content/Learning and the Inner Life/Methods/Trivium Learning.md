@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-01-12T10:37:43.579-08:00
-modified: 2026-02-04T14:12:32.192-08:00
-published: 2026-02-04T14:12:32.206-08:00
+modified: 2026-02-17T10:40:13.278-08:00
+published: 2026-02-17T10:40:13.285-08:00
 tags:
   - "#🌱Seed"
   - 🟡Consideration
@@ -17,7 +17,7 @@ Related Articles:
 [The Trivium – Arts or Stages?](https://www.bezainstitute.org/blog/trivium)
 
 [Origin of Seven Liberal Arts](https://classicalacademicpress.com/products/the-seven-liberal-arts)
-[[Books/The Trivium-The Liberal Arts of Logic, Grammar, and Rhetoric]]
+
 
 [The Seven Liberal Arts](https://classicalliberalarts.com/blog/seven-liberal-arts/)
 ****
@@ -119,6 +119,12 @@ Here is a good article about taking notes with the trivium as the guide:
 >             - Construction of analogies
 >                 
 >             - Soliloquy (dialogue with yourself about the information)
+
+# Suggested Books by Dr. Lane and Dr. Hensley 
+
+[Consortium for Classical Lutheran Education](https://www.ccle.org/)
+
+[[Lutheran Education-From Wittenberg to the Future]]
 # Loose Notes 
 
 ### The Definitive Formalization (c. 410–420 AD)

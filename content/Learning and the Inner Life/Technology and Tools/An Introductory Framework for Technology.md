@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-01-27T14:42:08.215-08:00
-modified: 2026-02-03T10:16:24.428-08:00
-published: 2026-02-03T10:16:24.439-08:00
+modified: 2026-02-17T10:28:18.987-08:00
+published: 2026-02-17T10:28:19.010-08:00
 tags:
   - 🟡Consideration
   - 🌿Sapling
@@ -28,20 +28,20 @@ A deep treatment of this subject will no doubt fill many books. The exact nature
 # Technology Understood as Human Tooling 
 Many discussions of technology paint with a very narrow scope. I believe to truly understand the implications of technological tools, we first need to become aware of the tooling that is living with in all of us. We all have tools such as memory, reason, attention, and language that are basic tools we use to navigate our lives. Much of the early years of a child's development is dedicated to the foundations of these tools. Therefore it is appropriate to draw the connection between particular external technologies and how they are connected with the internal technologies we hold within ourselves. 
 # Putting Things into a Basic Framework
-Therefore the full scope to truly treat this topic faithfully is to have a clear picture and understanding of what it means to use our internal technologies well. From there we can approach external technologies with a grounded perspective. A more full treatment of this concept can be found in [[Artificial Mountains]].
+Therefore to truly treat the full scope of this topic faithfully, we need a clear picture of what it means to use our internal technologies well. From there we can approach external technologies with a grounded perspective. A more full treatment of this concept can be found in my essay [[Artificial Mountains]].
 
-Using the distinction between internal and external technologies, we can start to chart common characteristics between them all. These are by no means definitive categories, but are a start for observing salient aspects and offering a framework to help make decisions or inform questions. Said another ways, all tooling whether it is within our being, or an external instrument, have the following things in common:
+Without getting into the weeds, we can use the distinction between internal and external technologies to chart common characteristics between them all. These are by no means definitive categories, but are a start for observing salient aspects and offering a framework to help make decisions or inform questions. Said another ways, all tooling whether it is within our being, or an external instrument, have the following things in common:
 
 -  All technology has **Requirements** in order to be used. 
 	-  For example, think of the fact that using a hammer requires a hand and arm to swing it. Without those requirements it will sit useless on the ground.
-- These requirements shape the particular **Rituals** humans must preform to use the tool. 
+- These requirements shape the particular **Rituals** humans must perform to use the tool. 
 	- Thinking of the hammer again, swinging is a well defined action that must be performed over and over until the job is done.  
-- Every tool brings with it **World Constrictions**, or things that are harder (or impossible) to do because of the way the technology works and the rituals is promotes. 
-	- There are many different hammers for various purposes, using a sledge hammer to hang a picture frame will most likely not go well. Likewise, enjoying a calm afternoon walk on a highway is all but impossible because of its construction and use (i.e. the ritual of driving).  
-- Every tool also brings with it unique **Virtue and Vice Potential** for how it can be used well or poorly. 
+- Every tool brings with it **World Constrictions**, or things that are harder (or impossible) to do because of the way the technology works and the rituals it promotes. 
+	- There are many different hammers for various purposes. That being said using a sledge hammer to hang a picture frame will most likely not go well. Likewise, enjoying a calm afternoon walk on a highway is all but impossible because of its world construction and primary use (i.e. the ritual of driving makes the ritual of walking near by more difficult).  
+- Every tool also brings with it unique **Positive or Negative Use Potential** for how it can be used well or poorly. 
 	- What we hear most in advertisements is the positive side of this potential. "Just wait until your life changes with a new -insert technology here-!"
-	- Bringing both sides together gives a more balanced understanding. Back to the hammer again, swinging it (carelessly or maliciously) can do a lot of damage to yourself or others. Yet trying to drive a nail without one is difficult to say the least. There is potential for both benefit and harm within a hammer's use. 
-	- The distribution toward virtue or vice is not always the same. For example, there are many many many ways to misuse a nuclear bomb and very few ways to use it well. 
+	- Bringing both sides together gives a more balanced understanding. Once again to the hammer, swinging it (carelessly or maliciously) can do a lot of damage to yourself or others. Yet trying to drive a nail without one is difficult to say the least. There is potential for both benefit and harm within a hammer's use. 
+	- The distribution toward positive or negative use is not always the same. For example, there are many many many ways to misuse a nuclear bomb and very few ways to use it well. 
 
 Let us go through the framework again but this time use an internal technology: Memory.
 - Memory also has specific **Requirements**. 
@@ -50,14 +50,14 @@ Let us go through the framework again but this time use an internal technology: 
 	- But no matter how one goes about remembering, there is at least the foundational ritual of stopping to pay attention to something. Recitation and review are other common rituals. In all of these cases, you have to actually perform the ritual for the tool (memory) to be engaged and used.
 - Internal technologies are less susceptible to **World Constrictions** compared to external tools. However there are still clear limits. 
 	- For memory, some of these are the speed of acquisition, the choice of what to focus on, overcommitment to something already memorized, or personal effectiveness of different memory strategies, etc. In other words, memory has a particular shape and mechanics to it that are impassible. Effective memory techniques work within (not opposed) to these constraints. 
-- **Virtue and Vice Potential** are easy to see here. 
+- **Positive and Negative Use Potential** are easy to see here. 
 	- Human memory is and has been used for many good and bad endeavors. Techniques for stealing or lifesaving CPR can both be stored within ones memory. No doubt this is why Psalm 1 advises us to meditate on God's word continually. 
 
  To summarize, every technology has:
 - **Requirements** in order to be used.
 - **Rituals** to initiate and continue its use.
 - **World Constrictions** by the nature of how it is build and works.
-- **Virtue and Vice Potential** for how it can be used. 
+- **Positive and Negative Use Potential** for how it can be used. 
 
 This framework can help us walk through any technology and answer the core question: 
 - Is my use of this technology pulling me toward God or working to separate me from Him? 
