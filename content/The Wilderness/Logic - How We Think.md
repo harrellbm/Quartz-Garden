@@ -1,0 +1,29 @@
+---
+publish: true
+created: 2026-02-20T08:31:00.264-08:00
+modified: 2026-02-20T08:39:57.625-08:00
+published: 2026-02-20T08:51:42.012-08:00
+tags:
+  - "#🌱Seed"
+  - 😐Neutral
+  - 🟡Consideration
+cssclasses: ""
+---
+
+>[!Summary] The Big Idea
+> Logic may seem like "common sense"  but and good observation is that common sense is usually not common at all. So the philosophy and theory of logic has taken different forms over time. 
+
+****
+I have found two main schools so far that have had influence on the world and specifically Lutheranism 
+
+# Aristotelian Logic 
+[[Organon-Aristotle.pdf]]
+[[The Wilderness/Books/Logic Book]] by Peter Kreft
+
+# Ramist Logic 
+[The Logike of the Most Excellent Philosopher P. Ramvs](https://www.amazon.com/Logike-Excellent-Philosopher-Ramvs-Martyr/dp/1015149545)
+[The way to Geometry](https://www.gutenberg.org/ebooks/26752)
+
+# Philip Melenchon's Rhetoric text books
+Not in English need to try and find how to get them
+

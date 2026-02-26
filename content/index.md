@@ -4,7 +4,7 @@ aliases: Home Base Camp
 title: Base Camp 🏕️
 created: 2025-12-22T09:38:53.080-08:00
 modified: 2026-02-05T13:34:10.460-08:00
-published: 2026-02-05T13:34:10.470-08:00
+published: 2026-02-26T09:59:56.613-08:00
 tags:
   - 🌲Evergreen
 cssclasses: ""
@@ -18,33 +18,33 @@ My name is Brenden Harrell. I am a Husband, Father, Lutheran Pastor, and Tinkere
 
 I have grown increasingly dissatisfied with the exhausting, overwhelming and overstimulating digital spaces we inhabit. Content is constantly being pushed, or marketed, to us in new shiny wrappers. Why not try something different? 
 
-For those of you who are more organized than me, there is no huge or tightly regulated organization (sorry).  Rather you are invited into my active learning. All notes are under construction or "being grown" in real time. Each one is a snapshot of thoughts and research at a particular moment in time.  For more see [[A Case for Christian Digital Gardening]]
+For those of you who are more organized than me, there is no huge or tightly regulated organization (sorry).  Rather you are invited into my active learning. All notes are under construction or "being grown" in real time. Each one is a snapshot of thoughts and research at a particular moment in time.  For more see [[The Wilderness/A Case for Christian Digital Gardening]]
 
 My hope is that this site will be more like a little quiet wilderness. A place to slow down, explore, start conversations, and collaborate. That is why I have named it - *The Aspen Grove*.
-![[Images/Aspen Grove.png]]
+![[The Garden/Images/Aspen Grove.png]]
 
-If you care about my personal story and connection to Aspen groves you can read it here: [[The Calm after the Storm]]
+If you care about my personal story and connection to Aspen groves you can read it here: [[The Wilderness/The Calm after the Storm]]
 # How to Use this Garden
 Here are some basic suggestions for using this garden:
 - Follow a path of ideas by clicking on imbedded links as you read. See where my mind has wandered and where yours might too. 
 - Use the search bar to see if I have notes on something specific. If not you could email me and see what I think!
 - Look at a particular note tag and see what other notes have the same tag.
 	- #🟢Conviction or #📝Essay are good ones to try first.
-- Or you can look at my [[Learning and the Inner Life/Wonder List]] a collection of things that I am thinking about. 
+- Or you can look at my [[The Garden/A. Wonder List]] a collection of things that I am thinking about. 
 - If you run into a 404 page it means I haven't made that note yet or haven't uploaded it. If it is interesting to you reach out to me and start a conversation about it.  
 # Notes I have Worked in Recently 
-- [[Learning and the Inner Life/Spiritual Disciplines\|Spiritual Disciplines]]
-- [[Bible Book Notes/Lamentations/Lessing - Learning to Love Lamentations\|Lessing - Learning to Love Lamentations]]
-- [[Bible Book Notes/Prophets/Jeremiah/Lessing - Jeremiah Study Guide\|Lessing - Jeremiah Study Guide]]
-- [[Memory Journal/Memory Loose Resources\|Memory Loose Resources]]
-- [[Learning and the Inner Life/Methods/Trivium Learning\|Trivium Learning]]
-- [[Lutheran Education-From Wittenberg to the Future\|Lutheran Education-From Wittenberg to the Future]]
-- [[Learning and the Inner Life/Technology and Tools/An Introductory Framework for Technology\|An Introductory Framework for Technology]]
-- [[Artificial Mountains\|Artificial Mountains]]
-- [[Bible Book Notes/Psalms/Athanasius's Categories and Chain Method\|Athanasius's Categories and Chain Method]]
-- [[Memory Journal/Magnetic Memory Mini course/Start Here - Magnetic Memory Method Resources\|Start Here - Magnetic Memory Method Resources]]
-- [[Books/A. Keeping Track of Books in Obsidian\|A. Keeping Track of Books in Obsidian]]
-- [[Books/A Case for Character towards a Lutheran Virtue Ethics\|A Case for Character towards a Lutheran Virtue Ethics]]
-- [[Books/A Biblical Theology of the Holy Spirit\|A Biblical Theology of the Holy Spirit]]
-- [[Learning and the Inner Life/Study With Class\|Study With Class]]
-- [[Learning and the Inner Life/Methods/Teach With Method\|Teach With Method]]
+- [[The Garden/Teaching and the Grammar of Faith/Children Focused Worship Service\|Children Focused Worship Service]]
+- [[The Garden/Learning and the Inner Life/Rhythms and Practices/Rhythms of Rest\|Rhythms of Rest]]
+- [[The Garden/Learning and the Inner Life/A Timeline of Learning and Memory Readings\|A Timeline of Learning and Memory Readings]]
+- [[The Garden/Learning and the Inner Life/Rhythms and Practices/Scaffolding Dance as Parents\|Scaffolding Dance as Parents]]
+- [[The Garden/Learning and the Inner Life/Why Learn\|Why Learn]]
+- [[The Garden/Learning and the Inner Life/Inner Faculties/River of Wellbeing\|River of Wellbeing]]
+- [[The Garden/Learning and the Inner Life/Technology and Tools/An Introductory Framework for Technology\|An Introductory Framework for Technology]]
+- [[The Garden/Learning and the Inner Life/Rhythms and Practices/Failure Based Learning\|Failure Based Learning]]
+- [[The Garden/Learning and the Inner Life/Methods/Zone of Proximal Development\|Zone of Proximal Development]]
+- [[The Garden/Learning and the Inner Life/Rhythms and Practices/The Iterative Nature of Learning\|The Iterative Nature of Learning]]
+- [[The Garden/Learning and the Inner Life/Reading Scripture for Familiarity\|Reading Scripture for Familiarity]]
+- [[The Garden/Learning and the Inner Life/Methods/Learning and Writing Flow\|Learning and Writing Flow]]
+- [[The Garden/Learning and the Inner Life/Methods/Grounded Learning\|Grounded Learning]]
+- [[The Garden/Learning and the Inner Life/Rhetoric and Expression/Storytelling\|Storytelling]]
+- [[The Garden/Learning and the Inner Life/Methods/Classroom Approaches/Cooperative Learning\|Cooperative Learning]]
