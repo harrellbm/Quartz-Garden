@@ -1,0 +1,50 @@
+---
+publish: true
+aliases: Home Base Camp
+title: Base Camp 🏕️
+created: 2025-12-22T09:38:53.080-08:00
+modified: 2026-02-05T13:34:10.460-08:00
+published: 2026-03-02T09:16:57.031-08:00
+tags:
+  - 🌲Evergreen
+cssclasses: ""
+---
+
+Hello!
+My name is Brenden Harrell. I am a Husband, Father, Lutheran Pastor, and Tinkerer.
+
+> [!summary] What is this place??
+> You have stumbled upon an experiment of mine. This is a living collection of my notes, essays, and ponderings. All of which are in various stages of development and organization. You can find writing all along the continuum from deeply edited and refined to literally dumped out of my brain in raw bullet points. 
+
+I have grown increasingly dissatisfied with the exhausting, overwhelming and overstimulating digital spaces we inhabit. Content is constantly being pushed, or marketed, to us in new shiny wrappers. Why not try something different? 
+
+For those of you who are more organized than me, there is no huge or tightly regulated organization (sorry).  Rather you are invited into my active learning. All notes are under construction or "being grown" in real time. Each one is a snapshot of thoughts and research at a particular moment in time.  For more see [[The Wilderness/A Case for Christian Digital Gardening]]
+
+My hope is that this site will be more like a little quiet wilderness. A place to slow down, explore, start conversations, and collaborate. That is why I have named it - *The Aspen Grove*.
+![[The Garden/Images/Aspen Grove.png]]
+
+If you care about my personal story and connection to Aspen groves you can read it here: [[The Wilderness/The Calm after the Storm]]
+# How to Use this Garden
+Here are some basic suggestions for using this garden:
+- Follow a path of ideas by clicking on imbedded links as you read. See where my mind has wandered and where yours might too. 
+- Use the search bar to see if I have notes on something specific. If not you could email me and see what I think!
+- Look at a particular note tag and see what other notes have the same tag.
+	- #🟢Conviction or #📝Essay are good ones to try first.
+- Or you can look at my [[Wonder List]] a collection of things that I am thinking about. 
+- If you run into a 404 page it means I haven't made that note yet or haven't uploaded it. If it is interesting to you reach out to me and start a conversation about it.  
+# Notes I have Worked in Recently 
+- [[The Garden/Learning and the Inner Life/Technology and Tools/An Introductory Framework for Technology\|An Introductory Framework for Technology]]
+- [[Wonder List\|Wonder List]]
+- [[Templates/Note Template\|Note Template]]
+- [[Templates/New Book\|New Book]]
+- [[Tags/🪴Sprout\|🪴Sprout]]
+- [[Tags/🍋Fruit\|🍋Fruit]]
+- [[Tags/🌿Sapling\|🌿Sapling]]
+- [[Tags/🌲Evergreen\|🌲Evergreen]]
+- [[Tags/🌱Seed\|🌱Seed]]
+- [[The Garden/Teaching and the Grammar of Faith/Children Focused Worship Service\|Children Focused Worship Service]]
+- [[The Garden/Learning and the Inner Life/Rhythms and Practices/Rhythms of Rest\|Rhythms of Rest]]
+- [[The Garden/Learning and the Inner Life/A Timeline of Learning and Memory Readings\|A Timeline of Learning and Memory Readings]]
+- [[The Garden/Learning and the Inner Life/Rhythms and Practices/Scaffolding Dance as Parents\|Scaffolding Dance as Parents]]
+- [[The Garden/Learning and the Inner Life/Why Learn\|Why Learn]]
+- [[The Garden/Learning and the Inner Life/Inner Faculties/River of Wellbeing\|River of Wellbeing]]

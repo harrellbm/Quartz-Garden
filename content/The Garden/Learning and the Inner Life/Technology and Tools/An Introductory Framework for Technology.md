@@ -2,7 +2,7 @@
 publish: true
 created: 2026-01-27T14:42:08.215-08:00
 modified: 2026-02-25T10:42:42.794-08:00
-published: 2026-02-26T09:58:42.321-08:00
+published: 2026-03-02T09:18:45.465-08:00
 tags:
   - 🟡Consideration
   - 🌿Sapling
@@ -28,7 +28,7 @@ A deep treatment of this subject will no doubt fill many books. The exact nature
 # Technology Understood as Human Tooling 
 Many discussions of technology paint with a very narrow scope. I believe to truly understand the implications of technological tools, we first need to become aware of the tooling that is living with in all of us. 
 
-In order to do this I reach back to the Greek root _tekhnē_ meaning "art, skill, craft in work" that is the ancestor of our modern word Technology. This root reminds us that the machines and metal around us came from somewhere. We all have tools such as memory, reason, attention, and language that are basic tools we use to navigate our lives. Much of the early years of a child's development is dedicated to the foundations of these tools. These same basic tools are also the faculties that have built the technologies we live with generation after generation. Therefore, it is appropriate to draw the connection between particular external technologies and how they are connected with the internal tekhne we hold within ourselves. 
+In order to do this I reach back to the Greek root _tekhnē_ meaning "art, skill, craft in work"[^1] that is the ancestor of our modern word Technology. This root reminds us that the machines and metal around us came from somewhere. We all have tools such as memory, reason, attention, and language that are basic tools we use to navigate our lives. Much of the early years of a child's development is dedicated to the foundations of these tools. These same basic tools are also the faculties that have built the technologies we live with generation after generation. Therefore, it is appropriate to draw the connection between particular external technologies and how they are connected with the internal tekhne we hold within ourselves. 
 
 Therefore to truly treat the full scope of this topic faithfully, we need a clear picture of what it means to use our internal tekhne well. From there we can approach external technologies with a grounded perspective. A more full treatment of this concept can be found in my essay [[The Garden/Learning and the Inner Life/Technology and Tools/Artificial Mountains]].
 
@@ -84,3 +84,5 @@ As we mull this question over we can flesh it out using the framework:
 As we work through questions like these, we can quickly begin to see blind spots that are easy to excuse around every technology inside and out!  How carelessly we tend to use our memory and attention. How much we are encouraged to inflate the upsides of every external technology but never stop to think of their consequences. Or to shun "technology" on principle without being honest about using indoor pluming, cars, pens, books and an armada of other technologies without ever blinking an eye. 
 
 My prayer is that this kind of honest engagement with the tooling we have inside and out will help us to hear the voice of God and move to a faithful form of life within our own contexts. 
+
+[^1]: [Britannica](https://www.britannica.com/technology/technology)

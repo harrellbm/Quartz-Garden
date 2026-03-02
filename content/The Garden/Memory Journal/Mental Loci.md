@@ -109,11 +109,8 @@ Living is crazy and trying to figure out how to live well and practice my faith 
 - [[The Garden/Learning and the Inner Life/Rhythms and Practices/The Need for Slow Thinking\|The Need for Slow Thinking]]
 - [[The Garden/Living Together/Inhabiting Shared Space\|Inhabiting Shared Space]]
 - [[The Garden/Living Together/The Biblical Rhythm of Time and Rest\|The Biblical Rhythm of Time and Rest]]
-- [[The Garden/Learning and the Inner Life/Rhythms and Practices/Rhythm Reset\|Rhythm Reset]]
-- [[The Garden/Liturgy and Sacred Space/Patterns of Liturgy-The Rhythm of Life\|Patterns of Liturgy-The Rhythm of Life]]
 - [[The Wilderness/Lament Epistle Series\|Lament Epistle Series]]
 - [[The Garden/Learning and the Inner Life/Inner Faculties/Sailing the Inner Seas, Taming the Outer Chaos\|Sailing the Inner Seas, Taming the Outer Chaos]]
-- [[The Garden/Living Together/Models of Human Rhythms\|Models of Human Rhythms]]
 - [[The Garden/Learning and the Inner Life/Rhythms and Practices/Rhythms of Rest\|Rhythms of Rest]]
 - [[The Garden/Teaching and the Grammar of Faith/Faith Catchphrases\|Faith Catchphrases]]
 - [[The Garden/Teaching and the Grammar of Faith/Faith Formation\|Faith Formation]]
@@ -126,6 +123,9 @@ Living is crazy and trying to figure out how to live well and practice my faith 
 - [[The Wilderness/Prayer Walk Guides\|Prayer Walk Guides]]
 - [[The Garden/Bible Study and Theology/Reading Scripture Devotionally\|Reading Scripture Devotionally]]
 - [[The Garden/Learning and the Inner Life/Inner Faculties/Christian Meditation\|Christian Meditation]]
+- [[The Garden/Liturgy and Sacred Space/Patterns of Liturgy-The Rhythm of Life\|Patterns of Liturgy-The Rhythm of Life]]
+- [[The Garden/Learning and the Inner Life/Rhythms and Practices/Rhythm Reset\|Rhythm Reset]]
+- [[The Garden/Living Together/Models of Human Rhythms\|Models of Human Rhythms]]
 
 # Doctrine, Poetry, and Story
 #🔥Doctrine-Poetry-Story
@@ -191,7 +191,6 @@ Sitting by a campfire and watching it crackle is a setting that often brings out
 - [[The Garden/Learning and the Inner Life/Rhythms and Practices/Lectio Divina\|Lectio Divina]]
 - [[The Garden/Learning and the Inner Life/Rhythms and Practices/Oratio, Meditatio, Tentatio\|Oratio, Meditatio, Tentatio]]
 - [[The Garden/Cosmology and Anthropology/Creation Accounts Ordering of Foundational Elements of the Natural and Built Environment\|Creation Accounts Ordering of Foundational Elements of the Natural and Built Environment]]
-- [[The Garden/Liturgy and Sacred Space/Thoughts on Liturgy and Rhythm\|Thoughts on Liturgy and Rhythm]]
 - [[The Garden/Learning and the Inner Life/Rhetoric and Expression/Storytelling\|Storytelling]]
 - [[The Garden/Teaching and the Grammar of Faith/Canticles (Songs in the Bible)\|Canticles (Songs in the Bible)]]
 - [[The Garden/Teaching and the Grammar of Faith/Telescope of Scripture, the Law and Doctrine\|Telescope of Scripture, the Law and Doctrine]]
@@ -199,6 +198,7 @@ Sitting by a campfire and watching it crackle is a setting that often brings out
 - [[The Garden/Bible Study and Theology/Big Picture Theological Concepts\|Big Picture Theological Concepts]]
 - [[The Garden/Teaching and the Grammar of Faith/Commandments and Law in Scripture\|Commandments and Law in Scripture]]
 - [[The Garden/Teaching and the Grammar of Faith/The Lord's Supper\|The Lord's Supper]]
+- [[The Garden/Liturgy and Sacred Space/Thoughts on Liturgy and Rhythm\|Thoughts on Liturgy and Rhythm]]
 
 # Bringing Life into the World
 #🛠️BringingLifeintotheWorld
@@ -239,8 +239,8 @@ I love building and crafting. It is a little way that we can bring some life and
 - [[The Garden/Learning and the Inner Life/Methods/Learning and Writing Flow\|Learning and Writing Flow]]
 - [[The Garden/Learning and the Inner Life/Rhythms and Practices/Approaching Tasks\|Approaching Tasks]]
 - [[The Wilderness/Digital Gardening\|Digital Gardening]]
-- [[The Garden/Learning and the Inner Life/Technology and Tools/An Introductory Framework for Technology\|An Introductory Framework for Technology]]
 - [[The Wilderness/A Case for Christian Digital Gardening\|A Case for Christian Digital Gardening]]
+- [[The Garden/Learning and the Inner Life/Technology and Tools/An Introductory Framework for Technology\|An Introductory Framework for Technology]]
 
 # Living in Community and Mission
 #🍽️Community-Mission 
