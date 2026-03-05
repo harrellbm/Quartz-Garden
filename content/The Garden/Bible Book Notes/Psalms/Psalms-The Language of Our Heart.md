@@ -1,10 +1,11 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-05-13
-updated: 2025-06-12T12:59:18.179-07:00
-edited_seconds: 1
+created: 2025-12-22T09:38:51.311-08:00
+modified: 2025-06-12T12:59:18.179-07:00
+published: 2026-03-04T14:41:12.550-08:00
+cssclasses: ""
 ---
+
 #🍋Fruit   #🙂Agree   #🟢Conviction   #📝Essay   #🔥Doctrine-Poetry-Story 
 
 ****
@@ -15,8 +16,8 @@ edited_seconds: 1
 > “The Bible is more than prosaic rituals; it is a love letter, a story of adventure & victory, a multigenre conglomeration that God called “good,” full of mystery, romance, comedy, prophecy, even poetry.”
 
 Similar Notes:
-[[The Garden/Bible Book Notes/Psalms/Meditation on Psalm 8]]
-[[The Garden/Memory Journal/Memorizing the Psalms]]
+[[The Garden/Poetry and Rhetoric/Meditations/Meditation on Psalm 8]]
+[[The Garden/Memory and Learning/Memory Journal/Memorizing the Psalms]]
 [[Letter to Marcellinus translation-jce edit 08242016 final changes accepted (1).pdf]]
 ****
 

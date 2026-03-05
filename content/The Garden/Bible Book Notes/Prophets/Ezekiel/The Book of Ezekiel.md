@@ -2,7 +2,7 @@
 publish: true
 created: 2025-12-22T09:38:51.335-08:00
 modified: 2025-09-11T08:21:02.166-07:00
-published: 2026-02-02T11:01:47.903-08:00
+published: 2026-03-02T09:24:33.118-08:00
 cssclasses: ""
 ---
 
@@ -84,7 +84,7 @@ The Number 25 in Ezekiel's Temple Vision[^1]
 - The entire central “reserved land” is 25 x 1000.
 - The outer wall surrounding the temple complex is 500 cubits squared.
 
-![[The Garden/Images/Pasted image 20250910134628.png]]
+![[The Library/Images/Pasted image 20250910134628.png]]
 
 Bergsma, “The Temple as ‘Built Jubilee’”
 
@@ -95,7 +95,7 @@ Bergsma, “The Temple as ‘Built Jubilee’”
 
 Everything in the vision is focused on purifying Israel form everything had happened before. This is the design of the space, organization, personal and the identities of the people who are working. 
 
-![[The Garden/Images/Pasted image 20250910135712.png]] 
+![[The Library/Images/Ezekiel temple map.png]] 
 Chart from Daniel Block's Commentary 
 
 Exile from Eden is to the east. When Yahweh comes back to this temple he comes from the east. Start tour at the east gate as well. 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-22T09:38:50.936-08:00
-modified: 2026-01-29T10:04:45.402-08:00
-published: 2026-01-29T10:04:45.402-08:00
+modified: 2026-03-05T08:52:02.248-08:00
+published: 2026-03-05T08:52:02.343-08:00
 cssclasses: ""
 ---
 
@@ -20,45 +20,26 @@ cssclasses: ""
 # The Practical Theological Framework
 ## Introduction
 There are a variety of pastoral ministry resources that provide advice and guidelines for a
-diversity of ministry related topics. These resources are useful in providing answers for how to conduct
-worship, how to do evangelism, how to provide counseling, how to care for the dying, how to conduct a
-congregational meeting, and many other topics that might arise in ministry. However, no resource is able
-to address each specific aspect of ministry in a given context. Every ministry context is unique and
-requires an appropriate Godly approach. There are variables in ministry that can’t be anticipated while
-sitting in a seminary classroom or reading a pastoral theology textbook. Ministry is not simply organized
-into easily understood categories with easy answers. Ministry can be messy and complicated because
-we are serving people with unique personalities, behaviors, thoughts, and passions. And these people
-live in communities that have their own personalities, behaviors, thoughts, and passions. Yes, we
-proclaim Christ, and we bring Christ to bear upon every situation that we encounter. Yet how do we
-faithfully attend to matters in the congregation and community in a way that will give God glory and serve
-our neighbor?
-During medieval times, the approach to attending to matters of church and society was called
-scholasticism. Scholasticism was a pedagogical framework used primary in the university setting with a
-dialectical learning approach. The approach included the following steps: identify a question, make
-arguments for and against, refer to philosophers, provide possible answers that bring the various
-disciplines together and demonstrate they are really saying the same thing. 1 Martin Luther was trained in
-scholasticism but rejected the approach in his 1517 Disputation Against Scholastic Theology. Luther was
-clear that scholasticism lacked the theological depth and relied too heavily upon philosophy for
-determining how we did theology. Luther stated in thesis 41 of his Disputation Against Scholastic
-Theology, “virtually the entire ethics of Aristotle is the worst enemy of grace. This in opposition to the
-scholastics.” And in thesis 44, “Indeed, no one can become a theologian unless he becomes one without
-Aristotle.” The scholastic way of doing theology provided a framework, but with a philosophical foundation
-that left little room for Christ.
+diversity of ministry related topics. These resources are useful in providing answers for how to conduct worship, how to do evangelism, how to provide counseling, how to care for the dying, how to conduct a congregational meeting, and many other topics that might arise in ministry. However, no resource is able to address each specific aspect of ministry in a given context. Every ministry context is unique and requires an appropriate Godly approach. There are variables in ministry that can’t be anticipated while sitting in a seminary classroom or reading a pastoral theology textbook. Ministry is not simply organized
+into easily understood categories with easy answers. Ministry can be messy and complicated because we are serving people with unique personalities, behaviors, thoughts, and passions. And these people live in communities that have their own personalities, behaviors, thoughts, and passions. Yes, we proclaim Christ, and we bring Christ to bear upon every situation that we encounter. Yet how do we faithfully attend to matters in the congregation and community in a way that will give God glory and serve our neighbor?
+
+During medieval times, the approach to attending to matters of church and society was called scholasticism. Scholasticism was a pedagogical framework used primary in the university setting with a dialectical learning approach. The approach included the following steps: identify a question, make arguments for and against, refer to philosophers, provide possible answers that bring the various disciplines together and demonstrate they are really saying the same thing. [^1]
+
+Martin Luther was trained in scholasticism but rejected the approach in his 1517 Disputation Against Scholastic Theology. Luther was clear that scholasticism lacked the theological depth and relied too heavily upon philosophy for determining how we did theology. Luther stated in thesis 41 of his Disputation Against Scholastic Theology, “virtually the entire ethics of Aristotle is the worst enemy of grace. This in opposition to the
+scholastics.” And in thesis 44, “Indeed, no one can become a theologian unless he becomes one without Aristotle.” The scholastic way of doing theology provided a framework, but with a philosophical foundation that left little room for Christ.
+
 A more recent approach to attending to questions of the church and society was proposed by
-Richard Osmer and his four tasks of practical theology. The four tasks included 1. The Descriptive
-Empirical Task of Priestly Listening, 2. The Interpretive Task of Sagely Wisdom, 3. The Normative task of
-Prophetic Discernment and 4. The Pragmatic task of Servant Leadership. 2 However, the limitations of this
-approach have provided an opportunity to develop a Lutheran framework. The Practical Theological
-Framework will give us a Lutheran structure to address the unique needs of the particular context in
-which we serve. The four pillars of the framework are:
-
-1 Paul Robinson provides a summary of scholasticism in a video series provided by Concordia Seminary
-2 Osmer, Richard R. Practical theology: An introduction. Wm. B. Eerdmans Publishing, 2008.
-
- Attending to Self and the World
- Interpreting First Article Wisdom
- Discerning Theological Wisdom
- Implementing Godly Guidance and Leadership
+Richard Osmer and his four tasks of practical theology. The four tasks included 
+1. The Descriptive Empirical Task of Priestly Listening, 
+2. The Interpretive Task of Sagely Wisdom, 
+3. The Normative task of Prophetic Discernment
+4. The Pragmatic task of Servant Leadership.[^2] 
+ 
+However, the limitations of this approach have provided an opportunity to develop a Lutheran framework. The Practical Theological Framework will give us a Lutheran structure to address the unique needs of the particular context in which we serve. The four pillars of the framework are:
+- Attending to Self and the World
+- Interpreting First Article Wisdom
+-  Discerning Theological Wisdom
+- Implementing Godly Guidance and Leadership
 
 ## Attending to Self and World
 Attending is the ability to be aware of what is going on in a particular context. We pay attention to
@@ -374,7 +355,7 @@ It is important that we watch out for the following pit falls:
 ignorant of God.
  Theodicy - Attempts to justify God to a suffering world.
  Christianizing Science - Attempts to use science as a way of proving scripture.
- [[The Garden/Bible Study and Theology/Moralistic Therapeutic Deism]] - Attempts to keep God distant from natural science.
+ [[The Garden/Teaching and Grammar/Theological Concepts and Frameworks/Moralistic Therapeutic Deism]] - Attempts to keep God distant from natural science.
  Moral Logic - Scripture is interpreted through the existing cultures understanding.
 First Article Wisdom informs us about the creation we live in. We can read research articles or textbooks
 to see what is being discovered but the data will always need to be interpreted. The interpretation of the
@@ -478,3 +459,7 @@ as you interpret First Article wisdom or discern theological wisdom. In the mids
 leadership you might need to address additional questions that were not clear when you began your
 work. The Practical Theological Framework provides a way to do theology that attends to the whole
 council of God when addressing topics of church and society that might come about in ministry.
+
+[^1]: Paul Robinson provides a summary of scholasticism in a video series provided by Concordia Seminary
+
+[^2]: Osmer, Richard R. Practical theology: An introduction. Wm. B. Eerdmans Publishing, 2008.

@@ -1,10 +1,11 @@
 ---
 publish: true
-Note Planted: 2024-11-06
-Last Tended: 2025-07-01
-updated: 2025-07-02T09:10:11.289-07:00
-edited_seconds: 187
+created: 2025-12-22T09:38:55.489-08:00
+modified: 2025-07-02T09:10:11.289-07:00
+published: 2026-03-04T14:28:21.005-08:00
+cssclasses: ""
 ---
+
 #🌱Seed  #😐Neutral #🛠️BringingLifeintotheWorld 
 
 ****
@@ -15,7 +16,7 @@ edited_seconds: 187
 Similar Ideas:
 [[The Garden/Plants and Tea/A Tea Garden]]
 [[The Garden/Plants and Tea/Plants Around Church]]
-[[The Garden/Plants and Tea/Wild Edible Garden Design Pattern]]
+[[The Wilderness/Wild Edible Garden Design Pattern]]
 ****
 # Plants Owned
 - [[The Garden/Plants and Tea/Plant Care#Fig Trees]]

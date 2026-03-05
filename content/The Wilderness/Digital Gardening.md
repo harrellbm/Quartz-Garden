@@ -1,10 +1,11 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-07-03
-updated: 2025-07-03T12:01:00.185-07:00
-edited_seconds: 173
+created: 2025-12-22T09:38:52.220-08:00
+modified: 2025-07-03T12:01:00.185-07:00
+published: 2026-03-04T13:27:25.472-08:00
+cssclasses: ""
 ---
+
 #🌿Sapling   #😁Strongly-Agree  #🟢Conviction  #🛠️BringingLifeintotheWorld 
 
 * * *
@@ -16,7 +17,7 @@ edited_seconds: 173
 > 
 > I find this mental image very beautiful in its simplicity and connectivity to creation. 
 
-So much of note taking, project management and organization are all about productivity and efficiency as the highest good.  But the idea of tending a garden of thoughts, ideas and knowledge is a method that looks to curiosity, creativity and organic exploration as the goal of the tending. Fruits then naturally emerge from the growing process just like the fruits of an actual garden. This all arises from [[The Garden/Learning and the Inner Life/Rhythms and Practices/The Need for Slow Thinking]] in our frenetic and hectic culture.
+So much of note taking, project management and organization are all about productivity and efficiency as the highest good.  But the idea of tending a garden of thoughts, ideas and knowledge is a method that looks to curiosity, creativity and organic exploration as the goal of the tending. Fruits then naturally emerge from the growing process just like the fruits of an actual garden. This all arises from [[The Garden/Memory and Learning/Learning and the Inner Life/Rhythms and Practices/The Need for Slow Thinking]] in our frenetic and hectic culture.
 
 The basic method of gardening I have found and desire to develop as a practice for myself is rather simple in its concept: 
 1. Things are stored in flat simple text files using markdown format. 
@@ -28,8 +29,8 @@ The basic method of gardening I have found and desire to develop as a practice f
 This approach squares nicely with my personal experience of note taking and trying to stay organized. If I try to impose structure on ideas right off the bat it crushes my ability to really explore and think things through. But allowing notes to grow over time helps me move out of the grind and into a more sustainable and honest approach to learning.   
 
 > [!note]
-> - The idea of a digital garden is further developed and built upon in the [[The Garden/Learning and the Inner Life/Technology and Tools/Metaphor of the Stream vs the Garden]].
-> - The idea of getting out of looking at the world as a collections of mechanical machines is developed more here: [[The Garden/Cosmology and Anthropology/A Holistic versus Mechanistic Perspective]]
+> - The idea of a digital garden is further developed and built upon in the [[The Garden/Technology and Tools/Metaphor of the Stream vs the Garden]].
+> - The idea of getting out of looking at the world as a collections of mechanical machines is developed more here: [[The Garden/Doctrine and Logic/Cosmology or What is this Place/A Holistic versus Mechanistic Perspective]]
 
 * * *
 
@@ -72,7 +73,7 @@ The three main tools I have started using for creating and tending my garden are
 > [!note]
 > Technical notes on setting this all up are here: 
 > - [[The Wilderness/Setting Up My Digital Garden]]
-> - [[The Garden/Learning and the Inner Life/Methods/Obsidian Note-taking]]
+> - [[The Garden/Memory and Learning/Learning and the Inner Life/Methods/Obsidian Note-taking]]
 > - [[The Wilderness/Zotero Library]]
 
 ## Overall Learning and Writing Apps 
@@ -82,25 +83,29 @@ The three main tools I have started using for creating and tending my garden are
 ****
 
 > [!summary] The Big Idea
-> The various apps I use for learning and keeping my self (kind of) organized.
+> The various apps and tools I use for learning and keeping my self (kind of) organized.
 
 * * *
-
-- Omnivore for newsletters, subscriptions and quick stashing online content that is interesting 
-- Zotero for physical book, and more long term resource cataloging. So basically add stuff to Zotero when it has reached the level of being actually useful rather than just interesting 
-- Obsidian for notes management 
+[[The Garden/Memory and Learning/Learning and the Inner Life/Methods/Obsidian Note-taking]]
+[[The Garden/Memory and Learning/Learning and the Inner Life/Methods/Note-Taking Methods]]
+[[The Wilderness/The Organization of My Digital Garden]]
+- Obsidian for notes management, books I want to read and notes on books I have read
+- Then I host my notes as a digital garden using Quartz and Github
 - Typst for formal typesetting of content once complete 
+- MassCode for storying Typst and other useful snippets 
 - Google docs for general docs and sharing collaboration 
 - Substack for reading different authors that put out longer form writing
+- Trello for people tracking and loose todos
+- 
 
 [[The Wilderness/Loose Notes/Notes from Hartung Conversation 4-12-23]]
-[[The Garden/Learning and the Inner Life/Methods/Gerhard Method of Theological Study]]
+[[The Garden/Memory and Learning/Learning and the Inner Life/Methods/Gerhard Method of Theological Study]]
 
 
 
 ## Additional Gardening Ideas
 Other interesting approaches to taking notes:
-	[[The Garden/Learning and the Inner Life/Methods/Note-Taking Methods]]
+	[[The Garden/Memory and Learning/Learning and the Inner Life/Methods/Note-Taking Methods]]
 
 What would it look like to have a “community garden” with individual “plots” but a general collaboration on digital gardens 
 

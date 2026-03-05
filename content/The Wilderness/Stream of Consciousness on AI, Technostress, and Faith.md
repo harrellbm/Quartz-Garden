@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-22T09:38:56.945-08:00
-modified: 2026-01-27T14:35:39.775-08:00
-published: 2026-01-27T14:35:39.775-08:00
+modified: 2026-03-05T09:04:27.619-08:00
+published: 2026-03-05T09:04:27.619-08:00
 cssclasses: ""
 ---
 
@@ -19,7 +19,7 @@ cssclasses: ""
 
 > [!tip]
 > Start on more structured ideas:
-> [[The Garden/Learning and the Inner Life/Technology and Tools/A Theology of Technology]]
+> [[The Garden/Technology and Tools/A Theology of Technology]]
 > [[The Wilderness/Principles for Working with Tech Tools]]
 
 Technostress is not being able to cope with the pace of change
@@ -47,7 +47,7 @@ Another line of inquiry is to think about the growing reality that we live in a 
 
 I think that this helps us realize the importance of memory and learning Scripture. In a world where we can offload so much information and work to technology the truly important things are the things of faith and life flowing from that. 
 
-[[The Garden/Learning and the Inner Life/Technology and Tools/The Preservation of Tail Knowledge]]
+[[The Garden/Technology and Tools/Notes/Notes - AI and the Problem of Knowledge Collapse]]
 
 The conversation that government and society affects or lives is one that is not unfamiliar. Laws and social movements put pressure on us and our loved ones to think and live a certain way. Technology is connected with this in part but I think we often fail to see the underlying narratives that drive the adoptions and development of many technologies. 
 

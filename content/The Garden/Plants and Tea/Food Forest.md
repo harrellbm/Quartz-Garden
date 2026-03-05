@@ -1,10 +1,11 @@
 ---
 publish: true
-updated: 2025-07-31T09:34:13.928-07:00
-edited_seconds: 153
-Note Planted: 2025-07-02
-Last Tended: 2025-07-31
+created: 2025-12-22T09:38:52.512-08:00
+modified: 2025-07-31T09:34:13.928-07:00
+published: 2026-03-04T14:28:19.926-08:00
+cssclasses: ""
 ---
+
 #🌱Seed   #😐Neutral   #🟡Consideration   #🛠️BringingLifeintotheWorld 
 ****
  
@@ -12,7 +13,7 @@ Last Tended: 2025-07-31
 > I am really digging the idea of a food forest especially the idea of a plant guild or basically a group of plants that all work together as a small ecosystem. 
 
 Related Notes:
-[[The Garden/Plants and Tea/Wild Edible Garden Design Pattern]]
+[[The Wilderness/Wild Edible Garden Design Pattern]]
 [[The Garden/Plants and Tea/A Tea Garden]]
 [[The Garden/Plants and Tea/Plants Around Church]]
 ****
@@ -34,11 +35,11 @@ A starting guild matrix that I would like to try:
 
 # The Idea of Plant Guilds
 
-![[The Garden/Images/Pasted image 20250728105034.png]]
-![[The Garden/Images/Pasted image 20250728105738.png]]
-![[The Garden/Images/Pasted image 20250728105718.png]]
-![[The Garden/Images/Pasted image 20250728105137.png]]
-![[The Garden/Images/Pasted image 20250728105210.png]]
+![[The Library/Images/Guild Roles.png]]
+![[The Library/Images/3 Types of Guilds.png]]
+![[The Library/Images/Pasted image 20250728105718.png]]
+![[The Library/Images/Pasted image 20250728105137.png]]
+![[The Library/Images/Pasted image 20250728105210.png]]
 > [!quote] [From this Reddit Post](https://www.reddit.com/r/Permaculture/comments/123qgmu/guild_design_101_to_me_the_most_powerful_concept/)
 > For me, ”guilds” have been the most powerful and transformative concept in all of Permaculture. Guilds are plantings designed to have the stability and function of natural ecosystems, which makes them very low-maintenance and productive over long periods of time.
 > 
@@ -72,5 +73,5 @@ https://transformativeadventures.org/2021/03/30/on-guild-matrixes-and-allstar-pl
 Nitrogen fixing roots. [https://www.laspilitas.com/advanced/nitrogen-fixing-roots.html](https://www.laspilitas.com/advanced/nitrogen-fixing-roots.html)
 
 # Planting Guides 
-![[The Garden/Plants and Tea/garden_plan-part_sun.pdf]]
-![[The Garden/Plants and Tea/planting_guide-slo_chapter-web.pdf]]![[The Garden/Plants and Tea/garden_plan-acterra_lawn_replacement.pdf]]![[The Garden/Plants and Tea/garden_plan-parking_strip.pdf]]
+![[The Library/Plants and Gardening/garden_plan-part_sun.pdf]]
+![[The Library/Plants and Gardening/planting_guide-slo_chapter-web.pdf]]![[The Library/Plants and Gardening/garden_plan-acterra_lawn_replacement.pdf]]![[The Library/Plants and Gardening/garden_plan-parking_strip.pdf]]
