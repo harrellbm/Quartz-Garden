@@ -9,4 +9,4 @@ tags:
 cssclasses: ""
 ---
 
-![[The Library/Images/F87B3AB4-206F-4A3D-A7EF-0F64FAFFD675.png]]
+![[The Library/Images/screwtape-quote.png]]

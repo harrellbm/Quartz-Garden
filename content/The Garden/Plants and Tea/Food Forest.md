@@ -2,7 +2,7 @@
 publish: true
 created: 2025-12-22T09:38:52.512-08:00
 modified: 2025-07-31T09:34:13.928-07:00
-published: 2026-03-04T14:28:19.926-08:00
+published: 2026-03-09T14:16:54.788-07:00
 cssclasses: ""
 ---
 
@@ -37,9 +37,9 @@ A starting guild matrix that I would like to try:
 
 ![[The Library/Images/Guild Roles.png]]
 ![[The Library/Images/3 Types of Guilds.png]]
-![[The Library/Images/Pasted image 20250728105718.png]]
-![[The Library/Images/Pasted image 20250728105137.png]]
-![[The Library/Images/Pasted image 20250728105210.png]]
+![[The Library/Images/fruittree-guild.png]]
+![[The Library/Images/veggarden-guild.png]]
+![[The Library/Images/brassicaceae-guild.png]]
 > [!quote] [From this Reddit Post](https://www.reddit.com/r/Permaculture/comments/123qgmu/guild_design_101_to_me_the_most_powerful_concept/)
 > For me, ”guilds” have been the most powerful and transformative concept in all of Permaculture. Guilds are plantings designed to have the stability and function of natural ecosystems, which makes them very low-maintenance and productive over long periods of time.
 > 

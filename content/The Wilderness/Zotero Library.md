@@ -1,10 +1,11 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-06-17
-updated: 2025-06-17T14:45:58.949-07:00
-edited_seconds: 0
+created: 2025-12-22T09:38:58.322-08:00
+modified: 2025-06-17T14:45:58.949-07:00
+published: 2026-03-10T14:24:25.266-07:00
+cssclasses: ""
 ---
+
 #🪴Sprout  #🙂Agree  #📊Project 
 
 ****

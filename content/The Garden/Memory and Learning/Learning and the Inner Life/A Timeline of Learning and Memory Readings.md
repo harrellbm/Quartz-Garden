@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-02-22T20:48:35.052-08:00
-modified: 2026-02-26T10:02:43.198-08:00
-published: 2026-02-26T10:02:43.205-08:00
+modified: 2026-03-09T12:28:35.316-07:00
+published: 2026-03-09T12:28:35.325-07:00
 tags:
   - "#🌱Seed"
   - 😐Neutral
@@ -20,6 +20,8 @@ Startseite | Zentrales Verzeichnis Digitalisierter Drucke (zvdd) [https://ww
 # Logic and Rhetoric Overviews 
 - [[The Library/Book Catalog and Notes/Logic Book]] by Peter Kreft
 - [The Theology of Post-Reformation Lutheranism Volume I](https://www.cph.org/the-theology-of-post-reformation-lutheranism-volume-i?srsltid=AfmBOoqLJ37jyUToTzsyIzDz0fMvMCXExwmk-IkQ0161M7rLM6XgHXA2) Covers the philosophy and training of theologians. 
+- Classical Rhetoric and Its Christian and Secular Tradition from Ancient to Modern Times by George A. Kennedy https://www.amazon.com/dp/0807847690?ref=cm_sw_r_ffobk_apin_dp_MZ4XA5H59H7XZAJ5WZWQ&ref_=cm_sw_r_ffobk_apin_dp_MZ4XA5H59H7XZAJ5WZWQ&social_share=cm_sw_r_ffobk_apin_dp_MZ4XA5H59H7XZAJ5WZWQ&bestFormat=true
+- A History of Renaissance Rhetoric, 1380-1620 by Peter Mack https://www.amazon.com/dp/0199597286?ref=cm_sw_r_ffobk_apin_dp_Q85NFCS8B3X3Y3T7XWKV&ref_=cm_sw_r_ffobk_apin_dp_Q85NFCS8B3X3Y3T7XWKV&social_share=cm_sw_r_ffobk_apin_dp_Q85NFCS8B3X3Y3T7XWKV&bestFormat=true
 # Memory Historical Overviews
 - [Memory in Historical Perspective](https://a.co/d/0agLynmt) - Douglas Herrmann 
 - [The Book of Memory: A Study of Memory in Medieval Culture](https://a.co/d/019mxWjr) - [Mary Carruthers](https://www.amazon.com/Mary-Carruthers/e/B001HPQTW0/ref=dp_byline_cont_book_1)
@@ -33,7 +35,7 @@ Startseite | Zentrales Verzeichnis Digitalisierter Drucke (zvdd) [https://ww
 - The Memory Palace by Lewis Smile
 - Remember, Remember, Ed Cooke
 - Moonwalking with Einstein - Joshua Foer
-- Unlock Your Amazing Memory - Brad Zupp
+- [[The Library/Book Catalog and Notes/Unlock Your Amazing Memory]]
 - The Victorious Mind - Anthony Metivier
 - Memory Craft - Lynne Kelly
 - How to Remember Anything - Mark Channon
@@ -52,6 +54,11 @@ the Organon - [[Organon-Aristotle.pdf]]
 
 
 # Medieval 
+### Rhetoric in the Middle Ages
+Rhetoric in the Middle Ages: A History of Rhetorical Theory from St. Augustine to the Renaissance New Ed Edition
+by James J. Murphy
+https://www.amazon.com/dp/0520044061?ref=cm_sw_r_ffobk_apin_dp_DD0ZF1C74GJEX8BGX5GZ&ref_=cm_sw_r_ffobk_apin_dp_DD0ZF1C74GJEX8BGX5GZ&social_share=cm_sw_r_ffobk_apin_dp_DD0ZF1C74GJEX8BGX5GZ&bestFormat=true
+
 ### Augustine
 De doctrina christiana. Especially book 10 on memory.
 
@@ -59,6 +66,10 @@ De doctrina christiana. Especially book 10 on memory.
 The Marriage of Philology and Mercury - first set formalization of the seven liberal arts 
 
 # Renaissance
+### Renaissance Eloquence: Studies in the Theory and Practice of Renaissance Rhetoric First Edition
+by James J. Murphy
+https://www.amazon.com/dp/0520045432?ref=cm_sw_r_ffobk_apin_dp_TR9B876XAJNQPP89M3DE&ref_=cm_sw_r_ffobk_apin_dp_TR9B876XAJNQPP89M3DE&social_share=cm_sw_r_ffobk_apin_dp_TR9B876XAJNQPP89M3DE&bestFormat=true
+
 ### Robert Fludd
 Mnemonic Methods - Robert Fludd - https://www.lewismasonic.co.uk/general/mnemonic-methods.htm
 

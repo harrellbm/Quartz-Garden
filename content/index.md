@@ -3,8 +3,8 @@ publish: true
 aliases: Home Base Camp
 title: Base Camp 🏕️
 created: 2025-12-22T09:38:53.080-08:00
-modified: 2026-02-05T13:34:10.460-08:00
-published: 2026-03-05T09:56:25.137-08:00
+modified: 2026-03-09T15:26:01.869-07:00
+published: 2026-03-11T14:46:35.231-07:00
 tags:
   - 🌲Evergreen
 cssclasses: ""
@@ -22,6 +22,7 @@ I am in the process of a full overhaul of this gardens organization. Everything 
 - **The Wilderness** is exactly what it sounds like. It contains half written notes, brain dumps, collected bits from books and the internet all in their raw form. Enter here only if you dare hear to howling wind.
 - **The Library** houses articles and book lists. 
 - **The Garden** is where things live which I have put in the effort to "plant" thorough thought and organization. These have taken the form of essays, definitions, poems, etc. For a casual reader, this is where you will meet me in my most lucid state. 
+Additionally, you can find a description of note metadata I have found helpful for myself outlined here; [[The Garden/Projects/The Organization of My Digital Garden]]
 
 > [!attention]
 > I am actively moving toward this approach so the exact state of things is not 100% in line with the above descriptions but I am getting there fast.  
@@ -42,18 +43,17 @@ Here are some basic suggestions for using this garden:
 - Or you can look at my [[Wonder List]] a collection of things that I am thinking about. 
 - If you run into a 404 page it means I haven't made that note yet or haven't uploaded it. If it is interesting to you reach out to me and start a conversation about it.  
 # Notes I have Worked in Recently 
-- [[Private/LCOS Notes/Mission Framing with Paul Ferguson\|Mission Framing with Paul Ferguson]]
-- [[Private/LCOS Notes/Answers to Santa Maria Questions\|Answers to Santa Maria Questions]]
-- [[Private/LCOS Notes/Description of Pastor Harrell's Time Commitments\|Description of Pastor Harrell's Time Commitments]]
-- [[The Garden/Technology and Tools/Concepts and Definitions/The Echo Chamber Squeeze\|The Echo Chamber Squeeze]]
-- [[The Garden/Technology and Tools/Metaphor of the Stream vs the Garden\|Metaphor of the Stream vs the Garden]]
-- [[The Wilderness/Information Addiction\|Information Addiction]]
-- [[The Garden/Technology and Tools/Notes/Notes - AI and the Problem of Knowledge Collapse\|Notes - AI and the Problem of Knowledge Collapse]]
-- [[The Wilderness/Artificial Mountains\|Artificial Mountains]]
-- [[The Garden/Technology and Tools/An Introductory Framework for Technology\|An Introductory Framework for Technology]]
-- [[The Garden/Memory and Learning/Learning and the Inner Life/Rhythms and Practices/The Need for Slow Thinking\|The Need for Slow Thinking]]
-- [[The Garden/Memory and Learning/Learning and the Inner Life/My Thoughts on Learning\|My Thoughts on Learning]]
-- [[The Wilderness/Stream of Consciousness on AI, Technostress, and Faith\|Stream of Consciousness on AI, Technostress, and Faith]]
-- [[The Garden/Technology and Tools/Notes/Notes - How AI Destroys Institutions\|Notes - How AI Destroys Institutions]]
-- [[The Garden/Technology and Tools/Concepts and Definitions/Tail Knowledge and Knowledge Collapse\|Tail Knowledge and Knowledge Collapse]]
-- [[The Garden/Technology and Tools/Concepts and Definitions/Ritual Technology\|Ritual Technology]]
+- [[The Library/Book Catalog and Notes/The Screwtape Letters\|The Screwtape Letters]]
+- [[The Library/Book Catalog and Notes/A Case for Character towards a Lutheran Virtue Ethics\|A Case for Character towards a Lutheran Virtue Ethics]]
+- [[The Library/Book Catalog and Notes/All That Is Made\|All That Is Made]]
+- [[The Library/Book Catalog and Notes/A Gentleman in Moscow\|A Gentleman in Moscow]]
+- [[The Library/Book Catalog and Notes/A Complete Guide to Christian Symbols\|A Complete Guide to Christian Symbols]]
+- [[The Library/Book Catalog and Notes/The Four Survey of the Gospels\|The Four Survey of the Gospels]]
+- [[The Library/Book Catalog and Notes/How to Develop a Brilliant Memory Week by Week\|How to Develop a Brilliant Memory Week by Week]]
+- [[The Library/Book Catalog and Notes/The Quiet Ambition\|The Quiet Ambition]]
+- [[The Library/Book Catalog and Notes/The Holiness of God\|The Holiness of God]]
+- [[The Library/Book Catalog and Notes/The Book of Pastoral Rule\|The Book of Pastoral Rule]]
+- [[The Library/Book Catalog and Notes/Psalms the Prayer Book of the Bible\|Psalms the Prayer Book of the Bible]]
+- [[The Library/Book Catalog and Notes/Luther discovers the Gospel\|Luther discovers the Gospel]]
+- [[The Library/Book Catalog and Notes/How The Light Shines Through\|How The Light Shines Through]]
+- [[The Library/Book Catalog and Notes/Art Is\|Art Is]]

@@ -1,8 +1,11 @@
 ---
 publish: true
-Note Planted: 2024-12-16
-Last Tended: 2025-04-03
+created: 2025-12-22T09:38:51.354-08:00
+modified: 2026-03-11T13:07:23.543-07:00
+published: 2026-03-11T13:07:23.543-07:00
+cssclasses: ""
 ---
+
 #🌱Seed   #🙂Agree   #📓Journal 
 
 ****
@@ -29,7 +32,7 @@ In bible study I have decided to read it eight times with the class to really le
 	- They thought they could raise themselves up or be safe because they lived in high places. 
 3. Mountains
 	- The two important mountains are Mount Zion and Mount Esau as kind of opposing places of authority and power but the end of the book pictures saviors going up to rule on both mountains under the authority of God alone.
-	- A short overview of [[The Garden/Typology, Imagery and Metaphor/Mountains of Scripture]]
+	- A short overview of [[The Garden/Poetry and Rhetoric/Typology, Imagery and Metaphor/Mountains of Scripture]]
 4. All Nations
 	- Edom becomes an emblem of all the nations in the middle of the book in verse 15 where is switches to judgment against all nations for refusing to acknowledge God
 5. Justice

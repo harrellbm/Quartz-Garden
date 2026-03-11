@@ -2,7 +2,7 @@
 publish: true
 created: 2025-12-22T09:38:55.721-08:00
 modified: 2025-09-09T08:51:49.303-07:00
-published: 2026-02-26T09:41:34.455-08:00
+published: 2026-03-09T14:15:10.960-07:00
 cssclasses: ""
 ---
 
@@ -33,7 +33,7 @@ Eventually when typst supports including other pdfs I might try importing as a p
 
 there are also setting to mimic old musical notation https://lilypond.org/doc/v2.25/Documentation/notation/ancient-notation
 
-![[The Garden/Images/64976.jpg]]![[The Garden/Images/58043.jpg]]![[The Garden/Images/47121.jpg]]
+![[The Library/Images/lilypond-3.jpg]]![[The Library/Images/lilypond-2.jpg]]![[The Library/Images/lilypond-1.jpg]]
 To fit a long line of lyrics to notes in LilyPond, the primary method involves aligning syllables to individual notes and utilizing hyphens for multi-syllable words and extender lines for held syllables.
 
   
