@@ -4,7 +4,7 @@ aliases:
   - Home
   - Base Camp
 title: Base Camp 🏕️
-created: 2025-12-22T09:38:53.080-08:00
+created: 2024-10-22
 modified: 2026-03-09T15:26:01.869-07:00
 published: 2026-03-11T14:46:35.231-07:00
 tags:
