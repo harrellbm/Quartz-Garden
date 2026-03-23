@@ -43,9 +43,7 @@ Want to customize it even more?
 - Removing explorer: remove `Component.Explorer()` from `quartz.layout.ts`
   - (optional): After removing the explorer component, you can move the [[table of contents | Table of Contents]] component back to the `left` part of the layout
 - Changing `sort`, `filter` and `map` behavior: explained in [[#Advanced customization]]
-- Component:
-  - Wrapper (Outer component, generates file tree, etc): `quartz/components/Explorer.tsx`
-  - Explorer node (recursive, either a folder or a file): `quartz/components/ExplorerNode.tsx`
+- Component: `quartz/components/Explorer.tsx`
 - Style: `quartz/components/styles/explorer.scss`
 - Script: `quartz/components/scripts/explorer.inline.ts`
 
@@ -164,7 +162,7 @@ You can access the tags of a file by `node.data.tags`.
 Component.Explorer({
   filterFn: (node) => {
     // exclude files with the tag "explorerexclude"
-    return node.data.tags?.includes("explorerexclude") !== true
+    return node.data?.tags?.includes("explorerexclude") !== true
   },
 })
 ```
@@ -188,7 +186,7 @@ Component.Explorer({
 > and passing it in.
 >
 > ```ts title="quartz.layout.ts"
-> import { Options } from "./quartz/components/ExplorerNode"
+> import { Options } from "./quartz/components/Explorer"
 >
 > export const mapFn: Options["mapFn"] = (node) => {
 >   // implement your function here
