@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:50.710-08:00
 modified: 2026-01-20T15:28:33.198-08:00
 published: 2026-01-20T15:28:33.209-08:00
-cssclasses: ""
 ---
 
 #🌱Seed  #🙂Agree   #🛠️BringingLifeintotheWorld 
@@ -23,7 +22,7 @@ I think the reason this concept resonates with me is that it mirrors my lived ex
 
 Therefore the nature of this garden can be summarized with the following points:
 
-- **No note is finished**: This follows [[The Garden/Memory and Learning/Learning and the Inner Life/Rhythms and Practices/The Iterative Nature of Learning]]. I have added clues to the start of notes to help you see how I view them and if I have put much work into them or not. You can find more details about this here:  [[The Wilderness/The Organization of My Digital Garden]]
+- **No note is finished**: This follows [[The Garden/Memory and Learning/Learning and the Inner Life/Rhythms and Practices/The Iterative Nature of Learning]]. I have added clues to the start of notes to help you see how I view them and if I have put much work into them or not. You can find more details about this here:  [[The Garden/Projects/The Organization of My Digital Garden]]
 
 - **Notes are interconnected**: This allows for [[The Wilderness/Topological Navigation]] by using links that connect related ideas together. This creates a kind of map that allows for navigation around the garden by following paths of ideas. You can think of this a lot like going for a physical walk in a garden. 
 

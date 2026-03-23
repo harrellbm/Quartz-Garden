@@ -10,7 +10,6 @@ tags:
   - 🟢Conviction
   - 📊Project
   - 🥾SpiritualPractices-EmbodiedLiving
-cssclasses: ""
 ---
 
 > [!Summary] The Big Idea

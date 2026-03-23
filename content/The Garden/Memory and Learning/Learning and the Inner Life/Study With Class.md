@@ -2,13 +2,12 @@
 publish: true
 created: 2026-01-08T08:12:22.072-08:00
 modified: 2026-02-18T11:29:14.591-08:00
-published: 2026-02-18T11:29:14.596-08:00
+published: 2026-03-18T08:49:08.343-07:00
 tags:
   - 🪴Sprout
   - 🙂Agree
   - 🟡Consideration
   - 📊Project
-cssclasses: ""
 ---
 
 >[!Summary] The Big Idea
@@ -108,6 +107,30 @@ you bring with you out of the text into daily life?
 4. Who is someone in your life that needs to hear these truths. How could you tell
 them about it?
 
+
+Session 1 - Pray and Take Personal Stock
+Start with Prayer.
+Then beginning with what you already know to help establish the Scope of this study.
+- Choose the study's Anchor
+- Collect Initial ideas on the Shape and Syntax of the Anchor
+- Compose basic goals or hopes for this study
+
+
+Session 2 - Attend to the Text
+Start with Prayer.
+Attend to the text 
+- Write out text by hand
+- Annotate your written text 
+- Write a shape summary of the text 
+- Identify interesting syntax from the text
+
+Session 3 - Gather Resources
+- Collect Initial Shape Resources
+- Collect Initial Syntax Resources
+
+Session 4 - Organize Material for Attending and Gathering Sessions
+
+Session 5 - 
 
 Source Articles:
 https://classicalconversations.com/blog/what-is-the-trivium/

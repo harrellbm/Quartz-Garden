@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-22T09:38:54.038-08:00
-modified: 2026-01-14T13:44:40.828-08:00
-published: 2026-02-02T12:55:29.966-08:00
+modified: 2026-03-23T11:44:34.131-07:00
+published: 2026-03-23T11:44:34.140-07:00
 tags:
   - 🪴Sprout
   - 😁Strongly-Agree
@@ -11,7 +11,6 @@ tags:
   - 📓Journal
   - 🥾SpiritualPractices-EmbodiedLiving
   - 💭Memory
-cssclasses: ""
 ---
 
 
@@ -38,7 +37,7 @@ cssclasses: ""
 
 Similar Notes:
 [[The Wilderness/Memory, the Things We Keep with Us]]
-[[The Garden/Bible Book Notes/Psalms/Psalms-The Language of Our Heart]]
+[[The Library/Bible Book Notes/Psalms/Psalms-The Language of Our Heart]]
 [[The Garden/Memory and Learning/Learning and the Inner Life/Inner Faculties/Christian Meditation]]
 [[The Garden/Doctrine and Logic/Living Together and Community/Embodiment of Community]]
 [[The Garden/Doctrine and Logic/Liturgy and Sacred Space/I Heard Them Singing]]
@@ -63,24 +62,24 @@ This approach has been edifying in noticing many patterns and things that hold t
 This was not all for nothing however. It is amazing how even having some rudimentary structure memorized has started to facilitate my ability to look at psalms next to each other and in the context of one another in was that are impossible with out holding things together in your mind. 
 
 # Attempt 2
-In response to this, I have zeroed in on Athanasius's letter to Marcellinus as a wise laying out of the Psalter from many different angles. Here is a first dive into how I am using that to memorize the core 8 psalms he outlines for personal formation: [[The Garden/Bible Book Notes/Psalms/The Pattern to Manage Souls]]
+In response to this, I have zeroed in on Athanasius's letter to Marcellinus as a wise laying out of the Psalter from many different angles. Here is a first dive into how I am using that to memorize the core 8 psalms he outlines for personal formation: [[The Library/Bible Book Notes/Psalms/The Pattern to Manage Souls]]
 
 Using that acronym I now have that set of 8 Psalms clearly organized in my mind and can walk through them. It will be fascinating to see how learning the text of the Psalms next fit into that. 
 
 
-Also here are more extended notes on the Letter to Macellinus: [[The Garden/Bible Book Notes/Psalms/Athanasius's Categories and Chain Method]]
+Also here are more extended notes on the Letter to Macellinus: [[The Library/Bible Book Notes/Psalms/Athanasius's Categories and Chain Method]]
 Also the full text of the letter:
-[[Letter to Marcellinus translation-jce edit 08242016 final changes accepted (1).pdf]]
+[[The Library/Book Catalog and Notes/Letter to Marcellinus]]
 
 
 ## Other collected Notes
 As my work and study in this area has continued I have started to split the content of this note into smaller more manageable sections:
 
-[[The Garden/Bible Book Notes/Psalms/Useful Texts about the Psalms]]
+[[The Library/Bible Book Notes/Psalms/Useful Texts about the Psalms]]
 
-[[The Garden/Bible Book Notes/Psalms/Seeking Overall Shape and Structure of the Book of Psalms]]
+[[The Library/Bible Book Notes/Psalms/Seeking Overall Shape and Structure of the Book of Psalms]]
 
-[[The Garden/Bible Book Notes/Psalms/Thematic Phrases and Words in the Psalms]]
+[[The Library/Bible Book Notes/Psalms/Thematic Phrases and Words in the Psalms]]
 ### Number Symbolism 
 - Numbers are everywhere in the Psalms from the given number of a psalm to the grouping of psalms in specific sets (songs of accent being in 15, etc.). I want to look at the coherence and picture these numbers can help teach and the memory aid they can be
 # Memorization Methods 

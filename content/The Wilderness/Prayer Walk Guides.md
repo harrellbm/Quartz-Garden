@@ -38,7 +38,7 @@ There could be two main types:
 
 - Practice for slowing down with the Lord’s Prayer 
 
-- [[The Garden/Learning and the Inner Life/Inner Faculties/Christian Meditation]] explained (as opposed to eastern meditation) 
+- [[The Garden/Memory and Learning/Learning and the Inner Life/Inner Faculties/Christian Meditation]] explained (as opposed to eastern meditation) 
 
 - Practice for praying a piece of Scripture 
 
@@ -48,13 +48,13 @@ There could be two main types:
 
 # Collected Notes from other Materials and Writings:
 
-- [[The Garden/Bible Study and Theology/Reading Scripture Devotionally]]
-- [[The Garden/Teaching and the Grammar of Faith/Handouts/Activity-A Conversion with Scripture]]
-- [[The Garden/Typology, Imagery and Metaphor/Metaphor in Scripture]]
-- [[The Garden/Bible Study and Theology/A Conversation with God (Epistle)]]
-- [[The Garden/Learning and the Inner Life/Inner Faculties/Quiet Muttering]]
+- [[The Garden/Teaching and Grammar/Reading Scripture Devotionally]]
+- [[The Garden/Teaching and Grammar/Handouts/Activity-A Conversion with Scripture]]
+- [[The Garden/Poetry and Rhetoric/Typology, Imagery and Metaphor/Metaphor in Scripture]]
+- [[The Garden/Poetry and Rhetoric/A Conversation with God (Epistle)]]
+- [[The Garden/Memory and Learning/Learning and the Inner Life/Inner Faculties/Quiet Muttering]]
 - [[The Garden/Bible Book Notes/Psalms/Psalms-The Language of Our Heart]]
-- [[The Garden/Liturgy and Sacred Space/Sacred Space]]
-- [[The Garden/Learning and the Inner Life/Rhythms and Practices/Lectio Divina]]
-- [[The Garden/Learning and the Inner Life/Rhythms and Practices/Oratio, Meditatio, Tentatio]]
-- [[The Garden/Sermons/Treasure of Heaven Sermon Outline]]
+- [[The Garden/Doctrine and Logic/Liturgy and Sacred Space/Sacred Space]]
+- [[The Garden/Memory and Learning/Learning and the Inner Life/Rhythms and Practices/Lectio Divina]]
+- [[The Garden/Memory and Learning/Learning and the Inner Life/Rhythms and Practices/Oratio, Meditatio, Tentatio]]
+- [[The Garden/Sermon Outlines/Treasure of Heaven Sermon Outline]]

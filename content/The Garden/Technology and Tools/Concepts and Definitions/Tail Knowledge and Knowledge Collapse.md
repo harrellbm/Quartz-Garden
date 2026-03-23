@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:57.219-08:00
 modified: 2026-01-20T13:41:05.125-08:00
 published: 2026-03-05T09:03:00.656-08:00
-cssclasses: ""
 ---
 
 #🌱Seed  #🙂Agree  #🏖️Universe-Humans 
@@ -23,4 +22,4 @@ Related Notes: [[The Garden/Technology and Tools/Notes/Notes - How AI Destroys I
 > - Tail Knowledge
 > - Knowledge Collapse
 
-![[The Library/Technology and Tools/Peterson - 2024 - AI and the Problem of Knowledge Collapse.pdf]]
+![[The Library/Ebooks and Articles/Technology and Tools/Peterson - 2024 - AI and the Problem of Knowledge Collapse.pdf]]

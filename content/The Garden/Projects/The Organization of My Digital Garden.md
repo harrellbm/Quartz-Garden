@@ -7,7 +7,6 @@ tags:
   - 🟡Consideration
   - 🙂Agree
   - 📊Project
-cssclasses: ""
 ---
 
 > [!Summary] The Big Idea

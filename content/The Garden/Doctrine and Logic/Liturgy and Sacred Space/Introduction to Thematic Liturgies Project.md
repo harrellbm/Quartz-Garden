@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:53.142-08:00
 modified: 2025-06-17T14:33:03.506-07:00
 published: 2026-02-26T09:49:19.821-08:00
-cssclasses: ""
 ---
 
 #🌿Sapling  #🙂Agree   #🟡Consideration   #📊Project   #📝Essay  #🥾SpiritualPractices-EmbodiedLiving  

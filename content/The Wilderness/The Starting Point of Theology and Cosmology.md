@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:57.637-08:00
 modified: 2026-03-04T15:21:38.499-08:00
 published: 2026-03-04T15:21:38.499-08:00
-cssclasses: ""
 ---
 
 #🌱Seed  #🙂Agree #🏖️Universe-Humans 
@@ -21,5 +20,5 @@ For example, [[The Garden/Doctrine and Logic/Cosmology or What is this Place/Chr
 
 Frank Senn starts from a very intense focus on the role of embodiment and its importance for all of life and so his treatment of liturgy comes from a very different place than discussing liturgy from a doctrinal or historical starting point. 
 
-Another example is [[The Wilderness/Systems Theory]] that seeks to understand the world in terms of a system and its components. Basically producing a base language with which to approach various organic and nonorganic groups of beings and things.  
+Another example is [[The Garden/Doctrine and Logic/Cosmology or What is this Place/Concepts and Definitions/Systems Theory]] that seeks to understand the world in terms of a system and its components. Basically producing a base language with which to approach various organic and nonorganic groups of beings and things.  
 

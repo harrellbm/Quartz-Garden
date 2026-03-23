@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:51.393-08:00
 modified: 2026-02-02T10:30:43.401-08:00
 published: 2026-02-02T10:30:43.401-08:00
-cssclasses: ""
 ---
 
 #🪴Sprout   #🙂Agree   #🟢Conviction   #📚Definition   #📓Journal  

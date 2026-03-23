@@ -3,14 +3,13 @@ publish: true
 created: 2025-12-22T09:38:54.380-08:00
 modified: 2025-06-17T14:36:59.522-07:00
 published: 2026-02-02T11:09:31.739-08:00
-cssclasses: ""
 ---
 
 #🌱Seed   #🙂Agree  #🟢Conviction  #🔥Doctrine-Poetry-Story 
 ****
  
 >[!Summary] The Big Idea
-> This one of the [[The Garden/Teaching and the Grammar of Faith/Canticles (Songs in the Bible)]] which is drawn from Luke 2:29-32 that was sung over Jesus by Simeon as He was being brought to the temple by Mary and Joseph. 
+> This one of the [[The Wilderness/Canticles (Songs in the Bible)]] which is drawn from Luke 2:29-32 that was sung over Jesus by Simeon as He was being brought to the temple by Mary and Joseph. 
 
 ****
 # Setting 1 & 2 Version, LSB p. 165, 182 

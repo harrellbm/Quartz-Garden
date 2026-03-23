@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:53.176-08:00
 modified: 2025-06-30T09:48:03.422-07:00
 published: 2026-02-02T10:48:54.606-08:00
-cssclasses: ""
 ---
 
 #🌱Seed   #🙂Agree   #🟡Consideration   #📘BookNotes 

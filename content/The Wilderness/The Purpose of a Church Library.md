@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:57.591-08:00
 modified: 2025-06-17T14:08:20.264-07:00
 published: 2026-01-27T14:36:07.061-08:00
-cssclasses: ""
 ---
 
 #🌱Seed   #😐Neutral   #🟡Consideration  #🍽️Community-Mission  #📊Project 
@@ -35,11 +34,11 @@ Church library as separate from Pastor's library
 
 # Current factors that affect things
 
-[[The Garden/Learning and the Inner Life/Why Learn]]
+[[The Garden/Memory and Learning/Learning and the Inner Life/Why Learn]]
 
-a [[The Garden/Cosmology and Anthropology/A Holistic versus Mechanistic Perspective]] what about a perspective focused on life as the foundational activity of God in the world? 
+a [[The Garden/Doctrine and Logic/Cosmology or What is this Place/A Holistic versus Mechanistic Perspective]] what about a perspective focused on life as the foundational activity of God in the world? 
 
-Avoidance of [[The Garden/Learning and the Inner Life/Technology and Tools/Tail Knowledge and Knowledge Collapse]] 
+Avoidance of [[The Garden/Technology and Tools/Concepts and Definitions/Tail Knowledge and Knowledge Collapse]] 
 Search engine biases 
 AI biases 
 

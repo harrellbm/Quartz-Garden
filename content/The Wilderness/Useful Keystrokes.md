@@ -1,10 +1,11 @@
 ---
 publish: true
-aliases: H o t k e y s K e y b o a r d S h o r t c u t s
+aliases:
+  - Hotkeys
+  - Keyboard Shortcuts
 created: 2025-12-22T09:38:57.992-08:00
 modified: 2026-02-02T13:04:10.594-08:00
 published: 2026-02-02T13:04:10.594-08:00
-cssclasses: ""
 ---
 
 #🌱Seed  #😐Neutral #🛠️BringingLifeintotheWorld 

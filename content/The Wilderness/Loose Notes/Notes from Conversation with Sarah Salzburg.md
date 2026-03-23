@@ -26,10 +26,10 @@ edited_seconds: 84
 The curriculum is built on Biblical Themes. Here is the introduction packet and the "cheat sheet" they get for reading through the Word on their own.
 >
 >[Biblical Themes Packet](https://docs.google.com/document/d/1KlZuGpRum8V7eOclQ2BHBTHY_auJ4MXYqUHYXTau4XQ/edit?usp=sharing) (
->Working copy to markdown - [[The Garden/LCOS Notes/LCOS Biblical Themes Packet/LCOS Biblical Themes Packet]])
+>Working copy to markdown - [[The Garden/Teaching and Grammar/Handouts/LCOS Biblical Themes Packet]])
 >
 >[Biblical Themes Outline](https://docs.google.com/document/d/1GaJg0GgUjQcQ9bhbU9nmi-CsfuVGyqHkRuI1z1fZV-A/edit?usp=sharing) (Modified one with [Questions to Ask](https://docs.google.com/document/d/17qteKuTVtZTGgd6R2tCSfo1m7pLklzh0jLY1S30FxN8/edit?usp=sharing))
->Working copy to markdown - ([[The Garden/LCOS Notes/LCOS Biblical Themes Outline]])
+>Working copy to markdown - ([[The Garden/Teaching and Grammar/Handouts/LCOS Biblical Themes Outline]])
 >
 >We use Meditation Logs as our primary method for students engaging with the Word, asking questions and making observations. Here they are for the Genesis through Numbers:
 >
@@ -41,7 +41,7 @@ The curriculum is built on Biblical Themes. Here is the introduction packet and 
 >
 >You'll notice that we encourage them to use symbols whenever they see the Biblical Themes. Here is a picture of what we draw with them. 
 >
-> ![[The Garden/Typology, Imagery and Metaphor/Biblical Themes Symbols.jpeg]]
+> ![[The Garden/Poetry and Rhetoric/Typology, Imagery and Metaphor/Biblical Themes Symbols.jpeg]]
 >
 >Many of the students write them in the margins of their personal Bibles which is pretty cool to see. In general, the symbols just help them track the themes and remember what they mean
 

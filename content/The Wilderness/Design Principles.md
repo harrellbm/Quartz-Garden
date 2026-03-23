@@ -14,13 +14,13 @@ edited_seconds: 1
 > 
 > The Purpose of good design is not just to look nice but to actually have a space function well and offer a space for healthy living. 
 
-Related Notes: [[The Wilderness/Our Savior's Church and School Painting Guidelines]], [[The Wilderness/Our Savior's Church and School Selection Criteria 2023]], [[The Garden/Cosmology and Anthropology/Christopher Alexander (Architect, Author)]]
+Related Notes: [[The Wilderness/Our Savior's Church and School Painting Guidelines]], [[The Wilderness/Our Savior's Church and School Selection Criteria 2023]], [[The Garden/Doctrine and Logic/Cosmology or What is this Place/Christopher Alexander (Architect, Author)]]
 
 ****
 
 # Perspective Laid Out By Christopher Alexander
 
-- [[The Garden/Cosmology and Anthropology/Christopher Alexander (Architect, Author)]]
+- [[The Garden/Doctrine and Logic/Cosmology or What is this Place/Christopher Alexander (Architect, Author)]]
 
 Looking to history and nature are two places to help find inspiration as well as learn about what makes a good design. 
 

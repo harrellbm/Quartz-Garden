@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:51.877-08:00
 modified: 2026-02-02T11:07:02.623-08:00
 published: 2026-02-02T11:07:02.623-08:00
-cssclasses: ""
 ---
 
 #🌱Seed   #🙂Agree   #🟡Consideration  #🍽️Community-Mission 
@@ -20,24 +19,24 @@ cssclasses: ""
 
 [[The Wilderness/Year after Highschool Bible college model]]
 
-[[The Wilderness/Books/Joining Jesus]]
+[[The Library/Book Catalog and Notes/Joining Jesus]]
 
 [[The Wilderness/Community Walk-in Space]]
 
 [[The Wilderness/Five Year Cap Mission Planting]]  
 
-[[The Garden/Teaching and the Grammar of Faith/Children Focused Worship Service]]
+[[The Wilderness/Children Focused Worship Service]]
 # Exercises  and Resources
 
 [[The Wilderness/Relational Health Framework]]
 
 [[The Wilderness/Scripture Concerning Pastoral Role]]
 
-[[The Garden/LCOS Notes/Answers to Santa Maria Questions]]
+[[Private/LCOS Notes/Answers to Santa Maria Questions]]
 
 [[The Wilderness/Church Health Metrics (Other than Butts in Pews)]]
 
-[[The Garden/Learning and the Inner Life/Rhythms and Practices/Practices of Faith]]
+[[The Garden/Memory and Learning/Learning and the Inner Life/Rhythms and Practices/Practices of Faith]]
 
 [[The Wilderness/3333 Plan Structure]]
 

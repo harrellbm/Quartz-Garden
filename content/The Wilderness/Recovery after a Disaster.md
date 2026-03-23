@@ -11,4 +11,4 @@ Last Tended: 2025-06-04
 
 * * *
 
-![[The Garden/Images/Stages of Recovery from Disaster and Grief.png]]
+![[The Library/Images/Stages of Recovery from Disaster and Grief.png]]

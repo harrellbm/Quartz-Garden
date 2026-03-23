@@ -7,7 +7,6 @@ tags:
   - "#🌱Seed"
   - 😐Neutral
   - 🟡Consideration
-cssclasses: ""
 ---
 
 >[!Summary] The Big Idea
@@ -18,7 +17,7 @@ I have found two main schools so far that have had influence on the world and sp
 
 # Aristotelian Logic 
 [[Organon-Aristotle.pdf]]
-[[The Wilderness/Books/Logic Book]] by Peter Kreft
+[[The Library/Book Catalog and Notes/Logic Book]] by Peter Kreft
 
 # Ramist Logic 
 [The Logike of the Most Excellent Philosopher P. Ramvs](https://www.amazon.com/Logike-Excellent-Philosopher-Ramvs-Martyr/dp/1015149545)

@@ -16,6 +16,6 @@ In the instance of curriculum so often the packaging is either unusable within a
 
 Not only that but packaging immediately lends itself to the temptation to make money or market it like any other product off the internet. This approach quickly leaves the realm of sharing good ideas and practices in good faith to being just one more get rich quick scheme or fame booster. 
 
-The counter balance to this would be: [[The Garden/Bible Study and Theology/Collaborative Distribution]].
+The counter balance to this would be: [[The Wilderness/Collaborative Distribution]].
 
 ****

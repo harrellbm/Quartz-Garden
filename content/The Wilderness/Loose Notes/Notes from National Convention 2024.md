@@ -15,7 +15,7 @@ edited_seconds: 4
 Related notes: 
 - [[The Wilderness/Seven Practices of Healthy Youth Ministry]]
 - [[The Wilderness/Loose Notes/Notes on Fundraising, Travel, Risk Management and Logistics]]
-- [[The Garden/Learning and the Inner Life/Rhythms and Practices/Scaffolding Dance as Parents]]
+- [[The Garden/Memory and Learning/Learning and the Inner Life/Rhythms and Practices/Scaffolding Dance as Parents]]
 - [[The Wilderness/Supportive Adults]]
 - [[The Wilderness/Loose Notes/Notes from Partnering with Parents]]
 - [[Notes from The communal shape of the Christian Life ]]
@@ -177,7 +177,7 @@ Church workers can think of themselves as a matchmaker putting youth and [[The W
 
 This is a way to think about how to build community in an intentional way that encourages real community that is not just based on the work of a pastor or youth worker 
 
-Bonhoeffer - [[The Garden/LCOS Notes/Rhythms and Patterns/Life Together]] - 
+Bonhoeffer - [[Life Together]] - 
 A day spent together is praying, reading Scripture, singing, and table fellowship all done together 
 Types of Table fellowship 
 - daily meals 
@@ -210,7 +210,7 @@ Different ways to respond:
 3. Run with the world in conformity. Younger people are more tempted to run with the world in conformity. 
 4. Pursue Hospitality. Rom 12:1-2, do not be conformed to the world. Rom 12:9-18 what it looks like to live as a Christian in love. Paul talks about how to live as church but also how to respond to the world outside. This is a great section on rhythms. 
 
-What is [[The Garden/LCOS Notes/Rhythms and Patterns/Hospitality]]. The Greek word is a combination of two words.
+What is [[Hospitality]]. The Greek word is a combination of two words.
 Philo - love 
 Xenia- strange. 
 Which means love of those who are strange. That is what hospitality is it’s messy and hard. 

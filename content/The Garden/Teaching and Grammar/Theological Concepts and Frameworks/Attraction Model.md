@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:51.233-08:00
 modified: 2026-03-05T08:43:14.726-08:00
 published: 2026-03-05T08:43:14.726-08:00
-cssclasses: ""
 ---
 
 #🌱Seed  #🤢Strongly-Disagree #🟢Conviction   #🔥Doctrine-Poetry-Story 

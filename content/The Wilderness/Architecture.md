@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:51.171-08:00
 modified: 2026-02-24T11:52:50.175-08:00
 published: 2026-02-24T11:52:50.175-08:00
-cssclasses: ""
 ---
 
 #🌱Seed  #🙂Agree   #🛠️BringingLifeintotheWorld 
@@ -13,10 +12,10 @@ cssclasses: ""
 > [!summary] The Big Idea
 > The places and space we inhabit matter. They shape the kind of life and community we can most easily have and participate in. The way we build, design and maintain the spaces we are responsible for is a vital part of our call to a Christian life in ways we often tend to overlook. 
 
-Related idea: [[The Garden/Liturgy and Sacred Space/Pedagogy of Space]]
+Related idea: [[The Garden/Doctrine and Logic/Liturgy and Sacred Space/Pedagogy of Space]]
 
 Influential perspective toward this understanding: 
-[[The Garden/Cosmology and Anthropology/Christopher Alexander (Architect, Author)]]
+[[The Garden/Doctrine and Logic/Cosmology or What is this Place/Christopher Alexander (Architect, Author)]]
 
 * * *
 

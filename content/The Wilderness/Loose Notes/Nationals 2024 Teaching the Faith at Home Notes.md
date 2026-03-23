@@ -31,9 +31,9 @@ Characteristics of parents who pass on their faith
 
 Best approach 
 1. Focus on family as a unit more than age groups. How do you help cohorts of families through as a whole rather than just a single kid or group of kids. How can the church come along side of these families as they grow and mature.
-2. Take a long view in [[The Garden/Teaching and the Grammar of Faith/Faith Formation]]. Not just a short time horizon. How do you help kids and families learn how to learn and be curious about their faith and find answers together. The conversation needs to keep happening so that growth happens over time and not just being forced to agree with something.
+2. Take a long view in [[The Wilderness/Faith Formation]]. Not just a short time horizon. How do you help kids and families learn how to learn and be curious about their faith and find answers together. The conversation needs to keep happening so that growth happens over time and not just being forced to agree with something.
 
-Book: Soul Searching Christian Smith source of [[The Garden/Bible Study and Theology/Moralistic Therapeutic Deism]]
+Book: Soul Searching Christian Smith source of [[The Garden/Teaching and Grammar/Theological Concepts and Frameworks/Moralistic Therapeutic Deism]]
 
 Children are primarily shaped by the faith they see their parents live out. 
 

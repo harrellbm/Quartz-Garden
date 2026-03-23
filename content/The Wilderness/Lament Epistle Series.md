@@ -41,7 +41,7 @@ After all, it is hard to approach a book that starts with the opening lines:
 
 What do you do with that? How do you make sense of such negative and depressing words? Why are they in the Bible in the first place?
 
-The lament is more than a singular book of the Bible. It is one of the most firmly founded and identifiable genres used throughout the pages of Scripture. Much like narrative [[The Garden/Learning and the Inner Life/Rhetoric and Expression/Storytelling]] is used to tell and retell the story of God reaching into human history.  The lament peels back the facade of plastic living to look at the heart of things. It is in lament that the difficult and unanswerable questions of life are not stuffed down and ignored but brought to the light. 
+The lament is more than a singular book of the Bible. It is one of the most firmly founded and identifiable genres used throughout the pages of Scripture. Much like narrative [[The Garden/Story and Its Telling/Storytelling]] is used to tell and retell the story of God reaching into human history.  The lament peels back the facade of plastic living to look at the heart of things. It is in lament that the difficult and unanswerable questions of life are not stuffed down and ignored but brought to the light. 
 
 Calling to God in lament is a powerful tool given to us by God himself. We find laments all throughout the Psalms and most especially in Lamentations.  God is not capricious, He does not delight in despair or destruction. He does not even willingly bring harm to anyone. But Life is not clean, there is death and destruction in the world.  The lament takes that seriously and does not dismiss the reality of pain and the question of God’s inaction.  The lament is the tool given to us to not simply address tragedy and pain but to actually process it.  
 
@@ -162,7 +162,7 @@ God is a God of history and promise.  He has rescued our forefathers in the pas
 # Without a Leg to Stand On 
 (Used in OS #📃Epistle September  2022)
 
-As life begins to pick up for our teachers and students, I pray that every family finds peace and joy in this new Fall season! It is amazing to see how our [[The Garden/LCOS Notes/Rhythms and Patterns/Life Together]] here at Our Saviors continues to grow under the continued provision of the Holy Spirit. We continue our discussion around the practice of lament by taking a look into the sobering reality of where we stand before God. 
+As life begins to pick up for our teachers and students, I pray that every family finds peace and joy in this new Fall season! It is amazing to see how our [[Life Together]] here at Our Saviors continues to grow under the continued provision of the Holy Spirit. We continue our discussion around the practice of lament by taking a look into the sobering reality of where we stand before God. 
 
  "But I am a worm and not a man, scorned by mankind and despised by the people. All who see me mock me; they make mouths at me; they wag their heads; 'He trusts in the Lord; let him deliver him; let him rescue him, for he delights in him!' Yet you are he who took me from the womb; you made me trust you at my mother's breasts. On you was I cast from my birth, and from my mother's womb you have been my God."
 

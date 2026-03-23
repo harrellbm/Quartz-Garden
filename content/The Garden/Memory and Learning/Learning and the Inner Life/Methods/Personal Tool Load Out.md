@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:53.864-08:00
 modified: 2026-03-04T13:35:07.897-08:00
 published: 2026-03-04T13:35:07.908-08:00
-cssclasses: ""
 ---
 
 #🌱Seed  #🙂Agree  #🛠️BringingLifeintotheWorld 
@@ -16,7 +15,7 @@ cssclasses: ""
 * * *
 [[The Garden/Memory and Learning/Learning and the Inner Life/Methods/Obsidian Note-taking]]
 [[The Garden/Memory and Learning/Learning and the Inner Life/Methods/Note-Taking Methods]]
-[[The Wilderness/The Organization of My Digital Garden]]
+[[The Garden/Projects/The Organization of My Digital Garden]]
 - Obsidian for notes management, books I want to read and notes on books I have read
 - Then I host my notes as a digital garden using Quartz and Github
 - Typst for formal typesetting of content once complete 

@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:51.213-08:00
 modified: 2026-02-02T13:04:17.394-08:00
 published: 2026-02-02T13:04:17.394-08:00
-cssclasses: ""
 ---
 
 #🌱Seed   #😟Disagree   #🔴Uncertain   #🏖️Universe-Humans 

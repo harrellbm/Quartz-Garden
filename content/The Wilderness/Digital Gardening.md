@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:52.220-08:00
 modified: 2025-07-03T12:01:00.185-07:00
 published: 2026-03-04T13:27:25.472-08:00
-cssclasses: ""
 ---
 
 #🌿Sapling   #😁Strongly-Agree  #🟢Conviction  #🛠️BringingLifeintotheWorld 
@@ -23,7 +22,7 @@ The basic method of gardening I have found and desire to develop as a practice f
 1. Things are stored in flat simple text files using markdown format. 
 	- There are many alternatives but I have chosen to do this in Obsidian. 
 2. Individual notes will start with a set of metadata to help me and other readers understand the notes context. 
-	- You can find the set of metadata that I have developed here: [[The Wilderness/The Organization of My Digital Garden]]
+	- You can find the set of metadata that I have developed here: [[The Garden/Projects/The Organization of My Digital Garden]]
 3. Notes are networked together to create paths and clusters using internal links between notes.
 	- You can click on them just like any normal internet link and follow a line or group of thoughts. 
 This approach squares nicely with my personal experience of note taking and trying to stay organized. If I try to impose structure on ideas right off the bat it crushes my ability to really explore and think things through. But allowing notes to grow over time helps me move out of the grind and into a more sustainable and honest approach to learning.   
@@ -88,7 +87,7 @@ The three main tools I have started using for creating and tending my garden are
 * * *
 [[The Garden/Memory and Learning/Learning and the Inner Life/Methods/Obsidian Note-taking]]
 [[The Garden/Memory and Learning/Learning and the Inner Life/Methods/Note-Taking Methods]]
-[[The Wilderness/The Organization of My Digital Garden]]
+[[The Garden/Projects/The Organization of My Digital Garden]]
 - Obsidian for notes management, books I want to read and notes on books I have read
 - Then I host my notes as a digital garden using Quartz and Github
 - Typst for formal typesetting of content once complete 

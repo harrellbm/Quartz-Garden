@@ -7,7 +7,6 @@ tags:
   - "#🌱Seed"
   - 🟡Consideration
   - 🙂Agree
-cssclasses: ""
 ---
 
 >[!Summary] The Big Idea

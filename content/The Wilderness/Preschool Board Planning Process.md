@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:53.607-08:00
 modified: 2025-08-26T13:12:01.451-07:00
 published: 2026-03-04T14:42:39.620-08:00
-cssclasses: ""
 ---
 
 #🌱Seed  #😐Neutral  #🟡Consideration

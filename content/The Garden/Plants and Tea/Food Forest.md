@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:52.512-08:00
 modified: 2025-07-31T09:34:13.928-07:00
 published: 2026-03-09T14:16:54.788-07:00
-cssclasses: ""
 ---
 
 #🌱Seed   #😐Neutral   #🟡Consideration   #🛠️BringingLifeintotheWorld 
@@ -73,5 +72,5 @@ https://transformativeadventures.org/2021/03/30/on-guild-matrixes-and-allstar-pl
 Nitrogen fixing roots. [https://www.laspilitas.com/advanced/nitrogen-fixing-roots.html](https://www.laspilitas.com/advanced/nitrogen-fixing-roots.html)
 
 # Planting Guides 
-![[The Library/Plants and Gardening/garden_plan-part_sun.pdf]]
-![[The Library/Plants and Gardening/planting_guide-slo_chapter-web.pdf]]![[The Library/Plants and Gardening/garden_plan-acterra_lawn_replacement.pdf]]![[The Library/Plants and Gardening/garden_plan-parking_strip.pdf]]
+![[The Library/Ebooks and Articles/Plants and Gardening/garden_plan-part_sun.pdf]]
+![[The Library/Ebooks and Articles/Plants and Gardening/planting_guide-slo_chapter-web.pdf]]![[The Library/Ebooks and Articles/Plants and Gardening/garden_plan-acterra_lawn_replacement.pdf]]![[The Library/Ebooks and Articles/Plants and Gardening/garden_plan-parking_strip.pdf]]

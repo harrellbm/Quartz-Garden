@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:51.952-08:00
 modified: 2026-02-24T11:51:55.188-08:00
 published: 2026-02-24T11:51:55.188-08:00
-cssclasses: ""
 ---
 
 #🌱Seed   #😐Neutral   #🟡Consideration   #📓Journal  #📘BookNotes 
@@ -34,7 +33,7 @@ Start where you are at not where you want to be
 
 Away notice on day off 
 
-Worship slide need to harmonize with the church’s worship [[The Garden/Liturgy and Sacred Space/Aesthetic]] 
+Worship slide need to harmonize with the church’s worship [[The Garden/Doctrine and Logic/Liturgy and Sacred Space/Aesthetic]] 
 
 Worship slides Must respects the balance between function and aesthetic 
 
@@ -48,4 +47,4 @@ Less words on the screen with a slow song and more with a fast song
 
 You are present the words forward to the congregation to participate 
 
-Further notes have been moved to: [[The Garden/Learning and the Inner Life/Spiritual Disciplines]]
+Further notes have been moved to: [[The Garden/Memory and Learning/Learning and the Inner Life/Spiritual Disciplines]]

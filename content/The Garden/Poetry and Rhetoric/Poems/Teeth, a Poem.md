@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:57.252-08:00
 modified: 2026-02-26T09:45:00.590-08:00
 published: 2026-02-26T09:45:00.590-08:00
-cssclasses: ""
 ---
 
 #🌿Sapling   #✒️Poem  #🔥Doctrine-Poetry-Story 

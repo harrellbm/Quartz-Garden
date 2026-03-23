@@ -8,7 +8,6 @@ tags:
   - 🙂Agree
   - 🟡Consideration
   - "#📚Definition"
-cssclasses: ""
 ---
 
 

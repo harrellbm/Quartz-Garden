@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:58.232-08:00
 modified: 2026-02-02T09:40:22.097-08:00
 published: 2026-02-02T09:40:22.097-08:00
-cssclasses: ""
 ---
 
 #🌱Seed  #🙂Agree #✒️Poem #🔥Doctrine-Poetry-Story 

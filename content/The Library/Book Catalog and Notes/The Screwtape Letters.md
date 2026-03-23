@@ -6,7 +6,6 @@ modified: 2025-10-15T14:56:06.074-07:00
 published: "1945"
 tags:
   - 📕Book
-cssclasses: ""
 ---
 
 ![[The Library/Images/screwtape-quote.png]]

@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:57.575-08:00
 modified: 2026-02-02T11:11:25.234-08:00
 published: 2026-02-02T11:11:25.234-08:00
-cssclasses: ""
 ---
 
 #🪴Sprout  #😐Neutral  #🟡Consideration  #🥾SpiritualPractices-EmbodiedLiving 

@@ -14,12 +14,12 @@ edited_seconds: 89
 > I want to plant a tea garden. Tea has long been something that I enjoy and fascinates me. [[The Wilderness/Making Tea]]
 
 Similar Ideas:
-[[The Garden/LCOS Notes/LCOS Facility Pattern Language]]
+[[The Wilderness/LCOS Facility Pattern Language]]
 [[The Garden/Plants and Tea/Plant Care]]
 [[The Garden/Plants and Tea/Plants Around Church]]
 
 ****
-A potential Design Pattern for a similar kind of Garden:  [[The Garden/Plants and Tea/Wild Edible Garden Design Pattern]]
+A potential Design Pattern for a similar kind of Garden:  [[The Wilderness/Wild Edible Garden Design Pattern]]
 # Plant Databases
 - [Plants for a Future](https://pfaf.org/user/) - Plant uses and care 
 
@@ -105,7 +105,7 @@ While it might be possible to grow some Camellia sinensis in Orcutt, it's import
 This list consolidates potential plants for a tea garden, suitable for a Mediterranean climate like the California Central Coast. 
 ## Anise Hyssop 
 Name: Agastache foeniculum - (Pursh.)Kuntze.
-![[The Garden/Images/Pasted image 20250403144806.jpg]]
+![[The Library/Images/Pasted image 20250403144806.jpg]]
 **Description:** Native to the mint family, anise hyssop has a licorice-like flavor.
 **Growing Conditions:** Prefers full sun to partial shade and well-drained soil. Drought-tolerant once established.
 **Tea Usage:** The leaves and flowers can be used fresh or dried for a sweet, licorice-flavored tea. Known for its digestive benefits.
@@ -124,11 +124,11 @@ Name: Ocimum tenuiflorum
 ## Bergamot / Bee Balm
 ### Bergamot, Scarlet beebalm, Horsemint, Oswego Tea, Bee Balm
 Name: Monarda didyma
-![[The Garden/Images/Pasted image 20250403135742.png]]
+![[The Library/Images/Pasted image 20250403135742.png]]
 **Description:** Vibrant red flowers that attract pollinators. **Growing Conditions:** Prefers moist, rich soil and partial shade, though can tolerate full sun with adequate moisture. **Tea Usage:** Leaves and flowers make a tea with a strong citrus-mint flavor, similar to Earl Grey tea.
 ### Wild Bergamot, Mintleaf bergamot, Wild Bee-Balm, Lupine
 Name: Monarda fistulosa
-![[The Garden/Images/Pasted image 20250403140050.png]]
+![[The Library/Images/Pasted image 20250403140050.png]]
 **Description:** Aromatic leaves and flower heads can be used to make a refreshing, slightly bitter mint-flavored tea. **Growing Conditions:** More drought-tolerant than M. didyma, preferring drier, well-drained soils and full sun to partial shade. **Tea Usage:** Indigenous peoples of California traditionally used it to treat stomach upset, respiratory problems, and sore throats.
 ## Blue Elderberry 
 Name: Sambucus cerulea (Flowers only):
@@ -153,7 +153,7 @@ Name: Nepeta cataria
 **Description:** Perennial herb in the mint family with gray-green leaves and white flowers. **Growing Conditions:** Thrives in full sun to partial shade and well-drained soil, drought-tolerant once established. **Tea Usage:** The leaves make a relaxing, minty tea traditionally used to promote sleep and calm the nervous system.
 ## Chamomile 
 Name: _Matricaria recutita_ or _Chamaemelum nobile_
-![[The Garden/Images/Pasted image 20250403134536.png]]
+![[The Library/Images/Pasted image 20250403134536.png]]
 **Description:** A classic choice for a calming and relaxing tea. 
 * **Matricaria chamomilla (German Chamomile)** is generally preferred for its more prolific blooms and sweet, floral taste.  It is an annual with finely divided leaves.
 * **Chamaemelum nobile (Roman Chamomile)** is known for its milder, slightly earthy flavor and is often used in essential oils and as a groundcover. It is a perennial groundcover.  
@@ -178,11 +178,11 @@ Name: _Lavandula angustifolia_ and other hardy species
 English lavender, with its fragrant flowers, makes a calming and aromatic tea
 ## Lemon Balm 
 Name: Melissa officinalis - L.
-![[The Garden/Images/Pasted image 20250403144849.jpg]]
+![[The Library/Images/Pasted image 20250403144849.jpg]]
 **Description:** This herb offers a gentle lemony flavor for tea. It is a vigorous grower, so consider planting it in a container. **Growing Conditions:** Adaptable to various soil types, prefers partial shade in hot climates and consistent moisture. **Tea Usage:** Leaves can be used fresh or dried for a lemony tea with calming properties.
 ## Lemon Verbena, Lemon beebrush 
 Name: _Aloysia citrodora_ or Aloysia triphylla - Palau
-![[The Garden/Images/Pasted image 20250403145142.jpg]]
+![[The Library/Images/Pasted image 20250403145142.jpg]]
 **Description:** This plant offers a wonderfully bright and lemony flavor perfect for a refreshing tea. **Growing Conditions:** It loves full sun and well-drained soil and is quite drought-tolerant once established, making it ideal for the California climate. **Tea Usage:** Harvest the leaves throughout the growing season for a refreshing, strongly lemon-flavored tea.
 ## Lemongrass 
 Name: Cymbopogon citratus
@@ -198,11 +198,11 @@ Name: Rhus integrifolia and Sugar bush (Rhus ovata):
  Traditional Mint varieties 
 #### Corsican Mint
 Mentha requienii - Benth.
-![[The Garden/Images/Pasted image 20250403143026.png]]
+![[The Library/Images/Pasted image 20250403143026.png]]
 **Description:** Tiny ground-covering mint with miniature leaves. **Growing Conditions:** Prefers partial shade and consistently moist soil. **Tea Usage:** Makes a delicate, sweet mint tea.
 #### Round-Leaved Mint, Apple mint, Pineapple Mint
 Name: Mentha suaveolens - Ehrh.
-![[The Garden/Images/Pasted image 20250403143340.png]]
+![[The Library/Images/Pasted image 20250403143340.png]]
 **Description:**
 Mentha suaveolens is a rhizomatous perennial herb typically growing to a height of 1 to 3 feet (30-90 cm) with a similar spread. Its most distinctive feature is its broadly oval to nearly round leaves, which are softly hairy or woolly to the touch. The leaves are light green and have serrated edges. The stems are upright and can also be covered in fine hairs. In late summer and early autumn, the plant produces dense, terminal spikes of small flowers that range in color from white to pale pink or lilac. The plant emits a sweet, fruity fragrance, often described as apple-like, which is particularly noticeable when the leaves are bruised.
 The cultivar 'Pineapple Mint' (Mentha suaveolens 'Variegata') is a popular variety known for its striking variegated foliage. Its leaves are typically green with irregular creamy-white margins or splashes, adding visual interest to the garden. The scent of Pineapple Mint is often described as a blend of mint with a subtle hint of pineapple.
@@ -223,19 +223,19 @@ Round-Leaved Mint, Apple Mint, and Pineapple Mint are all excellent choices for 
 
 #### Spearmint
 Name: Mentha spicata - L.
-![[The Garden/Images/Pasted image 20250403143523.png]]
+![[The Library/Images/Pasted image 20250403143523.png]]
 **Description:** Common garden mint with pointed leaves and a sweet flavor. **Growing Conditions:** Adaptable, prefers partial shade and consistent moisture. **Tea Usage:** The standard mint for tea, offering a sweet, cooling flavor.
 ##### Moroccan Mint 
 Name: Mentha spicata var.
 **Description:** A variety of spearmint with a sweet, fresh flavor. **Growing Conditions:** Similar to spearmint, thrives with partial shade and regular water. **Tea Usage:** Commonly mixed with green tea or other herbs for traditional North African tea blends.
 #### Peppermint
 Name: _Mentha piperita_
-![[The Garden/Images/Pasted image 20250403143825.png]]
+![[The Library/Images/Pasted image 20250403143825.png]]
 **Description:** Hybrid mint with a strong, cooling flavor. **Growing Conditions:** Likes partial shade and consistent moisture. **Tea Usage:** Makes a stronger, more medicinal tea than spearmint, good for digestive issues.
 
 #### Corn Mint, Wild mint, Field mint
 Name: Mentha arvensis
-![[The Garden/Images/Pasted image 20250403150157.jpg]]
+![[The Library/Images/Pasted image 20250403150157.jpg]]
 **Description:** Low-growing native mint species. **Growing Conditions:** More adaptable to varying conditions than other mints. **Tea Usage:** Makes a milder mint tea with traditional medicinal uses.
 
 #### Chocolate Mint
@@ -272,7 +272,7 @@ Name: Monardella breweri
 ### Agastache Species
 #### Korean Mint 
 Name: Agastache rugosa
-![[The Garden/Images/Pasted image 20250403140450.png]]
+![[The Library/Images/Pasted image 20250403140450.png]]
 **Description:** Perennial herb with anise-scented leaves and lavender flower spikes. **Growing Conditions:** Prefers full sun and well-drained soil, drought-tolerant once established. **Tea Usage:** Makes an aromatic tea with digestive benefits.
 #### Horse Mint and Licorice Mint.
 Name: Agastache urticifolia
@@ -297,15 +297,15 @@ Name: _Salvia rosmarinus_, formerly _Rosmarinus officinalis_
 **Tea Usage:** Common sage makes a slightly peppery and earthy tea that is often used for its potential medicinal properties. You can use fresh or dried leaves.
 ### Sage, Kitchen sage, Small Leaf Sage, Garden Sage
 Name: Salvia officinalis - L.
-![[The Garden/Images/Pasted image 20250403151112.jpg]]
+![[The Library/Images/Pasted image 20250403151112.jpg]]
 **Description:** Normal species that we associate with sage. **Growing Conditions:** Mediterranean native that prefers full sun and well-drained soil. **Tea Usage:** The aromatic leaves make a savory tea traditionally used for sore throats and digestive issues.
 ### Black sage 
 Name: Salvia mellifera
-![[The Garden/Images/Pasted image 20250403144952.png]]
+![[The Library/Images/Pasted image 20250403144952.png]]
 **Description:** Native California shrub with dark green leaves. **Growing Conditions:** Drought-tolerant, prefers full sun and well-drained soil. **Tea Usage:** Black sage tea has a nice flavor and aroma and is generally safe for regular consumption in moderate amounts.
 ### Blue Sage, Fragrant sage, Chaparral Sage
 Name: Salvia clevelandii - (A.Gray.)Greene.
-![[The Garden/Images/Pasted image 20250403150926.jpg]]
+![[The Library/Images/Pasted image 20250403150926.jpg]]
 **Description:** Native California shrub with intensely aromatic gray-green leaves. **Growing Conditions:** Extremely drought-tolerant, prefers full sun and well-drained soil. **Tea Usage:** The leaves have a pleasant flavor and fragrance, they are a good substitute for sage in cooking and can be used for tea.
 
 ### Hummingbird sage
@@ -325,7 +325,7 @@ Name: Salvia elegans
 **Description:** Tender perennial with bright red flowers and pineapple-scented leaves. **Growing Conditions:** Prefers full sun and moderate water, less drought-tolerant than native sages. **Tea Usage:** Sweet and fruity flavors with a hint of mint and spice. Used as tea to calm nerves and aid digestion. Favorite of hummingbirds.
 ### White Sage, Compact white sage
 Name: Salvia apiana - Jeps.
-![[The Garden/Images/Pasted image 20250403150744.jpg]]
+![[The Library/Images/Pasted image 20250403150744.jpg]]
 **Description:** Native California shrub with silvery-white foliage. **Growing Conditions:** Extremely drought-tolerant, prefers full sun and excellent drainage. **Tea Usage:** White Sage leaves are used sparingly in cooking, especially in teas and herbal preparations.
 ## Sorrel 
 Name: Rumex acetosa
@@ -353,7 +353,7 @@ Name: _Clinopodium douglasii_ (syn. _Satureja douglasii_)
 Yerba buena may be the finest tea herb that California has to offer. An intoxicatingly fresh lemon scent invigorates and soothes at once. Creeping and scrambling, its stems root where they touch, creating extensive colonies in time. Small white flowers from spring to summer are visited by bees and even draw hummingbirds to ground level. It is an excellent kitchen herb and ground cover under potted plants or among larger perennials. Yerba buena loves regular water but can take long dry periods, especially when planted in shade. It survives short frosts, occurring as far north as Vancouver, Washington. Is traditionally used for tea. 
 ## Yerba Santa 
 Name: Eriodictyon californicum
-![[The Garden/Images/EriodictyonCalifornicum.gif]]
+![[The Library/Images/EriodictyonCalifornicum.gif]]
 **Description:** California yerba santa is an evergreen shrub in the Borage family that grows in central and northern California and parts of Oregon. The plant's long, narrow leaves, which can grow up to six inches, are coated in a sticky resin and often dusted with black fungi. In late spring to summer, it produces clusters of small, bell-shaped flowers that range from white to light purple. 
 **Growing Conditions:** Commonly found in chaparral, woodlands, and forested areas, thriving in dry, rocky soils. This hardy plant spreads by underground rhizomes, often forming dense thickets that compete with nearby vegetation. It can be aggressive in the garden, so care should be taken to manage its spread. 
 **Tea Usage:** With its fragrant and somewhat sweet flavor, Yerba Santa tea can be enjoyed regularly by many. Traditionally valued for its medicinal uses by Indigenous peoples, including as a remedy for respiratory issues and skin conditions.

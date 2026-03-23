@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:51.810-08:00
 modified: 2026-02-02T11:03:08.095-08:00
 published: 2026-02-02T11:03:08.100-08:00
-cssclasses: ""
 ---
 
 #🪴Sprout    #😁Strongly-Agree    #🟢Conviction   #🥾SpiritualPractices-EmbodiedLiving 

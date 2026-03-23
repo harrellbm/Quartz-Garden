@@ -64,4 +64,4 @@ and its leaf does not wither. In all that he does, he prospers.
 5 Therefore the wicked will not stand in the judgment, nor sinners in the congregation of the righteous;
 6 for the Lord knows the way of the righteous, but the way of the wicked will perish.
 
-“Jesus answered, “The most important is, ‘Hear, O Israel: The Lord our God, the Lord is one. And you shall [[The Garden/Bible Study and Theology/Love the Lord Your God with all Your Heart]] and with all your soul and with all your mind and with all your strength.’ The second is this: ‘You shall love your neighbor as yourself.’ There is no other commandment greater than these.” - Mark 12:29-31
+“Jesus answered, “The most important is, ‘Hear, O Israel: The Lord our God, the Lord is one. And you shall [[The Garden/Doctrine and Logic/Anthropology or Being Human/Love the Lord Your God with all Your Heart]] and with all your soul and with all your mind and with all your strength.’ The second is this: ‘You shall love your neighbor as yourself.’ There is no other commandment greater than these.” - Mark 12:29-31

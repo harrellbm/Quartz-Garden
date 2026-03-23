@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:53.928-08:00
 modified: 2026-02-02T10:50:22.727-08:00
 published: 2026-02-02T10:50:22.727-08:00
-cssclasses: ""
 ---
 
 #🌲Evergreen   #😐Neutral   #📓Journal  #🛠️BringingLifeintotheWorld 

@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:57.923-08:00
 modified: 2025-09-29T10:22:58.239-07:00
 published: 2026-03-04T14:33:04.673-08:00
-cssclasses: ""
 ---
 
 #🌱Seed   #😁Strongly-Agree   #🟢Conviction   #🏖️Universe-Humans 
@@ -45,4 +44,4 @@ The goal of this realm is to point everyone toward Jesus and His final rule and 
 Biermann Systems Lecture: [Systematics IV Class 15](https://scholar.csl.edu/systematictheo4/15/)
 
 Break down of how the Two Kingdoms shows up in Luther's writing
-![[The Library/Luther/Luthers Doctrine of the Two Kingdoms in the Context of His Theol.pdf]]
+![[The Library/Ebooks and Articles/Luther/Luthers Doctrine of the Two Kingdoms in the Context of His Theol.pdf]]

@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:57.554-08:00
 modified: 2026-03-05T09:05:27.553-08:00
 published: 2026-03-05T09:05:27.560-08:00
-cssclasses: ""
 ---
 
 #🌱Seed  #🙂Agree   #🟢Conviction  #🏖️Universe-Humans 
@@ -29,4 +28,4 @@ This leads to what we are talking about as "tail knowledge." That is stuff that 
 I think the start to an answer to this question might be held here:
 [[The Wilderness/The Purpose of a Church Library]]
 
-![[The Library/Technology and Tools/Peterson - 2024 - AI and the Problem of Knowledge Collapse.pdf]]
+![[The Library/Ebooks and Articles/Technology and Tools/Peterson - 2024 - AI and the Problem of Knowledge Collapse.pdf]]

@@ -7,7 +7,6 @@ tags:
   - "#🌱Seed"
   - 😐Neutral
   - 🟡Consideration
-cssclasses: ""
 ---
 
 >[!Summary] The Big Idea
@@ -15,4 +14,4 @@ cssclasses: ""
 
 Source link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870623
 ****
-![[The Library/Technology and Tools/How AI Destroys Institutions.pdf]]
+![[The Library/Ebooks and Articles/Technology and Tools/How AI Destroys Institutions.pdf]]

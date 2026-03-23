@@ -1,13 +1,14 @@
 ---
 publish: true
-aliases: Home Base Camp
+aliases:
+  - Home
+  - Base Camp
 title: Base Camp 🏕️
 created: 2025-12-22T09:38:53.080-08:00
 modified: 2026-03-09T15:26:01.869-07:00
 published: 2026-03-11T14:46:35.231-07:00
 tags:
   - 🌲Evergreen
-cssclasses: ""
 ---
 
 Hello!
@@ -43,6 +44,7 @@ Here are some basic suggestions for using this garden:
 - Or you can look at my [[Wonder List]] a collection of things that I am thinking about. 
 - If you run into a 404 page it means I haven't made that note yet or haven't uploaded it. If it is interesting to you reach out to me and start a conversation about it.  
 # Notes I have Worked in Recently 
+- [[The Library/Book Catalog and Notes/A Manuel on the Book of Psalms\|A Manuel on the Book of Psalms]]
 - [[The Library/Book Catalog and Notes/The Screwtape Letters\|The Screwtape Letters]]
 - [[The Library/Book Catalog and Notes/A Case for Character towards a Lutheran Virtue Ethics\|A Case for Character towards a Lutheran Virtue Ethics]]
 - [[The Library/Book Catalog and Notes/All That Is Made\|All That Is Made]]

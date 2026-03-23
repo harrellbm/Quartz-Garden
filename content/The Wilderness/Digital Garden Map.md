@@ -497,7 +497,7 @@ The best algorithm depends on the specific characteristics of your digital garde
 
 - **Number of Notes:** For large numbers of notes, grid-based or random layouts might be more efficient.
 - **Relationship Complexity:** For complex, interconnected notes, force-directed layout or hierarchical layout can be more effective.
-- **Desired Visual Style:** Consider the desired [[The Garden/Liturgy and Sacred Space/Aesthetic]] and the level of detail you want to convey.
+- **Desired Visual Style:** Consider the desired [[The Garden/Doctrine and Logic/Liturgy and Sacred Space/Aesthetic]] and the level of detail you want to convey.
 
 **Implementation Tips:**
 

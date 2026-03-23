@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:56.787-08:00
 modified: 2026-01-12T12:37:14.141-08:00
 published: 2026-01-12T12:37:14.152-08:00
-cssclasses: ""
 ---
 
 #🌱Seed   #🙂Agree    #🟡Consideration  #🏖️Universe-Humans 

@@ -9,7 +9,6 @@ tags:
   - 🟡Consideration
   - 📝Essay
   - 🏖️Universe-Humans
-cssclasses: ""
 ---
 
 > [!quote] Scripture Focus

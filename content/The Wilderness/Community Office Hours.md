@@ -10,6 +10,6 @@ Last Tended: 2025-06-04
 
 The idea is to be out in the community around people I wouldn’t run into otherwise 
 
-[[The Garden/Living Together/Inhabiting Shared Space]] in order to get to know people as people opening a relationship that lets them see your life and you see their’s 
+[[The Garden/Doctrine and Logic/Living Together and Community/Inhabiting Shared Space]] in order to get to know people as people opening a relationship that lets them see your life and you see their’s 
 
 ****

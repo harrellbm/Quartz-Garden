@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:51.004-08:00
 modified: 2026-01-27T14:27:24.574-08:00
 published: 2026-01-27T14:27:24.583-08:00
-cssclasses: ""
 ---
 
 #🪴Sprout   #🙂Agree  #📓Journal    #📊Project  #🛠️BringingLifeintotheWorld 
@@ -26,7 +25,7 @@ Related Notes:
 [[The Garden/Plants and Tea/A Tea Garden]]
 [[The Garden/Plants and Tea/Plant Care]]
 [[The Garden/Plants and Tea/Plants Around Church]]
-[[The Garden/LCOS Notes/LCOS Facility Pattern Language]]
+[[The Wilderness/LCOS Facility Pattern Language]]
 ****
 
 # 1-27-26
@@ -81,7 +80,7 @@ So have cleared out a lot of the new yard of old overgrown bushes and what not. 
 
 I also want to go and see what kind of herbs I can find to plant around the yard too. A nice lavender or two would be amazing as well as starting to get the chamomile seeds from some of the flowers to spread and sprout. 
 # 7-28-25
-Guess what I have found a new thing to be all interested in lol. The Idea of a Food forest. Basically the idea that I am the most excited about is the idea of a guild which is a set of plants that all work together as a kind of mini ecosystem that support and sustain each other. This also is super close to the idea of [[The Garden/Cosmology and Anthropology/The Ways Centers Help Each Other Have More Life]] which I think is really cool. Below are a bunch of random resources I have started to collect around it.  That have been moved to [[The Garden/Plants and Tea/Food Forest]]
+Guess what I have found a new thing to be all interested in lol. The Idea of a Food forest. Basically the idea that I am the most excited about is the idea of a guild which is a set of plants that all work together as a kind of mini ecosystem that support and sustain each other. This also is super close to the idea of [[The Garden/Doctrine and Logic/Cosmology or What is this Place/The Ways Centers Help Each Other Have More Life]] which I think is really cool. Below are a bunch of random resources I have started to collect around it.  That have been moved to [[The Garden/Plants and Tea/Food Forest]]
 
 # 7-7-25  
 SO we are getting really close to closing on our house and it is really exciting to think about making the place our own. I have been thinking about the outside and have a few dreams.
@@ -93,7 +92,7 @@ SO we are getting really close to closing on our house and it is really exciting
 # 7-2-25
 I have this thing I do where I get really passionate about something and then kind of forget why. So this is an attempt to store some of those ideas, plans, crazy ideas and results of those crazy ideas when it comes to plants and working with the ground around me. 
 
-I have always been drawn to the idea of eating what you grow or being able to use things that came from your surroundings. But the over maintained and meticulous kind of gardening you usually associate with lots of vegetables or rose gardens, etc.  quickly becomes a drag for me. So the idea of pushing and pulling factors and little levers in the environment and then letting things grow on their own is the overall philosophy I am starting with in this log. A more full description of one picture of this kind of wild gardening can be found here: [[The Garden/Plants and Tea/Wild Edible Garden Design Pattern]]
+I have always been drawn to the idea of eating what you grow or being able to use things that came from your surroundings. But the over maintained and meticulous kind of gardening you usually associate with lots of vegetables or rose gardens, etc.  quickly becomes a drag for me. So the idea of pushing and pulling factors and little levers in the environment and then letting things grow on their own is the overall philosophy I am starting with in this log. A more full description of one picture of this kind of wild gardening can be found here: [[The Wilderness/Wild Edible Garden Design Pattern]]
 
 So where am I now. Since moving to Santa Maria California it has been really fun getting to know this very unique growing environment. Anywhere that has real winter has a very set kind of cycle for growing and tending things. Here that is not as tight a reality. Although I did find out with a fig and lemon tree in my office that they still need to colder temperatures of "winter" and babying them thorough it in my office ended up stunting them. So the seasons are important but in a very different and unique way that I am still trying to wrap my head around. 
 

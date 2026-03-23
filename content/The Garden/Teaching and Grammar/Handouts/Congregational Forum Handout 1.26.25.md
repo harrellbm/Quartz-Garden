@@ -5,7 +5,6 @@ modified: 2025-06-17T14:47:48.062-07:00
 published: 2026-02-26T09:40:17.150-08:00
 tags:
   - 📰Handout
-cssclasses: ""
 ---
 
 As we prepare to meet together for a congregational forum, I would like to lay out some key observations as they pertain to the direction and ethos of our [[Life Together]] as the Lutheran Church of Our Savior. 

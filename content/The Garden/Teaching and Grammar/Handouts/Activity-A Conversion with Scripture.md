@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:50.995-08:00
 modified: 2025-06-30T09:38:22.551-07:00
 published: 2026-02-02T13:00:04.716-08:00
-cssclasses: ""
 ---
 
 #🌱Seed  #🙂Agree   #🟢Conviction   #🥾SpiritualPractices-EmbodiedLiving 

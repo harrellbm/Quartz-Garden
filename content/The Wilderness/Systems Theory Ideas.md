@@ -8,7 +8,7 @@ Last Tended: 2025-01-22
 ****
 
 > [!Summary] The Big Idea 
-> Ideas coming out of thinking of organizations and groups using [[The Wilderness/Systems Theory]].
+> Ideas coming out of thinking of organizations and groups using [[The Garden/Doctrine and Logic/Cosmology or What is this Place/Concepts and Definitions/Systems Theory]].
 
 * * *
 

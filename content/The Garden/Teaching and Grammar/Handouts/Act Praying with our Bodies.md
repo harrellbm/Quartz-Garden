@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:52.635-08:00
 modified: 2026-02-02T13:02:00.317-08:00
 published: 2026-02-02T13:02:00.322-08:00
-cssclasses: ""
 ---
 
 #🌿Sapling    #🙂Agree    #🟢Conviction   #📰Handout  #🥾SpiritualPractices-EmbodiedLiving 

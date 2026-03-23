@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:50.811-08:00
 modified: 2026-02-26T09:45:54.712-08:00
 published: 2026-02-26T09:45:54.712-08:00
-cssclasses: ""
 ---
 
 #🍋Fruit   #✒️Poem  #🔥Doctrine-Poetry-Story 

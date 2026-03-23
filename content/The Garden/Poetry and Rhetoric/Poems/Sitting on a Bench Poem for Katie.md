@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-22T09:38:55.675-08:00
 modified: 2026-02-04T10:17:43.878-08:00
 published: 2026-02-04T10:17:43.878-08:00
-cssclasses: ""
 ---
 
 #✒️Poem 
