@@ -61,6 +61,7 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.TableOfContents(),
     Component.Backlinks(),
+    /*
     Component.Graph({
       localGraph: {
         drag: true, // whether to allow panning the view around
@@ -88,7 +89,7 @@ export const defaultContentPageLayout: PageLayout = {
         removeTags: [], // what tags to remove from the graph
         showTags: true, // whether to show tags in the graph
       },
-    }),
+    }),*/
   ],
 }
 
