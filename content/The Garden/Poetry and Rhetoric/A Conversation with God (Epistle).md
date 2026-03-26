@@ -1,18 +1,18 @@
 ---
 publish: true
-created: 2025-12-22T09:38:50.739-08:00
+created: 2024-10-22
 modified: 2026-03-05T08:59:48.340-08:00
 published: 2026-03-05T08:59:48.340-08:00
 ---
 
-#🌱Seed  #🙂Agree   #🥾SpiritualPractices-EmbodiedLiving 
+\#🌱Seed  #🙂Agree   #🥾SpiritualPractices-EmbodiedLiving
 
-****
+---
 
 > [!note]
-> Used as OS #📃Epistle in Series *Mediation on Scripture*, October 2021.
+> Used as OS #📃Epistle in Series _Mediation on Scripture_, October 2021.
 
-****
+---
 
 Life gets busy.  I often find myself forgetting to spend time reading and digesting Scripture.  All of us can find a thousand reasons why we don't have time, or don't know where to start, when it comes to slowing down and spending time in God's word. 
 

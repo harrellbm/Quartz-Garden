@@ -1,46 +1,51 @@
 ---
 publish: true
-created: 2025-12-22T09:38:50.936-08:00
+created: 2024-10-22
 modified: 2026-03-05T08:52:02.248-08:00
 published: 2026-03-05T08:52:02.343-08:00
 ---
 
-#🌱Seed  #😐Neutral 
-****
- 
->[!Summary] The Big Idea
->
+\#🌱Seed  #😐Neutral
 
-****
+---
+
+> [!Summary] The Big Idea
+
+---
 
 > [!NOTE]
-> Essay Imported from Josh Leborious 
+> Essay Imported from Josh Leborious
 
 # The Practical Theological Framework
+
 ## Introduction
+
 There are a variety of pastoral ministry resources that provide advice and guidelines for a
 diversity of ministry related topics. These resources are useful in providing answers for how to conduct worship, how to do evangelism, how to provide counseling, how to care for the dying, how to conduct a congregational meeting, and many other topics that might arise in ministry. However, no resource is able to address each specific aspect of ministry in a given context. Every ministry context is unique and requires an appropriate Godly approach. There are variables in ministry that can’t be anticipated while sitting in a seminary classroom or reading a pastoral theology textbook. Ministry is not simply organized
 into easily understood categories with easy answers. Ministry can be messy and complicated because we are serving people with unique personalities, behaviors, thoughts, and passions. And these people live in communities that have their own personalities, behaviors, thoughts, and passions. Yes, we proclaim Christ, and we bring Christ to bear upon every situation that we encounter. Yet how do we faithfully attend to matters in the congregation and community in a way that will give God glory and serve our neighbor?
 
-During medieval times, the approach to attending to matters of church and society was called scholasticism. Scholasticism was a pedagogical framework used primary in the university setting with a dialectical learning approach. The approach included the following steps: identify a question, make arguments for and against, refer to philosophers, provide possible answers that bring the various disciplines together and demonstrate they are really saying the same thing. [^1]
+During medieval times, the approach to attending to matters of church and society was called scholasticism. Scholasticism was a pedagogical framework used primary in the university setting with a dialectical learning approach. The approach included the following steps: identify a question, make arguments for and against, refer to philosophers, provide possible answers that bring the various disciplines together and demonstrate they are really saying the same thing. \[^1]
 
 Martin Luther was trained in scholasticism but rejected the approach in his 1517 Disputation Against Scholastic Theology. Luther was clear that scholasticism lacked the theological depth and relied too heavily upon philosophy for determining how we did theology. Luther stated in thesis 41 of his Disputation Against Scholastic Theology, “virtually the entire ethics of Aristotle is the worst enemy of grace. This in opposition to the
 scholastics.” And in thesis 44, “Indeed, no one can become a theologian unless he becomes one without Aristotle.” The scholastic way of doing theology provided a framework, but with a philosophical foundation that left little room for Christ.
 
 A more recent approach to attending to questions of the church and society was proposed by
-Richard Osmer and his four tasks of practical theology. The four tasks included 
-1. The Descriptive Empirical Task of Priestly Listening, 
-2. The Interpretive Task of Sagely Wisdom, 
+Richard Osmer and his four tasks of practical theology. The four tasks included
+
+1. The Descriptive Empirical Task of Priestly Listening,
+2. The Interpretive Task of Sagely Wisdom,
 3. The Normative task of Prophetic Discernment
-4. The Pragmatic task of Servant Leadership.[^2] 
- 
+4. The Pragmatic task of Servant Leadership.\[^2]
+
 However, the limitations of this approach have provided an opportunity to develop a Lutheran framework. The Practical Theological Framework will give us a Lutheran structure to address the unique needs of the particular context in which we serve. The four pillars of the framework are:
+
 - Attending to Self and the World
 - Interpreting First Article Wisdom
--  Discerning Theological Wisdom
+- Discerning Theological Wisdom
 - Implementing Godly Guidance and Leadership
 
 ## Attending to Self and World
+
 Attending is the ability to be aware of what is going on in a particular context. We pay attention to
 what we see, what we hear, what we smell, what we taste and what we touch. Initially, the goal is not to
 find meaning or understanding but simply to be aware of what is going on.
@@ -71,8 +76,8 @@ the prosecution. Knowing who they were consulting for caused them to be biased. 
 they were consulting for the prosecution were biased and gave higher risk scores to offenders. Those
 who believed they were consulting for the defense were biased and gave lower risk scores to offenders. 3
 
-3 Murrie, Daniel C., Marcus T. Boccaccini, Lucy A. Guarnera, and Katrina A. Rufino. &quot;Are forensic experts
-biased by the side that retained them?&quot; Psychological science 24, no. 10 (2013): 1889-1897.
+3 Murrie, Daniel C., Marcus T. Boccaccini, Lucy A. Guarnera, and Katrina A. Rufino. "Are forensic experts
+biased by the side that retained them?" Psychological science 24, no. 10 (2013): 1889-1897.
 
 I have a bias against squirrels because of my experience with them. That bias will impact how I
 think, speak and behave in relation to squirrels. Notice how I described the squirrels as irresponsible. I
@@ -142,10 +147,10 @@ Perspective taking encourages people to guess what the other person is thinking,
 experiencing. Perspective taking is not helpful because it encourages you to predict and does not really
 give you an accurate understanding of what is going on. “Accurately understanding other people requires
 getting perspective, not simply taking it. To understand the mind of another person, we need to rely on
-4 Cohen, Geoffrey L. &quot;Party over policy: The dominating impact of group influence on political
-beliefs.&quot; Journal of personality and social psychology 85, no. 5 (2003): 808.
-5 Galinsky, Adam D., and Gordon B. Moskowitz. &quot;Perspective-taking: decreasing stereotype expression,
-stereotype accessibility, and in-group favoritism.&quot; Journal of personality and social psychology 78, no. 4
+4 Cohen, Geoffrey L. "Party over policy: The dominating impact of group influence on political
+beliefs." Journal of personality and social psychology 85, no. 5 (2003): 808.
+5 Galinsky, Adam D., and Gordon B. Moskowitz. "Perspective-taking: decreasing stereotype expression,
+stereotype accessibility, and in-group favoritism." Journal of personality and social psychology 78, no. 4
 (2000): 708.
 
 our ears more than our intuition.” 6 In order to get perspective you need to listen to what others are saying,
@@ -170,7 +175,9 @@ Buddy got distracted by a rabbit. The ushers got distracted by the latest gossip
 As a child I would get distracted by watching people from the balcony. It is difficult to be fully attentive to
 things because of the various distractions that are around us. When we become distracted, we miss
 things and misunderstandings take place.
+
 ## Pastor Mike Hill
+
 This was the day that Mike Hill had looked forward to for many years. Now he was standing in
 the church fellowship hall surrounded by pastors from various local congregations. This was the day that
 Mike was going to be ordained and installed into the public ministry at Trinity Lutheran Church. The
@@ -293,7 +300,9 @@ been attending to. First Article wisdom will give us an understanding of how to 
 discovered and said among various professions that attend to things in creation that are not specifically
 described in scripture. Theological Wisdom will help us discern how scripture and the doctrines of the
 church speak into the situation.
+
 ## Interpreting First Article Wisdom 7 - Coram Mundo
+
 The second pillar in the practical theological framework is to explore what non theological
 disciplines have explained or understood about the identified topic. How do psychologist, economists,
 lawyers, educators, politicians, historians, social scientist, and the medical field respond? In what ways
@@ -343,6 +352,7 @@ researcher at any time under precisely the same conditions.”
 Practical Research, Leedy p. 79
 
 ## Sampling Criteria
+
 This criterion requires a representative sample of the research population. This is completed through the
 use of random sampling, purposive sampling, convenience sampling.
 Converging Evidence Criteria
@@ -354,7 +364,7 @@ It is important that we watch out for the following pit falls:
 ignorant of God.
  Theodicy - Attempts to justify God to a suffering world.
  Christianizing Science - Attempts to use science as a way of proving scripture.
- [[The Garden/Teaching and Grammar/Theological Concepts and Frameworks/Moralistic Therapeutic Deism]] - Attempts to keep God distant from natural science.
+ [[Moralistic Therapeutic Deism]] - Attempts to keep God distant from natural science.
  Moral Logic - Scripture is interpreted through the existing cultures understanding.
 First Article Wisdom informs us about the creation we live in. We can read research articles or textbooks
 to see what is being discovered but the data will always need to be interpreted. The interpretation of the
@@ -365,7 +375,9 @@ However, First Article Wisdom is only one perspective and it primarily is only c
 coram mundo. The world of coram mundo is limited in what it can observe and the scientific method limits
 what they can do with the data they collect. Therefore, we also need to attend to every situation through
 our discernment of theological wisdom.
+
 ## Discerning Theological Wisdom - Coram Deo
+
 God has not abandoned his creation but sends His Word to tabernacle in the midst of what he
 has created. From Genesis to the present time God’s Word is a gift of life, salvation and forgiveness of
 sins. God sent his Word, Jesus Christ, to redeem his fallen creation. And there on the cross of Calvary
@@ -449,7 +461,9 @@ the midst of grief and loss. He could brainstorm with the congregation about oth
 could remember members who serve in the military. This might be regular prayer in worship. This might
 include a memory wall in the fellowship hall where the American flag is placed next to names of those
 members who have served in the church.
+
 ## Conclusion
+
 The Practical Theological Framework will give you a way to attend to various issues, situations
 and questions of church and society. The four pillars are not linear steps to be taken or tasks to
 
@@ -459,6 +473,6 @@ leadership you might need to address additional questions that were not clear wh
 work. The Practical Theological Framework provides a way to do theology that attends to the whole
 council of God when addressing topics of church and society that might come about in ministry.
 
-[^1]: Paul Robinson provides a summary of scholasticism in a video series provided by Concordia Seminary
+\[^1]: Paul Robinson provides a summary of scholasticism in a video series provided by Concordia Seminary
 
-[^2]: Osmer, Richard R. Practical theology: An introduction. Wm. B. Eerdmans Publishing, 2008.
+\[^2]: Osmer, Richard R. Practical theology: An introduction. Wm. B. Eerdmans Publishing, 2008.

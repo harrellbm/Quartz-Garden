@@ -1,25 +1,30 @@
 ---
 publish: true
-created: 2025-12-22T09:38:58.113-08:00
+created: 2024-10-22
 modified: 2026-02-02T12:26:22.562-08:00
 published: 2026-02-02T12:26:22.571-08:00
 ---
 
-#🌱Seed  #🙂Agree   #🟢Conviction #🥾SpiritualPractices-EmbodiedLiving 
-****
- 
-> [!summary] The Big Idea
-> A collection of a few various ways to engage Scripture. Also see: [[The Garden/Memory and Learning/Learning and the Inner Life/Inner Faculties/Christian Meditation]]
+\#🌱Seed  #🙂Agree   #🟢Conviction #🥾SpiritualPractices-EmbodiedLiving
 
-Similar Notes: 
-[[The Garden/Poetry and Rhetoric/Typology, Imagery and Metaphor/Metaphor in Scripture]]
-[[The Garden/Memory and Learning/Learning and the Inner Life/Reading Scripture for Familiarity]]
-[[The Garden/Teaching and Grammar/Reading Scripture Devotionally]]
-[[The Garden/Memory and Learning/Learning and the Inner Life/Rhythms and Practices/Lectio Divina]]
-[[]]
-****
-# Christian Meditation 
-This is a very deep and broad way to engage scripture. Here are some notes about it: [[The Garden/Memory and Learning/Learning and the Inner Life/Inner Faculties/Christian Meditation]]
+---
+
+> [!summary] The Big Idea
+> A collection of a few various ways to engage Scripture. Also see: [[Christian Meditation]]
+
+Similar Notes:
+[[Metaphor in Scripture]]
+[[Reading Scripture for Familiarity]]
+[[Reading Scripture Devotionally]]
+[[Lectio Divina]]
+\[\[]]
+
+---
+
+# Christian Meditation
+
+This is a very deep and broad way to engage scripture. Here are some notes about it: [[Christian Meditation]]
+
 # Listening styles:
 
 Ethos - relationships with speaker
@@ -27,6 +32,7 @@ Ethos - relationships with speaker
 Logos - logical flow of material
 
 Pathos - feelings evoked by material and speaker
+
 # Basic Learning styles:
 
 Auditory - listen to spoken word
@@ -87,4 +93,4 @@ Research section
 
 Research verse or phrase
 
-Study in original language familiarity 
+Study in original language familiarity

@@ -1,24 +1,25 @@
 ---
 publish: true
-created: 2025-12-22T09:38:55.762-08:00
+created: 2024-10-22
 modified: 2025-09-24T11:49:09.837-07:00
 published: 2026-01-08T14:43:41.303-08:00
 ---
 
-#🌿Sapling   #🙂Agree   #🟢Conviction #🥾SpiritualPractices-EmbodiedLiving 
+\#🌿Sapling   #🙂Agree   #🟢Conviction #🥾SpiritualPractices-EmbodiedLiving
 
-****
+---
 
 > [!summary] The Big Idea
 > Maybe talking under your breath doesn't mean you're crazy.
 
 > [!note]
-> Used as OS #📃Epistle in series Mediation on Scripture, November 2021. 
+> Used as OS #📃Epistle in series Mediation on Scripture, November 2021.
 > Used as LCOS #📃Epistle October 2025
 
 Related Notes:
-[[The Garden/Memory and Learning/Learning and the Inner Life/Inner Faculties/Christian Meditation]]
-****
+[[Christian Meditation]]
+
+---
 
 Reading Scripture can sometimes be confusing. There are words you don't normally see or hear. Sentences are written in ways that may sound strange. Not to mention the life of people in the Bible can feel very different and far away from our own. Being confused by what we read in the Bible is okay. Only when we can acknowledge that something does not make sense can we begin to let the words of Scripture become more than a textbook, or words on a page. The Scriptures have important, life changing, things to tell us; no matter how old we are or if we know a little or a lot about the Bible.  
 

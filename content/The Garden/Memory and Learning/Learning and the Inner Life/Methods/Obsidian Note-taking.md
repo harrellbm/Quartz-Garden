@@ -1,38 +1,41 @@
 ---
 publish: true
-created: 2025-12-22T09:38:54.411-08:00
+created: 2024-10-22
 modified: 2025-10-02T14:40:37.456-07:00
 published: 2026-03-04T13:25:24.127-08:00
 ---
 
-#🌱Seed  #🙂Agree  #🛠️BringingLifeintotheWorld 
+\#🌱Seed  #🙂Agree  #🛠️BringingLifeintotheWorld
 
-****
+---
 
- > [!Summary] The Big Idea
- Stuff I have learned or what to remember about taking notes in Obsidian.
+> [!Summary] The Big Idea
+> Stuff I have learned or what to remember about taking notes in Obsidian.
 
 > [!note] Notes
+>
 > - The easiest way for me to sign into git for backing up to a private git repo is using VSCode
-> - I also find VSCode to be the easiest way to handle merge conflicts or other errors that pop up with files occasionally during backups. 
+> - I also find VSCode to be the easiest way to handle merge conflicts or other errors that pop up with files occasionally during backups.
 > - That being said the git obsidian plugin is the best for day to day backups.
 > - [Fontbase](https://fontba.se/) is a nice app for being able to add fonts to your system easy that you can then use in Obsidian.
 
 Related Notes:
-[[The Wilderness/Mobile Obsidian Backup]]
-[[The Garden/Memory and Learning/Learning and the Inner Life/Methods/Note-Taking Methods]]
-[[The Wilderness/Embed Search Results in a Note]]
+[[Mobile Obsidian Backup]]
+[[Note-Taking Methods]]
+[[Embed Search Results in a Note]]
 
-* * *
-# Useful Blog About Obsidian 
+---
+
+# Useful Blog About Obsidian
+
 [Obsidian Journey](https://obsidianjourney.com/about/)
+
 # Plugins I am Using
 
 > [!warning]
-> As of 10-2-25 this is mostly up to date but have not finished making notes on which ones I use often or are integral to how I use obsidian. 
+> As of 10-2-25 this is mostly up to date but have not finished making notes on which ones I use often or are integral to how I use obsidian.
 
-
-- Callout Manager 
+- Callout Manager
 - Editing Toolbar
 - Git
 - Linter
@@ -42,7 +45,8 @@ Related Notes:
 - Chronotyper
 - Dataview
 - Scripture Indexer
-- Quartz Syncer 
+- Quartz Syncer
+
 # Interesting Obsidian Plugins
 
 [quickadd](obsidian://show-plugin?id=quickadd)

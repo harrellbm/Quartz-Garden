@@ -3,9 +3,10 @@ publish: true
 Note Planted: 2024-10-22
 Last Tended: 2025-06-04
 ---
-#🌱Seed   #😐Neutral  #🛠️BringingLifeintotheWorld 
 
-****
+\#🌱Seed   #😐Neutral  #🛠️BringingLifeintotheWorld
+
+---
 
 > [!Summary] The Big Idea
 > Basic notes about learning how to use QGIS for spatial data crunching
@@ -13,4 +14,4 @@ Last Tended: 2025-06-04
 [Training Manual for QGIS](https://docs.qgis.org/3.34/en/docs/training_manual/index.html)
 [Plugin to get geomaps easily into QGIS](https://docs.qgis.org/3.34/en/docs/training_manual/qgis_plugins/plugin_examples.html)
 
-****
+---

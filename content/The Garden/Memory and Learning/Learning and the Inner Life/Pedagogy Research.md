@@ -1,33 +1,27 @@
 ---
 publish: true
-created: 2025-12-22T09:38:55.431-08:00
+created: 2024-10-22
 modified: 2025-06-17T14:37:40.018-07:00
 published: 2026-02-02T10:43:18.824-08:00
 ---
 
-#🌱Seed  #🙂Agree  #🏖️Universe-Humans 
+\#🌱Seed  #🙂Agree  #🏖️Universe-Humans
 
-****
+---
 
 > `Importance`: 20%
 
-***The Big Idea***: Stuff I have found while researching [[The Garden/Memory and Learning/Learning and the Inner Life/Pedagogy]] methods and practices.
+_**The Big Idea**_: Stuff I have found while researching [[Pedagogy]] methods and practices.
 
-Related Notes: [[The Garden/Memory and Learning/Learning and the Inner Life/Types of Pedagogy]], [[The Garden/Doctrine and Logic/Liturgy and Sacred Space/Pedagogy of Space]]
+Related Notes: [[Types of Pedagogy]], [[Pedagogy of Space]]
 
-* * *
+---
 
 Attention
 
-  
-
 Memory encoding
 
-  
-
 All the good stuff from Neilson
-
-  
 
 Criteria for effectiveness
 
@@ -37,6 +31,6 @@ Criteria for effectiveness
 
 ⁃ Life Pattern modeling
 
-3. Read *[[The Garden/Memory and Learning/Learning and the Inner Life/Pedagogy]] of Faith* chapter 16, by Bernard Bull. (PDF)
+3. Read _[[Pedagogy]] of Faith_ chapter 16, by Bernard Bull. (PDF)
 
-4. [[The Garden/Memory and Learning/Learning and the Inner Life/Methods/Classroom Approaches/Cooperative Learning]] article
+4. [[Cooperative Learning]] article

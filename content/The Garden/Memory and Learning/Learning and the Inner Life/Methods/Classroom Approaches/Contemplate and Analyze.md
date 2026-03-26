@@ -1,22 +1,22 @@
 ---
 publish: true
-created: 2025-12-22T09:38:52.057-08:00
+created: 2024-11-10
 modified: 2026-02-02T09:55:14.440-08:00
 published: 2026-02-02T09:55:14.440-08:00
 ---
 
-#🌱Seed  #🙂Agree  #🔥Doctrine-Poetry-Story 
+\#🌱Seed  #🙂Agree  #🔥Doctrine-Poetry-Story
 
-****
+---
 
-***The Big Idea***: Type of [[The Garden/Memory and Learning/Learning and the Inner Life/Pedagogy]].
+_**The Big Idea**_: Type of [[Pedagogy]].
 
-* * *
+---
 
-**Place on Continuum**: Small Group Discussion 
+**Place on Continuum**: Small Group Discussion
 
-**Method Description**: 
+**Method Description**:
 Start by having the group read through the text.  Give time to read it aloud and to review it silently.  Then ask for everyone to put the text away and engage with the discussion questions you have provided in their groups.  This forces the individuals to interact more with what “stuck out” to them and move away from “answer getting.”
 
-**Additional Considerations**: 
+**Additional Considerations**:
 This structure will challenge students who are uncomfortable with applications and discussion outside of exactly what the text says.

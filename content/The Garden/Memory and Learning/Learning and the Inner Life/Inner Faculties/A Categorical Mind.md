@@ -1,19 +1,20 @@
 ---
 publish: true
-created: 2025-12-22T09:38:50.719-08:00
+created: 2024-10-22
 modified: 2026-02-02T13:06:16.599-08:00
 published: 2026-02-02T13:06:16.607-08:00
 ---
 
-#🌱Seed   #🙂Agree   #🟡Consideration   #🏖️Universe-Humans 
-****
+\#🌱Seed   #🙂Agree   #🟡Consideration   #🏖️Universe-Humans
 
- > [!summary] The Big Idea
-> Where a category comes from and how it understands the world is important and shapes the person who uses the category. 
+---
 
-****
+> [!summary] The Big Idea
+> Where a category comes from and how it understands the world is important and shapes the person who uses the category.
 
-All Categories are judgments about how things group together and relate. They are the hardlines in a drawing that give the white space its dimension. 
+---
+
+All Categories are judgments about how things group together and relate. They are the hardlines in a drawing that give the white space its dimension.
 
 We can therefore ask and seek out where a category comes from 
 
@@ -67,7 +68,7 @@ Instead of either sign or wisdom. We have the folly of Christ crucified 
 
 Signs only go so far
 
-Then if anyone says to you, ‘Look, here is the Christ!’ or ‘There he is!’ do not believe it. For false christs and false [[The Garden/Bible Book Notes/Prophets/Prophets]] will arise and perform great signs and wonders, so as to lead astray, if possible, even the elect. See, I have told you beforehand. - Matthew 24:23-25
+Then if anyone says to you, ‘Look, here is the Christ!’ or ‘There he is!’ do not believe it. For false christs and false [[Prophets]] will arise and perform great signs and wonders, so as to lead astray, if possible, even the elect. See, I have told you beforehand. - Matthew 24:23-25
 
 Wisdom only goes so far instead we have the strength of God
 

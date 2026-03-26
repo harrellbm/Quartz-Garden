@@ -1,18 +1,20 @@
 ---
 publish: true
-created: 2025-12-22T09:38:56.561-08:00
+created: 2024-10-22
 modified: 2026-02-26T09:42:32.028-08:00
 published: 2026-02-26T09:42:32.028-08:00
 ---
 
-#🌱Seed  #🙂Agree #🗣Sermon 
-****
+\#🌱Seed  #🙂Agree #🗣Sermon
+
+---
+
 > `Importance`: 10%
- 
+
 > [!summary]
 > Outline of a sermon given at OS
 
-****
+---
 
 Jesus talks about how valuable the kingdom of heaven is and he zeros in on Scripture near the end of our reading for today. 
 
@@ -31,7 +33,7 @@ I think part of that difficulty is that we usually read things we don’t have t
 
 But scripture is like that storehouse full of all kinds of treasures. It’s not meant to just be quickly read and then moved on. We are supposed to sit with it and let it soak into us 
 
-A while ago I taught you guys about one way to read scripture called [[The Garden/Memory and Learning/Learning and the Inner Life/Rhythms and Practices/Lectio Divina]]. It is a beautiful way to read scripture using four steps: 
+A while ago I taught you guys about one way to read scripture called [[Lectio Divina]]. It is a beautiful way to read scripture using four steps: 
 
 Lectio - read
 
@@ -43,11 +45,11 @@ Complatio - contemplate 
 
 This is one really good way to help us sit with Scripture and let it teach us 
 
-During Martin Luther’s time as a monk would have no doubt used this lectio divina method. And in fact he adapted the steps to follow the pattern of reading scripture he saw pop up over and over throughout Psalm 119 - [[The Garden/Memory and Learning/Learning and the Inner Life/Rhythms and Practices/Oratio, Meditatio, Tentatio]]
+During Martin Luther’s time as a monk would have no doubt used this lectio divina method. And in fact he adapted the steps to follow the pattern of reading scripture he saw pop up over and over throughout Psalm 119 - [[Oratio, Meditatio, Tentatio]]
 
 Psalm 119 is the longest of the Psalms and has a line of poetry for every letter of the Hebrew alphabet. Throughout Luther points out three main things the Psalmist does over and over with Gods word 
 
-Oratio or Prayer - we start with prayer we read with prayer. It mingles with and is an essential part of our reading scripture   
+Oratio or Prayer - we start with prayer we read with prayer. It mingles with and is an essential part of our reading scripture 
 
 Meditatio or Meditation- example of a kid that can’t get enough of something. It’s about reputation speaking reading seeking. Having a conversation with God by asking questions and paying attention to what is happening inside you 
 
@@ -67,4 +69,4 @@ Let’s try it out on some of the parables we read today. They are nice and shor
 > [!Cite] Matthew 13:45–46 (ESV):
 > Again, the kingdom of heaven is like a merchant in search of fine pearls, who, on finding one pearl of great value, went and sold all that he had and bought it.
 
-There are so many ways to read scripture that bring us into a place where we can absorb what scripture is telling us. But ultimately they all have the same goal that we would not just acknowledge but deeply proclaim that the kingdoms of Heaven is more valuable than anything else in life**
+There are so many ways to read scripture that bring us into a place where we can absorb what scripture is telling us. But ultimately they all have the same goal that we would not just acknowledge but deeply proclaim that the kingdoms of Heaven is more valuable than anything else in life\*\*

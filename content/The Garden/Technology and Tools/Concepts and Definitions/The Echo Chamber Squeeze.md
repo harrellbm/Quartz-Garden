@@ -1,6 +1,6 @@
 ---
 publish: true
-created: 2026-01-12T12:37:14.030-08:00
+created: 2025-12-22
 modified: 2026-03-05T09:08:30.106-08:00
 published: 2026-03-05T09:08:30.113-08:00
 tags:
@@ -9,8 +9,9 @@ tags:
   - 🙂Agree
 ---
 
->[!Summary] The Big Idea
-> We don't always think about the bigger trends driving our digital worlds and how that effects us. Here is one that is easy to fall into. 
+> [!Summary] The Big Idea
+> We don't always think about the bigger trends driving our digital worlds and how that effects us. Here is one that is easy to fall into.
 
-****
+---
+
 ![[The Garden/Technology and Tools/Concepts and Definitions/How to Create an Echo Chamber.pdf]]

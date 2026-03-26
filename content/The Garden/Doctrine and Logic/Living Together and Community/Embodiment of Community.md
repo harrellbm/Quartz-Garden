@@ -1,25 +1,26 @@
 ---
 publish: true
-created: 2025-12-22T09:38:52.252-08:00
+created: 2024-10-22
 modified: 2025-06-17T14:30:26.417-07:00
 published: 2026-02-26T09:40:17.304-08:00
 ---
 
-#🍋Fruit    #🙂Agree   #📝Essay  #🟡Consideration   #🍽️Community-Mission 
+\#🍋Fruit    #🙂Agree   #📝Essay  #🟡Consideration   #🍽️Community-Mission
 
-****
+---
 
-> [!Quote] 
+> [!Quote]
 > “So we, though many, are one body in Christ, and individually members one of another.” 
+>
 > - Romans 12:5
 
-> [!abstract] Thesis 
+> [!abstract] Thesis
 > Ministry should be thought of, organized, and communicated in terms of created rhythms (i.e. liturgical patterns) rather than programs or contrived roles. 
 
 > [!note]
 > Current form finished November 2023
 
-****
+---
 
 # Introduction 
 
@@ -52,13 +53,13 @@ James Smith in his book Desiring the Kingdom encapsulates this phenomena using t
 
 A curious tendency I have noticed surrounding our social imaginary of church embodiment is that when elements from our internal image are exposed, whether through our opinions or reactions, they tend to be assigned to either external factors (like church size dynamics) or subjective internal factors (like personal preference). However, it seems these redirects miss the mark of how important and formative our social imaginary is to our perspective and internal motivation. 
 
-A short personal case study: I wore an aloha shirt to perform a communion service for a nursing home community. Probably not my most perceptive decision making, but it was very educational. The liturgical order, word of God, and preaching were all consistent with the accepted norm. Many even expressed gratitude for the usefulness of the preaching. Yet the overwhelming qualm was that it did not “feel” like a church service. Physical location and content all consistent, the single factor of a pastor’s dress made the whole thing “feel” different to some of them. This can partially be explained with the concept of “ritual efficacy” [^1] since part of the ritual background was changed. However, there seems to be more at play. Some had no issue with the change of dress. While pressing those who did for a logical explanation ran into a dead end, quickly producing excuses like “I’m just old school.” Yet the conviction and personal investment in such a seemingly trivial change speaks to the deeper social imaginary. 
+A short personal case study: I wore an aloha shirt to perform a communion service for a nursing home community. Probably not my most perceptive decision making, but it was very educational. The liturgical order, word of God, and preaching were all consistent with the accepted norm. Many even expressed gratitude for the usefulness of the preaching. Yet the overwhelming qualm was that it did not “feel” like a church service. Physical location and content all consistent, the single factor of a pastor’s dress made the whole thing “feel” different to some of them. This can partially be explained with the concept of “ritual efficacy” \[^1] since part of the ritual background was changed. However, there seems to be more at play. Some had no issue with the change of dress. While pressing those who did for a logical explanation ran into a dead end, quickly producing excuses like “I’m just old school.” Yet the conviction and personal investment in such a seemingly trivial change speaks to the deeper social imaginary. 
 
-Each of us have been habituated into particular patterns of church embodiment. Whether it's the memory of a childhood pastor, or the discomfort from visiting a church on vacation, all of us have lived experiences that have taught us what we think a church community should look like.  If we draw on the definition of liturgy as “the performance of faith,” or “‘doing the world rightly,”[^2] We can begin to see that these ideas of an ideal church are a liturgy behind our liturgy. They are the lived liturgies that have sunken in and taken root. Collectively, we can call these parts of our social imaginary: rhythms of church embodiment. They are the patterns that make us feel at home in a particular context. The things we notice the most when they lack in other communities, or when things change within our own.   
+Each of us have been habituated into particular patterns of church embodiment. Whether it's the memory of a childhood pastor, or the discomfort from visiting a church on vacation, all of us have lived experiences that have taught us what we think a church community should look like.  If we draw on the definition of liturgy as “the performance of faith,” or “‘doing the world rightly,”\[^2] We can begin to see that these ideas of an ideal church are a liturgy behind our liturgy. They are the lived liturgies that have sunken in and taken root. Collectively, we can call these parts of our social imaginary: rhythms of church embodiment. They are the patterns that make us feel at home in a particular context. The things we notice the most when they lack in other communities, or when things change within our own.   
 
 Using this terminology, we can reapproach the short example above.  The rhythm of church embodiment that states “a pastor wears vestments” had been transgressed.  For those whom this was a salient part of their imaginary, this caused consternation (regardless of its true status as adiaphora or not).  While those who did not have that pattern so deeply set, or valued, had no issue. 
 
-Another example is the Scriptural imperative to care for the health and [[The Wilderness/Faith Formation]] of children. This Scriptural command is often answered with a rather restricted set of proposals. Start a Sunday school, nursery, confirmation program, youth group, etc. If a program is not proposed, then resources like busy bags, children’s sermons, devotionals, parenting classes, etc. are usually the next line of thought. All of these options in and of themselves are good things. But their liturgical embodiment tends to become a product in a line of offerings. If a family does not find the right line up of “products” for them, then the logical step is to find another church that does. In other words, the underlying social imaginary that says “I should go to church and find all the stuff my family wants/needs in one convenient package” is the real driver of decisions. This liturgy of church embodiment pictures an ideal utopia of perfectly balanced and diverse programs that people can pick and choose from to fit into their ideal schedule and lifestyle. While it may sound nice, this consumeristic narrative is foreign to the Scriptural task of raising up the next generation. Its direction of fit is all out of order. Christians should not simply be fitting church into their otherwise unchanged lives. Yet this pervasive internal picture easily ends up steering the ship from the shadows. 
+Another example is the Scriptural imperative to care for the health and [[Faith Formation]] of children. This Scriptural command is often answered with a rather restricted set of proposals. Start a Sunday school, nursery, confirmation program, youth group, etc. If a program is not proposed, then resources like busy bags, children’s sermons, devotionals, parenting classes, etc. are usually the next line of thought. All of these options in and of themselves are good things. But their liturgical embodiment tends to become a product in a line of offerings. If a family does not find the right line up of “products” for them, then the logical step is to find another church that does. In other words, the underlying social imaginary that says “I should go to church and find all the stuff my family wants/needs in one convenient package” is the real driver of decisions. This liturgy of church embodiment pictures an ideal utopia of perfectly balanced and diverse programs that people can pick and choose from to fit into their ideal schedule and lifestyle. While it may sound nice, this consumeristic narrative is foreign to the Scriptural task of raising up the next generation. Its direction of fit is all out of order. Christians should not simply be fitting church into their otherwise unchanged lives. Yet this pervasive internal picture easily ends up steering the ship from the shadows. 
 
 This is not only true in large church contexts.  The counter response to this is often equally subliminal. I have talked with many parishioners from small congregations that lament the impersonal and “cold” feeling of larger program oriented churches. They look with a certain amount of pride at the small nature of their congregation and their close knit relationships. Yet a very common struggle in this kind of context is isolationism and unwillingness to welcome outsiders. This seems to often stem from the fact that, one way or another, new people jeopardize the current relational landscape. There is also a natural capacity cap for Pastors and other lay leaders. Only so many of these close relationships can be maintained by one person. Meaning that there is, in essence, a physical cut off to the size of the congregation while maintaining the same liturgical pattern of embodiment. 
 
@@ -139,11 +140,11 @@ When we view the world through this lens, the groaning of creation (Romans 8:22)
 
 When speaking of Christ’s work in this way, salvation is the reshaping and  restoration of not only human, but all of creation’s rhythms. The way this work of restoration is carried out day by day is through a new set of rhythms (or liturgy). These redeeming rhythms are the ways God calls his people to redeem and reshape the broken pieces of the natural rhythms around and within us toward the restoration project of the Gospel. It is this kind of rhythm we find within the liturgy of the Divine Service and throughout the vocations and call of God’s people.
 
-In his book *Creation and Fall* Dietrich Bonhoeffer describes the goal of Christian living as walking within the groove cut out for us by God’s will [^3]. The categories of natural and redeeming rhythms fit nicely within this description. Natural rhythms are those remnants of God’s good created groove that make life possible. Redeeming rhythms are the patterns by which the Children of God participate in God’s gifts and by the work of the Holy Spirit, little by little, re-dig the groove within which we were created to live. 
+In his book _Creation and Fall_ Dietrich Bonhoeffer describes the goal of Christian living as walking within the groove cut out for us by God’s will \[^3]. The categories of natural and redeeming rhythms fit nicely within this description. Natural rhythms are those remnants of God’s good created groove that make life possible. Redeeming rhythms are the patterns by which the Children of God participate in God’s gifts and by the work of the Holy Spirit, little by little, re-dig the groove within which we were created to live. 
 
 # Commissioned for Rhythms 
 
-We can further apply these categories using the systematic framework of [[The Garden/Teaching and Grammar/Theological Concepts and Frameworks/The Two Commissions]] [^4]. [[The Garden/Teaching and Grammar/Theological Concepts and Frameworks/The First Commission]] being Genesis 1:28 where God commissions humanity to flourish and have caring [[Dominion Over Creation]]. The Second (or Great) Commission being the sending of Jesus in Matthew and Mark to make disciples through baptism and teaching.  These commissions fit nicely with natural and redeeming rhythms. It is through these two sendings of Humanity that we can anchor a basic understanding of how each type of rhythm should function. 
+We can further apply these categories using the systematic framework of [[The Two Commissions]] \[^4]. [[The First Commission]] being Genesis 1:28 where God commissions humanity to flourish and have caring [[Dominion Over Creation]]. The Second (or Great) Commission being the sending of Jesus in Matthew and Mark to make disciples through baptism and teaching.  These commissions fit nicely with natural and redeeming rhythms. It is through these two sendings of Humanity that we can anchor a basic understanding of how each type of rhythm should function. 
 
 As in all things, we must start with the Gospel. Through the message of Jesus’ grace and forgiveness, we are redeemed from the weight of the law. Breath restored to the breathless, life given to the walking dead. We are then released into our second commission to make disciples that observe “all that I have commanded you.” Namely, a life of love toward God and neighbor. This life of love can also be expressed as living according to humanity's first commission. In other words, the redeeming rhythms of God’s people usher us in through the Gospel, send us to be the church with the Great Commission and rightly order our natural rhythms according to the first commission.
 
@@ -208,10 +209,10 @@ May His liturgy grab our heart and imagination. May it call us into new life eac
 > The young lions roar for their prey, seeking their food from God.
 > When the sun rises, they steal away and lie down in their dens.
 > Man goes out to his work and to his labor until the evening.” 
-> 
+>
 > - Psalm 104:19-13
 
-[^1]:  Article on Liturgy and discipleship, James Marriott, 10. [link](https://drive.google.com/file/d/1d5CYDp1PlyT-sHoIG9Wx41NfbU37ws7s/view?usp=sharing)
-[^2]: How the Redeemed World Is Done: Charting the Relationship between Liturgy, Discipleship, and Mission, James Marriott, p. 25
-[^3]: Need page quote
-[^4]: Stewardship: A Theological Perspective, The Lutheran Church—Missouri Synod, Office of National Mission (Biermann)
+\[^1]:  Article on Liturgy and discipleship, James Marriott, 10. [link](https://drive.google.com/file/d/1d5CYDp1PlyT-sHoIG9Wx41NfbU37ws7s/view?usp=sharing)
+\[^2]: How the Redeemed World Is Done: Charting the Relationship between Liturgy, Discipleship, and Mission, James Marriott, p. 25
+\[^3]: Need page quote
+\[^4]: Stewardship: A Theological Perspective, The Lutheran Church—Missouri Synod, Office of National Mission (Biermann)

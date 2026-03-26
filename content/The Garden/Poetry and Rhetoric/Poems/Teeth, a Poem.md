@@ -1,12 +1,13 @@
 ---
 publish: true
-created: 2025-12-22T09:38:57.252-08:00
+created: 2025-04-10
 modified: 2026-02-26T09:45:00.590-08:00
 published: 2026-02-26T09:45:00.590-08:00
 ---
 
-#🌿Sapling   #✒️Poem  #🔥Doctrine-Poetry-Story 
-****
+\#🌿Sapling   #✒️Poem  #🔥Doctrine-Poetry-Story
+
+---
 
 <center>A story without teeth won't do anything much.</center>
 <center>Just like a knife without an edge,</center>
@@ -26,4 +27,3 @@ published: 2026-02-26T09:45:00.590-08:00
 
 <center>A story without teeth won't do anything much.</center>
 <center>But this story has teeth to keep changing my heart.</center>
-

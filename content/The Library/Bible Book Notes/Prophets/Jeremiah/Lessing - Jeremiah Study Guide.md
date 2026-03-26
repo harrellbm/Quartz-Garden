@@ -1,6 +1,6 @@
 ---
 publish: true
-created: 2026-02-17T10:43:40.788-08:00
+created: 2026-02-17
 modified: 2026-02-17T10:46:23.287-08:00
 published: 2026-02-17T10:46:23.292-08:00
 tags:
@@ -9,10 +9,11 @@ tags:
   - 🟡Consideration
 ---
 
->[!Summary] The Big Idea
-> Study Guide written by Dr. Lessing from Concordia St. Paul. 
+> [!Summary] The Big Idea
+> Study Guide written by Dr. Lessing from Concordia St. Paul.
 
-****
+---
+
 <center>Overcoming Life’s Sorrows</center>
 <center>Learning from Jeremiah</center>
 <center>R. Reed Lessing</center>

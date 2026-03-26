@@ -1,17 +1,16 @@
 ---
 publish: true
 title: Joining Jesus
-created: 2025-12-22T09:38:53.164-08:00
+created: 2024-10-22
 modified: 2026-02-02T10:48:44.251-08:00
 published: 2026-02-02T10:48:44.257-08:00
 tags:
   - 📕Book
 ---
 
-****
+---
 
-
-Join Jesus on His mission. Not go on mission for Jesus  
+Join Jesus on His mission. Not go on mission for Jesus
 
 We **seek, recognize and respond** to what Jesus is already doing
 

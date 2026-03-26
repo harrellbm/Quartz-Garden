@@ -20,7 +20,6 @@ Note Planted: 2025-10-15
 Last Tended: 2025-10-16
 ---
 
-
 > [!quote] Bonhoeffer Psalms, p. 15
 > If we are to pray aright, perhaps it is quite necessary that we pray contrary to our own heart. Not what we want to pray is important, but what God wants us to pray. If we were dependent entirely on ourselves, we would probably pray only the fourth petition of the Lord’s Prayer. But God wants it otherwise. The richness of the Word of God ought to determine our prayer, not the poverty of our heart.
 

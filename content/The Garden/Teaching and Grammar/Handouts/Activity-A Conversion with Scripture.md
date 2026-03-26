@@ -1,20 +1,21 @@
 ---
 publish: true
-created: 2025-12-22T09:38:50.995-08:00
+created: 2024-10-22
 modified: 2025-06-30T09:38:22.551-07:00
 published: 2026-02-02T13:00:04.716-08:00
 ---
 
-#🌱Seed  #🙂Agree   #🟢Conviction   #🥾SpiritualPractices-EmbodiedLiving 
+\#🌱Seed  #🙂Agree   #🟢Conviction   #🥾SpiritualPractices-EmbodiedLiving
 
-****
+---
 
 > [!summary] The Big Idea
-> An activity sheet to help uses questions I condensed down from this note: [[The Garden/Teaching and Grammar/Reading Scripture Devotionally]]
+> An activity sheet to help uses questions I condensed down from this note: [[Reading Scripture Devotionally]]
 
-****
+---
 
 # A Conversation with Scripture
+
 Reading Scripture can sometimes be confusing.  There are words you don't normally see or hear.  There are names that are hard to pronounce.  Not to mention the life of people in the Bible can feel very different and far away from our own.   Being confused by what we read in the Bible is okay.  Only when we can acknowledge that something does not make sense can we begin to let the words of Scripture become more than a textbook, or words on a page.  The Scriptures have important, life changing, things to tell us; no matter how old we are, or if we know a little, or a lot about the Bible.  
 
 When we read through a portion of Scripture it is important to engage our minds and hearts.  As you read through a portion of Scripture, go back and answer at least 10 of these questions.  Pay attention to how they affect what you understand and see in these verses.  
@@ -40,7 +41,7 @@ When we read through a portion of Scripture it is important to engage our minds 
 10. Is there anything you’re wondering about right now?
 
 11. What are you doing as you read?
-	- Am I agreeing, questioning, empathizing, pushing back, getting bored, praising God, making certain connections, confused, filled with joy and so on? Why?
+    - Am I agreeing, questioning, empathizing, pushing back, getting bored, praising God, making certain connections, confused, filled with joy and so on? Why?
 
 12. What do you think will be important to remember about these verses? Why?
 

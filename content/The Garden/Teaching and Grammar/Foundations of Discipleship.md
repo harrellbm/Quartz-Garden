@@ -1,28 +1,30 @@
 ---
 publish: true
-created: 2025-12-22T09:38:52.559-08:00
+created: 2024-10-22
 modified: 2025-06-17T14:32:19.187-07:00
 published: 2026-02-24T11:52:47.992-08:00
 ---
 
-#🌱Seed  #🙂Agree  #🍽️Community-Mission 
+\#🌱Seed  #🙂Agree  #🍽️Community-Mission
 
-****
+---
 
 > [!quote]
 > “Can a blind man lead a blind man? 
-Will they not both fall into a pit? 
-A disciple is not above his teacher, 
-but everyone when he is fully trained will be like his teacher.”
+> Will they not both fall into a pit? 
+> A disciple is not above his teacher, 
+> but everyone when he is fully trained will be like his teacher.”
+>
 > - Luke 6:39-40
 
 > [!abstract] Thesis
 > Discipleship and Christian formation is a holistic process that involves more than knowing the right things. 
 
-****
+---
 
 # Towards an Integrated Life
-What is the goal of discipleship? So often we get lost in the weeds of [[The Wilderness/Event Planning]], or the pressures of day to day ministry that taking time to reflect on the end goal of discipleship slips into the background. In our rush to do, we forget what we are meant to be.
+
+What is the goal of discipleship? So often we get lost in the weeds of [[Event Planning]], or the pressures of day to day ministry that taking time to reflect on the end goal of discipleship slips into the background. In our rush to do, we forget what we are meant to be.
 
 The following discussion embodies my written thoughts on this question. Through prayer, study and continued reflection, I have become increasingly convinced that being a Christian is so much more than just knowing the right things. For after all, “Even the demons believe—and shudder!” (James 2:19).
 
@@ -31,61 +33,12 @@ So much of modernity has shrunk humanity down to brains on sticks.  If you just
 This topic in and of itself could take up many pages.  It seeks the core of our existence and the purpose for living.  Things no one can quite get away from, no matter the life one may choose.  Because of this, we will use three defining moments from salvation history to anchor our description of humanity.  
 
 # The Two Commissions
----
-publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-06-04
----
-#🌱Seed  #🙂Agree #🟢Conviction #🔥Doctrine-Poetry-Story 
 
-****
-
-> [!summary] The Big Idea
- God has told humans what we were created to be up to and commissioned us or sent us out to do it in two major moments in Scripture.
-
-> [!note]
-> Used as LCOS Nov 2024 #📃Epistle 
-
-****
-
-# [[The Garden/Teaching and Grammar/Theological Concepts and Frameworks/The First Commission]]
-
-As the world settled into its newly created order, God spoke to humanity.  The first blessing, or benediction, uttered over humanity paints a picture of life as it has always been meant to be:
-
-> [!cite] Genesis 1.:28
-> “And God blessed them. And God said to them, 
-‘Be fruitful and multiply and fill the earth and subdue it, 
-and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.’”
-
-This first commission places humans over creation as God ordained care takers. Not only this, but it installs humanity within creation as a legitimate and integral part of the ecosystem.  Humans are meant to flourish within the tapestry of creation. We were created in the wonderful and precious image of God as His workman in a beautifully balanced world. Therefore, the very first and foundational purpose of human existence is as watchful, productive, co-creators.
-
-# The Greatest Commandments 
-Since the fall, humans have wandered far afield of our original purpose as co-creators.  Instead, humans have so often become destroyers inventing new ways to bring destruction upon the world. Out of that darkness, God called a people to bear His name among the smoldering remains of creation. As He called them, He oriented them around a particular image of the good life. An image boiled down to the legendary Shema: 
-
-> [!cite] Deuteronomy 6:4-5
-“Hear, O Israel: 
-The Lord our God, the Lord is one. 
-You shall [[The Garden/Doctrine and Logic/Anthropology or Being Human/Love the Lord Your God with all Your Heart]] 
-and with all your soul and with all your might.”
-
-This image of a good life does not start with knowledge or power, riches or fame. A good life according to God starts with listening. Hearing the realities of who He is and responding with love. The salient action, or mode of being, is loving.  A loving that captures the entirety of our being - heart, soul, and might.   
-
-If we take time to parse out the implications of this deep abiding love, we can see that humans are meant for a unique and vibrant relationship with God. Western thinking so often splits the human being into mind and heart, thought and emotions. This description of humanity is not so divided. 
-
-The Hebrew word for heart (Lavav) speaks of not just the organ, or the locus of emotions, but the seat of memory, will, thought and conscience.  One's heart remembers, longs, meditates, and acts. It is out of the heart that you exist. Partnering with the heart is one's soul or nephesh.  This nephesh animates the actions of the heart. The first descriptions of a human nephesh comes as God breathed the breath of life into Adam.  As the wind of God’s life-giving Spirit enters the man, he becomes a nephesh. So to love God with heart and soul leaves nothing out. There is no corner of the unconscious mind or physical frame that should not be turned toward this life of love.  To seal the image, God even clarifies to what extent His people should take this full bodied and integrated life: ALL your might, everything you got, nothing held back. 
-
-In Mark 12 Jesus pulls this description of humanity to sum up the movements of the Old Testament and affirms their centrality.  He also adds that this life of love is to extend out from our relationship with God to the people around us. The rest of Scripture speaks boldly about this love.  Paul even goes so far in 1 Corinthians 13:2 to say that without this love “I am nothing.” As the picture unfolds, it is clear that humans are meant for more than productivity, success or any of the other idols that so quickly creep into our lives.  
-
-# The Great Commission
-As Jesus ended His ministry on earth He completed the picture of human purpose:
-
-> [!cite] Matthew 28: 19-20
-> “Go therefore and make disciples of all nations, 
-baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you.” 
-
-The rich fabric of Scripture’s commandments and promises are brought to fruition through Jesus. Bearing the name of God in creation is no longer tied to a nation state, but the act of being a disciple. Discipleship is therefore the culmination of centuries worth of reflection, preparation, and now sending. Jesus sending us into lives lived to their fullest. To be a disciple is nothing short of becoming fully human.
+![[The Two Commissions]]
 The God given purpose of human living.
+
 # The Full Picture
+
 As we pull these pieces together, the call to become a disciple of Jesus takes on flesh and bone.  To be a disciple means to be a co-creator and a lover.  A follower that answers the ancient call of the creator to live life in the Gospel. This call speaks of a compelling, even enrapturing experience and dependence on God. 
 
 Yet this description does not always ring true in experience. Ever since the enlightenment movement of the 1800s, Lutheran education and practice has targeted the minds of its pupils.  This approach has been carried out effectively, producing generations of well informed and educated people. However, in the reduction of discipleship to the life of the mind, we have lost the bigger picture. 
@@ -93,6 +46,7 @@ Yet this description does not always ring true in experience. Ever since the enl
 This discussion has aimed to illuminate the deep seated, earthy, gut wrenching nature of the call to follow Christ. Humans are not primarily shaped by thoughts.  Some of our most foundational years of development are years we do not even remember.  Humans are rather primarily co-creators and lovers.  It is through these lenses that we seek to plan and enact future Christian discipleship. 
 
 # Discipleship as Christian Formation 
+
 The Hebrew word to know (Yada) continues the line of anthropology we have started down. To know is to experience.  Without experience there is no true knowledge.  If this is true, and humans are primarily co-creators and lovers, then the orientation and direction of Christian instruction and practice should take on a much different shape than a data dump. But what shape is that? 
 
 As co-creators we are physical beings connected to a physical earth.  Earthen vessels tilling and caring for the ground from which we were formed. We are connected to the rhythms of nature (just ask a teacher if they can tell when the moon is full).  We reorient and reconfigure the materials of this earth to create and build.  Our Lutheran theology prepares us nicely to understand the implications of this reality. 
@@ -126,7 +80,7 @@ communal practice - to habit - to aim of desire - to image of a good life 
 is what we seek to engage through Christian formation. We need to be in the business of constantly painting the biblical picture of human flourishing as the proper end goal, or aim, of human desire.   
 
 We cannot, however, skip the chain and jump straight to grabbing the imagination of our people.  No matter how beautifully presented or compellingly argued the image of a good Christian life may be, without embodied practices, the chain of formation has not been properly started. 
-[[The Wilderness/Ritual, Practice, Liturgy]] 
+[[Ritual, Practice, Liturgy]] 
 If we are seeking to shape the desires of our people through embodied practices. The next question becomes: What practices are we after? Are we trying to tell people how to brush their teeth or make toast? 
 
 While those practices do shape us to a certain extent, they are not quite the practices we are after. James K. A. Smith introduces a helpful hierarchy to understand different kinds of practices. 
@@ -146,11 +100,12 @@ Another way to conceptualize the practices we are after is the idea of thick and
 •	Thick Habits - These habits are what we are after. They bring meaning into our life and push us toward our image of an ideal life. 
 
 ## Forming Thick Habits and Liturgies 
+
 As we continue to think through how we access the chain of formation and promote deep change of desire. We can turn to the liturgy we practice every Sunday. Church liturgy is a pattern for living. It carries us along on the journey of the church year. In it we receive all the good gifts of God. Sunday liturgy composes and compiles so many elements from the story of Scripture and helps us begin to practice the thick habits of faith.  
 
 The movement of discipleship should therefore be animated and flow out from our Sunday liturgy. The thick habits of our daily life should be informed and corrected by the words and practices of Scripture. To this end, what follows is a short list of thick habits to think through bringing into our discipleship efforts:
  
-•	[[The Garden/Doctrine and Logic/Living Together and Community/The Biblical Rhythm of Time and Rest]]
+•	[[The Biblical Rhythm of Time and Rest]]
 •	Worship
 •	[[Hospitality]], community, and graced dependence 
 •	Song and music
@@ -162,7 +117,7 @@ The movement of discipleship should therefore be animated and flow out from our 
 •	Communion
 •	Offering
 •	Witness and Confession
-•	Scripture, Sermon, [[The Garden/Story and Its Telling/Storytelling]]
+•	Scripture, Sermon, [[Storytelling]]
 •	Doing good and Service
 •	Lament and Grieving
 •	Creativity, Imagination, and Future Making
@@ -177,49 +132,8 @@ To summarize, the end goal of discipleship is about forming and shaping the deep
 
 # How should we think?
 
-#🌿Sapling  #🙂Agree  #🟢Conviction   #🍽️Community-Mission 
+![[Core Mindsets for a Healthy Community]]
 
-****
-
-> [!Summary] The Big Idea
-> This is a collection of important mindsets for a healthy Christian community.
-
-The categories we use to understand our world matter: [[The Garden/Memory and Learning/Learning and the Inner Life/Inner Faculties/A Categorical Mind]]
-
-* * *
-
-- [[The Wilderness/Scriptural Mindset]] - Scripture remains our sure and final foundation of life and practice. All other sources of wisdom must be subservient to God’s pure word. 
-
-- [[The Wilderness/Sacramental Mindset]] - The Sacraments are the foundation through which we receive God’s grace. They are the sure, tangible, communal way God has given us to encounter His grace and forgiveness. 
-
-- [[The Wilderness/Trinitarian Mindset]] - We worship and serve God who is triune in nature. We recognize the mystery of their communion and the lavish loving nature of their economy of salvation.  Salvation comes From the Father Through the Son By the Holy Spirit. We have been baptized into this triune name and serve no other. 
-
-- [[The Wilderness/Mission Mindset]] - As God’s people we have been sent out to the four corners of the world to proclaim the Gospel and welcome Christ’s children home.  
-
-- [[The Wilderness/Discipleship Mindset]] - We have been sent out to make disciples. People who follow Jesus into the fields of this world to do the work of the Kingdom.  
-
-- [[The Garden/Memory and Learning/Learning and the Inner Life/Inner Faculties/Abundance Mindset]]  - All good things come from God and His gracious hand. We therefore steward the resources we have with gratitude and thankfulness rather than coveting those we lack. 
-
-- [[The Wilderness/Other Minded]] - We are called as members of Christ’s body to look outside ourselves to the needs of others. “If one member suffers, all suffer together; if one member is honored, all rejoice together.” - 1 Cor. 12:26.
-
-- [[The Wilderness/Humble Future Focus]] - Though we cannot see into the future, we expectantly plan and pray for the will of God to become manifest within our community. We can adopt the saying of James 4:15  "If the Lord wills, we will live and do this or that.
-
-Todo: add mindsets outlined in the starfish and the spirit book
 # Starting Small and Growing from There
----
-publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-01-22
----
-#🌱Seed  #😐Neutral #🏖️Universe-Humans 
 
-****
-
-> [!Summary] The Big Idea
-> ”It can be anything, but first it has to be something specific.” 
-> Basically the idea that in order for product or project to succeed it needs to start by solving a specific problem with an eye toward expansion. This balances going too deep or being too broad but lands with the edge of the wedge and pushes outward from there. 
-
-Article that describes this idea:
-[The Zombcom problem](https://open.substack.com/pub/subconscious/p/the-zombocom-problem?r=45i29i&utm_campaign=post&utm_medium=email)
-
-****
+![[The Edge of the Wedge]]

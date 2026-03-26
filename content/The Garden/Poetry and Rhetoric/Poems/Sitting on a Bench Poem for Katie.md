@@ -1,18 +1,21 @@
 ---
 publish: true
-created: 2025-12-22T09:38:55.675-08:00
+created: 2025-05-12
 modified: 2026-02-04T10:17:43.878-08:00
 published: 2026-02-04T10:17:43.878-08:00
 ---
 
-#✒️Poem 
-****
+#✒️Poem
+
+---
+
 > `Importance`: 101%
- 
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > A Poem for Katie
 
-****
+---
+
 We sat on a bench in the middle of the rain. It was cold but we didn’t care. New York lights danced in the distance but the dance of your laugh was all that sticks with me. No matter the cold or the wind all I wanted was to sit next to you.
 
 We have sat on many more benches, beaches, and mountains. We have also sat in empty houses and ER rooms.

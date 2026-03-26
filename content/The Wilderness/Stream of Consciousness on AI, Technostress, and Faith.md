@@ -1,25 +1,25 @@
 ---
 publish: true
-created: 2025-12-22T09:38:56.945-08:00
+created: 2024-10-22
 modified: 2026-03-05T09:04:27.619-08:00
 published: 2026-03-05T09:04:27.619-08:00
 ---
 
-#🌱Seed  #🙂Agree  #🛠️BringingLifeintotheWorld 
+\#🌱Seed  #🙂Agree  #🛠️BringingLifeintotheWorld
 
-****
+---
 
- > `Importance`: 10%
+> `Importance`: 10%
 
 > [!note] The Bid Idea
 > Collection of random Thoughts about AI, Faith and Techno Stress
 
-* * *
+---
 
 > [!tip]
 > Start on more structured ideas:
-> [[The Garden/Technology and Tools/A Theology of Technology]]
-> [[The Wilderness/Principles for Working with Tech Tools]]
+> [[A Theology of Technology]]
+> [[Principles for Working with Tech Tools]]
 
 Technostress is not being able to cope with the pace of change
 
@@ -37,25 +37,19 @@ What is the proper place for technology 
 
 Role of human memory in the face of machine memory  
 
-
 The role of technology often comes down to the simple discussion of what kind of work can be offloaded from humans and entrusted to the technology. The ethical question then becomes SHOULD that work be offloaded? What are the benefits of offloading it? What do humans lose by not being directly responsible for this part of the work?
-
-  
 
 Another line of inquiry is to think about the growing reality that we live in a world where a particular person needs to keep in their minds less and less information in order to be functional. How does living in a world where I don’t need to know much to survive affect the way we live and interact with each other and the world? 
 
-I think that this helps us realize the importance of memory and learning Scripture. In a world where we can offload so much information and work to technology the truly important things are the things of faith and life flowing from that. 
+I think that this helps us realize the importance of memory and learning Scripture. In a world where we can offload so much information and work to technology the truly important things are the things of faith and life flowing from that.
 
-[[The Garden/Technology and Tools/Notes/Notes - AI and the Problem of Knowledge Collapse]]
+[[Notes - AI and the Problem of Knowledge Collapse]]
 
 The conversation that government and society affects or lives is one that is not unfamiliar. Laws and social movements put pressure on us and our loved ones to think and live a certain way. Technology is connected with this in part but I think we often fail to see the underlying narratives that drive the adoptions and development of many technologies. 
 
 Open source philosophy 
 
-  
-
 Is AI making your life easier or just giving you one more thing to do?
-
 
 Why AI? Why now?
 
@@ -64,8 +58,6 @@ It's not going away
 We have been using it for a long time without even thinking about it
 
 Google Translate, etc.
-
-  
 
 General AI Best Practices
 
@@ -86,8 +78,6 @@ Our judgment matters
 Know the limit - things may be out-of-date. It may represent a worldview that we don't want to tell our students something we don't agree with. Know the ultimate source of knowledge.
 
 Protect Privacy - never use personal information or student personal information.
-
-  
 
 Teacher Workflow
 
@@ -131,8 +121,6 @@ Interactive slides like Peardeck
 
 Used AI to look at the presentation you already have and make it interactive (curify my slides)
 
-  
-
 Magic School Investigation
 
 Inservice worthy?
@@ -152,8 +140,6 @@ Look into:
 How can this be used in reading?
 
 Theology strong?
-
-  
 
 Other topics
 
@@ -177,14 +163,16 @@ Basic two perspective humans will be replaced by AGI
 
 Humans will be augmented by useful ai tools and assistants
 
-Specific fine tuned models that out perform GPT-4 in specific tasks [https://huggingface.co/predibase](https://huggingface.co/predibase)
+Specific fine tuned models that out perform GPT-4 in specific tasks <https://huggingface.co/predibase>
 
 -   Video on how digital computers are hitting their limits - [Why the Future of AI & Computers will be Analog](https://youtu.be/6Y6FJVqzivc?si=UAlAc3YFzP2S8ech)
 
 -  Analog can compute anything that can be expressed as a differential equation
 
 -  A differential equation calculates describe how something changes
+
 # Using AI Well
+
 ## From Unsupervised learning:
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
@@ -198,7 +186,7 @@ Specific fine tuned models that out perform GPT-4 in specific tasks [https://hug
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | As the name implies, Generative AI models are ‘generative.’ _But what does that mean?_ Well, simply put, they are trained to ‘regenerate’ the training data.                                                                                                                                                                                                                                                                                                                                                                                                             |
 | In other words, their success depends on how well they have learned the training data and can regenerate it. In layman’s terms, **they are trained to imitate the training data.**                                                                                                                                                                                                                                                                                                                                                                                       |
-| _This is why frontier AI models aren’t that intelligent today. Just like memorizing math theorems doesn’t make you a mathematician, imitating human language doesn’t make you a human-level ‘being.’_\\                                                                                                                                                                                                                                                                                                                                                                  |
+| _This is why frontier AI models aren’t that intelligent today. Just like memorizing math theorems doesn’t make you a mathematician, imitating human language doesn’t make you a human-level ‘being.’_\                                                                                                                                                                                                                                                                                                                                                                  |
 | Therefore, the most important principle when using GenAI products is to use them only in situations requiring **knowledge elicitation.**                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | _But what do I mean by that?_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | One way you are guaranteed to have a great experience is in _‘Chat with your data’_ use cases. In other words, you hand the model data, via PDF or prompt, and you question the model about it.                                                                                                                                                                                                                                                                                                                                                                          |

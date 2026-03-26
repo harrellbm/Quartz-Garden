@@ -1,19 +1,19 @@
 ---
 publish: true
-created: 2025-12-22T09:38:52.279-08:00
+created: 2024-10-22
 modified: 2025-12-22T13:43:04.693-08:00
 published: 2025-12-22T13:43:04.693-08:00
 ---
 
-#🍋Fruit   #🙂Agree  #🔥Doctrine-Poetry-Story 
+\#🍋Fruit   #🙂Agree  #🔥Doctrine-Poetry-Story
 
-****
+---
 
 > [!note]
 > Used as OS #📃Epistle Jan 2023
 > Used for LCOS #📃Epistle Jan 2025
 
-****
+---
 
 Even though we have passed Christmas, I hope that this epistle finds you still in the light of the Christmas Season!  I am so thankful to serve among such a kind community here at Our Saviors. All of your Christmas greetings and generosity to me and my family have been greatly appreciated. I give thanks to God for all of you and pray that He continues to grow you in His service this new year!
 
@@ -27,5 +27,6 @@ We come to Jesus and offer our time and resources not because He needs them or b
 
 So in the end, the giving really only goes one way: from God to me and you. Everything we give is but a copy, or a return, of the generosity that Christ has first shown us. 
 
-> “The aim of our charge is love that issues from a pure heart and a good conscience and a sincere faith.” 
+> “The aim of our charge is love that issues from a pure heart and a good conscience and a sincere faith.”
+>
 > - 1 Timothy 1:5

@@ -19,5 +19,5 @@ lists:
   - Want to Read
 comment: Recognized as the most thorough pastoral treatise of the patristic era, this sixth-century work by St Gregory the Great carefully details the duties and obligations of the clergy concerning the spiritual formation of their flock. This is a new translation in English, the first in more than 50 years.
 ---
-	
---- 
+
+---

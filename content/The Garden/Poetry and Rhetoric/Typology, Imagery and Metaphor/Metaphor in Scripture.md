@@ -1,18 +1,18 @@
 ---
 publish: true
-created: 2025-12-22T09:38:54.092-08:00
+created: 2024-10-22
 modified: 2026-02-26T09:43:16.715-08:00
 published: 2026-02-26T09:43:16.721-08:00
 ---
 
-#🌱Seed  #🙂Agree  #🔥Doctrine-Poetry-Story 
+\#🌱Seed  #🙂Agree  #🔥Doctrine-Poetry-Story
 
-****
+---
 
 > [!summary] The Big Idea
 > Used as OS #📃Epistle Dec 2021. Part of a series Mediation on Scripture.
 
-****
+---
 
 Continuing with our look into how we as God's people can approach scripture as more than just a book to study, or a chore to complete.  I want to take some time to talk about an important tool used throughout Scripture to communicate meaning.  This is the literary tool called metaphor.  
 
@@ -58,4 +58,4 @@ A central part of God’s story is the Gospel.  As such there are many metaphor
 
 - Christ the Way: Mediator Metaphors
 
-- I am the Door, Tree of Life**
+- I am the Door, Tree of Life\*\*

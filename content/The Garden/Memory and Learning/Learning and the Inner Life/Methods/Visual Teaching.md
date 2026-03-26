@@ -1,19 +1,20 @@
 ---
 publish: true
-created: 2025-12-22T09:38:58.044-08:00
+created: 2024-10-22
 modified: 2026-02-02T10:00:17.829-08:00
 published: 2026-02-02T10:00:17.829-08:00
 ---
 
-#🌱Seed  #🙂Agree  #🏖️Universe-Humans 
+\#🌱Seed  #🙂Agree  #🏖️Universe-Humans
 
-****
+---
 
-***The Big Idea***: Ideas for how to teach using visual aids or resources.
+_**The Big Idea**_: Ideas for how to teach using visual aids or resources.
 
-* * *
+---
 
 Poster of the big picture story of Bible 
+
 - Simple in like five steps 
 - More detailed in like twelve 
 - Longest in twenty four 
@@ -29,23 +30,16 @@ Poster on baptism and baptismal remembrance 
 Poster on confession and absolution 
 
 Poster on communion
-  
 
 Poster on Ten Commandments and God’s blue print for our life 
 
-  
-
 First level should be for pre literate and key word learning
-
-  
 
 Next level is still visual but has a bit more words for early readers for memorization and reading practice. Books of the Bible should be in here 
 
-  
-
 Final level is for oral and critical thinking in question answer format still need some visual but not the main focus 
 
- [Marty n' Luther's Comic Catechism](https://a.co/d/bd5mzYo)
+[Marty n' Luther's Comic Catechism](https://a.co/d/bd5mzYo)
 
 ![[The Library/Images/Pasted image 20240619105832.png]]
 ![[The Library/Images/Pasted image 20240619105848.png]]

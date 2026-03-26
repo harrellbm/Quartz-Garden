@@ -1,6 +1,6 @@
 ---
 publish: true
-created: 2026-01-15T11:06:28.214-08:00
+created: 2026-01-15
 modified: 2026-01-15T12:07:00.217-08:00
 published: 2026-01-15T12:08:18.134-08:00
 tags:
@@ -9,10 +9,7 @@ tags:
   - 🟡Consideration
 ---
 
->[!Summary] The Big Idea
-> A leveled organization of the basic framework of the six chief parts and how they mesh with things.  
+> [!Summary] The Big Idea
+> A leveled organization of the basic framework of the six chief parts and how they mesh with things.
 
-****
-
-
-
+---

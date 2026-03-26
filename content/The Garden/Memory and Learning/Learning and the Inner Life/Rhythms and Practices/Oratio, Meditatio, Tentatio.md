@@ -3,14 +3,15 @@ publish: true
 Note Planted: 2024-10-22
 Last Tended: 2025-06-04
 ---
-#🌱Seed   #🙂Agree   #🟢Conviction  #🔥Doctrine-Poetry-Story 
 
-****
+\#🌱Seed   #🙂Agree   #🟢Conviction  #🔥Doctrine-Poetry-Story
+
+---
 
 > [!summary] The Big Idea
-> During Martin Luther’s time as a monk he would have no doubt used the [[The Garden/Memory and Learning/Learning and the Inner Life/Rhythms and Practices/Lectio Divina]] method. And in fact he adapted the steps to follow the pattern of reading scripture he saw pop up over and over throughout Psalm 119.
+> During Martin Luther’s time as a monk he would have no doubt used the [[Lectio Divina]] method. And in fact he adapted the steps to follow the pattern of reading scripture he saw pop up over and over throughout Psalm 119.
 
-****
+---
 
 Psalm 119 is the longest of the Psalms and has a line of poetry for every letter of the Hebrew alphabet. Throughout Luther points out three main things the Psalmist does over and over with Gods word 
 

@@ -1,12 +1,13 @@
 ---
 publish: true
-created: 2025-12-22T09:38:50.811-08:00
+created: 2025-04-10
 modified: 2026-02-26T09:45:54.712-08:00
 published: 2026-02-26T09:45:54.712-08:00
 ---
 
-#🍋Fruit   #✒️Poem  #🔥Doctrine-Poetry-Story 
-****
+\#🍋Fruit   #✒️Poem  #🔥Doctrine-Poetry-Story
+
+---
 
 <center>Snap!  The fetters charged to hold firm this world fail – reality is lost in light.</center>
 <center>Eyes see yet closed, or do eyes see at all?  Crisp haze covers all.</center>

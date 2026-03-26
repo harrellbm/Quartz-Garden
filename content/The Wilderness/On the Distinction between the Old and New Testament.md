@@ -1,32 +1,22 @@
 ---
 publish: true
+title: On the Distinction between the Old and New Testament
+created: 2025-10-21
+modified: 2025-12-17T13:42:05.649-08:00
+published: 2026-03-23T13:13:52.201-07:00
 tags:
   - 📕Book
-read: true
-title: On the Distinction between the Old and New Testament
-author: Philip Melanchthon
-url: https://open.substack.com/pub/treasuresfromthelutheranchurch/p/on-the-distinction-between-the-old?utm_campaign=post&utm_medium=email
-isbn:
-updated: 2025-12-17T13:42:05.649-08:00
-edited_seconds: 137
-cover:
-published:
-rating:
-pages:
-lists:
-  - Interesting Read
-comment:
-Note Planted: 2025-10-21
-Last Tended: 2025-10-21
 ---
-****
- 
->[!cite] Translated Text
->Philip Melanchthon, “Vom underschied deß alten und Neuwen Testaments,” in Veit Dietrich, _Summaria uber die gantze Biblia des alten und neuen Testaments_ (1567 edition)
->
->Source Link:  [Part 1](https://open.substack.com/pub/treasuresfromthelutheranchurch/p/on-the-distinction-between-the-old?utm_campaign=post&utm_medium=email) [Part 2](https://treasuresfromthelutheranchurch.substack.com/p/on-the-distinction-between-the-old-e42?utm_source=publication-search)
 
-****
+---
+
+> [!cite] Translated Text
+> Philip Melanchthon, “Vom underschied deß alten und Neuwen Testaments,” in Veit Dietrich, _Summaria uber die gantze Biblia des alten und neuen Testaments_ (1567 edition)
+>
+> Source Link:  [Part 1](https://open.substack.com/pub/treasuresfromthelutheranchurch/p/on-the-distinction-between-the-old?utm_campaign=post\&utm_medium=email) [Part 2](https://treasuresfromthelutheranchurch.substack.com/p/on-the-distinction-between-the-old-e42?utm_source=publication-search)
+
+---
+
 # On the Distinction between the Old and New Testament
 
 Many indolent ones think it is not necessary to know the entire Scriptures of the New and Old Testament, that it is enough to read something in the Gospel, and they do not consider why God, from the beginning, had initiated, increased, and preserved this entire book for His Church. For this reason, a short reminder ought to be made.
@@ -144,5 +134,3 @@ Others construct this definition: The Old Testament is the covenant or accepting
 But this is easy for the simple to understand, and is highly necessary for all to know: The distinction is between the Law and the promise of grace; the forgiveness of sins is given for the sake of the savior, Christ, and not on account of our merit; the Law is God’s unchangeable will; we need to have faith in this promise, and so on.
 
 This is sufficient on this matter, and I ask the Christian reader that he would consider this article well. But what the enemies of divine truth direct against it does not trouble me greatly, for they know very little about it, they do not seek the truth, and they cannot endure the light of truth. Such people ought not to be the judges of doctrine. For true teaching is foolishness to them, as St. Paul says in 1 Corinthians 1. Rather, the God-fearing have regard for true doctrine, and they perceive and note which teaching accords with faith.
-
-

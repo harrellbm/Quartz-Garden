@@ -3,13 +3,14 @@ publish: true
 Note Planted: 2024-10-22
 Last Tended: 2025-06-04
 ---
-#🌱Seed  #🙂Agree  #📊Project  #🍽️Community-Mission 
 
-****
+\#🌱Seed  #🙂Agree  #📊Project  #🍽️Community-Mission
 
-***The Big Idea***: Guidelines for applying the pallet designed in [[The Wilderness/Our Savior's Church and School Selection Criteria 2023]]
+---
 
-****
+_**The Big Idea**_: Guidelines for applying the pallet designed in [[Our Savior's Church and School Selection Criteria 2023]]
+
+---
 
 | Feature Color                                                         | Feature Color                                                         | Neutral Color                                                         | Neutral Color                                                         | Neutral Color                                                         |
 | --------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
@@ -18,7 +19,7 @@ Last Tended: 2025-06-04
 
 The functioning of color is an important element within a teaching environment. Too much high saturation color can be overwhelming and counterproductive especially for individuals with particular processing difficulties. 
 
- ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcPQJgZa8QI6WJiU-bishjru3BLVgTYDMQ0WyF_IHPQnBLYMIp5c9PYyUml63NN4hKIcbth-GVklFE0aAKiKi1YdQ3BJGNiLm-sWZtkptWUCEGbzMg-JGbnLhNOHVfCQ-eUKNW4eQsyS1BdRAROpLVBL5KI?key=uaf1vTJ8tYoYSWt-tq87Rg)
+![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcPQJgZa8QI6WJiU-bishjru3BLVgTYDMQ0WyF_IHPQnBLYMIp5c9PYyUml63NN4hKIcbth-GVklFE0aAKiKi1YdQ3BJGNiLm-sWZtkptWUCEGbzMg-JGbnLhNOHVfCQ-eUKNW4eQsyS1BdRAROpLVBL5KI?key=uaf1vTJ8tYoYSWt-tq87Rg)
 
 In addition, painting rules help set guidelines for a coherent and unified facility.
 

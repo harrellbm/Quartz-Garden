@@ -1,15 +1,18 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-01-22
+created: 2024-10-22
+modified: 2026-03-24T10:33:50.667-07:00
+published: 2026-03-24T10:33:50.667-07:00
 ---
-#🌱Seed  #🙂Agree   #📘BookNotes 
-****
+
+\#🌱Seed  #🙂Agree   #📘BookNotes
+
+---
 
 > [!summary] The Big Idea
- Notes after a personal conversation with Bruce Hartung.
+> Notes after a personal conversation with Bruce Hartung.
 
-* * *
+---
 
 A fundamental tendency of LCMS circles tends to be this push to have everything polished and ready to go before there can be any change. The change has to be perfect and all the i’s dotted and t’s crossed without any possibility of failure. And when a new idea does fail then that is taken as some fundamentally bad thing and a fault of the leader.
 

@@ -1,18 +1,18 @@
 ---
 publish: true
-created: 2025-12-22T09:38:51.810-08:00
+created: 2024-10-22
 modified: 2026-02-02T11:03:08.095-08:00
 published: 2026-02-02T11:03:08.100-08:00
 ---
 
-#🪴Sprout    #😁Strongly-Agree    #🟢Conviction   #🥾SpiritualPractices-EmbodiedLiving 
+\#🪴Sprout    #😁Strongly-Agree    #🟢Conviction   #🥾SpiritualPractices-EmbodiedLiving
 
-****
+---
 
 > [!Summary] The Big Idea
-> I need to do a fuller write up around this some time but here are some hastily collected resources around Christian Meditation. Also see: [[The Garden/Bible Book Notes/Ways to Engage Scripture]]
+> I need to do a fuller write up around this some time but here are some hastily collected resources around Christian Meditation. Also see: [[Ways to Engage Scripture]]
 
-A core picture to have in mind as we engage with and meditate on scripture is that we are having [[The Garden/Poetry and Rhetoric/A Conversation with God (Epistle)]]. This is an active living relationship to an active loving Word that came to free us from sin, death and the devil.
+A core picture to have in mind as we engage with and meditate on scripture is that we are having [[A Conversation with God (Epistle)]]. This is an active living relationship to an active loving Word that came to free us from sin, death and the devil.
 
 Therefore engaging the whole body is a key feature. We are creatures of God formed with bodies not given bodies later or any such Platonic nonsense. If we take that seriously then the way we move, hear, speak, draw, etc. all affect the way we engage God's word. The aim of all this to absorb the story of Scripture into our own story. God’s story is our story and vice versa.
 
@@ -27,33 +27,37 @@ Meditate - הָגָה hagah is to mutter or even growl and coo the idea that wha
 
 Joshua is told to do the same thing as he prepares to lead the people into the promised land. Literally to meditate day and night on the torah of God. Joshua 1:8
 
-****
+---
 
 Here are some other notes around Meditation and Reading Scripture:
-- [[The Garden/Memory and Learning/Learning and the Inner Life/Inner Faculties/Quiet Muttering]]
-- [[The Garden/Bible Book Notes/Psalms/Psalms-The Language of Our Heart]]
-- [[The Garden/Teaching and Grammar/Reading Scripture Devotionally]]
-- [[The Wilderness/The Struggle to be in God's Word]]
-- [[The Garden/Doctrine and Logic/Anthropology or Being Human/Love the Lord Your God with all Your Heart]]
-- [[The Garden/Bible Book Notes/Ways to Engage Scripture]]
-- [[The Garden/Poetry and Rhetoric/Typology, Imagery and Metaphor/Metaphor in Scripture]]
 
-Here is a Bible Project Video that describes key features of the Bible as Jewish Meditation Literature: 
-[Bible as Jewish Meditation Literature](https://bibleproject.com/explore/video/bible-jewish-meditation-literature-h2r/?utm_source=web_social_share&medium=shared_video)
+- [[Quiet Muttering]]
+- [[Psalms-The Language of Our Heart]]
+- [[Reading Scripture Devotionally]]
+- [[The Struggle to be in God's Word]]
+- [[Love the Lord Your God with all Your Heart]]
+- [[Ways to Engage Scripture]]
+- [[Metaphor in Scripture]]
+
+Here is a Bible Project Video that describes key features of the Bible as Jewish Meditation Literature:
+[Bible as Jewish Meditation Literature](https://bibleproject.com/explore/video/bible-jewish-meditation-literature-h2r/?utm_source=web_social_share\&medium=shared_video)
 
 Some methods for Christian Meditation:
-- [[The Garden/Memory and Learning/Learning and the Inner Life/Rhythms and Practices/Lectio Divina]]
-- Luther's [[The Garden/Memory and Learning/Learning and the Inner Life/Rhythms and Practices/Oratio, Meditatio, Tentatio]]
-- [[The Garden/Teaching and Grammar/Reading Scripture Devotionally]]
-- [[The Garden/Memory and Learning/Learning and the Inner Life/Methods/Gerhard Method of Theological Study]] (Not fully a method of meditation per say)
-- [[The Garden/Teaching and Grammar/Handouts/Activity-A Conversion with Scripture]]
+
+- [[Lectio Divina]]
+- Luther's [[Oratio, Meditatio, Tentatio]]
+- [[Reading Scripture Devotionally]]
+- [[Gerhard Method of Theological Study]] (Not fully a method of meditation per say)
+- [[Activity-A Conversion with Scripture]]
 
 A couple applications of Christian Meditation:
-- [[The Garden/Poetry and Rhetoric/Meditations/Meditation on Psalm 8]]
-- [[The Garden/Sermon Outlines/Treasure of Heaven Sermon Outline]]
 
-# Books I want to read around this Subject 
+- [[Meditation on Psalm 8]]
+- [[Treasure of Heaven Sermon Outline]]
+
+# Books I want to read around this Subject
+
 - Henri Nouwen - Making All Things New
 - Ruth Haley Barton - Invitation to Solitude and Silence: Experiencing God's Transforming Presence
-- Dietrich Bonhoeffer - Meditating on The Word 
+- Dietrich Bonhoeffer - Meditating on The Word
 - John Kleinig - Grace upon Grace: Spirituality for Today

@@ -1,31 +1,39 @@
 ---
 publish: true
-created: 2025-12-22T09:38:53.996-08:00
+created: 2025-04-23
 modified: 2025-07-02T14:57:00.874-07:00
 published: 2026-02-02T10:50:30.437-08:00
 ---
 
-#🌱Seed   #🙂Agree   #📊Project  #🛠️BringingLifeintotheWorld 
+\#🌱Seed   #🙂Agree   #📊Project  #🛠️BringingLifeintotheWorld
 
-****
+---
 
 > [!Summary] The Big Idea
-> Various notes on making and blending Tea.  The goal is to one day have many things grown fro [[The Garden/Plants and Tea/A Tea Garden]].
+> Various notes on making and blending Tea.  The goal is to one day have many things grown fro [[A Tea Garden]].
 
 Similar Notes:
-[[The Garden/Plants and Tea/Plant Care]]
-[[The Garden/Plants and Tea/Plants Around Church]]
+[[Plant Care]]
+[[Plants Around Church]]
 
-****
+---
+
 # Tea Log
+
 ## 7-2-25
-I think that the combination of dried tangerine peel and chocolate mint is my favorite combo so far it has a perfect calm but fresh taste. 
+
+I think that the combination of dried tangerine peel and chocolate mint is my favorite combo so far it has a perfect calm but fresh taste.
+
 # Pages about Making Tea
+
 [diy-tea-blend-ideas](https://www.sunset.com/home-garden/flowers-plants/diy-tea-blend-ideas)
 
 [growing-and-brewing-your-own-tea](https://www.gardentech.com/blog/gardening-and-healthy-living/growing-and-brewing-your-own-tea)
-# Ingredients 
+
+# Ingredients
+
 ## Herbal Teas
+
 - Mints
 - Cinnamon
 - Dried Orange peel
@@ -38,13 +46,16 @@ I think that the combination of dried tangerine peel and chocolate mint is my fa
 - Strawberry Juice
 - Fennel
 - Cardamom
-- Star Anise 
+- Star Anise
 - Turmeric
+
 # Drying Orange Peel
-Peel and remove as much white inner pulp as possible. 
+
+Peel and remove as much white inner pulp as possible.
 Precut into strips.
-At 200 degrees dry for 20 minutes or until peels slightly curl. 
-Store in airtight container. 
+At 200 degrees dry for 20 minutes or until peels slightly curl.
+Store in airtight container.
+
 # Properly Drying Freshly Picked Mint
 
 Mint, with its refreshing aroma and versatile applications, is a beloved herb for culinary enthusiasts and home gardeners alike. Drying freshly picked mint at home is a rewarding process that allows for the preservation of its distinct flavor and aroma, ensuring a readily available supply for teas, seasonings, and various other uses throughout the year. Mastering the proper drying techniques is essential to retain the herb's valuable essential oils and prevent spoilage.
@@ -134,49 +145,49 @@ Finally, improper storage after the mint has been successfully dried can also de
 | Method | Pros | Cons | Recommended Temperature(s) | Approximate Drying Time |
 | :---- | :---- | :---- | :---- | :---- |
 | Air Drying | Gentle, best for preserving aroma | Can take longer, requires low humidity and good ventilation | Warm, dark, well-ventilated (at least 68°F/20°C) | 1-2 weeks |
-| Oven Drying | Faster than air drying | Risk of flavor and color loss if not careful, requires monitoring | Lowest setting (110-180°F/43-82°C or residual heat) | 20 mins \- 4 hours |
+| Oven Drying | Faster than air drying | Risk of flavor and color loss if not careful, requires monitoring | Lowest setting (110-180°F/43-82°C or residual heat) | 20 mins - 4 hours |
 | Dehydrator | Consistent results, good control over temperature and airflow | Requires a dehydrator | 95-115°F (35-46°C) | 2-12 hours |
 | Microwave | Very fast for small quantities | High risk of burning and flavor loss, requires close monitoring | High (in short intervals) | 1-3 minutes total |
 
 #### **Works cited**
 
-1. Let's Preserve: Drying Herbs \- Penn State Extension, accessed May 2, 2025, [https://extension.psu.edu/lets-preserve-drying-herbs](https://extension.psu.edu/lets-preserve-drying-herbs)  
-2. plantura.garden, accessed May 2, 2025, [https://plantura.garden/uk/herbs/mint/drying-mint\#:\~:text=In%20theory%2C%20you%20can%20harvest,so%20before%20the%20first%20frost.](https://plantura.garden/uk/herbs/mint/drying-mint#:~:text=In%20theory%2C%20you%20can%20harvest,so%20before%20the%20first%20frost.)  
-3. Harvesting mint: when & how to cut mint plants \- Plantura Magazin, accessed May 2, 2025, [https://plantura.garden/uk/herbs/mint/how-to-harvest-mint](https://plantura.garden/uk/herbs/mint/how-to-harvest-mint)  
-4. How to Harvest Mint \- Prune, Dry, Enjoy Your Mint \- Getty Stewart, accessed May 2, 2025, [https://www.gettystewart.com/how-to-harvest-mint-prune-dry-enjoy-your-mint/](https://www.gettystewart.com/how-to-harvest-mint-prune-dry-enjoy-your-mint/)  
-5. Drying & preserving mint leaves: useful tips \- Plantura, accessed May 2, 2025, [https://plantura.garden/uk/herbs/mint/drying-mint](https://plantura.garden/uk/herbs/mint/drying-mint)  
-6. How to Harvest Mint, Dry Mint, and Store Mint, accessed May 2, 2025, [https://www.bhg.com/how-to-harvest-mint-8627966](https://www.bhg.com/how-to-harvest-mint-8627966)  
-7. How to Harvest & Dry Your Own Herbs \- The Little Green Shoot, accessed May 2, 2025, [https://thelittlegreenshoot.com/how-to-harvest-dry-your-own-herbs/](https://thelittlegreenshoot.com/how-to-harvest-dry-your-own-herbs/)  
-8. How to Dry Basil and Other Herbs \- Bootstrap Farmer, accessed May 2, 2025, [https://www.bootstrapfarmer.com/blogs/backyard-gardening/how-to-dry-basil-and-other-herbs](https://www.bootstrapfarmer.com/blogs/backyard-gardening/how-to-dry-basil-and-other-herbs)  
-9. Our Tips for Drying Garden Herbs | Pinder's Nursery | Blog, accessed May 2, 2025, [https://pindersnursery.com/our-tips-for-drying-garden-herbs/](https://pindersnursery.com/our-tips-for-drying-garden-herbs/)  
-10. 10 Best Herb Drying Racks for Preserving Flavors That Beginners ..., accessed May 2, 2025, [https://www.farmstandapp.com/7494/best-herb-drying-racks-for-preserving-flavors/](https://www.farmstandapp.com/7494/best-herb-drying-racks-for-preserving-flavors/)  
-11. How to Dry Herbs \- Allrecipes, accessed May 2, 2025, [https://www.allrecipes.com/article/how-to-dry-herbs/](https://www.allrecipes.com/article/how-to-dry-herbs/)  
-12. How to Dry Mint: 5 Easy Methods (Plus Storage Tips) \- wikiHow, accessed May 2, 2025, [https://www.wikihow.com/Dry-Mint](https://www.wikihow.com/Dry-Mint)  
-13. How to Dry Your Own Herbs | Texas Heritage for Living, accessed May 2, 2025, [https://blog.txfb-ins.com/texas-living/how-to-dry-herbs/](https://blog.txfb-ins.com/texas-living/how-to-dry-herbs/)  
-14. How to harvest and dry herbs – The Official Website of Jamie Foley, accessed May 2, 2025, [https://jamiefoley.com/how-to-harvest-and-dry-herbs/](https://jamiefoley.com/how-to-harvest-and-dry-herbs/)  
-15. How to Dry Mint Leaves: 3 Ways to Dry Mint Leaves ... \- MasterClass, accessed May 2, 2025, [https://www.masterclass.com/articles/how-to-dry-mint-leaves](https://www.masterclass.com/articles/how-to-dry-mint-leaves)  
-16. How to dry and store Mint Drying Herbs Retro Aprons, accessed May 2, 2025, [https://www.stitchthrutime.com/How\_To\_Dry\_Mint.html](https://www.stitchthrutime.com/How_To_Dry_Mint.html)  
-17. www.onehundreddollarsamonth.com, accessed May 2, 2025, [https://www.onehundreddollarsamonth.com/drying-mint-leaves-in-a-dehydrator/\#:\~:text=First%2C%20gently%20rinse%20your%20mint,dehydrate%20for%20about%204%20hours.](https://www.onehundreddollarsamonth.com/drying-mint-leaves-in-a-dehydrator/#:~:text=First%2C%20gently%20rinse%20your%20mint,dehydrate%20for%20about%204%20hours.)  
-18. The Ultimate Guide to Drying Mint in a Dehydrator \- Getty Stewart, accessed May 2, 2025, [https://www.gettystewart.com/the-ultimate-guide-to-drying-mint-in-a-dehydrator/](https://www.gettystewart.com/the-ultimate-guide-to-drying-mint-in-a-dehydrator/)  
-19. slowlivingkitchen.com, accessed May 2, 2025, [https://slowlivingkitchen.com/how-to-dry-mint/\#:\~:text=Pick%20individual%20stems%20with%20four,the%20sun%20or%20heat%20source.](https://slowlivingkitchen.com/how-to-dry-mint/#:~:text=Pick%20individual%20stems%20with%20four,the%20sun%20or%20heat%20source.)  
-20. How to dry fresh mint leaves at home\! \- YouTube, accessed May 2, 2025, [https://www.youtube.com/watch?v=QRaTRMBvojA\&pp=0gcJCfcAhR29\_xXO](https://www.youtube.com/watch?v=QRaTRMBvojA&pp=0gcJCfcAhR29_xXO)  
-21. How To Clean Mint Leaves \- YouTube, accessed May 2, 2025, [https://www.youtube.com/watch?v=9KDHeyuENX4](https://www.youtube.com/watch?v=9KDHeyuENX4)  
-22. The Ultimate Guide to Drying Herbs: Perfecting Your Dried Herbs \- Mars Hydro, accessed May 2, 2025, [https://www.mars-hydro.com/info/post/the-ultimate-guide-to-drying-herbs-perfecting-your-dried-herbs](https://www.mars-hydro.com/info/post/the-ultimate-guide-to-drying-herbs-perfecting-your-dried-herbs)  
-23. How to Grow and Dry Mint \- The Spruce Eats, accessed May 2, 2025, [https://www.thespruceeats.com/make-your-own-dried-mint-1706225](https://www.thespruceeats.com/make-your-own-dried-mint-1706225)  
-24. Drying Mint Leaves In A Dehydrator \- One Hundred Dollars a Month, accessed May 2, 2025, [https://www.onehundreddollarsamonth.com/drying-mint-leaves-in-a-dehydrator/](https://www.onehundreddollarsamonth.com/drying-mint-leaves-in-a-dehydrator/)  
-25. How To Dry Mint (3 Methods for Dried Mint) \- Alphafoodie, accessed May 2, 2025, [https://www.alphafoodie.com/how-to-dry-mint/](https://www.alphafoodie.com/how-to-dry-mint/)  
-26. How to Dry Mint \- Slow Living Kitchen, accessed May 2, 2025, [https://slowlivingkitchen.com/how-to-dry-mint/](https://slowlivingkitchen.com/how-to-dry-mint/)  
-27. How to Dry Herbs \- Roots and Refuge, accessed May 2, 2025, [https://rootsandrefuge.com/how-to-dry-herbs/](https://rootsandrefuge.com/how-to-dry-herbs/)  
-28. Drying and Storing Herbs (Updated 1/14/2021) | Aerogarden Addicts, accessed May 2, 2025, [https://aerogardenaddicts.com/thread/19/drying-storing-herbs-updated-2021](https://aerogardenaddicts.com/thread/19/drying-storing-herbs-updated-2021)  
-29. How to dry mint \- Maureen Abood, accessed May 2, 2025, [https://maureenabood.com/technique-how-to-dry-mint/](https://maureenabood.com/technique-how-to-dry-mint/)  
-30. Preserving herbs by freezing or drying | UMN Extension, accessed May 2, 2025, [https://extension.umn.edu/preserving-and-preparing/preserving-herbs-freezing-or-drying](https://extension.umn.edu/preserving-and-preparing/preserving-herbs-freezing-or-drying)  
-31. How to Dry Herbs and Flowers for Cooking, Infusions, Tinctures and ..., accessed May 2, 2025, [https://www.modernhippiehw.com/blog/how-to-dry-herbs-and-flowers](https://www.modernhippiehw.com/blog/how-to-dry-herbs-and-flowers)  
-32. www.masterclass.com, accessed May 2, 2025, [https://www.masterclass.com/articles/how-to-dry-mint-leaves\#:\~:text=Air%20drying%20method%3A%20The%20air,place%20away%20from%20direct%20sunlight.](https://www.masterclass.com/articles/how-to-dry-mint-leaves#:~:text=Air%20drying%20method%3A%20The%20air,place%20away%20from%20direct%20sunlight.)  
-33. How to Harvest, Dry, & Store Herbs From the Garden, accessed May 2, 2025, [https://blog.mountainroseherbs.com/drying-herbs](https://blog.mountainroseherbs.com/drying-herbs)  
-34. Drying out herbs : r/vegetablegardening \- Reddit, accessed May 2, 2025, [https://www.reddit.com/r/vegetablegardening/comments/1ezcfo2/drying\_out\_herbs/](https://www.reddit.com/r/vegetablegardening/comments/1ezcfo2/drying_out_herbs/)  
-35. extension.psu.edu, accessed May 2, 2025, [https://extension.psu.edu/lets-preserve-drying-herbs\#:\~:text=The%20flavor%20of%20herbs%20comes,dehydrator%20drying%2C%20and%20microwave%20drying.](https://extension.psu.edu/lets-preserve-drying-herbs#:~:text=The%20flavor%20of%20herbs%20comes,dehydrator%20drying%2C%20and%20microwave%20drying.)  
-36. The Easiest Way to Dry and Store Herbs from the Garden • Gardenary, accessed May 2, 2025, [https://www.gardenary.com/blog/my-favorite-way-to-dry-and-store-herbs-from-the-garden](https://www.gardenary.com/blog/my-favorite-way-to-dry-and-store-herbs-from-the-garden)  
-37. How To Dry Mint in The Oven \- Oven Drying Herbs \- YouTube, accessed May 2, 2025, [https://www.youtube.com/watch?v=a8nPOhTzvds\&pp=0gcJCdgAo7VqN5tD](https://www.youtube.com/watch?v=a8nPOhTzvds&pp=0gcJCdgAo7VqN5tD)  
-38. www.gardenary.com, accessed May 2, 2025, [https://www.gardenary.com/blog/my-favorite-way-to-dry-and-store-herbs-from-the-garden\#:\~:text=You'll%20know%20your%20herbs,moisture%20left%20in%20the%20herb.](https://www.gardenary.com/blog/my-favorite-way-to-dry-and-store-herbs-from-the-garden#:~:text=You'll%20know%20your%20herbs,moisture%20left%20in%20the%20herb.)  
-39. extension.umn.edu, accessed May 2, 2025, [https://extension.umn.edu/preserving-and-preparing/preserving-herbs-freezing-or-drying\#:\~:text=Store%20in%20airtight%20containers,-Place%20them%20in\&text=Glass%20keeps%20aromas%20in.,year%20in%20refrigerators%20or%20freezers.](https://extension.umn.edu/preserving-and-preparing/preserving-herbs-freezing-or-drying#:~:text=Store%20in%20airtight%20containers,-Place%20them%20in&text=Glass%20keeps%20aromas%20in.,year%20in%20refrigerators%20or%20freezers.)  
-40. 6 Tips for Storing Dried Herbs – Herbal Academy, accessed May 2, 2025, [https://theherbalacademy.com/blog/6-tips-for-storing-dried-herbs/](https://theherbalacademy.com/blog/6-tips-for-storing-dried-herbs/)
+1. Let's Preserve: Drying Herbs - Penn State Extension, accessed May 2, 2025, <https://extension.psu.edu/lets-preserve-drying-herbs>
+2. plantura.garden, accessed May 2, 2025, <https://plantura.garden/uk/herbs/mint/drying-mint#:~:text=In%20theory%2C%20you%20can%20harvest,so%20before%20the%20first%20frost.>
+3. Harvesting mint: when & how to cut mint plants - Plantura Magazin, accessed May 2, 2025, <https://plantura.garden/uk/herbs/mint/how-to-harvest-mint>
+4. How to Harvest Mint - Prune, Dry, Enjoy Your Mint - Getty Stewart, accessed May 2, 2025, <https://www.gettystewart.com/how-to-harvest-mint-prune-dry-enjoy-your-mint/>
+5. Drying & preserving mint leaves: useful tips - Plantura, accessed May 2, 2025, <https://plantura.garden/uk/herbs/mint/drying-mint>
+6. How to Harvest Mint, Dry Mint, and Store Mint, accessed May 2, 2025, <https://www.bhg.com/how-to-harvest-mint-8627966>
+7. How to Harvest & Dry Your Own Herbs - The Little Green Shoot, accessed May 2, 2025, <https://thelittlegreenshoot.com/how-to-harvest-dry-your-own-herbs/>
+8. How to Dry Basil and Other Herbs - Bootstrap Farmer, accessed May 2, 2025, <https://www.bootstrapfarmer.com/blogs/backyard-gardening/how-to-dry-basil-and-other-herbs>
+9. Our Tips for Drying Garden Herbs | Pinder's Nursery | Blog, accessed May 2, 2025, <https://pindersnursery.com/our-tips-for-drying-garden-herbs/>
+10. 10 Best Herb Drying Racks for Preserving Flavors That Beginners ..., accessed May 2, 2025, <https://www.farmstandapp.com/7494/best-herb-drying-racks-for-preserving-flavors/>
+11. How to Dry Herbs - Allrecipes, accessed May 2, 2025, <https://www.allrecipes.com/article/how-to-dry-herbs/>
+12. How to Dry Mint: 5 Easy Methods (Plus Storage Tips) - wikiHow, accessed May 2, 2025, <https://www.wikihow.com/Dry-Mint>
+13. How to Dry Your Own Herbs | Texas Heritage for Living, accessed May 2, 2025, <https://blog.txfb-ins.com/texas-living/how-to-dry-herbs/>
+14. How to harvest and dry herbs – The Official Website of Jamie Foley, accessed May 2, 2025, <https://jamiefoley.com/how-to-harvest-and-dry-herbs/>
+15. How to Dry Mint Leaves: 3 Ways to Dry Mint Leaves ... - MasterClass, accessed May 2, 2025, <https://www.masterclass.com/articles/how-to-dry-mint-leaves>
+16. How to dry and store Mint Drying Herbs Retro Aprons, accessed May 2, 2025, <https://www.stitchthrutime.com/How_To_Dry_Mint.html>
+17. www.onehundreddollarsamonth.com, accessed May 2, 2025, <https://www.onehundreddollarsamonth.com/drying-mint-leaves-in-a-dehydrator/#:~:text=First%2C%20gently%20rinse%20your%20mint,dehydrate%20for%20about%204%20hours.>
+18. The Ultimate Guide to Drying Mint in a Dehydrator - Getty Stewart, accessed May 2, 2025, <https://www.gettystewart.com/the-ultimate-guide-to-drying-mint-in-a-dehydrator/>
+19. slowlivingkitchen.com, accessed May 2, 2025, <https://slowlivingkitchen.com/how-to-dry-mint/#:~:text=Pick%20individual%20stems%20with%20four,the%20sun%20or%20heat%20source.>
+20. How to dry fresh mint leaves at home! - YouTube, accessed May 2, 2025, <https://www.youtube.com/watch?v=QRaTRMBvojA&pp=0gcJCfcAhR29_xXO>
+21. How To Clean Mint Leaves - YouTube, accessed May 2, 2025, <https://www.youtube.com/watch?v=9KDHeyuENX4>
+22. The Ultimate Guide to Drying Herbs: Perfecting Your Dried Herbs - Mars Hydro, accessed May 2, 2025, <https://www.mars-hydro.com/info/post/the-ultimate-guide-to-drying-herbs-perfecting-your-dried-herbs>
+23. How to Grow and Dry Mint - The Spruce Eats, accessed May 2, 2025, <https://www.thespruceeats.com/make-your-own-dried-mint-1706225>
+24. Drying Mint Leaves In A Dehydrator - One Hundred Dollars a Month, accessed May 2, 2025, <https://www.onehundreddollarsamonth.com/drying-mint-leaves-in-a-dehydrator/>
+25. How To Dry Mint (3 Methods for Dried Mint) - Alphafoodie, accessed May 2, 2025, <https://www.alphafoodie.com/how-to-dry-mint/>
+26. How to Dry Mint - Slow Living Kitchen, accessed May 2, 2025, <https://slowlivingkitchen.com/how-to-dry-mint/>
+27. How to Dry Herbs - Roots and Refuge, accessed May 2, 2025, <https://rootsandrefuge.com/how-to-dry-herbs/>
+28. Drying and Storing Herbs (Updated 1/14/2021) | Aerogarden Addicts, accessed May 2, 2025, <https://aerogardenaddicts.com/thread/19/drying-storing-herbs-updated-2021>
+29. How to dry mint - Maureen Abood, accessed May 2, 2025, <https://maureenabood.com/technique-how-to-dry-mint/>
+30. Preserving herbs by freezing or drying | UMN Extension, accessed May 2, 2025, <https://extension.umn.edu/preserving-and-preparing/preserving-herbs-freezing-or-drying>
+31. How to Dry Herbs and Flowers for Cooking, Infusions, Tinctures and ..., accessed May 2, 2025, <https://www.modernhippiehw.com/blog/how-to-dry-herbs-and-flowers>
+32. www.masterclass.com, accessed May 2, 2025, <https://www.masterclass.com/articles/how-to-dry-mint-leaves#:~:text=Air%20drying%20method%3A%20The%20air,place%20away%20from%20direct%20sunlight.>
+33. How to Harvest, Dry, & Store Herbs From the Garden, accessed May 2, 2025, <https://blog.mountainroseherbs.com/drying-herbs>
+34. Drying out herbs : r/vegetablegardening - Reddit, accessed May 2, 2025, <https://www.reddit.com/r/vegetablegardening/comments/1ezcfo2/drying_out_herbs/>
+35. extension.psu.edu, accessed May 2, 2025, <https://extension.psu.edu/lets-preserve-drying-herbs#:~:text=The%20flavor%20of%20herbs%20comes,dehydrator%20drying%2C%20and%20microwave%20drying.>
+36. The Easiest Way to Dry and Store Herbs from the Garden • Gardenary, accessed May 2, 2025, <https://www.gardenary.com/blog/my-favorite-way-to-dry-and-store-herbs-from-the-garden>
+37. How To Dry Mint in The Oven - Oven Drying Herbs - YouTube, accessed May 2, 2025, <https://www.youtube.com/watch?v=a8nPOhTzvds&pp=0gcJCdgAo7VqN5tD>
+38. www.gardenary.com, accessed May 2, 2025, <https://www.gardenary.com/blog/my-favorite-way-to-dry-and-store-herbs-from-the-garden#:~:text=You'll%20know%20your%20herbs,moisture%20left%20in%20the%20herb.>
+39. extension.umn.edu, accessed May 2, 2025, <https://extension.umn.edu/preserving-and-preparing/preserving-herbs-freezing-or-drying#:~:text=Store%20in%20airtight%20containers,-Place%20them%20in&text=Glass%20keeps%20aromas%20in.,year%20in%20refrigerators%20or%20freezers.>
+40. 6 Tips for Storing Dried Herbs – Herbal Academy, accessed May 2, 2025, <https://theherbalacademy.com/blog/6-tips-for-storing-dried-herbs/>

@@ -5,14 +5,15 @@ Last Tended: 2025-06-17
 updated: 2025-06-17T14:38:07.921-07:00
 edited_seconds: 0
 ---
-#🌱Seed  #🙂Agree  #🥾SpiritualPractices-EmbodiedLiving 
 
-****
+\#🌱Seed  #🙂Agree  #🥾SpiritualPractices-EmbodiedLiving
+
+---
 
 > [!summary] The Big Idea
 > Some collected Ideas and thoughts about writing prayer walk guides
 
-****
+---
 
 # Physical Form Factor
 
@@ -27,7 +28,7 @@ There could be two main types:
 
 # Seasonal Themes: 
 
-- [[The Wilderness/Stations of the Cross]] - [prayer guide from my home church](https://www.stpaulsfallschurch.org/wp-content/uploads/2022/03/Stations_of_the_Cross.St_._Pauls2.pdf) 
+- [[Stations of the Cross]] - [prayer guide from my home church](https://www.stpaulsfallschurch.org/wp-content/uploads/2022/03/Stations_of_the_Cross.St_._Pauls2.pdf) 
 - Days of creation 
 - Lament 
 - Christmas O antiphons - [Lutheran Witness articles](https://witness.lcms.org/2020/o-sapientia/) 
@@ -38,7 +39,7 @@ There could be two main types:
 
 - Practice for slowing down with the Lord’s Prayer 
 
-- [[The Garden/Memory and Learning/Learning and the Inner Life/Inner Faculties/Christian Meditation]] explained (as opposed to eastern meditation) 
+- [[Christian Meditation]] explained (as opposed to eastern meditation) 
 
 - Practice for praying a piece of Scripture 
 
@@ -48,13 +49,13 @@ There could be two main types:
 
 # Collected Notes from other Materials and Writings:
 
-- [[The Garden/Teaching and Grammar/Reading Scripture Devotionally]]
-- [[The Garden/Teaching and Grammar/Handouts/Activity-A Conversion with Scripture]]
-- [[The Garden/Poetry and Rhetoric/Typology, Imagery and Metaphor/Metaphor in Scripture]]
-- [[The Garden/Poetry and Rhetoric/A Conversation with God (Epistle)]]
-- [[The Garden/Memory and Learning/Learning and the Inner Life/Inner Faculties/Quiet Muttering]]
-- [[The Garden/Bible Book Notes/Psalms/Psalms-The Language of Our Heart]]
-- [[The Garden/Doctrine and Logic/Liturgy and Sacred Space/Sacred Space]]
-- [[The Garden/Memory and Learning/Learning and the Inner Life/Rhythms and Practices/Lectio Divina]]
-- [[The Garden/Memory and Learning/Learning and the Inner Life/Rhythms and Practices/Oratio, Meditatio, Tentatio]]
-- [[The Garden/Sermon Outlines/Treasure of Heaven Sermon Outline]]
+- [[Reading Scripture Devotionally]]
+- [[Activity-A Conversion with Scripture]]
+- [[Metaphor in Scripture]]
+- [[A Conversation with God (Epistle)]]
+- [[Quiet Muttering]]
+- [[Psalms-The Language of Our Heart]]
+- [[Sacred Space]]
+- [[Lectio Divina]]
+- [[Oratio, Meditatio, Tentatio]]
+- [[Treasure of Heaven Sermon Outline]]

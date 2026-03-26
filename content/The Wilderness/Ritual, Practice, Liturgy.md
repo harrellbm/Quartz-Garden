@@ -1,22 +1,22 @@
 ---
 publish: true
-created: 2025-12-22T09:38:56.102-08:00
+created: 2024-10-22
 modified: 2026-03-11T13:07:19.051-07:00
 published: 2026-03-11T13:07:19.051-07:00
 ---
 
-#🪴Sprout  #😟Disagree  #📚Definition 
+\#🪴Sprout  #😟Disagree  #📚Definition
 
-****
+---
 
 > [!Summary] The Big Idea
 > This distinction is not as helpful in practice as it seemed when I first read about it from Smith.
-> 
-> Smith, S. (2009). Desiring the kingdom : worship, worldview, and cultural formation. Retrieved from [https://archive.org/details/desiringkingdomw0000smit/](https://archive.org/details/desiringkingdomw0000smit/)
-> 
+>
+> Smith, S. (2009). Desiring the kingdom : worship, worldview, and cultural formation. Retrieved from <https://archive.org/details/desiringkingdomw0000smit/>
+>
 > The idea that liturgy is rhythm and that liturgy is doing the redeemed world right (from Marriott) are much more compelling and useful definitions of liturgy.
 
-****
+---
 
 If we are seeking to shape the desires of our people through embodied practices. The next question becomes: What practices are we after? Are we trying to tell people how to brush their teeth or make toast? 
 

@@ -5,33 +5,34 @@ Last Tended: 2025-06-17
 updated: 2025-06-17T14:29:39.005-07:00
 edited_seconds: 1
 ---
-#🪴Sprout  #🙂Agree  #🛠️BringingLifeintotheWorld 
 
-****
+\#🪴Sprout  #🙂Agree  #🛠️BringingLifeintotheWorld
+
+---
 
 > [!summary] The Big Idea
 > Good design can be analyzed and learned using foundational principles.
-> 
-> The Purpose of good design is not just to look nice but to actually have a space function well and offer a space for healthy living. 
+>
+> The Purpose of good design is not just to look nice but to actually have a space function well and offer a space for healthy living.
 
-Related Notes: [[The Wilderness/Our Savior's Church and School Painting Guidelines]], [[The Wilderness/Our Savior's Church and School Selection Criteria 2023]], [[The Garden/Doctrine and Logic/Cosmology or What is this Place/Christopher Alexander (Architect, Author)]]
+Related Notes: [[Our Savior's Church and School Painting Guidelines]], [[Our Savior's Church and School Selection Criteria 2023]], [[Christopher Alexander (Architect, Author)]]
 
-****
+---
 
 # Perspective Laid Out By Christopher Alexander
 
-- [[The Garden/Doctrine and Logic/Cosmology or What is this Place/Christopher Alexander (Architect, Author)]]
+- [[Christopher Alexander (Architect, Author)]]
 
 Looking to history and nature are two places to help find inspiration as well as learn about what makes a good design. 
 
 Principles are a framework to help refine and analyze not a blind checklist 
 
 ## Basic principles from Frank Jackson
-  
+
 **Contrast** - color differences. The most stark being black on white 
 
 **Variety** - circle example of no variety, oval example of shape with variety 
-  
+
 **Repetition** - taking the same line or shape and repeating it 
 
 **Symmetry** - the same thing on both sides of a base line 
@@ -51,9 +52,11 @@ Balance of imitative principle of copying things from nature and the inventive p
 ## From Architecture as Pedagogy by David Orr 
 
 Basically makes the argument that building teach us about what we think about the earth and the world around us and how we relate to other humans
+
 ## From Mapping a sense of place by hicks and king
 
 Mapping experiences are a way to think through the meaning embedded in the natural and built parts of our environment and see how it differs from others 
+
 ## From Personal and Public Place by Guinan
 
-Hearing and learning about the stories of people who have built or live in a place helps make [[The Wilderness/Architecture]] more meaningful and helps us be more empathetic**
+Hearing and learning about the stories of people who have built or live in a place helps make [[Architecture]] more meaningful and helps us be more empathetic\*\*

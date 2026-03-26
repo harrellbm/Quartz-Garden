@@ -1,13 +1,13 @@
 ---
 publish: true
-created: 2025-12-22T09:38:57.687-08:00
+created: 2024-10-22
 modified: 2026-02-18T09:04:04.832-08:00
 published: 2026-02-18T09:04:04.832-08:00
 ---
 
-#🌿Sapling #🙂Agree #🟢Conviction #🔥Doctrine-Poetry-Story 
+\#🌿Sapling #🙂Agree #🟢Conviction #🔥Doctrine-Poetry-Story
 
-****
+---
 
 > [!summary] The Big Idea
 > The connection between dirt and the human person is deeply meaningful and worth investigating.
@@ -16,7 +16,8 @@ published: 2026-02-18T09:04:04.832-08:00
 > used for OS #📃Epistle May 2023
 > Edited and used for LCOS #📃Epistle June 2025
 
-****
+---
+
 # Remember That You are Dirt... and Breath
 
 The Bible is a sea of rich imagery. A single word can connect to other places all over the pages of Scripture. This is especially true for numbers and images that occur frequently throughout story after story. These connections help to build our understanding and imagination of not just the Bible, but also the world around us. 
@@ -33,8 +34,8 @@ Yet dirt is not all negative, the Hebrew verb Yatzar יצר is used to describe 
 
 The interweaving of images and metaphors involving dirt extend far beyond these few examples. I hope that these connections can help open your eyes to the richness of Scripture. Every single image, in every single story, is equally interwoven within the grand narrative of God’s salvation. This overwhelming complexity of beauty is an ever calling invitation. Each of us are called as God’s people to search, learn, memorize, remember, and talk about God’s everlasting word. A lifetime is not nearly enough to exhaust the depths of Scripture.
 
+# Other Dirt connections
 
-# Other Dirt connections 
 Gardener parables 
 
 Dirt with creative word equals human 

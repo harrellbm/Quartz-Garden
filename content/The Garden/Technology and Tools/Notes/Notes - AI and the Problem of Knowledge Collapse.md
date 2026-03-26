@@ -1,22 +1,22 @@
 ---
 publish: true
-created: 2025-12-22T09:38:57.554-08:00
+created: 2024-10-24
 modified: 2026-03-05T09:05:27.553-08:00
 published: 2026-03-05T09:05:27.560-08:00
 ---
 
-#🌱Seed  #🙂Agree   #🟢Conviction  #🏖️Universe-Humans 
+\#🌱Seed  #🙂Agree   #🟢Conviction  #🏖️Universe-Humans
 
-****
+---
 
 > [!summary] The Big Idea
-> With the rise of AI and the deterioration of search engines (i.e. you can pay enough to be the first result), preserving knowledge that can not be easily accessed because it is not in the main distribution  (i.e. [[The Garden/Technology and Tools/Concepts and Definitions/Tail Knowledge and Knowledge Collapse]]) will be increasingly important. Because, realistically, good solid theology will most likely find itself in the tail. Being less accessed and more easily forgotten and pushed aside.
+> With the rise of AI and the deterioration of search engines (i.e. you can pay enough to be the first result), preserving knowledge that can not be easily accessed because it is not in the main distribution  (i.e. [[Tail Knowledge and Knowledge Collapse]]) will be increasingly important. Because, realistically, good solid theology will most likely find itself in the tail. Being less accessed and more easily forgotten and pushed aside.
 
-* * *
+---
 
-It is important to differentiate between consensus truth vs real truth. 
+It is important to differentiate between consensus truth vs real truth.
 
-Search engines show you things based on who has paid more or has the most traffic. You can’t always trust the search engine to actually show you what you need or are looking for as the most accurate information or resource. 
+Search engines show you things based on who has paid more or has the most traffic. You can’t always trust the search engine to actually show you what you need or are looking for as the most accurate information or resource.
 
 Ai works similarly with responding using the most statistically likely response to the request. More complicated models have other mechanics and rail guards in between but the basic mechanic is till spitting out things it has seen the most often in training. In other words, Ai will serve up stuff from the center of the normal distribution of data it was trained on.
 
@@ -26,6 +26,6 @@ This leads to what we are talking about as "tail knowledge." That is stuff that 
 > Therefore, how do we as a community preserve truth when it sits in the tails of the distribution?
 
 I think the start to an answer to this question might be held here:
-[[The Wilderness/The Purpose of a Church Library]]
+[[The Purpose of a Church Library]]
 
 ![[The Library/Ebooks and Articles/Technology and Tools/Peterson - 2024 - AI and the Problem of Knowledge Collapse.pdf]]

@@ -1,21 +1,23 @@
 ---
 publish: true
-created: 2025-12-22T09:38:53.928-08:00
+created: 2025-01-08
 modified: 2026-02-02T10:50:22.727-08:00
 published: 2026-02-02T10:50:22.727-08:00
 ---
 
-#🌲Evergreen   #😐Neutral   #📓Journal  #🛠️BringingLifeintotheWorld 
+\#🌲Evergreen   #😐Neutral   #📓Journal  #🛠️BringingLifeintotheWorld
 
-****
+---
 
 > `Importance`: 10%
 
 > [!Summary] The Big Idea
-> A collection of diferent places to find art for use in worship or around other faith based needs. 
+> A collection of diferent places to find art for use in worship or around other faith based needs.
 
-****
+---
+
 # General Open Use Art Databases
+
 [The Met Open Access](https://www.metmuseum.org/about-the-met/policies-and-documents/open-access)
 
 [Getty Open Content Program](https://www.getty.edu/projects/open-content-program/)
@@ -25,18 +27,19 @@ published: 2026-02-02T10:50:22.727-08:00
 [Cleveland Museum of Art Open Access](https://www.clevelandart.org/open-access)
 
 [Europeana](https://www.europeana.eu/en)
-# Specifically Liturgical art 
+
+# Specifically Liturgical art
 
 [Full of Eyes](https://www.fullofeyes.com/gallery/) - THIS IS FREE AND BEAUTIFUL!!
 
-[Eyekons](https://www.eyekons.com/church_image_banks) - Images for sale 
+[Eyekons](https://www.eyekons.com/church_image_banks) - Images for sale
 
 [Catechesisbooks](https://www.catechesisbooks.com/products)
 
 [The Text this week](http://www.textweek.com/art/art.htm)
 
- Sarah Bernhardt (contact from Marriott) sarah.ruth.bernhardt@gmail.com
- 
+Sarah Bernhardt (contact from Marriott) sarah.ruth.bernhardt@gmail.com
+
 [Sparks and Echo](https://www.sparkandecho.org/gallery) - Art collective
 
 https://engageart.org/about/

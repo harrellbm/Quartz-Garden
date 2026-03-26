@@ -3,22 +3,25 @@ publish: true
 aliases:
   - Hotkeys
   - Keyboard Shortcuts
-created: 2025-12-22T09:38:57.992-08:00
-modified: 2026-02-02T13:04:10.594-08:00
-published: 2026-02-02T13:04:10.594-08:00
+created: 2024-10-22
+modified: 2026-03-25T13:33:25.956-07:00
+published: 2026-03-25T13:33:25.963-07:00
+tags:
+  - 🔗index
 ---
 
-#🌱Seed  #😐Neutral #🛠️BringingLifeintotheWorld 
-****
-> `Importance`: 10%
- 
->[!Summary] The Big Idea
->A Short list of useful key strokes 
+---
 
-****
+> [!Summary] The Big Idea
+> A Short list of useful key strokes
+
+---
+
 `Shift + Arrows` - Up and down selects lines of text from the cursor. Left and right selects single characters from the cursor.
 
 `Ctrl + Arrows` - Up and down moves cursor to the start or end of a paragraph. Left and right moves cursor to the start or end of a word.
+
+`Ctrl + Home` - Jump to the top of the page.
 
 `Ctrl + C` - Copy selected text. 
 
@@ -35,3 +38,5 @@ published: 2026-02-02T13:04:10.594-08:00
 `Shift + Tab` - Move tab to the left. Basically "undo tab"
 
 `Ctrl + B` - Toggle bold
+
+`Ctrl + I` - Toggle Italics

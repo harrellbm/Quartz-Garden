@@ -1,23 +1,25 @@
 ---
 publish: true
-created: 2025-12-22T09:38:54.010-08:00
+created: 2024-10-22
 modified: 2025-08-21T09:51:13.101-07:00
 published: 2026-02-24T11:52:58.816-08:00
 ---
 
-#🍋Fruit   #😁Strongly-Agree   #🟢Conviction  #🥾SpiritualPractices-EmbodiedLiving 
-****
- 
+\#🍋Fruit   #😁Strongly-Agree   #🟢Conviction  #🥾SpiritualPractices-EmbodiedLiving
+
+---
+
 > [!summary] The Big Idea
-> A guided meditation through Psalm 8. 
+> A guided meditation through Psalm 8.
 
 > [!note]
 > Presented to Springfield Pastor's Winkle in March 2023. Also used as OS #📃Epistle in the same month.
-> 
+>
 > Also used as LCOS #📃Epistle in Sept 2025.
 
-****
-I would like to invite you into a short meditation on Psalm 8. 
+---
+
+I would like to invite you into a short meditation on Psalm 8.
 
 If your life is anything like mine, there often seems to be something unexpected or stressful on the horizon. When these things happen you can feel your body begin to tense up as you brace for the impact of the next thing and the next thing....  It is easy to begin to lose hope when life puts you through the ringer.  Yet God has given us resources to make it through times like these in one piece. On our own, we quickly begin to fall apart, ground down by stress or pulled a million directions. But the word of God invites us to come to a place of rest, out of the chaos of our lives. 
 
@@ -59,7 +61,7 @@ Can you imagine the hand of God forming the night sky?
 
 ---
 
-4 what is man that you are mindful of him,  and the [[The Wilderness/Son of Man]] that you care for him?
+4 what is man that you are mindful of him,  and the [[Son of Man]] that you care for him?
 
 How small do you feel compared to the descriptions of God and the night sky? How amazing is it that God cares about you?
 
@@ -91,7 +93,7 @@ How much does God value you in giving you responsibility over this world?
 
 7 all sheep and oxen, and also the beasts of the field, 8 the birds of the heavens, and the fish of the sea, whatever passes along the paths of the seas.
 
-What is our role in taking care of animals? How does God call us to take care of His world *with* Him?
+What is our role in taking care of animals? How does God call us to take care of His world _with_ Him?
 
 ---
 

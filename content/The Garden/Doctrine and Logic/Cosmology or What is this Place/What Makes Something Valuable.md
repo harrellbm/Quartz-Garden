@@ -1,18 +1,18 @@
 ---
 publish: true
-created: 2025-12-22T09:38:58.129-08:00
+created: 2024-10-22
 modified: 2026-02-02T10:53:04.342-08:00
 published: 2026-02-02T10:53:04.342-08:00
 ---
 
-#🌱Seed  #🙂Agree #🏖️Universe-Humans 
+\#🌱Seed  #🙂Agree #🏖️Universe-Humans
 
-****
+---
 
 > [!Summary] The Big Idea
-> What are the basic traits that make something worth doing? 
+> What are the basic traits that make something worth doing?
 
-We live in a world that so often prizes the efficient, the finished, the mechanical, the profitable, the productive and the fast. Anything that makes more money faster or more success faster. And if it checks those boxes than it’s good or worth while. 
+We live in a world that so often prizes the efficient, the finished, the mechanical, the profitable, the productive and the fast. Anything that makes more money faster or more success faster. And if it checks those boxes than it’s good or worth while.
 
 But what if instead the things that are creaturely were more important than those?
 
@@ -20,9 +20,8 @@ The rhythms of life, the cycles, the unfinished, the in process, the slow and de
 
 The think to be avoided in all this is the look of being productive or generative but never gaining real growth or being challenged to be the best you can be.
 
-So I guess there still needs to be a basic imperative call forward but not to the standard description of success. Rather it should be the Call of [[The Garden/Teaching and Grammar/Theological Concepts and Frameworks/The Two Commissions]]. This lays out God’s definition of human flourishing because our human definitions suck. 
+So I guess there still needs to be a basic imperative call forward but not to the standard description of success. Rather it should be the Call of [[The Two Commissions]]. This lays out God’s definition of human flourishing because our human definitions suck.
 
-****
-Related note: [[The Garden/Doctrine and Logic/Cosmology or What is this Place/Abstract Basis of Life]], [[The Wilderness/A Creature Among Machines]]
+---
 
-
+Related note: [[Abstract Basis of Life]], [[A Creature Among Machines]]

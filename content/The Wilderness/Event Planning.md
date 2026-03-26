@@ -3,16 +3,18 @@ publish: true
 Note Planted: 2024-10-22
 Last Tended: 2025-01-22
 ---
-#🌱Seed  #🙂Agree   #🍽️Community-Mission 
 
-****
+\#🌱Seed  #🙂Agree   #🍽️Community-Mission
+
+---
 
 > [!Summary] The Big Idea
-> Event planning is not super natural for me. So here are some basic notes and observations I have gathered from people who are good at it. 
+> Event planning is not super natural for me. So here are some basic notes and observations I have gathered from people who are good at it.
 
-****
+---
 
 # Flow of Planning
+
 Audience
 
 Numbers

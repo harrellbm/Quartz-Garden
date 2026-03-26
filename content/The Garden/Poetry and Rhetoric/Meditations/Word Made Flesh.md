@@ -1,20 +1,20 @@
 ---
 publish: true
-created: 2025-12-22T09:38:58.232-08:00
+created: 2024-10-22
 modified: 2026-02-02T09:40:22.097-08:00
 published: 2026-02-02T09:40:22.097-08:00
 ---
 
-#🌱Seed  #🙂Agree #✒️Poem #🔥Doctrine-Poetry-Story 
+\#🌱Seed  #🙂Agree #✒️Poem #🔥Doctrine-Poetry-Story
 
-****
+---
 
 > [!summary] The Big Idea
 > Unfinished Poem about Jesus the Word of life and His movement through history.
 
-****
+---
 
-> [!cite]  *A Reflection on Poetry in Scripture* - Alabaster Co.
+> [!cite]  _A Reflection on Poetry in Scripture_ - Alabaster Co.
 > “The Bible is more than prosaic rituals; it is a love letter, a story of adventure & victory, a multigenre conglomeration that God called “good,” full of mystery, romance, comedy, prophesy, even poetry.”
 
 > [!quote] John 1:1-4
