@@ -1,8 +1,13 @@
 ---
 publish: true
 created: 2025-05-20
-modified: 2025-06-17T13:40:11.285-07:00
-published: 2026-02-02T10:41:15.192-08:00
+modified: 2025-06-17 13:40:11.285000-07:00
+published: 2026-04-01T14:08:00.321-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🟢Conviction
+  - 🔥Doctrine-Poetry-Story
 ---
 
 \#🌱Seed   #🙂Agree   #🟢Conviction   #🔥Doctrine-Poetry-Story
@@ -21,5 +26,4 @@ published: 2026-02-02T10:41:15.192-08:00
 Something I'll be taking into my contemplations as I prepare for the week and thought you might think it is interesting as well.
 
 \[^1]: Arndt, William, et al. A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed., University of Chicago Press, 2000, pp. 779–80.
-
 \[^2]: Arndt, William, et al. A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed., University of Chicago Press, 2000, p. 781.

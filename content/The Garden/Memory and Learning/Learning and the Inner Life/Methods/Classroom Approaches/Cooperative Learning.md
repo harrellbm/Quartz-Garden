@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-02-26T09:52:04.145-08:00
-published: 2026-02-26T09:52:04.145-08:00
----
-
-\#🌱Seed  #🙂Agree  #🔥Doctrine-Poetry-Story
-
+modified: 2026-04-01T14:41:24.542-07:00
+published: 2026-04-01T14:41:24.547-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🔥Doctrine-Poetry-Story
 ---
 
 _**The Big Idea**_: Type of [[Pedagogy]].

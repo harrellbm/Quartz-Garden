@@ -1,9 +1,12 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-09-29
-updated: 2025-09-29T10:06:26.751-07:00
-edited_seconds: 20
+created: 2024-10-22
+modified: 2025-09-29 10:06:26.751000-07:00
+published: 2026-04-01T14:07:58.825-07:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
+  - 🟡Consideration
 ---
 
 \#🌱Seed   #😐Neutral   #🟡Consideration

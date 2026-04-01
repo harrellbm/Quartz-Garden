@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2025-07-31T09:02:14.003-07:00
-published: 2026-02-02T10:33:26.954-08:00
----
-
-\#🪴Sprout   #😁Strongly-Agree  #🟡Consideration  #🛠️BringingLifeintotheWorld
-
+modified: 2026-04-01T14:30:33.123-07:00
+published: 2026-04-01T14:30:33.129-07:00
+tags:
+  - 🪴Sprout
+  - 😁Strongly-Agree
+  - 🟡Consideration
 ---
 
 > [!Summary] The Big Idea

@@ -1,11 +1,12 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-06-04
----
-
-\#🌱Seed  #🙂Agree  #📘BookNotes
-
+created: 2024-10-22
+modified: 2026-04-01T14:26:44.390-07:00
+published: 2026-04-01T14:26:44.396-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 📘BookNotes
 ---
 
 > [!Summary] The Big Idea

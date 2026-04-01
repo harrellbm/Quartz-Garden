@@ -2,8 +2,8 @@
 publish: true
 title: Joining Jesus
 created: 2024-10-22
-modified: 2026-02-02T10:48:44.251-08:00
-published: 2026-02-02T10:48:44.257-08:00
+modified: 2026-02-02 10:48:44.251000-08:00
+published: 2026-04-01T15:21:28.660-07:00
 tags:
   - 📕Book
 ---

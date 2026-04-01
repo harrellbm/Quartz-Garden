@@ -1,13 +1,11 @@
 ---
 publish: true
+created: 2025-11-24
+modified: 2025-11-24 09:32:30.978000-08:00
+published: 2026-04-01T14:08:00.327-07:00
 tags:
-  - "#🌱Seed"
   - 😐Neutral
   - 🟡Consideration
-updated: 2025-11-24T09:32:30.978-08:00
-edited_seconds: 120
-Note Planted: 2025-11-24
-Last Tended: 2025-11-24
 ---
 
 > [!Summary] The Big Idea
@@ -58,6 +56,5 @@ John is unique both in the chiastic arrangement of the episodes and in the exclu
 - Purchase of spices by the women (Luke 23:56)\[^2]
 
 \[^1]: Gary M. Burge, John (NIV Application Commentary; Grand Rapids: Zondervan, 2000), 485-486.
-
 \[^2]: Raymond E. Brown, The Gospel according to John: Introduction, Translation, and Notes (Anchor Bible,
 Volume 29A; Garden City: Doubleday, 1970), 914.

@@ -1,9 +1,13 @@
 ---
-Note Planted: 2025-04-03
-Last Tended: 2025-07-02
 publish: true
-updated: 2025-07-02T10:36:09.374-07:00
-edited_seconds: 89
+created: 2025-04-03
+modified: 2025-07-02 10:36:09.374000-07:00
+published: 2026-04-01T14:07:59.038-07:00
+tags:
+  - 🪴Sprout
+  - 🙂Agree
+  - 🟡Consideration
+  - 📊Project
 ---
 
 \#🪴Sprout   #🙂Agree   #🟡Consideration   #📊Project   #🛠️BringingLifeintotheWorld

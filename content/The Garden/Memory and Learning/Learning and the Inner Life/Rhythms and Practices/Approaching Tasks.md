@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2024-12-16
-modified: 2026-02-02T09:40:16.175-08:00
-published: 2026-02-02T09:40:16.175-08:00
----
-
-\#🌱Seed   #🙂Agree   #🟡Consideration   #🛠️BringingLifeintotheWorld
-
+modified: 2026-04-01T14:52:45.084-07:00
+published: 2026-04-01T14:52:45.084-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🟡Consideration
 ---
 
 > [!Summary] The Big Idea

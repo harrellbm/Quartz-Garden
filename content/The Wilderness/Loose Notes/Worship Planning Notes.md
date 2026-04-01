@@ -1,8 +1,12 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-01-07T12:11:04.773-08:00
-published: 2026-01-07T12:11:04.773-08:00
+modified: 2026-04-01T14:08:01.688-07:00
+published: 2026-04-01T14:08:01.688-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🟡Consideration
 ---
 
 \#🌱Seed   #🙂Agree   #🟡Consideration   #🍽️Community-Mission

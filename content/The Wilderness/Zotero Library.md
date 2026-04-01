@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2025-06-17T14:45:58.949-07:00
-published: 2026-03-10T14:24:25.266-07:00
----
-
-\#🪴Sprout  #🙂Agree  #📊Project
-
+modified: 2026-04-01T14:22:44.080-07:00
+published: 2026-04-01T14:22:44.087-07:00
+tags:
+  - 🪴Sprout
+  - 🙂Agree
+  - 📊Project
 ---
 
 > [!summary] The Big Idea

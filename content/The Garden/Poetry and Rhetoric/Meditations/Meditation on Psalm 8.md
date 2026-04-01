@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2025-08-21T09:51:13.101-07:00
-published: 2026-02-24T11:52:58.816-08:00
----
-
-\#🍋Fruit   #😁Strongly-Agree   #🟢Conviction  #🥾SpiritualPractices-EmbodiedLiving
-
+modified: 2026-04-01T14:44:06.598-07:00
+published: 2026-04-01T14:44:06.603-07:00
+tags:
+  - 🍋Fruit
+  - 😁Strongly-Agree
+  - 🟢Conviction
+  - 🥾SpiritualPractices-EmbodiedLiving
+  - 📃Epistle
 ---
 
 > [!summary] The Big Idea

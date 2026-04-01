@@ -1,8 +1,13 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-02-02T11:11:25.234-08:00
-published: 2026-02-02T11:11:25.234-08:00
+modified: 2026-04-01T14:07:58.856-07:00
+published: 2026-04-01T14:07:58.856-07:00
+tags:
+  - 🪴Sprout
+  - 😐Neutral
+  - 🟡Consideration
+  - 🥾SpiritualPractices-EmbodiedLiving
 ---
 
 \#🪴Sprout  #😐Neutral  #🟡Consideration  #🥾SpiritualPractices-EmbodiedLiving

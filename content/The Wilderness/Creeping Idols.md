@@ -1,11 +1,12 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-06-04
----
-
-\#🌱Seed  #🙂Agree  #🔥Doctrine-Poetry-Story
-
+created: 2024-10-22
+modified: 2026-04-01T14:37:13.245-07:00
+published: 2026-04-01T14:37:13.255-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🔥Doctrine-Poetry-Story
 ---
 
 _**The Big Idea**_: The worst kind of idols are the ones we don’t even notice creeping into our life little by little.

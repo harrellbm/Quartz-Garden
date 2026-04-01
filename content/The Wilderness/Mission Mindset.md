@@ -1,14 +1,14 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-06-04
+created: 2024-10-22
+modified: 2026-04-01T14:33:09.880-07:00
+published: 2026-04-01T14:33:09.886-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🟢Conviction
+  - 📚Definition
 ---
-
-\#🌱Seed  #🙂Agree  #🟢Conviction #📚Definition
-
----
-
-> `Importance`: 10%
 
 > [!summary] The Big Idea
 > As God’s people we have been sent to out to the four corners of the world to proclaim the Gospel and welcome Christ’s children home.  

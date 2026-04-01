@@ -2,8 +2,8 @@
 publish: true
 title: The Psalter Reclaimed
 created: 2025-12-22T09:38:51.689-08:00
-modified: 2025-10-13T14:19:51.658-07:00
-published: 2026-01-07T13:09:43.168-08:00
+modified: 2025-10-13 14:19:51.658000-07:00
+published: 2026-04-01T15:21:28.585-07:00
 tags:
   - 📕Book
 ---

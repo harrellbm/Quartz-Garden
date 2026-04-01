@@ -1,9 +1,12 @@
 ---
 publish: true
-Note Planted: 2024-11-04
-Last Tended: 2025-06-12
-updated: 2025-06-17T14:48:24.988-07:00
-edited_seconds: 4
+created: 2024-11-04
+modified: 2025-06-17 14:48:24.988000-07:00
+published: 2026-04-01T14:08:01.724-07:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
+  - 📘BookNotes
 ---
 
 \#🌱Seed  #😐Neutral  #📘BookNotes

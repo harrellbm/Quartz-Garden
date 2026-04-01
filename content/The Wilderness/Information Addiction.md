@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2025-05-05
-modified: 2026-03-05T09:06:22.158-08:00
-published: 2026-03-05T09:06:22.167-08:00
----
-
-\#🌱Seed   #🙂Agree   #🟡Consideration  #🏖️Universe-Humans
-
+modified: 2026-04-01T14:35:04.014-07:00
+published: 2026-04-01T14:35:04.037-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🟡Consideration
 ---
 
 > [!Summary] The Big Idea

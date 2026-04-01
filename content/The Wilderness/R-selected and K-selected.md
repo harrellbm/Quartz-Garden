@@ -1,11 +1,12 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-06-04
----
-
-\#🌱Seed   #😟Disagree   #🔴Uncertain  #🏖️Universe-Humans
-
+created: 2024-10-22
+modified: 2026-04-01T14:29:39.034-07:00
+published: 2026-04-01T14:29:39.040-07:00
+tags:
+  - 🌱Seed
+  - 😟Disagree
+  - 🔴Uncertain
 ---
 
 > [!Warning]

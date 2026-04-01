@@ -1,7 +1,13 @@
 ---
 publish: true
-updated: 2025-06-17T13:10:09.850-07:00
-edited_seconds: 105
+created: 2025-12-22T09:38:51.971-08:00
+modified: 2025-06-17T13:10:09.850-07:00
+published: 2026-04-01T14:08:01.718-07:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
+  - 🟡Consideration
+  - 📘BookNotes
 ---
 
 \#🌱Seed   #😐Neutral   #🟡Consideration  #📘BookNotes

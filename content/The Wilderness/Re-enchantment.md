@@ -1,13 +1,13 @@
 ---
 publish: true
-Note Planted: 2025-04-01
-Last Tended: 2025-06-17
-updated: 2025-06-17T13:38:02.022-07:00
-edited_seconds: 334
----
-
-\#🌱Seed   #😐Neutral   #🟡Consideration  #🔥Doctrine-Poetry-Story
-
+created: 2025-04-01
+modified: 2026-04-01T14:29:34.208-07:00
+published: 2026-04-01T14:29:34.214-07:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
+  - 🟡Consideration
+  - 🔥Doctrine-Poetry-Story
 ---
 
 > [!Summary] The Big Idea

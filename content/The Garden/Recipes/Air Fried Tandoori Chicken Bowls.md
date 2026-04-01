@@ -1,13 +1,10 @@
 ---
 publish: true
-updated: 2025-09-03T16:21:52.051-07:00
-edited_seconds: 136
-Note Planted: 2025-09-03
-Last Tended: 2025-09-03
----
-
-\#🍴Recipe
-
+created: 2025-09-03
+modified: 2026-04-01T14:46:26.603-07:00
+published: 2026-04-01T14:46:26.607-07:00
+tags:
+  - 🍴Recipe
 ---
 
 > [!Summary] The Big Idea

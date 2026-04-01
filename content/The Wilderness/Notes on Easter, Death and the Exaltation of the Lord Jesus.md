@@ -1,17 +1,11 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-01-22
----
-
-\#🌱Seed  #😐Neutral
-
----
-
-> `Importance`: 10%
-
-> [!Summary] The Big Idea
-
+created: 2024-10-22
+modified: 2026-04-01T14:32:22.755-07:00
+published: 2026-04-01T14:32:22.760-07:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
 ---
 
 > [!NOTE] Imported notes from Josh Leborious

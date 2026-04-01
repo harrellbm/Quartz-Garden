@@ -2,8 +2,8 @@
 publish: true
 title: Luther's commentary on the first twenty-two Psalms
 created: 2026-03-23
-modified: 2026-03-23T11:39:51.233-07:00
-published: 2026-03-23T11:39:51.238-07:00
+modified: 2026-03-23 11:39:51.233000-07:00
+published: 2026-04-01T15:21:29.212-07:00
 tags:
   - 📕Book
 ---

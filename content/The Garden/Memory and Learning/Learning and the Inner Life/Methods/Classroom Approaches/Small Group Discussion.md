@@ -1,14 +1,13 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-01-22
+created: 2024-10-22
+modified: 2026-04-01T14:42:10.220-07:00
+published: 2026-04-01T14:42:10.225-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 📚Definition
 ---
-
-\#🌱Seed  #🙂Agree  #📚Definition
-
----
-
-> `Importance`: 10%
 
 > [!summary] The Big Idea
 > Type of [[Pedagogy]]

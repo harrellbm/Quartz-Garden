@@ -1,8 +1,12 @@
 ---
 publish: true
 created: 2025-05-12
-modified: 2025-09-11T08:21:02.166-07:00
-published: 2026-03-02T09:24:33.118-08:00
+modified: 2025-09-11 08:21:02.166000-07:00
+published: 2026-04-01T14:08:00.340-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 📓Journal
 ---
 
 \#🌱Seed   #🙂Agree  #📓Journal
@@ -126,5 +130,4 @@ Could compare and contrast differences between this temple vision and Solomon's 
 ![[The Library/Bible Book Notes/Prophets/Ezekiel/FB_Ezekiel_40_Temple_StoryPlanner_EN.pdf]]![[The Library/Bible Book Notes/Prophets/Ezekiel/FB_Ezekiel_41_Temple_StoryPlanner_EN.pdf]]![[The Library/Bible Book Notes/Prophets/Ezekiel/FB_Ezekiel_42_Temple_StoryPlanner_EN.pdf]]![[The Library/Bible Book Notes/Prophets/Ezekiel/FB_Ezekiel_43_Temple_StoryPlanner_EN.pdf]]
 
 \[^1]: Cook, Stephen L. (2018). Ezekiel 38-48: A New Translation with Introduction and Commentary. Yale University Press. 129-130.
-
 \[^2]: Bergsma, John (2004). “The Temple as ‘Built Jubilee’ in Ezekiel.” Proceedings of the Eastern Great Lakes and Midwestern Biblical Societies, 24. 77, 79-80.

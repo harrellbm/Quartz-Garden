@@ -1,13 +1,11 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-03-10T15:43:24.846-07:00
-published: 2026-03-10T15:43:24.853-07:00
+modified: 2026-04-01T14:49:51.945-07:00
+published: 2026-04-01T14:49:51.949-07:00
 tags:
   - 🙂Agree
   - 📚Definition
----
-
 ---
 
 > [!Summary] The Big Idea

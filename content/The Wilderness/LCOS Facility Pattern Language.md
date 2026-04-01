@@ -1,15 +1,14 @@
 ---
 publish: true
 created: 2025-03-18
-modified: 2025-06-17T14:47:13.353-07:00
-published: 2026-03-04T14:42:48.119-08:00
+modified: 2026-04-01T14:34:37.055-07:00
+published: 2026-04-01T14:34:37.062-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🟡Consideration
+  - 🌲Evergreen
 ---
-
-\#🌱Seed   #🙂Agree   #🟡Consideration   #🌲Evergreen
-
----
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > Set of patterns and resources to consider for LCOS campus development.

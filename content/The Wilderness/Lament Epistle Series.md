@@ -1,13 +1,14 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-06-17
-updated: 2025-06-17T14:53:10.763-07:00
-edited_seconds: 2
----
-
-\#🌿Sapling   #😁Strongly-Agree   #🟢Conviction  #🥾SpiritualPractices-EmbodiedLiving
-
+created: 2024-10-22
+modified: 2026-04-01T14:34:46.655-07:00
+published: 2026-04-01T14:34:46.691-07:00
+tags:
+  - 🌿Sapling
+  - 😁Strongly-Agree
+  - 🟢Conviction
+  - 🥾SpiritualPractices-EmbodiedLiving
+  - 📃Epistle
 ---
 
 > [!summary] The Big Idea

@@ -1,15 +1,13 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-01-08T08:13:04.988-08:00
-published: 2026-01-08T08:13:04.988-08:00
+modified: 2026-04-01T14:21:25.541-07:00
+published: 2026-04-01T14:21:25.546-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 📚Definition
 ---
-
-\#🌱Seed  #🙂Agree #📚Definition
-
----
-
-> `Importance`: 10%
 
 > [!info] Definition
 > The art/science of teaching.

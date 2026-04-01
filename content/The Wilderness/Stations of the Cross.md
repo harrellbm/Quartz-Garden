@@ -1,13 +1,12 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-06-17
-updated: 2025-06-17T14:38:10.002-07:00
-edited_seconds: 0
----
-
-\#🌱Seed  #🙂Agree  #🔥Doctrine-Poetry-Story
-
+created: 2024-10-22
+modified: 2026-04-01T14:26:29.192-07:00
+published: 2026-04-01T14:26:29.200-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🔥Doctrine-Poetry-Story
 ---
 
 > [!summary] The Big Idea

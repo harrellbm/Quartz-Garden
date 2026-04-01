@@ -1,8 +1,12 @@
 ---
 publish: true
 created: 2025-10-20
-modified: 2025-10-20T12:21:39.285-07:00
-published: 2026-03-04T15:21:49.616-08:00
+modified: 2025-10-20 12:21:39.285000-07:00
+published: 2026-04-01T14:07:58.874-07:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
+  - 🟡Consideration
 ---
 
 \#🌱Seed   #😐Neutral   #🟡Consideration

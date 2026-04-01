@@ -1,14 +1,13 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-01-22
+created: 2024-10-22
+modified: 2026-04-01T14:41:42.958-07:00
+published: 2026-04-01T14:41:42.966-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 📚Definition
 ---
-
-\#🌱Seed  #🙂Agree  #📚Definition
-
----
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > Large Group Socratic Method is a type of [[Pedagogy]]

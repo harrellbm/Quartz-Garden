@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-01-07
-modified: 2026-01-07T12:04:37.567-08:00
-published: 2026-01-07T12:04:37.576-08:00
+modified: 2026-01-07 12:04:37.567000-08:00
+published: 2026-04-01T14:08:00.394-07:00
 tags:
-  - "#🌱Seed"
+  - 🌱Seed
   - 😐Neutral
   - 🟡Consideration
 ---
@@ -288,11 +288,7 @@ This imagery even lines up with the content of the Psalms themselves.
 - **Other Connections** -
 
 \[^1]: Brown, Francis, et al. Enhanced Brown-Driver-Briggs Hebrew and English Lexicon, Clarendon Press, 1977, p. 81.
-
 \[^2]: Brown, Francis, et al. Enhanced Brown-Driver-Briggs Hebrew and English Lexicon, Clarendon Press, 1977, pp. 342–43.
-
 \[^3]: Brown, Francis, et al. Enhanced Brown-Driver-Briggs Hebrew and English Lexicon, Clarendon Press, 1977, p. 211.
-
-\[^4]: Elliger, K., et al. Biblia Hebraica Stuttgartensia. Electronic ed., German Bible Society, 2003, p. Ps 1-20
-
 \[^5]: Brown, Francis, et al. Enhanced Brown-Driver-Briggs Hebrew and English Lexicon, Clarendon Press, 1977, p. 852.
+\[^4]: Elliger, K., et al. Biblia Hebraica Stuttgartensia. Electronic ed., German Bible Society, 2003, p. Ps 1-20

@@ -1,8 +1,15 @@
 ---
 publish: true
 created: 2025-03-18
-modified: 2025-06-17T14:42:56.804-07:00
-published: 2026-02-02T11:08:42.772-08:00
+modified: 2025-06-17 14:42:56.804000-07:00
+published: 2026-04-01T14:07:58.946-07:00
+tags:
+  - 🍋Fruit
+  - 🙂Agree
+  - 🟢Conviction
+  - 📝Essay
+  - 🔥Doctrine-Poetry-Story
+  - 📃Epistle
 ---
 
 \#🍋Fruit   #🙂Agree    #🟢Conviction   #📝Essay  #🔥Doctrine-Poetry-Story

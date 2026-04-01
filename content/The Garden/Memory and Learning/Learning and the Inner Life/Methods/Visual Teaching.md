@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-02-02T10:00:17.829-08:00
-published: 2026-02-02T10:00:17.829-08:00
----
-
-\#🌱Seed  #🙂Agree  #🏖️Universe-Humans
-
+modified: 2026-04-01T14:43:05.462-07:00
+published: 2026-04-01T14:43:05.473-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
 ---
 
 _**The Big Idea**_: Ideas for how to teach using visual aids or resources.

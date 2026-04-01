@@ -1,10 +1,9 @@
 ---
 publish: true
 created: 2026-01-08
-modified: 2026-01-20T12:11:05.550-08:00
-published: 2026-01-20T12:11:05.557-08:00
+modified: 2026-04-01T14:48:14.483-07:00
+published: 2026-04-01T14:48:14.488-07:00
 tags:
-  - "#🌱Seed"
   - 😐Neutral
   - 🟡Consideration
 ---
@@ -13,6 +12,8 @@ tags:
 > Deeper parts of speech than the normal seven or eight.
 
 ---
+
+TODO: Pull in notes from Voelz's Greek Grammar
 
 Go into 10 deeper parts of speech. [Source](https://americantesol.com/blogger/beyond-the-basics-10-essential-parts-of-speech/)
 \- Articles

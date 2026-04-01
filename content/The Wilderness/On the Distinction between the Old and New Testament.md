@@ -2,12 +2,10 @@
 publish: true
 title: On the Distinction between the Old and New Testament
 created: 2025-10-21
-modified: 2025-12-17T13:42:05.649-08:00
-published: 2026-03-23T13:13:52.201-07:00
+modified: 2026-04-01T14:31:58.006-07:00
+published: 2026-04-01T14:31:58.012-07:00
 tags:
   - 📕Book
----
-
 ---
 
 > [!cite] Translated Text

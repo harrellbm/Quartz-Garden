@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2025-08-28
-modified: 2025-09-09T08:51:49.303-07:00
-published: 2026-03-09T14:15:10.960-07:00
----
-
-\#🌱Seed   #😐Neutral   #🟡Consideration
-
+modified: 2026-04-01T14:44:56.204-07:00
+published: 2026-04-01T14:44:56.208-07:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
+  - 🟡Consideration
 ---
 
 > [!Summary] The Big Idea

@@ -1,21 +1,9 @@
 ---
 publish: true
+title: Bondage Breaker
+created: 2025-10-21
+modified: 2025-10-21 08:49:56.462000-07:00
+published: 2026-04-01T15:21:28.386-07:00
 tags:
   - 📕Book
-read: false
-title: Bondage Breaker
-author: Neal Anderson
-url: https://www.amazon.com/Bondage-Breaker-Neil-T-Anderson/dp/0736918140
-isbn:
-updated: 2025-10-21T08:49:56.462-07:00
-edited_seconds: 42
-cover:
-published:
-rating:
-pages:
-lists:
-  - Want to Read
-comment:
-Note Planted: 2025-10-21
-Last Tended: 2025-10-21
 ---

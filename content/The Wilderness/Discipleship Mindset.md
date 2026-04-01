@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-02-02T10:43:48.665-08:00
-published: 2026-02-02T10:43:48.665-08:00
----
-
-\#🪴Sprout  #😁Strongly-Agree  #🟢Conviction #🍽️Community-Mission
-
+modified: 2026-04-01T14:36:45.404-07:00
+published: 2026-04-01T14:36:45.411-07:00
+tags:
+  - 🪴Sprout
+  - 😁Strongly-Agree
+  - 🟢Conviction
 ---
 
 > [!summary] The Big Idea

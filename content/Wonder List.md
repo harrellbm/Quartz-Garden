@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 2025-04-02
-modified: 2026-03-02T09:17:16.288-08:00
-published: 2026-03-02T09:17:48.361-08:00
----
-
-\#🌲Evergreen   #📓Journal
-
+modified: 2026-03-02 09:17:16.288000-08:00
+published: 2026-04-01T14:10:46.286-07:00
+tags:
+  - 🌲Evergreen
+  - 📓Journal
 ---
 
 > [!Summary] The Big Idea

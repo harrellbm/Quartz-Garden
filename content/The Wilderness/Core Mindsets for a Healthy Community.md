@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-02-02T10:43:26.024-08:00
-published: 2026-02-02T10:43:26.024-08:00
----
-
-\#🌿Sapling  #🙂Agree  #🟢Conviction   #🍽️Community-Mission
-
+modified: 2026-04-01T14:37:23.215-07:00
+published: 2026-04-01T14:37:23.222-07:00
+tags:
+  - 🌿Sapling
+  - 🙂Agree
+  - 🟢Conviction
 ---
 
 > [!Summary] The Big Idea

@@ -1,14 +1,13 @@
 ---
-aliases: Church Entryway
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-06-04
-updated: 2025-06-17T14:36:26.896-07:00
-edited_seconds: 0
----
-
-\#🪴Sprout   #🙂Agree  #🛠️BringingLifeintotheWorld
-
+aliases:
+  - Church Entryway
+created: 2024-10-22
+modified: 2026-04-01T14:32:59.832-07:00
+published: 2026-04-01T14:32:59.838-07:00
+tags:
+  - 🪴Sprout
+  - 🙂Agree
 ---
 
 > [!summary] The Big Idea

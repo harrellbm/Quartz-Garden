@@ -1,11 +1,13 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-06-04
----
-
-\#🌱Seed   #🙂Agree   #🟢Conviction  #🔥Doctrine-Poetry-Story
-
+created: 2024-10-22
+modified: 2026-04-01T14:52:45.083-07:00
+published: 2026-04-01T14:52:45.083-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🟢Conviction
+  - 🔥Doctrine-Poetry-Story
 ---
 
 > [!summary] The Big Idea
@@ -19,4 +21,4 @@ Psalm 119 is the longest of the Psalms and has a line of poetry for every letter
 
 - **Meditatio or Meditation**- example of a kid that can’t get enough of something. It’s about reputation speaking reading seeking. Having a conversation with God by asking questions and paying attention to what is happening inside you 
 
-- **Tentatio or Temptation** - Satan will always try to drag you down once you have learned or grown. He wants drag you away for God and his word but God can turn what is meant for evil as the means to drive us back to his word of truth and love and comfort 
+- **Tentatio or Temptation** - Satan will always try to drag you down once you have learned or grown. He wants drag you away for God and his word but God can turn what is meant for evil as the means to drive us back to his word of truth and love and comfort

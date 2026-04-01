@@ -1,7 +1,12 @@
 ---
 publish: true
-Note Planted: 2024-11-10
-Last Tended: 2025-06-04
+created: 2024-11-10
+modified: 2026-04-01T14:07:58.880-07:00
+published: 2026-04-01T14:07:58.880-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🔥Doctrine-Poetry-Story
 ---
 
 \#🌱Seed  #🙂Agree #🔥Doctrine-Poetry-Story

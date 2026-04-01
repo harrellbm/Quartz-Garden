@@ -1,16 +1,13 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-03-27
-updated: 2025-06-12T13:02:36.497-07:00
-edited_seconds: 9
+created: 2024-10-22
+modified: 2026-04-01T14:36:53.740-07:00
+published: 2026-04-01T14:36:53.747-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 📊Project
 ---
-
-\#🌱Seed  #🙂Agree   #📊Project
-
----
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > If I close my eyes and see what I am thinking about. I see a beautifully drawn map that is easy and a joy to pour over. But rather than a real geographical or imaginary world map, this map is one that represents the contents of my digital garden.

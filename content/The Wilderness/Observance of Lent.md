@@ -1,13 +1,15 @@
 ---
 publish: true
-Note Planted: 2025-02-19
-Last Tended: 2025-04-02
-updated: 2025-06-17T14:37:03.752-07:00
-edited_seconds: 1
----
-
-\#🍋Fruit   #🙂Agree   #🟢Conviction  #🔥Doctrine-Poetry-Story
-
+created: 2025-02-19
+modified: 2026-04-01T14:32:06.454-07:00
+published: 2026-04-01T14:32:06.460-07:00
+tags:
+  - 🍋Fruit
+  - 🙂Agree
+  - 🟢Conviction
+  - 🔥Doctrine-Poetry-Story
+  - 📃Epistle
+  - 📝Essay
 ---
 
 > [!Summary] The Big Idea

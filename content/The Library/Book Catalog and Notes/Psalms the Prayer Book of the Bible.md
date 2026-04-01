@@ -1,23 +1,11 @@
 ---
 publish: true
+title: "Psalms : the prayer book of the Bible"
+created: 2025-10-15
+modified: 2025-10-16 12:35:50.257000-07:00
+published: 2026-04-01T15:21:28.509-07:00
 tags:
   - 📕Book
-read: true
-title: "Psalms : the prayer book of the Bible"
-author: Dietrich Bonhoeffer, 1906-1945
-url: https://archive.org/details/psalmsprayerbook0000bonh/page/6/mode/2up
-isbn:
-updated: 2025-10-16T12:35:50.257-07:00
-edited_seconds: 69
-cover:
-published: " 1970"
-rating:
-pages: "86"
-lists:
-  - Formative to Me
-comment:
-Note Planted: 2025-10-15
-Last Tended: 2025-10-16
 ---
 
 > [!quote] Bonhoeffer Psalms, p. 15

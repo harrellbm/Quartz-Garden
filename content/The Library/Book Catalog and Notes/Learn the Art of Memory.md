@@ -2,8 +2,8 @@
 publish: true
 title: Learn the Art of Memory
 created: 2026-03-25
-modified: 2026-03-25T10:06:00.550-07:00
-published: 2026-03-25T10:06:00.556-07:00
+modified: 2026-03-25 10:06:00.550000-07:00
+published: 2026-04-01T15:21:29.253-07:00
 tags:
   - 📕Book
 ---

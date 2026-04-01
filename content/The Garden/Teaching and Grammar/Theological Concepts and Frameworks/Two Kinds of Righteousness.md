@@ -1,9 +1,15 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-01-27
-updated: 2025-06-17T14:43:53.220-07:00
-edited_seconds: 1
+created: 2024-10-22
+modified: 2025-06-17 14:43:53.220000-07:00
+published: 2026-04-01T14:07:58.819-07:00
+tags:
+  - 🌿Sapling
+  - 😁Strongly-Agree
+  - 📚Definition
+  - 🟢Conviction
+  - 🔥Doctrine-Poetry-Story
+  - 📃Epistle
 ---
 
 \#🌿Sapling   #😁Strongly-Agree   #📚Definition   #🟢Conviction  #🔥Doctrine-Poetry-Story

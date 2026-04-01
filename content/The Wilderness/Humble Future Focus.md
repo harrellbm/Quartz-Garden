@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-03-05T08:58:43.994-08:00
-published: 2026-03-05T08:58:43.994-08:00
----
-
-\#🌱Seed   #🙂Agree   #🟢Conviction  #🍽️Community-Mission
-
+modified: 2026-04-01T14:35:07.915-07:00
+published: 2026-04-01T14:35:07.922-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🟢Conviction
 ---
 
 > [!summary] The Big Idea

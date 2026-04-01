@@ -1,22 +1,10 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-10-15
+created: 2024-10-22
+modified: 2025-10-15 13:41:47.018000-07:00
+published: 2026-04-01T15:21:28.574-07:00
 tags:
   - 📕Book
-read: true
-author: Christopher Alexander
-url: http://www.natureoforder.com/overview.html
-isbn:
-updated: 2025-10-15T13:41:47.018-07:00
-edited_seconds: 50
-cover:
-published:
-rating:
-pages:
-lists:
-  - Interesting Read
-comment:
 ---
 
 > [!note]

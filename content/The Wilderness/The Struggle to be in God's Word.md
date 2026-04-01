@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-03-04T14:40:07.061-08:00
-published: 2026-03-04T14:40:07.061-08:00
----
-
-\#🪴Sprout #🙂Agree #🟢Conviction #🥾SpiritualPractices-EmbodiedLiving
-
+modified: 2026-04-01T14:24:57.012-07:00
+published: 2026-04-01T14:24:57.018-07:00
+tags:
+  - 🪴Sprout
+  - 🙂Agree
+  - 🟢Conviction
+  - 🥾SpiritualPractices-EmbodiedLiving
+  - 📃Epistle
 ---
 
 > [!Summary] The Big Idea
@@ -18,7 +20,7 @@ _**Related Epistle**_: [[Love the Lord Your God with all Your Heart]]
 
 # The Struggle to be in God's word
 
-(used Feb 2023 for OS #📃Epistle )
+(used Feb 2023 for OS )
 
 Have you ever found the end of yourself? That place where you just don’t have any more energy, capacity or understanding. So often we get lost in our own thoughts or worries, our todo lists and deadlines, that finding the end of yourself often comes as a jolt. 
 

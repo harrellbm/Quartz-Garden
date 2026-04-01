@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-02-02T09:50:03.812-08:00
-published: 2026-02-02T09:50:03.812-08:00
----
-
-\#🍋Fruit   #😁Strongly-Agree   #🟢Conviction   #🔥Doctrine-Poetry-Story
-
+modified: 2026-04-01T14:52:45.084-07:00
+published: 2026-04-01T14:52:45.084-07:00
+tags:
+  - 🍋Fruit
+  - 😁Strongly-Agree
+  - 🟢Conviction
+  - 🔥Doctrine-Poetry-Story
+  - 📃Epistle
 ---
 
 > [!summary] The Big Idea

@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-02-24T11:53:00.088-08:00
-published: 2026-02-24T11:53:00.088-08:00
----
-
-\#🌱Seed  #🙂Agree  #🍽️Community-Mission
-
+modified: 2026-04-01T14:35:40.211-07:00
+published: 2026-04-01T14:35:40.217-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
 ---
 
 _**The Big Idea**_: the idea that a preschool, church members, or other groups of believers/kids being discipled are little missionaries that make a footprint in the community.

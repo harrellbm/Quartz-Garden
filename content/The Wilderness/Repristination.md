@@ -1,15 +1,14 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-01-22
+created: 2024-10-22
+modified: 2026-04-01T14:29:00.391-07:00
+published: 2026-04-01T14:29:00.419-07:00
+tags:
+  - 🪴Sprout
+  - 🤢Strongly-Disagree
+  - 📚Definition
 ---
 
-\#🪴Sprout  #🤢Strongly-Disagree  #📚Definition
-
----
-
-> `Importance`: 30%
->
 > \[!The Big Idea]
 > the unrealistic view that Christians or anyone can go back to living exactly like people from another era by doing the same things or thinking the same way.
 

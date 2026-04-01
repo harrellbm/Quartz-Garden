@@ -1,9 +1,13 @@
 ---
 publish: true
-Note Planted: 2025-02-26
-Last Tended: 2025-09-09
-updated: 2025-09-09T14:04:28.576-07:00
-edited_seconds: 84
+created: 2025-02-26
+modified: 2025-09-09 14:04:28.576000-07:00
+published: 2026-04-01T14:08:01.712-07:00
+tags:
+  - 🌱Seed
+  - 😁Strongly-Agree
+  - 🟡Consideration
+  - 📘BookNotes
 ---
 
 \#🌱Seed   #😁Strongly-Agree    #🟡Consideration  #📘BookNotes

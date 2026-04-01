@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2025-12-22T10:29:04.594-08:00
-published: 2025-12-29T20:49:42.813-08:00
+modified: 2025-12-22 10:29:04.594000-08:00
+published: 2026-04-01T14:08:01.929-07:00
 tags:
-  - "#🌿Sapling"
+  - 🌿Sapling
   - 😁Strongly-Agree
   - 🟡Consideration
   - 📝Essay

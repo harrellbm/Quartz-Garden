@@ -1,8 +1,14 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2025-07-31T14:44:00.697-07:00
-published: 2026-02-02T11:11:57.655-08:00
+modified: 2025-07-31 14:44:00.697000-07:00
+published: 2026-04-01T14:07:58.952-07:00
+tags:
+  - 🌿Sapling
+  - 🙂Agree
+  - 🟢Conviction
+  - 🥾SpiritualPractices-EmbodiedLiving
+  - 📃Epistle
 ---
 
 \#🌿Sapling   #🙂Agree   #🟢Conviction  #🥾SpiritualPractices-EmbodiedLiving

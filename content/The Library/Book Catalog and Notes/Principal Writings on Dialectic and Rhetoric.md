@@ -4,8 +4,8 @@ title: "Principal Writings on\r
 
   Dialectic and Rhetoric"
 created: 2026-03-25
-modified: 2026-03-25T11:58:37.798-07:00
-published: 2026-03-25T11:58:37.805-07:00
+modified: 2026-03-25 11:58:37.798000-07:00
+published: 2026-04-01T15:21:29.279-07:00
 tags:
   - 📕Book
 ---

@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2025-06-17T14:40:45.786-07:00
-published: 2026-02-26T10:00:15.518-08:00
----
-
-\#🪴Sprout   #😁Strongly-Agree  #📚Definition  #🍽️Community-Mission
-
+modified: 2026-04-01T14:39:50.573-07:00
+published: 2026-04-01T14:39:50.579-07:00
+tags:
+  - 🪴Sprout
+  - 😁Strongly-Agree
+  - 📚Definition
 ---
 
 > [!Summary] The Big Idea

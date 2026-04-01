@@ -1,15 +1,14 @@
 ---
 publish: true
 created: 2025-01-13
-modified: 2026-02-02T10:43:58.140-08:00
-published: 2026-02-02T10:43:58.140-08:00
+modified: 2026-04-01T14:36:07.037-07:00
+published: 2026-04-01T14:36:07.125-07:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
+  - 🟡Consideration
+  - 🔥Doctrine-Poetry-Story
 ---
-
-\#🌱Seed   #😐Neutral   #🟡Consideration  #🔥Doctrine-Poetry-Story
-
----
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > Contrast the idea of being oriented east towards the sun you can see and feel vs being oriented north off of the technology of a compass

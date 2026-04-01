@@ -2,8 +2,8 @@
 publish: true
 title: Letter to Marcellinus
 created: 2026-03-23
-modified: 2026-03-23T11:40:32.141-07:00
-published: 2026-03-23T11:40:32.150-07:00
+modified: 2026-03-23 11:40:32.141000-07:00
+published: 2026-04-01T15:21:29.222-07:00
 tags:
   - 📕Book
 ---

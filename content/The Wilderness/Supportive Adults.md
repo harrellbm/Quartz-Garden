@@ -1,11 +1,11 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-01-22
----
-
-\#🌱Seed  #😐Neutral  #🍽️Community-Mission
-
+created: 2024-10-22
+modified: 2026-04-01T14:25:53.316-07:00
+published: 2026-04-01T14:25:53.323-07:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
 ---
 
 Christine Elbert

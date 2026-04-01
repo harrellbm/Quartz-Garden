@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-23
-modified: 2026-03-26T10:10:24.240-07:00
-published: 2026-03-26T10:10:24.245-07:00
+modified: 2026-03-26 10:10:24.240000-07:00
+published: 2026-04-01T14:07:58.028-07:00
 tags:
   - 🟡Consideration
   - 🙂Agree

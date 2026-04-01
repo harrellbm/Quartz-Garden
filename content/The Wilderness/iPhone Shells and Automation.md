@@ -1,11 +1,11 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-01-26
----
-
-\#🌱Seed  #🙂Agree  #🛠️BringingLifeintotheWorld
-
+created: 2024-10-22
+modified: 2026-04-01T14:34:59.711-07:00
+published: 2026-04-01T14:34:59.717-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
 ---
 
 > [!summary] The Big Idea

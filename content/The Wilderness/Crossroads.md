@@ -1,13 +1,11 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-06-17
-updated: 2025-06-17T14:29:17.121-07:00
-edited_seconds: 4
----
-
-\#🌿Sapling #🙂Agree  #🍽️Community-Mission
-
+created: 2024-10-22
+modified: 2026-04-01T14:37:08.993-07:00
+published: 2026-04-01T14:37:09.000-07:00
+tags:
+  - 🌿Sapling
+  - 🙂Agree
 ---
 
 > [!summary] The Big Idea

@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2025-07-03T12:01:00.185-07:00
-published: 2026-03-04T13:27:25.472-08:00
----
-
-\#🌿Sapling   #😁Strongly-Agree  #🟢Conviction  #🛠️BringingLifeintotheWorld
-
+modified: 2026-04-01T14:36:49.131-07:00
+published: 2026-04-01T14:36:49.138-07:00
+tags:
+  - 🌿Sapling
+  - 😁Strongly-Agree
+  - 🟢Conviction
 ---
 
 > [!summary] The Big Idea

@@ -1,13 +1,12 @@
 ---
 publish: true
-Note Planted: 2024-10-23
-Last Tended: 2025-06-04
-updated: 2025-06-17T14:42:30.237-07:00
-edited_seconds: 2
----
-
-\#🪴Sprout  #🙂Agree  #🟡Consideration  #🏖️Universe-Humans
-
+created: 2024-10-23
+modified: 2026-04-01T14:26:03.048-07:00
+published: 2026-04-01T14:26:03.054-07:00
+tags:
+  - 🪴Sprout
+  - 🙂Agree
+  - 🟡Consideration
 ---
 
 > [!Summary] The Big Idea

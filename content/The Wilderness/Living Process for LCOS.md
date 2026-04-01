@@ -1,15 +1,12 @@
 ---
 publish: true
 created: 2024-10-30
-modified: 2025-06-17T14:47:25.679-07:00
-published: 2026-03-04T14:42:43.702-08:00
+modified: 2026-04-01T14:34:24.780-07:00
+published: 2026-04-01T14:34:24.786-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
 ---
-
-\#🌱Seed  #🙂Agree
-
----
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > Note Tree for various aspects as they develop [[LCOS Community Notes]]

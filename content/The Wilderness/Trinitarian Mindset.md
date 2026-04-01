@@ -1,11 +1,12 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-01-22
----
-
-\#🌱Seed  #🙂Agree  #📚Definition
-
+created: 2024-10-22
+modified: 2026-04-01T14:24:42.211-07:00
+published: 2026-04-01T14:24:42.218-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 📚Definition
 ---
 
 > [!summary] The Big Idea

@@ -1,11 +1,14 @@
 ---
 publish: true
-Note Planted: 2025-03-24
-Last Tended: 2025-03-24
----
-
-\#🌱Seed   #🙂Agree   #🟡Consideration  #📚Definition  #🔥Doctrine-Poetry-Story
-
+created: 2025-03-24
+modified: 2026-04-01T14:26:35.225-07:00
+published: 2026-04-01T14:26:35.234-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🟡Consideration
+  - 📚Definition
+  - 🔥Doctrine-Poetry-Story
 ---
 
 > [!Summary] The Big Idea

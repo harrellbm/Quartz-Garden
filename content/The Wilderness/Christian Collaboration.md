@@ -1,7 +1,12 @@
 ---
 publish: true
-Note Planted: 2024-07-14
-Last Tended: 2025-06-04
+created: 2024-07-14
+modified: 2026-04-01T14:08:01.832-07:00
+published: 2026-04-01T14:08:01.832-07:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
+  - 🟡Consideration
 ---
 
 \#🌱Seed   #😐Neutral   #🟡Consideration  #🍽️Community-Mission

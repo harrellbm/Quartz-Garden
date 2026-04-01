@@ -1,14 +1,13 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-01-28
+created: 2024-10-22
+modified: 2026-04-01T14:33:05.224-07:00
+published: 2026-04-01T14:33:05.231-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 📊Project
 ---
-
-\#🌱Seed   #🙂Agree   #📊Project #🛠️BringingLifeintotheWorld
-
----
-
-> `Importance`: 10%
 
 > [!summary] The Big Idea
 > The current set up that I am using to sync my obsidian notes from my phone to computer and backup.

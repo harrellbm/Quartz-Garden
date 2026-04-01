@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 2026-02-18
-modified: 2026-02-18T11:27:34.545-08:00
-published: 2026-02-18T11:27:34.555-08:00
+modified: 2026-04-01T14:43:54.322-07:00
+published: 2026-04-01T14:43:54.327-07:00
 tags:
   - 😁Strongly-Agree
   - 🟢Conviction
-  - 🌿Sapling
 ---
 
 > [!Summary] The Big Idea

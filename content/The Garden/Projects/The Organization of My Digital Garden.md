@@ -1,12 +1,10 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-03-09T15:24:30.822-07:00
-published: 2026-03-09T15:24:30.830-07:00
+modified: 2026-04-01T14:46:21.499-07:00
+published: 2026-04-01T14:46:21.504-07:00
 tags:
-  - 🟡Consideration
-  - 🙂Agree
-  - 📊Project
+  - 🔗index
 ---
 
 > [!Summary] The Big Idea
@@ -64,7 +62,6 @@ This is an example of the current metadata I have composed to start each note. F
 ```yaml
 publish: false
 tags:
-  - "#🌱Seed"
   - 😐Neutral
   - 🟡Consideration
 updated: 2025-11-13T09:30:03.876-08:00

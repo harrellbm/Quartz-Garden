@@ -6,8 +6,8 @@ title: "Ars et methodus: \r
 
   Humanist concept of philosophy"
 created: 2026-03-25
-modified: 2026-03-25T12:05:54.715-07:00
-published: 2026-03-25T12:06:26.826-07:00
+modified: 2026-03-25 12:05:54.715000-07:00
+published: 2026-04-01T15:21:29.289-07:00
 tags:
   - 📕Book
 ---

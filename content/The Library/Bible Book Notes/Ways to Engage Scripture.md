@@ -1,8 +1,13 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-02-02T12:26:22.562-08:00
-published: 2026-02-02T12:26:22.571-08:00
+modified: 2026-02-02 12:26:22.562000-08:00
+published: 2026-04-01T14:08:00.424-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🟢Conviction
+  - 🥾SpiritualPractices-EmbodiedLiving
 ---
 
 \#🌱Seed  #🙂Agree   #🟢Conviction #🥾SpiritualPractices-EmbodiedLiving

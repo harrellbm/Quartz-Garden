@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2025-07-31T09:06:14.041-07:00
-published: 2026-02-02T10:57:32.288-08:00
----
-
-\#🌱Seed   #😐Neutral   #🟡Consideration   #🛠️BringingLifeintotheWorld
-
+modified: 2026-04-01 08:34:46.270000-07:00
+published: 2026-04-01T13:57:10.275-07:00
+tags:
+  - 😐Neutral
+  - 🟡Consideration
+  - 📚Definition
 ---
 
 > [!Summary] The Big Idea

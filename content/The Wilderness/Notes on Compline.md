@@ -1,11 +1,12 @@
 ---
 publish: true
-Note Planted: 2024-11-04
-Last Tended: 2025-06-04
----
-
-\#🌱Seed  #😐Neutral  #🥾SpiritualPractices-EmbodiedLiving
-
+created: 2024-11-04
+modified: 2026-04-01T14:32:27.216-07:00
+published: 2026-04-01T14:32:27.222-07:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
+  - 🥾SpiritualPractices-EmbodiedLiving
 ---
 
 > [!Summary] The Big Idea

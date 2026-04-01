@@ -1,21 +1,9 @@
 ---
-Note Planted: 2025-10-21
-Last Tended: 2025-10-21
 publish: true
+title: Fate or Africa
+created: 2025-10-21
+modified: 2025-10-02 14:47:01.745000-07:00
+published: 2026-04-01T15:21:28.425-07:00
 tags:
   - 📕Book
-read: false
-title: Fate or Africa
-author: Martin Meredith
-url:
-isbn:
-updated: 2025-10-02T14:47:01.745-07:00
-edited_seconds: 40
-cover:
-published:
-rating:
-pages:
-lists:
-  - Want to Read
-comment:
 ---

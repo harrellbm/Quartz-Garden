@@ -1,11 +1,12 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-01-22
----
-
-\#🌿Sapling   #🙂Agree   #📊Project  #🛠️BringingLifeintotheWorld
-
+created: 2024-10-22
+modified: 2026-04-01T14:26:51.052-07:00
+published: 2026-04-01T14:26:51.061-07:00
+tags:
+  - 🌿Sapling
+  - 🙂Agree
+  - 📊Project
 ---
 
 > [!Summary] The Big Idea

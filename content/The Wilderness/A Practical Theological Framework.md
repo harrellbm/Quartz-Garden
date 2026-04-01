@@ -1,8 +1,11 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-03-05T08:52:02.248-08:00
-published: 2026-03-05T08:52:02.343-08:00
+modified: 2026-03-05 08:52:02.248000-08:00
+published: 2026-04-01T14:08:01.919-07:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
 ---
 
 \#🌱Seed  #😐Neutral
@@ -474,5 +477,4 @@ work. The Practical Theological Framework provides a way to do theology that att
 council of God when addressing topics of church and society that might come about in ministry.
 
 \[^1]: Paul Robinson provides a summary of scholasticism in a video series provided by Concordia Seminary
-
 \[^2]: Osmer, Richard R. Practical theology: An introduction. Wm. B. Eerdmans Publishing, 2008.

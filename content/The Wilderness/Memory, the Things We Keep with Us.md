@@ -1,16 +1,14 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-03-04T13:39:56.290-08:00
-published: 2026-03-04T13:39:56.296-08:00
+modified: 2026-04-01T14:33:49.067-07:00
+published: 2026-04-01T14:33:49.074-07:00
 tags:
   - 💭Memory
   - 🪴Sprout
   - 🙂Agree
   - 🟡Consideration
   - 📝Essay
----
-
 ---
 
 > [!Summary] The Big Idea

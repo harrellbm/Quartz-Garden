@@ -2,8 +2,8 @@
 publish: true
 title: "A Case for Character: Towards a Lutheran Virtue Ethics"
 created: 2026-02-02
-modified: 2026-03-09T14:11:05.184-07:00
-published: "2014"
+modified: 2026-03-09 14:11:05.184000-07:00
+published: 2026-04-01T15:21:28.720-07:00
 tags:
   - 📕Book
 ---

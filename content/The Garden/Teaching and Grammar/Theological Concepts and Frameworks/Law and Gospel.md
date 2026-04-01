@@ -1,8 +1,13 @@
 ---
 publish: true
 created: 2024-12-11
-modified: 2025-06-17T14:33:57.317-07:00
-published: 2026-02-02T11:08:37.043-08:00
+modified: 2025-06-17 14:33:57.317000-07:00
+published: 2026-04-01T14:07:58.892-07:00
+tags:
+  - 🌱Seed
+  - 😁Strongly-Agree
+  - 🟢Conviction
+  - 📚Definition
 ---
 
 \#🌱Seed   #😁Strongly-Agree   #🟢Conviction  #📚Definition

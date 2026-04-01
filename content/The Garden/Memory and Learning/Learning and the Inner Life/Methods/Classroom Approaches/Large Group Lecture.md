@@ -1,15 +1,12 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-02-02T10:49:29.032-08:00
-published: 2026-02-02T10:49:29.056-08:00
+modified: 2026-04-01T14:41:39.076-07:00
+published: 2026-04-01T14:41:39.082-07:00
+tags:
+  - 🙂Agree
+  - 📚Definition
 ---
-
-\#🌱Seed  #🙂Agree  #📚Definition
-
----
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 > Large group Lecute is a type of [[Pedagogy]]

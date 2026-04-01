@@ -1,7 +1,14 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-06-04
+created: 2024-10-22
+modified: 2026-04-01T14:07:58.838-07:00
+published: 2026-04-01T14:07:58.838-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🟢Conviction
+  - 🔥Doctrine-Poetry-Story
+  - 📃Epistle
 ---
 
 \#🌱Seed  #🙂Agree #🟢Conviction #🔥Doctrine-Poetry-Story

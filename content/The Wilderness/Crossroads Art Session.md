@@ -1,11 +1,11 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-06-04
----
-
-\#🌱Seed  #🙂Agree   #🍽️Community-Mission
-
+created: 2024-10-22
+modified: 2026-04-01T14:37:05.095-07:00
+published: 2026-04-01T14:37:05.102-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
 ---
 
 _**The Big Idea**_: An idea for a [[Crossroads]] session.

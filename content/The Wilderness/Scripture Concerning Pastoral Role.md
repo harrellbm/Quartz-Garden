@@ -1,11 +1,12 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-01-22
----
-
-\#🌱Seed  #🙂Agree  #🔥Doctrine-Poetry-Story
-
+created: 2024-10-22
+modified: 2026-04-01T14:26:56.678-07:00
+published: 2026-04-01T14:26:56.686-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🔥Doctrine-Poetry-Story
 ---
 
 _**The Big Idea**_: Various Scriptures that pertain to the Role of Pastor.

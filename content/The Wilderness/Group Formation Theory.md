@@ -1,15 +1,13 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-02-02T10:45:18.084-08:00
-published: 2026-02-02T10:45:18.084-08:00
+modified: 2026-04-01T14:35:30.211-07:00
+published: 2026-04-01T14:35:30.217-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 📚Definition
 ---
-
-\#🌱Seed  #🙂Agree  #📚Definition
-
----
-
-> `Importance`: 10%
 
 > [!summary] The Big Idea
 > Every group goes through a cycle of steps:

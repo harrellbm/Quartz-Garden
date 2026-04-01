@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2024-11-30
-modified: 2026-02-02T09:56:53.839-08:00
-published: 2026-02-02T09:56:53.839-08:00
----
-
-\#🌱Seed  #🙂Agree  #🥾SpiritualPractices-EmbodiedLiving
-
+modified: 2026-04-01T14:36:01.555-07:00
+published: 2026-04-01T14:36:01.560-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🥾SpiritualPractices-EmbodiedLiving
 ---
 
 > [!Summary] The Big Idea

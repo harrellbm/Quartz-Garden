@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2025-10-20T09:54:16.486-07:00
-published: 2026-01-07T12:11:36.561-08:00
+modified: 2025-10-20 09:54:16.486000-07:00
+published: 2026-04-01T15:21:28.640-07:00
 tags:
   - 📕Book
 socialImage: https://upload.wikimedia.org/wikipedia/en/8/83/Starfishandthespiderbook.png

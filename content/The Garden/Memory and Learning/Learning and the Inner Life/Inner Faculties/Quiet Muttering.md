@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2025-09-24T11:49:09.837-07:00
-published: 2026-01-08T14:43:41.303-08:00
----
-
-\#🌿Sapling   #🙂Agree   #🟢Conviction #🥾SpiritualPractices-EmbodiedLiving
-
+modified: 2026-04-01T14:39:46.679-07:00
+published: 2026-04-01T14:39:46.683-07:00
+tags:
+  - 🌿Sapling
+  - 🙂Agree
+  - 🟢Conviction
+  - 🥾SpiritualPractices-EmbodiedLiving
+  - 📃Epistle
 ---
 
 > [!summary] The Big Idea

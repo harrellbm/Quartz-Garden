@@ -1,11 +1,10 @@
 ---
 publish: true
-updated: 2025-09-03T09:29:50.466-07:00
-edited_seconds: 14
----
-
-\#🍴Recipe
-
+created: 2025-12-22T09:38:55.922-08:00
+modified: 2026-04-01T14:46:40.690-07:00
+published: 2026-04-01T14:46:40.695-07:00
+tags:
+  - 🍴Recipe
 ---
 
 > [!Summary] The Big Idea

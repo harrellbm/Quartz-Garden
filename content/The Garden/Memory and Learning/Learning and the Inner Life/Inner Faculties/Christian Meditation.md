@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-02-02T11:03:08.095-08:00
-published: 2026-02-02T11:03:08.100-08:00
----
-
-\#🪴Sprout    #😁Strongly-Agree    #🟢Conviction   #🥾SpiritualPractices-EmbodiedLiving
-
+modified: 2026-04-01T14:39:39.041-07:00
+published: 2026-04-01T14:39:39.046-07:00
+tags:
+  - 🪴Sprout
+  - 😁Strongly-Agree
+  - 🟢Conviction
+  - 🥾SpiritualPractices-EmbodiedLiving
 ---
 
 > [!Summary] The Big Idea

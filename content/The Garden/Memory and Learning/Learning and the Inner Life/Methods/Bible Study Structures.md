@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2025-06-17T14:24:02.808-07:00
-published: 2026-01-08T08:13:59.859-08:00
----
-
-\#🌱Seed  #🙂Agree   #🔥Doctrine-Poetry-Story
-
+modified: 2026-04-01T14:42:14.464-07:00
+published: 2026-04-01T14:42:14.468-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🔥Doctrine-Poetry-Story
 ---
 
 _**The Big Idea**_: This is a collection of various [[Pedagogy]] methods that can be used while teaching a Bible study.

@@ -1,8 +1,12 @@
 ---
 publish: true
 created: 2025-07-02
-modified: 2025-07-31T09:34:13.928-07:00
-published: 2026-03-09T14:16:54.788-07:00
+modified: 2025-07-31 09:34:13.928000-07:00
+published: 2026-04-01T14:07:59.026-07:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
+  - 🟡Consideration
 ---
 
 \#🌱Seed   #😐Neutral   #🟡Consideration   #🛠️BringingLifeintotheWorld

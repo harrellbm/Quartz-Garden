@@ -2,8 +2,8 @@
 publish: true
 title: A Manuel on the Book of Psalms
 created: 2026-03-23
-modified: 2026-03-23T11:39:39.877-07:00
-published: 1837/2022
+modified: 2026-04-01 09:18:26.438000-07:00
+published: 2026-04-01T15:21:29.232-07:00
 tags:
   - 📕Book
 ---

@@ -1,13 +1,11 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-06-17
-updated: 2025-06-17T14:29:39.005-07:00
-edited_seconds: 1
----
-
-\#🪴Sprout  #🙂Agree  #🛠️BringingLifeintotheWorld
-
+created: 2024-10-22
+modified: 2026-04-01T14:36:57.660-07:00
+published: 2026-04-01T14:36:57.667-07:00
+tags:
+  - 🪴Sprout
+  - 🙂Agree
 ---
 
 > [!summary] The Big Idea

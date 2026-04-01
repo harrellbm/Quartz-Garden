@@ -1,11 +1,11 @@
 ---
 publish: true
-Note Planted: 2024-11-13
-Last Tended: 2025-01-22
----
-
-\#🌱Seed  #🙂Agree  #🍽️Community-Mission
-
+created: 2024-11-13
+modified: 2026-04-01T14:33:14.363-07:00
+published: 2026-04-01T14:33:14.370-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
 ---
 
 > [!Summary] The Big Idea

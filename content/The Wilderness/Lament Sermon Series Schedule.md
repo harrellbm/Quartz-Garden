@@ -1,11 +1,12 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-01-22
----
-
-\#🌱Seed  #🙂Agree  #🔥Doctrine-Poetry-Story
-
+created: 2024-10-22
+modified: 2026-04-01T14:34:41.750-07:00
+published: 2026-04-01T14:34:41.755-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🔥Doctrine-Poetry-Story
 ---
 
 _**The Big Idea**_: Sermon Series for Lent covering the grieving process of Lament. I wrote and helped deliver this series at Bethlehem Lutheran Church in CO during my Vicarage.

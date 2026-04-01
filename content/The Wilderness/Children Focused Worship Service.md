@@ -1,8 +1,11 @@
 ---
 publish: true
 created: 2024-11-18
-modified: 2026-02-26T10:08:29.434-08:00
-published: 2026-02-26T10:08:29.434-08:00
+modified: 2026-04-01T14:08:01.842-07:00
+published: 2026-04-01T14:08:01.842-07:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
 ---
 
 \#🌱Seed  #😐Neutral  #🍽️Community-Mission

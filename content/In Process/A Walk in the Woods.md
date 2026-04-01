@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-03-09
-modified: 2026-03-18T08:38:27.811-07:00
-published: 2026-03-18T08:38:27.840-07:00
+modified: 2026-03-18 08:38:27.811000-07:00
+published: 2026-04-01T14:07:58.015-07:00
 tags:
-  - "#🌱Seed"
+  - 🌱Seed
   - 📃Epistle
   - 🙂Agree
   - 🟢Conviction

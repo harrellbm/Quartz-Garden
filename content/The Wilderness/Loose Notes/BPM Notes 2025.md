@@ -1,8 +1,14 @@
 ---
 publish: true
 created: 2025-02-13
-modified: 2026-02-24T11:51:55.188-08:00
-published: 2026-02-24T11:51:55.188-08:00
+modified: 2026-04-01T14:08:01.748-07:00
+published: 2026-04-01T14:08:01.748-07:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
+  - 🟡Consideration
+  - 📓Journal
+  - 📘BookNotes
 ---
 
 \#🌱Seed   #😐Neutral   #🟡Consideration   #📓Journal  #📘BookNotes

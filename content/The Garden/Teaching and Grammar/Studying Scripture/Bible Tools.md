@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-01-27
-modified: 2026-02-02T09:53:38.863-08:00
-published: 2026-02-02T09:53:38.871-08:00
+modified: 2026-02-02 09:53:38.863000-08:00
+published: 2026-04-01T14:07:58.800-07:00
 tags:
-  - "#🌱Seed"
+  - 🌱Seed
   - 😐Neutral
   - 🟡Consideration
 ---

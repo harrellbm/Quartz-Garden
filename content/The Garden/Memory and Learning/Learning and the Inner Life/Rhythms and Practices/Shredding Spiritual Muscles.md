@@ -1,9 +1,16 @@
 ---
 publish: true
-Note Planted: 2025-04-16
-Last Tended: 2025-06-17
-updated: 2025-06-17T13:24:33.567-07:00
-edited_seconds: 33
+created: 2025-04-16
+modified: 2025-06-17 13:24:33.567000-07:00
+published: 2026-04-01T14:07:58.548-07:00
+tags:
+  - 🌿Sapling
+  - 🙂Agree
+  - 🟢Conviction
+  - 📓Journal
+  - 🥾SpiritualPractices-EmbodiedLiving
+  - 📃Epistle
+  - 📝Essay
 ---
 
 \#🌿Sapling   #🙂Agree   #🟢Conviction   #📓Journal  #🥾SpiritualPractices-EmbodiedLiving

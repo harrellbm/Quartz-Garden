@@ -1,15 +1,13 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2025-08-26T13:12:01.451-07:00
-published: 2026-03-04T14:42:39.620-08:00
+modified: 2026-04-01T14:30:38.517-07:00
+published: 2026-04-01T14:30:38.524-07:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
+  - 🟡Consideration
 ---
-
-\#🌱Seed  #😐Neutral  #🟡Consideration
-
----
-
-> `Importance`: 10%
 
 > [!Summary] The Big Idea
 

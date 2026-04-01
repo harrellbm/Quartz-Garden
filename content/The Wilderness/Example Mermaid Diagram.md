@@ -1,13 +1,11 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-06-04
-updated: 2025-06-17T14:30:32.235-07:00
-edited_seconds: 0
----
-
-\#🌱Seed  #😐Neutral  #🛠️BringingLifeintotheWorld
-
+created: 2024-10-22
+modified: 2026-04-01T14:36:12.422-07:00
+published: 2026-04-01T14:36:12.428-07:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
 ---
 
 ```mermaid

@@ -1,13 +1,10 @@
 ---
 publish: true
 created: 2026-01-22
-modified: 2026-03-25T10:09:04.764-07:00
-published: 2026-03-25T10:09:04.768-07:00
+modified: 2026-03-26 10:39:25.819000-07:00
+published: 2026-04-01T14:07:59.289-07:00
 tags:
-  - "#🌱Seed"
-  - 😐Neutral
-  - 🟡Consideration
-  - 💭Memory
+  - 🔗index
 ---
 
 > [!Summary] The Big Idea

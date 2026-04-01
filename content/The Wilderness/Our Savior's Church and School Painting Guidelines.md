@@ -1,11 +1,12 @@
 ---
 publish: true
-Note Planted: 2024-10-22
-Last Tended: 2025-06-04
----
-
-\#🌱Seed  #🙂Agree  #📊Project  #🍽️Community-Mission
-
+created: 2024-10-22
+modified: 2026-04-01T14:31:16.358-07:00
+published: 2026-04-01T14:31:16.364-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 📊Project
 ---
 
 _**The Big Idea**_: Guidelines for applying the pallet designed in [[Our Savior's Church and School Selection Criteria 2023]]

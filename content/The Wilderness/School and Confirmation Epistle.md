@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-02-02T10:56:13.649-08:00
-published: 2026-02-02T10:56:13.649-08:00
----
-
-\#🌱Seed  #🙂Agree  #📰Handout
-
+modified: 2026-04-01T14:27:37.475-07:00
+published: 2026-04-01T14:27:37.481-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 📰Handout
+  - 📃Epistle
 ---
 
 _**The Big Idea**_: Used in OS #📃Epistle September 2023

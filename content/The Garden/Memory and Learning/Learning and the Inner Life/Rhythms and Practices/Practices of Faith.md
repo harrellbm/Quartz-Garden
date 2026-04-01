@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-03-04T15:17:32.876-08:00
-published: 2026-03-04T15:17:32.882-08:00
----
-
-\#🪴Sprout   #🙂Agree  #🥾SpiritualPractices-EmbodiedLiving
-
+modified: 2026-03-04 15:17:32.876000-08:00
+published: 2026-04-01T14:52:45.085-07:00
+tags:
+  - 🪴Sprout
+  - 🙂Agree
+  - 🥾SpiritualPractices-EmbodiedLiving
+  - 📃Epistle
 ---
 
 > [!note]

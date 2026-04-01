@@ -1,8 +1,12 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2025-09-29T08:48:08.879-07:00
-published: 2026-02-02T11:09:18.335-08:00
+modified: 2025-09-29 08:48:08.879000-07:00
+published: 2026-04-01T14:07:58.886-07:00
+tags:
+  - 🌱Seed
+  - 🤢Strongly-Disagree
+  - 📚Definition
 ---
 
 \#🌱Seed   #🤢Strongly-Disagree   #📚Definition

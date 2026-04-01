@@ -5,10 +5,12 @@ aliases:
   - Base Camp
 title: Base Camp 🏕️
 created: 2024-10-22
-modified: 2026-03-26T10:29:25.039-07:00
-published: 2026-03-26T10:29:41.550-07:00
+modified: 2026-03-26 10:30:54.543000-07:00
+published: 2026-04-01T14:08:01.953-07:00
 tags:
   - 🌲Evergreen
+  - 🟢Conviction
+  - 📝Essay
 ---
 
 Hello!
@@ -50,6 +52,14 @@ Here are some basic suggestions for using this garden:
 
 # Notes I have Worked in Recently
 
+- [[The Library/Book Catalog and Notes/A Manuel on the Book of Psalms.md|A Manuel on the Book of Psalms]]
+- [[The Garden/Technology and Tools/Concepts and Definitions/Pace Layers.md|Pace Layers]]
+- [[The Garden/Technology and Tools/Concepts and Definitions/Reality Filter.md|Reality Filter]]
+- [[The Library/Book Catalog and Notes/Unlimited Memory.md|Unlimited Memory]]
+- [[The Library/Book Catalog and Notes/Unlock Your Amazing Memory.md|Unlock Your Amazing Memory]]
+- [[The Library/Book Catalog and Notes/Luther's Small Catechism.md|Luther's Small Catechism]]
+- [[The Library/Book Catalog and Notes/British Folk Tales.md|British Folk Tales]]
+- [[The Library/Ebooks and Articles/Memory and Remembering/Magnetic Memory Mini course/A. Magnetic Memory Method Mini Class.md|A. Magnetic Memory Method Mini Class]]
 - [[The Library/Book Catalog and Notes/How to Develop a Brilliant Memory Week by Week.md|How to Develop a Brilliant Memory Week by Week]]
 - [[The Library/Online Libraries.md|Online Libraries]]
 - [[In Process/Personal Memory Method.md|Personal Memory Method]]
@@ -57,11 +67,3 @@ Here are some basic suggestions for using this garden:
 - [[In Process/Jack and the Magic Cellar.md|Jack and the Magic Cellar]]
 - [[The Library/Ebooks and Articles/Memory and Remembering/1--Index- Memory and Remembering - Loose Resources.md|1--Index- Memory and Remembering - Loose Resources]]
 - [[The Library/Quotes/John Chrysostom on the Lord's Supper.md|John Chrysostom on the Lord's Supper]]
-- [[The Wilderness/Useful Keystrokes.md|Useful Keystrokes]]
-- [[The Library/Ebooks and Articles/Learning and Teaching/1--Index- Learning and Teaching - Loose Resources.md|1--Index- Learning and Teaching - Loose Resources]]
-- [[The Library/Book Catalog and Notes/The Art or Crafte of Rhetoryke.md|The Art or Crafte of Rhetoryke]]
-- [[The Library/Book Catalog and Notes/Philipp Melanchthon’s Humanist concept of philosophy.md|Philipp Melanchthon’s Humanist concept of philosophy]]
-- [[The Library/Book Catalog and Notes/Principal Writings on Dialectic and Rhetoric.md|Principal Writings on Dialectic and Rhetoric]]
-- [[The Library/Ebooks and Articles/Memory and Remembering/Magnetic Memory Mini course/A. Magnetic Memory Method Mini Class.md|A. Magnetic Memory Method Mini Class]]
-- [[The Library/Book Catalog and Notes/Verbatim Memory Tool for Memorizing Paul’s Epistle to the Ephesians.md|Verbatim Memory Tool for Memorizing Paul’s Epistle to the Ephesians]]
-- [[The Library/Book Catalog and Notes/Learn the Art of Memory.md|Learn the Art of Memory]]
