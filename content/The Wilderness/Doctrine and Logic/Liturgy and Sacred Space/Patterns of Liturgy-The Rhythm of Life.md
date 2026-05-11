@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-04-01T14:15:51.455-07:00
-published: 2026-04-01T14:15:51.455-07:00
+modified: 2026-04-09T15:00:26.100-07:00
+published: 2026-04-09T15:00:26.100-07:00
 tags:
   - 🍋Fruit
   - 🙂Agree
@@ -17,9 +17,9 @@ tags:
 
 > [!note]
 >
-> - Used for OS #📃Epistle Oct 2023.
-> - Used for LCOS #📃Epistle Jan 2025.
-> - Posted to Substack as #📝Essay in its current state Jan 2025
+> - Used for OS Oct 2023.
+> - Used for LCOS Jan 2025.
+> - Posted to Substack as in its current state Jan 2025
 
 _**Related Notes**_: [[Models of Human Rhythms]], [[Personal Reflections on My Personal Rhythms]], [[Rhythm Reset]], [[Thoughts on Liturgy and Rhythm]], [[Basic Philosophies of Community Rhythm and Project Lifecycle]]
 

@@ -2,12 +2,14 @@
 publish: true
 created: 2024-10-22
 modified: 2026-04-01T14:31:09.211-07:00
-published: 2026-04-01T14:31:09.217-07:00
+published: 2026-04-09T15:00:26.833-07:00
 tags:
   - 🍋Fruit
   - 😁Strongly-Agree
   - 📊Project
   - 🟢Conviction
+edited_seconds: 0
+updated: 2026-04-01T14:31:09.211-07:00
 ---
 
 _**The Big Idea**_: The logic and research used to create a church wide color pallet for Our Savior's Lutheran church and school in Springfield IL.

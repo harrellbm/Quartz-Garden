@@ -2,7 +2,7 @@
 publish: true
 created: 2025-03-18
 modified: 2025-06-17 14:42:56.804000-07:00
-published: 2026-04-01T14:07:58.946-07:00
+published: 2026-04-09T15:00:24.497-07:00
 tags:
   - 🍋Fruit
   - 🙂Agree
@@ -10,16 +10,16 @@ tags:
   - 📝Essay
   - 🔥Doctrine-Poetry-Story
   - 📃Epistle
+edited_seconds: 2
+updated: 2025-06-17 14:42:56.804000-07:00
 ---
-
-\#🍋Fruit   #🙂Agree    #🟢Conviction   #📝Essay  #🔥Doctrine-Poetry-Story
 
 ---
 
 > [!Note]
 >
-> - Used as April 2025 #📃Epistle for LCOS
-> - Posted to Substack as #📝Essay in its current state Mar 2025
+> - Used as April 2025 for LCOS
+> - Posted to Substack as in its current state Mar 2025
 
 ---
 

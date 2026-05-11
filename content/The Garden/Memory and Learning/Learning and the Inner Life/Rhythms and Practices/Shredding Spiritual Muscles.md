@@ -2,7 +2,7 @@
 publish: true
 created: 2025-04-16
 modified: 2025-06-17 13:24:33.567000-07:00
-published: 2026-04-01T14:07:58.548-07:00
+published: 2026-04-09T15:00:24.022-07:00
 tags:
   - 🌿Sapling
   - 🙂Agree
@@ -11,16 +11,16 @@ tags:
   - 🥾SpiritualPractices-EmbodiedLiving
   - 📃Epistle
   - 📝Essay
+edited_seconds: 33
+updated: 2025-06-17 13:24:33.567000-07:00
 ---
-
-\#🌿Sapling   #🙂Agree   #🟢Conviction   #📓Journal  #🥾SpiritualPractices-EmbodiedLiving
 
 ---
 
 > [!Note]
 >
-> - Used as May 2025 #📃Epistle for LCOS
-> - Posted to Substack as #📝Essay in its current state April 2025
+> - Used as May 2025 for LCOS
+> - Posted to Substack as in its current state April 2025
 
 [Link to Shred Calendar used Lent 2025](https://drive.google.com/file/d/16W5BwFWGHKAQQjDAT9_Z5WjJi-Qx8EjW/view?usp=sharing)
 

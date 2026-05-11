@@ -1,13 +1,15 @@
 ---
 publish: true
 created: 2025-05-05
-modified: 2026-04-01T14:31:33.005-07:00
-published: 2026-04-01T14:31:33.009-07:00
+modified: 2026-04-09T14:59:00.392-07:00
+published: 2026-04-09T15:00:24.933-07:00
 tags:
   - 🌱Seed
   - 🙂Agree
   - 🟡Consideration
   - 🔥Doctrine-Poetry-Story
+edited_seconds: 1111
+updated: 2026-04-09T14:59:00.392-07:00
 ---
 
 > [!Summary] The Big Idea

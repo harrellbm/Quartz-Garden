@@ -2,10 +2,12 @@
 publish: true
 created: 2024-12-09
 modified: 2026-04-01T14:39:24.653-07:00
-published: 2026-04-01T14:39:24.657-07:00
+published: 2026-04-09T15:00:23.983-07:00
 tags:
   - 🙂Agree
   - 🥾SpiritualPractices-EmbodiedLiving
+edited_seconds: 28
+updated: 2026-04-01T14:39:24.653-07:00
 ---
 
 > [!Summary] The Big Idea

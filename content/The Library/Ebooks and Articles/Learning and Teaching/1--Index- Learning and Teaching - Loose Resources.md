@@ -1,10 +1,12 @@
 ---
 publish: true
 created: 2026-03-25
-modified: 2026-03-25 12:54:23.990000-07:00
-published: 2026-04-01T14:07:59.295-07:00
+modified: 2026-05-07T09:19:38.178-07:00
+published: 2026-05-07T09:19:38.185-07:00
 tags:
   - 🔗index
+edited_seconds: 711
+updated: 2026-05-07T09:19:38.178-07:00
 ---
 
 > [!Summary] The Big Idea
@@ -22,6 +24,7 @@ tags:
 - [The Theology of Post-Reformation Lutheranism Volume I](https://www.cph.org/the-theology-of-post-reformation-lutheranism-volume-i?srsltid=AfmBOoqLJ37jyUToTzsyIzDz0fMvMCXExwmk-IkQ0161M7rLM6XgHXA2) Covers the philosophy and training of theologians.
 - [Classical Rhetoric and Its Christian and Secular Tradition from Ancient to Modern Times](https://www.amazon.com/dp/0807847690?ref=cm_sw_r_ffobk_apin_dp_MZ4XA5H59H7XZAJ5WZWQ\&ref_=cm_sw_r_ffobk_apin_dp_MZ4XA5H59H7XZAJ5WZWQ\&social_share=cm_sw_r_ffobk_apin_dp_MZ4XA5H59H7XZAJ5WZWQ\&bestFormat=true) by George A. Kennedy
 - [A History of Renaissance Rhetoric, 1380-1620]([https://www.amazon.com/dp/0199597286?ref=cm_sw_r_ffobk_apin_dp_Q85NFCS8B3X3Y3T7XWKV\&ref_=cm_sw_r_ffobk_apin_dp_Q85NFCS8B3X3Y3T7XWKV\&social_share=cm_sw_r_ffobk_apin_dp_Q85NFCS8B3X3Y3T7XWKV\&bestFormat=true]\(https://www.amazon.com/dp/0199597286?ref=cm_sw_r_ffobk_apin_dp_Q85NFCS8B3X3Y3T7XWKV\&ref_=cm_sw_r_ffobk_apin_dp_Q85NFCS8B3X3Y3T7XWKV\&social_share=cm_sw_r_ffobk_apin_dp_Q85NFCS8B3X3Y3T7XWKV\&bestFormat=true\)) by Peter Mack
+- [Rhetoric in the Middle Ages: A History of Rhetorical Theory from St. Augustine to the Renaissance](https://www.amazon.com/dp/0520044061?ref=cm_sw_r_ffobk_apin_dp_DD0ZF1C74GJEX8BGX5GZ\&ref_=cm_sw_r_ffobk_apin_dp_DD0ZF1C74GJEX8BGX5GZ\&social_share=cm_sw_r_ffobk_apin_dp_DD0ZF1C74GJEX8BGX5GZ\&bestFormat=true)by James J. Murphy
 
 # Rhetoric in Greco - Roman
 
@@ -33,17 +36,17 @@ the Organon - [[Organon-Aristotle.pdf]]
 
 [Rhetorica Ad Herennium: The Ultimate Memory & Speaking Guide?](https://www.magneticmemorymethod.com/rhetorica-ad-herennium/)
 
+https://archive.org/details/cicero-in-28-volumes.-vol.-3-loeb-348
+
+https://archive.org/details/cicero-in-28-volumes.-vol.-4-loeb-349
+
 ### Quintilian
 
 Was a favorite of Luther. Mentioned in Against Latomas LW 32 pp. 133-260.
 
+[[Quintilianc95-InstitutioOratoria_Reprint.pdf]]
+
 # Rhetoric in the Middle Ages
-
-###
-
-Rhetoric in the Middle Ages: A History of Rhetorical Theory from St. Augustine to the Renaissance New Ed Edition
-by James J. Murphy
-https://www.amazon.com/dp/0520044061?ref=cm\_sw\_r\_ffobk\_apin\_dp\_DD0ZF1C74GJEX8BGX5GZ\&ref\_=cm\_sw\_r\_ffobk\_apin\_dp\_DD0ZF1C74GJEX8BGX5GZ\&social\_share=cm\_sw\_r\_ffobk\_apin\_dp\_DD0ZF1C74GJEX8BGX5GZ\&bestFormat=true
 
 ### Augustine
 
@@ -54,10 +57,6 @@ De doctrina christiana. Especially book 10 on memory.
 The Marriage of Philology and Mercury - first set formalization of the seven liberal arts
 
 # Rhetoric in Renaissance
-
-### Overview
-
-[Renaissance Eloquence: Studies in the Theory and Practice of Renaissance Rhetoric](https://www.amazon.com/dp/0520045432?ref=cm_sw_r_ffobk_apin_dp_TR9B876XAJNQPP89M3DE\&ref_=cm_sw_r_ffobk_apin_dp_TR9B876XAJNQPP89M3DE\&social_share=cm_sw_r_ffobk_apin_dp_TR9B876XAJNQPP89M3DE\&bestFormat=true) by James J. Murphy
 
 ### Peter of Ravenna
 
@@ -90,13 +89,14 @@ Contemporary of the reformation and the first book of rhetoric in English. This 
 
 - Overview of his Philosophy and Rhetoric
   - [[Philipp Melanchthon’s Humanist concept of philosophy]]
+  - [[ars-et-methodus-philipp-melanchthons-humanist-concept-of-philosophy-1nbsped-9783666570599-9783525570593_compress.pdf]]
 - A Digital Version of Philip's Three main books on Rhetoric: De Rhetorica (1519), Institutiones Rhetoricae (1521), and Elementa Rhetorices (1531).
   - [[Principal Writings on Dialectic and Rhetoric]]
 
 ### Original Scans (Some maybe inaccessible for various reasons)
 
 - Institutiones Rhetoricae (1521)
-  - https://www.zvdd.de/dms/load/met/?PPN=urn%3Anbn%3Ade%3Abvb%3A12-bsb10151376-8
+  - [Bibliographische Titeldaten | Zentrales Verzeichnis Digitalisierter Drucke (zvdd)](https://www.zvdd.de/dms/load/met/?PPN=urn%3Anbn%3Ade%3Abvb%3A12-bsb10151376-8)
   - (1523) https://www.zvdd.de/dms/load/met/?PPN=urn%3Anbn%3Ade%3Abvb%3A12-bsb11119189-7
   - https://www.zvdd.de/dms/load/met/?PPN=urn%3Anbn%3Ade%3Abvb%3A12-bsb00083684-3
 - INSTITVTIONES RHETORICAE Philippi Melanchthonis (1522)

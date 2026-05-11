@@ -2,20 +2,20 @@
 publish: true
 created: 2024-10-22
 modified: 2026-02-26 09:43:16.715000-08:00
-published: 2026-04-01T14:07:59.078-07:00
+published: 2026-04-09T15:00:24.557-07:00
 tags:
   - 🌱Seed
   - 🙂Agree
   - 🔥Doctrine-Poetry-Story
   - 📃Epistle
+edited_seconds: 11
+updated: 2026-02-26 09:43:16.715000-08:00
 ---
-
-\#🌱Seed  #🙂Agree  #🔥Doctrine-Poetry-Story
 
 ---
 
 > [!summary] The Big Idea
-> Used as OS #📃Epistle Dec 2021. Part of a series Mediation on Scripture.
+> Used as OS Dec 2021. Part of a series Mediation on Scripture.
 
 ---
 

@@ -2,11 +2,13 @@
 publish: true
 created: 2026-01-07
 modified: 2026-01-07 12:04:37.567000-08:00
-published: 2026-04-01T14:08:00.394-07:00
+published: 2026-04-09T15:00:25.894-07:00
 tags:
   - 🌱Seed
   - 😐Neutral
   - 🟡Consideration
+edited_seconds: 70
+updated: 2026-01-07 12:04:37.567000-08:00
 ---
 
 > [!Summary] The Big Idea
@@ -25,7 +27,7 @@ tags:
 - Lament
   - Psalms 38-43 +44 (7 Psalms) six individual laments end with communal lament
 
-- The **blessedness** of the man in Psalm 1 is actually from a verb אֶ֫שֶׁר that means happy or joyful or blessed\[^1]. It is a rare word overall but shows up mostly in wisdoms poetry books.
+- The **blessedness** of the man in Psalm 1 is actually from a verb אֶ֫שֶׁר that means happy or joyful or blessed[^1]. It is a rare word overall but shows up mostly in wisdoms poetry books.
   - Shows up in a total of 19 Psalms.
   - Book 1 Psalms 1-41 (41 Psalms) **Shows up in 5 Psalms**
     - 1:1, Blessed Man
@@ -54,7 +56,7 @@ tags:
 
 - **Refuge**
 
-- **Delight** in חָפֵץ has a few different forms but also a rare word that shows up in prophecy and a little history books\[^2].
+- **Delight** in חָפֵץ has a few different forms but also a rare word that shows up in prophecy and a little history books[^2].
   - Shows up in 20 Psalms
   - Psalm 40:15 same verse as 70:3
   - 2 Samuel  22:20 same as Psalm 18:20,
@@ -86,7 +88,7 @@ tags:
     - 135:6
     - 147:10
 
-- Meditate הָגָה or mutter or growl also a rare word\[^3].
+- Meditate הָגָה or mutter or growl also a rare word[^3].
   - Shows up in 10
   - Book 1 Psalms 1-41 (41 Psalms) **Shows up in 8 Psalms**
     - 1:2
@@ -104,7 +106,7 @@ tags:
     - 115:7
     - 143:5
 
-- Prosper צָלֵחַ, צָלַח\[^5]
+- Prosper צָלֵחַ, צָלַח[^5]
   - ψ 45:5; ψ 118:25, ψ 37:7, 1:3
   -
 
@@ -136,7 +138,7 @@ tags:
 
 # First Word of Psalm
 
-- Book 1 Psalms 1-41 (41 Psalms) \[^4]
+- Book 1 Psalms 1-41 (41 Psalms) [^4]
   - 1 Happy, Blessed אַ֥שְֽׁרֵי
 
   - 2 Why rage לָ֭מָּה רָגְשׁ֣וּ
@@ -287,8 +289,8 @@ This imagery even lines up with the content of the Psalms themselves.
 - **Number Symbolism** -
 - **Other Connections** -
 
-\[^1]: Brown, Francis, et al. Enhanced Brown-Driver-Briggs Hebrew and English Lexicon, Clarendon Press, 1977, p. 81.
-\[^2]: Brown, Francis, et al. Enhanced Brown-Driver-Briggs Hebrew and English Lexicon, Clarendon Press, 1977, pp. 342–43.
-\[^3]: Brown, Francis, et al. Enhanced Brown-Driver-Briggs Hebrew and English Lexicon, Clarendon Press, 1977, p. 211.
-\[^5]: Brown, Francis, et al. Enhanced Brown-Driver-Briggs Hebrew and English Lexicon, Clarendon Press, 1977, p. 852.
-\[^4]: Elliger, K., et al. Biblia Hebraica Stuttgartensia. Electronic ed., German Bible Society, 2003, p. Ps 1-20
+[^1]: Brown, Francis, et al. Enhanced Brown-Driver-Briggs Hebrew and English Lexicon, Clarendon Press, 1977, p. 81.
+[^2]: Brown, Francis, et al. Enhanced Brown-Driver-Briggs Hebrew and English Lexicon, Clarendon Press, 1977, pp. 342–43.
+[^3]: Brown, Francis, et al. Enhanced Brown-Driver-Briggs Hebrew and English Lexicon, Clarendon Press, 1977, p. 211.
+[^5]: Brown, Francis, et al. Enhanced Brown-Driver-Briggs Hebrew and English Lexicon, Clarendon Press, 1977, p. 852.
+[^4]: Elliger, K., et al. Biblia Hebraica Stuttgartensia. Electronic ed., German Bible Society, 2003, p. Ps 1-20

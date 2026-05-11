@@ -2,12 +2,14 @@
 publish: true
 created: 2026-01-03
 modified: 2026-01-20 11:48:14.148000-08:00
-published: 2026-04-01T14:07:58.933-07:00
+published: 2026-04-09T15:00:24.338-07:00
 tags:
   - 🌱Seed
   - 🟡Consideration
   - 🙂Agree
   - 📃Epistle
+edited_seconds: 2387
+updated: 2026-01-20 11:48:14.148000-08:00
 ---
 
 > [!Summary] The Big Idea
@@ -19,7 +21,7 @@ tags:
 ---
 
 > [!note]
-> Used as LCOS #📃Epistle Jan 2025
+> Used as LCOS Jan 2025
 
 It strikes me that a balanced theological perspective, or any clear answer to the question, "who am I and what do I believe?" Can take two approaches in order to achieve a sense of boundary and defined space. Because without boundaries, over time, identity will fade or drift and become something else entirely. And so there are two main ways to achieve that kind of mental and even sometimes physical boundary between what I am and believe, and what I am not and do not believe.
 

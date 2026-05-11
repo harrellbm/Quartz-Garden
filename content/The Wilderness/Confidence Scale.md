@@ -2,7 +2,7 @@
 publish: true
 created: 2024-10-22
 modified: 2026-04-01T14:37:33.787-07:00
-published: 2026-04-01T14:37:33.794-07:00
+published: 2026-04-09T15:00:27.412-07:00
 tags:
   - 🌱Seed
   - 🙂Agree
@@ -10,6 +10,8 @@ tags:
   - 🔴Uncertain
   - 🟡Consideration
   - 🟢Conviction
+edited_seconds: 3
+updated: 2026-04-01T14:37:33.787-07:00
 ---
 
 > [!summary] The Big Idea
@@ -17,8 +19,8 @@ tags:
 
 ---
 
-- \#🔴Uncertain  A note containing a concept or idea that could have potential but I am tentative about.
+- A note containing a concept or idea that could have potential but I am tentative about.
 
-- \#🟡Consideration A note containing a concept or idea that I am actively processing and thinking about. I have some confidence in it but not enough to say I believe or fully adhere to it.
+- A note containing a concept or idea that I am actively processing and thinking about. I have some confidence in it but not enough to say I believe or fully adhere to it.
 
-- \#🟢Conviction A note containing a concept or idea that I fully support and believe.
+- A note containing a concept or idea that I fully support and believe.

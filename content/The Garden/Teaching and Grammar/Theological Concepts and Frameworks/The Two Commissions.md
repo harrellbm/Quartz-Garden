@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-04-01T14:07:58.838-07:00
-published: 2026-04-01T14:07:58.838-07:00
+modified: 2026-04-09T15:00:24.383-07:00
+published: 2026-04-09T15:00:24.383-07:00
 tags:
   - 🌱Seed
   - 🙂Agree
@@ -11,15 +11,13 @@ tags:
   - 📃Epistle
 ---
 
-\#🌱Seed  #🙂Agree #🟢Conviction #🔥Doctrine-Poetry-Story
-
 ---
 
 > [!summary] The Big Idea
 > God has told humans what we were created to be up to and commissioned us or sent us out to do it in two major moments in Scripture.
 
 > [!note]
-> Used as LCOS Nov 2024 #📃Epistle
+> Used as LCOS Nov 2024
 
 ---
 

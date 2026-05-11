@@ -2,11 +2,13 @@
 publish: true
 created: 2025-01-07
 modified: 2026-03-25 14:49:06.768000-07:00
-published: 2026-04-01T13:57:13.065-07:00
+published: 2026-04-09T15:00:24.977-07:00
 tags:
   - 🙂Agree
   - 🟢Conviction
   - 🔥Doctrine-Poetry-Story
+edited_seconds: 23
+updated: 2026-03-25 14:49:06.768000-07:00
 ---
 
 > [!Summary] The Big Idea

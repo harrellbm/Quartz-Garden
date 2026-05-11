@@ -2,7 +2,7 @@
 publish: true
 created: 2024-10-22
 modified: 2026-04-01T14:37:48.720-07:00
-published: 2026-04-01T14:37:48.723-07:00
+published: 2026-04-09T15:00:25.982-07:00
 tags:
   - 🍋Fruit
   - 😁Strongly-Agree
@@ -10,6 +10,8 @@ tags:
   - 🔥Doctrine-Poetry-Story
   - 📃Epistle
   - 📝Essay
+edited_seconds: 19
+updated: 2026-04-01T14:37:48.720-07:00
 ---
 
 > [!summary] The Big Idea
@@ -17,9 +19,9 @@ tags:
 
 > [!NOTE]
 >
-> - Used in OS #📃Epistle Feb 2022
-> - Posted to Substack as #📝Essay in its current state Jan 2025
-> - Used in LCOS #📃Epistle Sept 2025
+> - Used in OS Feb 2022
+> - Posted to Substack as in its current state Jan 2025
+> - Used in LCOS Sept 2025
 
 _**Related Epistle**_: [[The Struggle to be in God's Word]]
 

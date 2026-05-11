@@ -2,9 +2,28 @@
 publish: true
 created: 2024-10-22
 modified: 2026-04-01T14:46:21.499-07:00
-published: 2026-04-01T14:46:21.504-07:00
+published: 2026-04-09T15:00:24.849-07:00
 tags:
   - 🔗index
+  - 🤢Strongly-Disagree
+  - 😟Disagree
+  - 😐Neutral
+  - 🙂Agree
+  - 😁Strongly-Agree
+  - 🔴Uncertain
+  - 🟡Consideration
+  - 🟢Conviction
+  - 📊Project
+  - 📖Story
+  - 📝Essay
+  - 📃Epistle
+  - 📚Definition
+  - 📓Journal
+  - 📰Handout
+  - 📘BookNotes
+  - 🍴Recipe
+edited_seconds: 169
+updated: 2026-04-01T14:46:21.499-07:00
 ---
 
 > [!Summary] The Big Idea
@@ -25,29 +44,29 @@ These are pieces of information I will attach to the beginning of each note that
 
 2. **Idea Sentiment**:
    My personal opinion/acceptance of the idea held within a note:
-   - \#🤢Strongly-Disagree
-   - \#😟Disagree
-   - \#😐Neutral
-   - \#🙂Agree
-   - \#😁Strongly-Agree
+   --------------------------------------------------------------
+   -
+   -
+   -
+   -
 3. **Confidence Level**:
    The [[Confidence Scale]] associated with the ideas or concepts contained within the current note:
-   - \#🔴Uncertain
-   - \#🟡Consideration
-   - \#🟢Conviction
+   -------------------------------------------------------------------------------------------------
+   -
+   -
 4. **Special Note Types**:
    Tags that identify notes that function for me in special ways:
-   - \#📊Project A note focused on completing a goal or building something.
-   - \#📖Story A personal or interesting story I would like to save for personal memory and possible use in a sermon.
-   - \#📝Essay A more polished written essay on a particular subject.
-   - \#📃Epistle A Short form writing that I generally send out once a month to my congregation on a particular thought or idea. Not a full treatment but kind of a devotional reading.
+   - A note focused on completing a goal or building something.
+   - A personal or interesting story I would like to save for personal memory and possible use in a sermon.
+   - A more polished written essay on a particular subject.
+   - A Short form writing that I generally send out once a month to my congregation on a particular thought or idea. Not a full treatment but kind of a devotional reading.
    - \#🗣Sermon An oral presentation for a worship service that I have presented. I tend to keep notes in short from so they tend to not be full manuscripts.
-   - \#📚Definition A note that holds a kind of dictionary style definition of a word or phrase.
+   - A note that holds a kind of dictionary style definition of a word or phrase.
    - #✒️Poem A personal or quoted poem.
-   - \#📓Journal A personal recount of an experience of some sort.
-   - \#📰Handout A handout made for a meeting or class.
-   - \#📘BookNotes  Notes that I have taken on a particular book.
-   - \#🍴Recipe A recipe that I like enough to save it.
+   - A personal recount of an experience of some sort.
+   - A handout made for a meeting or class.
+   - Notes that I have taken on a particular book.
+   - A recipe that I like enough to save it.
 5. **Mental Loci**:
    Tags the identify a particular loci or "location" in my mind:
    - Description of this picture here [[Mental Loci]]

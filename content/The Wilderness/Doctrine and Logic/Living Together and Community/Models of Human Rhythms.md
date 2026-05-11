@@ -2,14 +2,14 @@
 publish: true
 created: 2024-10-22
 modified: 2025-06-17 14:36:04.779000-07:00
-published: 2026-04-01T14:07:58.051-07:00
+published: 2026-04-09T15:00:26.007-07:00
 tags:
   - 🌱Seed
   - 🙂Agree
   - 🥾SpiritualPractices-EmbodiedLiving
+edited_seconds: 12
+updated: 2025-06-17 14:36:04.779000-07:00
 ---
-
-\#🌱Seed  #🙂Agree #🥾SpiritualPractices-EmbodiedLiving
 
 ---
 
@@ -505,9 +505,9 @@ Hebrew measurements of time allowed for the irregularities of how long a lunar m
 
 Definition of seasons 
 
-[Genesis 8:22](https://ref.ly/logosres/LLS:CSB;ref=bible$2Bcsb2.1.8.22)
+[Genesis 8:22](https://ref.ly/logosres/LLS:CSB;ref=bible\$2Bcsb2.1.8.22)
 
-[As long as the earth endures, seedtime and harvest, cold and heat, summer and winter, and day and night will not cease.”](https://ref.ly/logosres/LLS:CSB;ref=bible$2Bcsb2.1.8.22;pos=res$2FLLS:CSB$2F2023-04-11T13:56:39Z$2F856214)
+[As long as the earth endures, seedtime and harvest, cold and heat, summer and winter, and day and night will not cease.”](https://ref.ly/logosres/LLS:CSB;ref=bible\$2Bcsb2.1.8.22;pos=res\$2FLLS:CSB\$2F2023-04-11T13:56:39Z\$2F856214)
 
 ## By Worship
 

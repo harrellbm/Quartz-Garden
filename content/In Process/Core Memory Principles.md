@@ -1,18 +1,20 @@
 ---
 publish: true
 created: 2026-03-04
-modified: 2026-03-26 10:10:02.375000-07:00
-published: 2026-04-01T13:57:13.084-07:00
+modified: 2026-05-07T10:04:46.723-07:00
+published: 2026-05-07T10:04:46.729-07:00
 tags:
   - 🟡Consideration
   - 🙂Agree
+edited_seconds: 3675
+updated: 2026-05-07T10:04:46.723-07:00
 ---
 
 > [!Summary] The Big Idea
 > As I continue to learn and experiment with memory methods here are core principles that have started to surface for me.
 
 Related Notes:
-[[Personal Memory Method]]\
+[[Personal Learning Method]]\
 [Memorizing the Psalms](Memorizing%20the%20Psalms)\
 [[Memorizing the Lords Prayer]]
 [[Memorizing the Ten Commandments]]
@@ -24,16 +26,85 @@ Reference:
 
 ---
 
-# Three Main Purposes of Memory Strategies/Methods
+I began this project rather by accident. I have always been someone who has disliked memorization. It is boring, and repetitive. Not to mention can become overwhelming and disappointing. There is nothing worse than working really hard to remember something just for it to fly away right when you really need it.
 
-1. Strap things in
-2. Ease and organized access
-3. Mentally manipulation of it
-   1. Basically allowing you to traverse up and down the tree of chucks to work with all of them at once or down to an individual pair of digits. Allowing for many more individual pieces of information to be handled than possible in an unassisted digit span.
-   2. Slicing across psalms
-4.
+And so it was with a great amount of bewildered curiosity that I heard the Storyteller Martin Shaw describe memorizing the entire Odyssey of Homer and that it takes multiple days to retell it in its entirety. That kind of scale just boggled my imagination.
 
-# Basic Concept of Memorization
+I was raised on the computer metaphor of memory. Learning is like "downloading" information that you store on the "hard drive" of your mind. Surely somewhere along the road you will run out of space just like that old broken down laptop shoved in the closet.  But even if you won't run out of space then surely something that massive will get fuzzy and forgotten quickly?
+
+How have we come to see memory as so broken and small when the Second Council of Nicaea (787 AD) could confidently write:
+
+> “\_Candidates for a bishop’s orders must know the Psalter by heart and must have read thoroughly, not cursorily, all the sacred Scriptures.”
+
+What follows is partially a journal, partially an invitation, to begin to rethink the way we treat our memory in teaching and study. In a world ever more flooded with distractions and noise, our understanding and practice of memory seems to have atrophied in favor of heaping resources and praise on the machines we increasingly rely on.
+
+So if the computer metaphor of memory has done us dirty what are some core principles to rethink the way our memory works?
+
+# It is all about Associations
+
+1. Memory is all about associations. It is the core mechanic that makes things stick in your mind.
+2. All memory systems and techniques are really just ways to find and form associations in a consistent and easily recallable manner.
+   1. Some major types of associations are:
+      1. Looks similar
+      2. Sounds similar
+      3. Starts with same letter
+      4. Reminds you of something similar (Example: the word "For" reminds me of someone golfing and yelling "FOUR")
+      5. Means similar
+      6. Means opposite
+      7. Actions
+      8. Color
+      9. People
+      10. Melodic (singing) association
+      11. Belongs together - concepts, ideas, scenes, environments (i.e. farm), etc.
+          1. For example, Cow makes you think of moo makes you think of milk, etc.
+   2. Aristotle categorized the main types of associations as similarity, contrast and contiguity. Not sure I am locked into that but worth keeping in mind.
+3. Memory and Associations do not run on "space" as much as on "hooks".
+   1. For example, connecting a new name to a similar sound, object, and action. May seem like it would take more "space" but in reality it has more "hooks" that hold the new name in your mind. Without strong associative hooks new things will float away no matter how much "space" you are "saving" in your memory.
+   2. The more you associate and anchor in your mind. The more you can continue to pull in new information and associate it. In other words, there is a bit of an exponential effect. The more you have anchored, the more options you have for forming associations to anchor new things and the more firmly rooted old things become.
+4. New Associations are only formed working from known to unknown.
+   1. Associations only "hook" in new information when they connect to something already in your mind. If you try to remember a bunch of new things and associate them all together you will get overwhelmed and nothing is really connected into your mind as it is now.
+   2. Use what is already in your mind to help pull in new things you want to remember. Any and everything already there can be leveraged to help make associations with the new thing you want to learn. The more associations the better.
+5. Memory is more like painting than computer processing.
+   1. Memory needs to work in layers and chunks. Just like an artist painting with one color at a time or creating one texture at a time. Memory can be build by focusing on particular aspects one after another. Layering then can create a robust memory and understanding of a thing. Rather than a one dimensional rote memorization of something.
+   2. Example: The lords prayer is often memorized by rote initially. This is great because it means it is "on board" someone's memory. But this is just one layer of memorization and with larger things to memorize, rote may not even get someone to the same point. When I had only a rote layer of the lords prayer, I could not tell you the divisions of the petitions, or the main verbs in each petition, or how the flow of the prayer changes from the first three petitions to the last four. But over time, I have worked to layer on additional associations to help make the prayer more than one singular block of text that is rattled off. Instead it has increasingly become the big beautiful prayer it is that connects to all kinds of things across scripture and daily life.
+6. Lower mental load makes any strategy more effective and easier to use.
+   1. If you have to spend all your attention trying to figure out a method or mnemonic it will not actually be helpful. The only way to fix that is find a less mentally taxing method or focus on memorizing the method itself before using it. The best methods help to lower how hard it is to work with things you are trying to memorize.
+   2. The key principle as always is leverage what is already in your mind, don't go looking for some "secret key" that is not. Even if that "key" may be helpful eventually, you still need to pull it into memory with what you have first.
+7. Every memory, or set of things memorized, has an entry point(s)
+   1. Every memory, or set of things memorized, has certain paths of travel. The minimum is one (start to finish) but there are ways to think about different paths of travel through memories, front to back, back to front, leap frog (or odds evens), random access, slicing across similar line numbers, etc.
+   2. Be intentional about where you work to place these points so you can access what you remember easily and well. If you have to recite or go through a bunch of stuff to get to the phrase or part of what you want you need more entry points.
+8. Increased associations increases the access points to a thing in memory.
+   1. Rote memorization starts with one access point and just runs through. If you can't find that one point you often can't find anything else that comes after it.
+   2. More robust associations allow for searching when a particular point refuses to come to mind. You can start with what you do remember that is related and walk yourself into what you are looking for.
+9. There are only two primary "operations" you can do while forming an association connecting and placing.
+   1. Connecting is when you take an old thing in your mind and connect it to the new thing using some form of association.
+   2. Placing is when you want to "leave" new information in "containers" of buildings or things already in you mind. It basically gives the new thing a home in your mind rather than letting it float in the "void." There are various ways to accomplish this:
+      1. Placed Spatially like in a memory palace
+      2. Placed Logically like in a Ramist tree, or flow chart
+      3. Placed Sequentially like in lines for a play or using the Story or Link methods.
+10. If there is no intentional structure to memorization projects they will get out of hand quickly.
+    1. Need a peg system or a Memory Palace or something to allow you to traverse the project at a high level in your mind and then access specific things. Otherwise you end up with having to start at the beginning of a huge book or something and not being able to access things that are near the end well which then makes them easy to forget.
+11. What you are trying to remember should affect the approach you take to forming associations.
+    1. Symbols and Words
+       1. Numbers - Phone numbers or other significant numbers
+       2. Words - Vocabulary, spelling, or foreign language words
+    2. Abstract Constructs
+       1. Concepts - abstract ideas, facts (Trivia night anyone?), etc.
+       2. Frameworks, and Theories, etc.
+    3. Verbatim Text
+       1. Phrases/Sentences/Longer Quotations - Bible verses, quotes, etc.
+       2. Word for word recitation of play lines or story.
+    4. Skeleton Memorization (Remember the skeleton and major details fill in the rest naturally as you recite)
+       1. Stories - Personal, Biblical, or Historical
+       2. Speeches and presentations
+12. Well structured memory can allow for mental manipulation of information not otherwise possible.
+    1. Working memory only has so much space. You need to be able to pull things in and out of working memory well to be able to work with a large amount of information.
+    2. A good structure allows you to traverse up and down the tree of chucks, or to zoom in and out. To work with all of them at once or down to an individual pair of digits or a word. Allowing for many more individual pieces of information to be handled than possible in an unassisted working memory.
+    3. One example is being able to string together related lines of psalms across many psalms. You are not just locked into one particular psalm at a time.
+
+As we discuss this, we should observe right away that there is a line of memory philosophy that thinks the human mind can contain all the knowledge in the universe. That should be discarded for the human pride and self deception it is. On the other hand modern people tend to go the exact opposite to view our memories as small, unreliable and incapable of holding on to much at all. That is also a huge error that fails to see the great tooling God has given everyone of us.
+
+# Basic Process of Memorization
 
 1. Attend - You have to first attend to something. If you ignore it or are distracted, you will remember much less than if you are fully focused on something.
 2. Hold in Short-Term - In order to start memorizing something, you first need to pull it into your short term memory.
@@ -43,7 +114,7 @@ Reference:
    2. This is why chunking is so effective. It takes what would otherwise be way too many individual items to hold in working memory and groups them into manageable sections. Strategies that help you do this quickly and effectively are way better than ones that just keep piling things on.
       1. An Example of this is a PAO system. It takes three things (a Person, Action, and Object) and attaches a pair of digits to each. You can then make 1 image by imagining the person doing the action with the object. Each part of the image is hooked to two digits. So right off the bat you are reducing the working memory load by half. Going from 6 individual digits to three "things." You then reduce the load even more when you put them all together into a single image. Now you have one item in working memory that allows you to hold on to 6 individual digits! Memory athletes use strategies like this to make long numbers or decks of cards manageable.
 3. Save to Long Term memory
-   1. Once you can "fit" something into your working memory then you can actually work on recalling it and pushing it into long-term memory.
+   1. Once you can "fit" something into your working memory then you can actually work on hooking it into long-term memory and recalling it. Every time a memory successfully is pulled back out of long-term in working it will grow in strength.
    2. Reading and reviewing engages a related but not the same part of your brain as recalling something from memory. Cited: [Verbatim Memory Tool for Memorizing Paul’s Epistle to the Ephesians](Verbatim%20Memory%20Tool%20for%20Memorizing%20Paul’s%20Epistle%20to%20the%20Ephesians)
       1. The fastest way to cement something in long term memory is to practice recalling from your own mind not just reading or interacting with it. Strategies that get you recalling right away will be way more effective than the "read it 20 times" or "listen to it 100 times" stuff.
       2. You do interact with the material with those strategies but it does not build the exact neural pathways you need for direct recall while actually recalling the content does.
@@ -54,22 +125,3 @@ Reference:
 4. Recall or Recollection
    1. Different from just the way memories randomly pop into your mind recall is the intentional process of bringing something to mind when you need it.
    2. Also after calling something to mind how is it stored in a way that makes using it effective?
-
-# General Principles
-
-1. Memory is all about associations.
-   1. For example, Cow makes you think of moo makes you think of milk, etc.
-   2. Aristotle categorized the main types of associations as similarity, contrast and contiguity. Not sure I am locked into that but worth keeping in mind.
-2. Associations work best from old to new
-   1. Associations only "hook" in new information when they connect to something already in your mind. If you try to remember a bunch of new things and associate them all together you will get overwhelmed and nothing is really connected into your mind as it is now.
-3. Lower mental load makes any strategy more effective and easier to use.
-   1. If you have to spend all your attention trying to figure out a method or mnemonic it will not actually be helpful. The only way to fix that is find a less mentally taxing method or focus on memorizing the method itself before using it. The best methods help to lower how hard it is to work with things you are trying to memorize.
-4. Every memory, or set of things memorized, has an entry point(s)
-   1. Be intention about where you work to place these points so you can access what you remember easily and well. If you have to go through a bunch of stuff to get to the phrase or part of what you want you need more entry points.
-5. Every memory, or set of things memorized, has certain paths of travel. The minimum is one (start to finish) but there are ways to think about different paths of travel through memories, front to back, back to front, leap frog (or odds evens), random access, slicing across similar line numbers, etc.
-6. If there is no structure to memorization projects they will get out of hand quickly.
-   1. Need a peg system or a Memory Palace or something to allow you to traverse the project at a high level in your mind and then access specific things. Otherwise you end up with having to start at the beginning of a huge book or something and not being able to access things that are near the end well which then makes them easy to forget.
-   2. There are various ways to "place things in memory"
-      1. Spatially like in a memory palace
-      2. Logically like in a Ramist tree, or flow chart
-      3. Sequentially like in lines for a play or speech

@@ -2,10 +2,12 @@
 publish: true
 created: 2024-10-22
 modified: 2026-04-01T14:49:47.951-07:00
-published: 2026-04-01T14:49:47.956-07:00
+published: 2026-04-09T15:00:24.640-07:00
 tags:
   - 🌱Seed
   - 😐Neutral
+edited_seconds: 10
+updated: 2026-04-01T14:49:47.951-07:00
 ---
 
 > [!summary] The Big Idea

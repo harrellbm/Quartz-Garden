@@ -2,15 +2,15 @@
 publish: true
 created: 2025-02-26
 modified: 2025-09-09 14:04:28.576000-07:00
-published: 2026-04-01T14:08:01.712-07:00
+published: 2026-04-09T15:00:27.485-07:00
 tags:
   - 🌱Seed
   - 😁Strongly-Agree
   - 🟡Consideration
   - 📘BookNotes
+edited_seconds: 84
+updated: 2025-09-09 14:04:28.576000-07:00
 ---
-
-\#🌱Seed   #😁Strongly-Agree    #🟡Consideration  #📘BookNotes
 
 ---
 

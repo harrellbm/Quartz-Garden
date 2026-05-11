@@ -3,9 +3,21 @@ publish: true
 title: Joining Jesus
 created: 2024-10-22
 modified: 2026-02-02 10:48:44.251000-08:00
-published: 2026-04-01T15:21:28.660-07:00
+published: 2026-04-09T15:00:25.544-07:00
 tags:
   - 📕Book
+author: Finke
+comment: Overall I like what Finke has to stay about being on mission for Jesus. I
+cover:
+edited_seconds: 52
+isbn:
+lists:
+  - Want to Read
+pages:
+rating:
+read: true
+updated: 2026-02-02 10:48:44.251000-08:00
+url:
 ---
 
 ---

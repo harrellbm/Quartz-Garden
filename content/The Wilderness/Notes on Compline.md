@@ -2,11 +2,13 @@
 publish: true
 created: 2024-11-04
 modified: 2026-04-01T14:32:27.216-07:00
-published: 2026-04-01T14:32:27.222-07:00
+published: 2026-04-09T15:00:26.909-07:00
 tags:
   - 🌱Seed
   - 😐Neutral
   - 🥾SpiritualPractices-EmbodiedLiving
+edited_seconds: 0
+updated: 2026-04-01T14:32:27.216-07:00
 ---
 
 > [!Summary] The Big Idea

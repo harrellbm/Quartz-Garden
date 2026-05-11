@@ -2,7 +2,7 @@
 publish: true
 created: 2025-05-06
 modified: 2026-03-23 11:44:34.131000-07:00
-published: 2026-04-01T13:57:10.971-07:00
+published: 2026-05-06T13:32:28.202-07:00
 tags:
   - 🪴Sprout
   - 😁Strongly-Agree
@@ -11,6 +11,8 @@ tags:
   - 📓Journal
   - 🥾SpiritualPractices-EmbodiedLiving
   - 💭Memory
+edited_seconds: 17610
+updated: 2026-03-23 11:44:34.131000-07:00
 ---
 
 > [!Summary] The Big Idea
@@ -69,7 +71,7 @@ In response to this, I have zeroed in on Athanasius's letter to Marcellinus as a
 
 Using that acronym I now have that set of 8 Psalms clearly organized in my mind and can walk through them. It will be fascinating to see how learning the text of the Psalms next fit into that.
 
-Also here are more extended notes on the Letter to Macellinus: [[Athanasius's Categories and Chain Method]]
+Also here are more extended notes on the Letter to Macellinus: [[Memorizing the Psalter with Athanasius]]
 Also the full text of the letter:
 [[Letter to Marcellinus]]
 

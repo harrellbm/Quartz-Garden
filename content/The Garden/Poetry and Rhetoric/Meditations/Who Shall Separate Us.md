@@ -2,16 +2,18 @@
 publish: true
 created: 2024-10-22
 modified: 2026-04-01T14:44:11.356-07:00
-published: 2026-04-01T14:44:11.369-07:00
+published: 2026-04-09T15:00:24.589-07:00
 tags:
   - 🌱Seed
   - 🙂Agree
   - 🔥Doctrine-Poetry-Story
   - 📃Epistle
+edited_seconds: 30
+updated: 2026-04-01T14:44:11.356-07:00
 ---
 
 > [!note]
-> Short #📃Epistle used at OS on Sept 2021.
+> Short used at OS on Sept 2021.
 
 Similar Notes:
 [[Love the Lord Your God with all Your Heart]]

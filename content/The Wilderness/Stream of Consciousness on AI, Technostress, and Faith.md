@@ -2,10 +2,12 @@
 publish: true
 created: 2024-10-22
 modified: 2026-04-01T14:26:21.409-07:00
-published: 2026-04-01T14:26:21.418-07:00
+published: 2026-04-09T15:00:26.578-07:00
 tags:
   - 🌱Seed
   - 🙂Agree
+edited_seconds: 7
+updated: 2026-04-01T14:26:21.409-07:00
 ---
 
 > [!note] The Bid Idea
@@ -84,7 +86,7 @@ The prompt you put in dictates how well of a response you will get back.
 
 Plug in an idea for a lesson and add CC standards to the program
 
-Magic School Lesson Plan (free, but there is a pro plan at $100 per year)
+Magic School Lesson Plan (free, but there is a pro plan at \$100 per year)
 
 Takes an idea and makes an entire lesson plan
 

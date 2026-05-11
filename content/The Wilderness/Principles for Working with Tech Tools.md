@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-04-01T14:30:33.123-07:00
-published: 2026-04-01T14:30:33.129-07:00
+modified: 2026-05-11T12:17:41.831-07:00
+published: 2026-05-11T12:17:41.839-07:00
 tags:
   - 🪴Sprout
   - 😁Strongly-Agree
   - 🟡Consideration
+edited_seconds: 608
+updated: 2026-05-11T12:17:41.831-07:00
 ---
 
 > [!Summary] The Big Idea
@@ -23,6 +25,7 @@ tags:
 Related Notes:
 [[Religion of Technology]]
 [[A Theology of Technology]]
+[[An Introductory Framework for Technology]]
 
 ---
 
@@ -43,11 +46,13 @@ In order to healthily engage with, learn and employ technology, I have found a f
 
 # Thinking about Using AI
 
-Many people want to talk about AI as either super accurate and amazing or point out the mistakes it makes and lament how horrible it is. But I think it is important to remember that the baseline metric all AI runs off of is statistical probability. It really does not care if it is "accurate" or "truthful" in the human sense it is simply giving the most probable response after all the guardrails, and other tweaks that are built on top of the base level neural network. This means for me that using AI as an unequivocal source of fact or as a primary [[Reality Filter]] is a bad idea. AI is not built for precision fact and truth. What it is built for is pattern recognition on a large scale.
+Many people want to talk about AI as either super accurate and amazing or point out the mistakes it makes and lament how horrible it is. But I think it is important to remember that the baseline metric all AI runs off of is statistical probability. It really does not care if it is "accurate" or "truthful" in the human sense it is simply giving the most probable response after factoring in all the guardrails, and other tweaks that are built on top of the base level neural network. This means for me that using AI as an unequivocal source of fact or as a primary [[Reality Filter]] is a bad idea. AI is not built for precision fact and truth. What it is built for is pattern recognition on a large scale.
 
-For me this has started to look like using an AI chat as a way to kind of churn up information on a subject. it is not until I have asked the question a few times in different ways or to different models that I feel like I have an idea of what I'm looking for. In other words, AI is great for the general "what is out there" questions and getting a better answer than a search bar tends to give. It is also very efficient if you know exactly what you are looking for but can't seem to find it because that level of specificity means that the statistically likely response is probably what you want.
+For me this has started to look like using an AI chat as a way to kind of churn up information on a subject. It is not until I have asked the question a few times in different ways or to different models that I feel like I have an idea of what I'm looking for. In other words, AI is great for the general "what is out there" questions and getting a better answer than a search bar tends to give. It is also very efficient if you know exactly what you are looking for but can't seem to find it using other tools. This is because that level of specificity usually means that you are setting the parameters of your query correctly so that the most statistically likely response is what you actually want.  Meaning just like with most tools junk in will get you junk out.
 
-All of this to say that AI can be useful but it is important to know what kind of tool it is. It is easy to treat it like a human or to rely on it without secondary sources of information. I will say that the online searches with Gemini and Copilot have made it easy to access some of those secondary sources which helps address that concern within the tool. That being said it is still using AI as the filter for what secondary sources to look has the potential to still get us into trouble.
+All of this to say that AI can be useful but it is important to know what kind of tool it is. It is easy to treat it like a human or to rely on it without secondary sources of information. I will say that the online searches with Gemini and Copilot have made it easy to access some of those secondary sources which helps address that concern within the tool. That being said it is still using AI as the filter for what secondary sources to for in the first place that has the potential to still get us into trouble.
+
+See: [[Notes - AI and the Problem of Knowledge Collapse]] for notes from a research article that actresses some of these concerns.
 
 ---
 

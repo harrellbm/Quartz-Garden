@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2024-12-05
-modified: 2026-04-01T14:14:07.382-07:00
-published: 2026-04-01T14:14:07.382-07:00
+modified: 2026-04-09T15:00:26.250-07:00
+published: 2026-04-09T15:00:26.250-07:00
 tags:
   - 😟Disagree
   - 🔴Uncertain

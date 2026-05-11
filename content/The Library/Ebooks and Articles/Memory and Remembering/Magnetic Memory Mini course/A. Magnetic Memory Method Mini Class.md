@@ -2,9 +2,11 @@
 publish: true
 created: 2026-01-22
 modified: 2026-03-26 10:39:25.819000-07:00
-published: 2026-04-01T14:07:59.289-07:00
+published: 2026-04-09T15:00:25.003-07:00
 tags:
   - 🔗index
+edited_seconds: 196
+updated: 2026-03-26 10:39:25.819000-07:00
 ---
 
 > [!Summary] The Big Idea

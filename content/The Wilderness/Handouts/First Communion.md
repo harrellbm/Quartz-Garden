@@ -1,23 +1,20 @@
 ---
 publish: true
 created: 2025-03-03
-modified: 2025-06-17 14:47:53.984000-07:00
-published: 2026-04-01T14:07:58.989-07:00
+modified: 2026-04-16T14:02:40.854-07:00
+published: 2026-04-16T14:02:40.862-07:00
 tags:
-  - 🪴Sprout
   - 🙂Agree
   - 🟢Conviction
   - 📰Handout
+edited_seconds: 93
+updated: 2026-04-16T14:02:40.854-07:00
 ---
-
-\#🪴Sprout   #🙂Agree   #🟢Conviction   #📰Handout
-
----
-
-> `Importance`: 70%
 
 > [!Summary] The Big Idea
-> Handouts for First Communion Class. Currently doing it in Three weeks
+> Handouts for First Communion Class. Broken into Three weeks
+
+Connection with Baptism:  [The Story of My Baptism.pdf](The%20Story%20of%20My%20Baptism.pdf)
 
 ---
 
@@ -65,10 +62,9 @@ tags:
 | Lutheran       | X     | X    | X    | X     |
 | Roman Catholic |       |      | X    | X     |
 | Reformed\*      | X     | X    |      |       |
+Reformed Example- Methodist, Baptist, Pentecostal, Presbyterian
 
-- example- Methodist, Baptist, Pentecostal, Presbyterian
-
-* Catholic Transubstantiation (this understanding comes from Greek philosophy and not the Bible)
+- Catholic Transubstantiation (this understanding comes from Greek philosophy and not the Bible)
   - “substance”- what a thing “is”
   - “accident”- what appear around a thing
   - i.e.- a desk chair and a recliner
@@ -106,35 +102,33 @@ How do we treat communion well?
 - Prepare ourselves to take communion
 - Do our best to help others prepare themselves as well
 
-### Laying down the idea of communing being corporate:
+### Communion is a Community Event:
 
 **1 Corinthians 10:14-22** (this sets the stage of the discussion of worship and Communion in ch.11)
 
 - (8:1-11:1 is about the problems the Corinthians were getting into by taking part in the worship of other idols and eating their sacrifices)
-- V.16- 
-  - “cup””blood””bread””body” -Paul is obviously talking about Communion
-  - “participation” (koinwni,a) “fellowship, communion”
+- V. 10:16- 
+  - “cup,””blood,””bread,””body” -Paul is obviously talking about Communion
+  - “participation” (koinonia) “fellowship, communion”
   - Paul is talking about being in “communion” with God and each other
-- V.17- 
+- V. 10:17- 
   - we are connected to each other
   - Communion is not just about “me and Jesus”
 - In the ancient church (and some still today), they would physically have a loaf of bread they would tear off and hand each person a piece)
-- V.18- 
-  - “participate in the altar” (koinwnoi. tou/ qusiasthri,ou eivsi,n)
+- V. 10:18- “participate in the altar”
   - “altar” is symbolic for everything the church teaches
   - The people of Israel throughout the centuries have messed this up and provide an example for the Corinthians and us
-- V.19-20
+- V. 10:19-20 - “participants with demons”
   - Idols have no power and there is only one real God. However, the devil will use idols and other things to take us away from Christ.
-  - “participants with demons” (koinwnou.j tw/n daimoni,wn)
-  - Even if we “don’t believe” what another altar/church teaches, if we join in communion/fellowship with them, we are taking part in what they teach
-  - It is an indication of acceptance of what they believe/teach/do
-- V.21
-  - By eating at an altar, we are identifying ourselves with the worship that takes place there
-- V.22
+  - Even if we “don’t believe” what another altar/church teaches, if we join in communion/fellowship with them, we are taking part in what they teach.
+  - It is an indication of acceptance of what they believe/teach/do.
+- V. 10:21
+  - By eating at an altar, we are identifying ourselves with the worship that takes place there.
+- V. 10:22
   - God takes fellowship/communion very seriously!
-- (v.23-11:1 go on to talk about how our actions affect others and we need to be aware/sensitive to that, and how we need to do what is best for others, even if it isn’t easy (which applies directly also to Communion!))
+- V. 10:23-11:1 go on to talk about how our actions affect others and we need to be aware/sensitive to that, and how we need to do what is best for others, even if it isn’t easy (which applies directly also to Communion!))
 
-This is why we cannot join in worship (and especially Communion!) with people who believe things different than us
+This is why we cannot join in worship (and especially take Communion!) with people who believe things different than us.
 
 ### Who Should and Should Not Take the Lord’s Supper:
 
@@ -238,44 +232,3 @@ We need to be in “communion” (fellowship, agreement, etc.) with God (vertica
 - Where wine and grape juice are in the individual cup tray.
 - Coming to the rail and bowing.
 - Talk about the sign of the cross.
-
-# Additional Notes and stuff
-
-Connection with Baptism:
-Baptism - Infant Baptism, Means of Baptism
-Homework: [[The Story of My Baptism.pdf]]
-
-Confirmation
-
-Matthew 26:17–29
-
-17Now on the first day of Unleavened Bread the disciples came to Jesus, saying, “Where will you have us prepare for you to eat the Passover?” 18He said, “Go into the city to a certain man and say to him, ‘The Teacher says, My time is at hand. I will keep the Passover at your house with my disciples.’” 19And the disciples did as Jesus had directed them, and they prepared the Passover. 20When it was evening, he reclined at table with the twelve. 21And as they were eating, he said, “Truly, I say to you, one of you will betray me.” 22And they were very sorrowful and began to say to him one after another, “Is it I, Lord?” 23He answered, “He who has dipped his hand in the dish with me will betray me. 24The [[Son of Man]] goes as it is written of him, but woe to that man by whom the Son of Man is betrayed! It would have been better for that man if he had not been born.” 25Judas, who would betray him, answered, “Is it I, Rabbi?” He said to him, “You have said so.” 26Now as they were eating, Jesus took bread, and after blessing it broke it and gave it to the disciples, and said, “Take, eat; this is my body.” 27And he took a cup, and when he had given thanks he gave it to them, saying, “Drink of it, all of you, 28for this is my blood of the covenant, which is poured out for many for the forgiveness of sins. 29I tell you I will not drink again of this fruit of the vine until that day when I drink it new with you in my Father’s kingdom.”
-
-Question from the text: Why did Jesus establish the Lord’s Supper? How is this Sacrament connected with Jesus’ death?
-
-Questions from Time of Instruction:
-
-1.  Who instituted the Lord’s Supper? What is given to us in this Sacrament?
-
-2. Is it the true body and blood of Jesus in with and under the Sacrament? Why or why not?
-
-3. Why do we use bread and wine?
-
-4. What benefit do we get from the Lord’s Supper?
-
-Questions from Time of Instruction:
-
-1.  What is it about eating and drinking that give us such great gifts?
-
-2. Does everyone who eats this meal receive the gifts of God?
-
-3. What do we mean by “closed” Communion?
-
-4. What does it mean to be “worthy” or “unworthy”?
-
-5. What about those who are weak or struggling in the faith? Can they commune?
-
-6. Who should not be given the sacrament?
-
-- Not a continual sacrifice but Jesus once and for all sacrifice.
-- Hebrews 10:14&18 says that Jesus’ one sacrifice was perfect and complete

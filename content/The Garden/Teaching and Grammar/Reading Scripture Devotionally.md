@@ -2,16 +2,16 @@
 publish: true
 created: 2024-10-22
 modified: 2025-07-31 14:44:00.697000-07:00
-published: 2026-04-01T14:07:58.952-07:00
+published: 2026-04-09T15:00:24.485-07:00
 tags:
   - 🌿Sapling
   - 🙂Agree
   - 🟢Conviction
   - 🥾SpiritualPractices-EmbodiedLiving
   - 📃Epistle
+edited_seconds: 1948
+updated: 2025-07-31 14:44:00.697000-07:00
 ---
-
-\#🌿Sapling   #🙂Agree   #🟢Conviction  #🥾SpiritualPractices-EmbodiedLiving
 
 ---
 
@@ -27,7 +27,7 @@ Related Note:
 # Familiarity and Conversation with Scripture
 
 > [!note]
-> This level 1 heading used as LCOS #📃Epistle in series Mediation on Scripture, August 2025.
+> This level 1 heading used as LCOS in series Mediation on Scripture, August 2025.
 
 In last month's epistle we discussed how [[Reading Scripture for Familiarity]] can be an important reorientation from always approaching Scripture as an object to be studied.  This is important because when we study an object, it tends to stay at arm’s length. Scientists keep their specimens in tanks and dishes to avoid direct contact. When thinking of Scripture, we can see this same trend in biblical scholarship. There are prominent scholars who are Agnostic, and even Atheist who view the Bible like any other ancient text. They study and research and hypothesize and argue for the sake of science and history, not for any kind of personal faith. These individuals may know, and even understand, more than you or me about specific aspects of Scripture, but they have very clearly kept this knowledge apart from their everyday life.
 

@@ -2,11 +2,13 @@
 publish: true
 created: 2024-10-22
 modified: 2025-06-17 14:40:13.371000-07:00
-published: 2026-04-01T14:16:02.285-07:00
+published: 2026-04-09T15:00:26.095-07:00
 tags:
   - 🌱Seed
   - 🙂Agree
   - 🥾SpiritualPractices-EmbodiedLiving
+edited_seconds: 5
+updated: 2025-06-17 14:40:13.371000-07:00
 ---
 
 _**The Big Idea**_: A collections of different notes surrounding the concept of [[Sacred Space]].

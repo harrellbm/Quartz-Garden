@@ -2,10 +2,12 @@
 publish: true
 created: 2024-10-22
 modified: 2026-04-01T14:31:20.383-07:00
-published: 2026-04-01T14:31:20.388-07:00
+published: 2026-04-09T15:00:26.858-07:00
 tags:
   - 🌱Seed
   - 🙂Agree
+edited_seconds: 0
+updated: 2026-04-01T14:31:20.383-07:00
 ---
 
 > [!quote] 1 Corinthians 12:26

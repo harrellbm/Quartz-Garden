@@ -1,19 +1,20 @@
 ---
 publish: true
 created: 2025-04-23
-modified: 2026-04-01T14:34:05.118-07:00
-published: 2026-04-01T14:34:05.125-07:00
+modified: 2026-04-16T14:08:08.424-07:00
+published: 2026-04-16T14:08:08.429-07:00
 tags:
-  - 🌱Seed
-  - 🙂Agree
   - 📊Project
+  - 📓Journal
+edited_seconds: 66
+updated: 2026-04-16T14:08:08.424-07:00
 ---
 
 > [!Summary] The Big Idea
-> Various notes on making and blending Tea.  The goal is to one day have many things grown fro [[A Tea Garden]].
+> Various notes on making and blending Tea.  The goal is to one day have many things grown for [[A Tea Garden]].
 
 Similar Notes:
-[[Plant Care]]
+[[A Biblical Garden]]
 [[Plants Around Church]]
 
 ---

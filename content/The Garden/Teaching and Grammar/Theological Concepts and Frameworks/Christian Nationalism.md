@@ -1,16 +1,14 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-04-01T14:07:58.916-07:00
-published: 2026-04-01T14:07:58.916-07:00
+modified: 2026-04-09T15:00:24.459-07:00
+published: 2026-04-09T15:00:24.459-07:00
 tags:
   - 🌱Seed
   - 🤢Strongly-Disagree
   - 🟢Conviction
   - 🔥Doctrine-Poetry-Story
 ---
-
-\#🌱Seed   #🤢Strongly-Disagree   #🟢Conviction   #🔥Doctrine-Poetry-Story
 
 ---
 

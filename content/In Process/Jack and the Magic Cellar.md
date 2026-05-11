@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-03-26
-modified: 2026-03-26 10:06:54.716000-07:00
-published: 2026-04-01T14:07:58.008-07:00
+modified: 2026-04-09T14:57:29.733-07:00
+published: 2026-04-09T15:00:24.902-07:00
 tags:
   - 😐Neutral
   - 🟡Consideration
   - 📖Story
+edited_seconds: 1349
+updated: 2026-04-09T14:57:29.733-07:00
 ---
 
 > [!Summary] The Big Idea

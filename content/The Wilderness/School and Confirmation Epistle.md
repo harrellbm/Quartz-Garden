@@ -2,15 +2,17 @@
 publish: true
 created: 2024-10-22
 modified: 2026-04-01T14:27:37.475-07:00
-published: 2026-04-01T14:27:37.481-07:00
+published: 2026-04-09T15:00:26.653-07:00
 tags:
   - 🌱Seed
   - 🙂Agree
   - 📰Handout
   - 📃Epistle
+edited_seconds: 7
+updated: 2026-04-01T14:27:37.475-07:00
 ---
 
-_**The Big Idea**_: Used in OS #📃Epistle September 2023
+_**The Big Idea**_: Used in OS September 2023
 
 Our Savior’s is full of the hum of school life once again.  It is exciting to be embarking on another school year where the love and grace of Jesus can be shared with our school children big and small. It is such a blessing to be able to provide a Christ centered education for these children as a Church and School community.  
 

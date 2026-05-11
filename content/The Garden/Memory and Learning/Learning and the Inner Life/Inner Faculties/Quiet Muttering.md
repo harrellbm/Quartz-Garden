@@ -2,21 +2,23 @@
 publish: true
 created: 2024-10-22
 modified: 2026-04-01T14:39:46.679-07:00
-published: 2026-04-01T14:39:46.683-07:00
+published: 2026-04-09T15:00:23.956-07:00
 tags:
   - 🌿Sapling
   - 🙂Agree
   - 🟢Conviction
   - 🥾SpiritualPractices-EmbodiedLiving
   - 📃Epistle
+edited_seconds: 29
+updated: 2026-04-01T14:39:46.679-07:00
 ---
 
 > [!summary] The Big Idea
 > Maybe talking under your breath doesn't mean you're crazy.
 
 > [!note]
-> Used as OS #📃Epistle in series Mediation on Scripture, November 2021.
-> Used as LCOS #📃Epistle October 2025
+> Used as OS in series Mediation on Scripture, November 2021.
+> Used as LCOS October 2025
 
 Related Notes:
 [[Christian Meditation]]

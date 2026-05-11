@@ -2,13 +2,15 @@
 publish: true
 created: 2025-04-24
 modified: 2026-04-01T14:27:11.616-07:00
-published: 2026-04-01T14:27:11.620-07:00
+published: 2026-04-09T15:00:24.970-07:00
 tags:
   - 🪴Sprout
   - 🙂Agree
   - 🟢Conviction
   - 📚Definition
   - 🔥Doctrine-Poetry-Story
+edited_seconds: 2
+updated: 2026-04-01T14:27:11.616-07:00
 ---
 
 # Scripture as a Stream

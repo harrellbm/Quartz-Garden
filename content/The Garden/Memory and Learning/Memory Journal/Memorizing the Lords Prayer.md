@@ -2,7 +2,7 @@
 publish: true
 created: 2025-05-18
 modified: 2026-02-02 12:56:06.220000-08:00
-published: 2026-04-01T13:57:10.954-07:00
+published: 2026-04-09T15:00:24.300-07:00
 tags:
   - 💭Memory
   - 🌿Sapling
@@ -10,6 +10,8 @@ tags:
   - 🟢Conviction
   - 📊Project
   - 🥾SpiritualPractices-EmbodiedLiving
+edited_seconds: 529
+updated: 2026-02-02 12:56:06.220000-08:00
 ---
 
 > [!Summary] The Big Idea
@@ -50,7 +52,7 @@ I have been able to see a number of different abilities in my handling of the Lo
 - The fourth petition is now stuck in my head as a kind of hinge within the prayer. It is the center of the seven and it is the first of the petitions that ask God for what we need.
 - I can quiz myself on petition numbers and what they correlate to. Drawing random numbers was a good way to practice this rather than only remembering them in order. Before if someone said "In the 4th petition of the Lord's Prayer." I would have had to pause and look it up. But now it clicks instantly (or with a little counting if it escapes me) that they are talking about "Give us this day..."
 - I can see bigger divisions in the structure of the prayer. For example it never really occurred to me that the first three petitions are focused towards God before the rest turn to asking for ourselves.
-- It is easier to think about the verbs of each petition and how they relate with each other. For example 4 to 7 have a beautiful progression: Give us, Forgive us, Lead us, Deliver us. They really do contain all of the prayers in Scripture like Luther and Bonhoeffer have observed.\[^1]
+- It is easier to think about the verbs of each petition and how they relate with each other. For example 4 to 7 have a beautiful progression: Give us, Forgive us, Lead us, Deliver us. They really do contain all of the prayers in Scripture like Luther and Bonhoeffer have observed.[^1]
 - I can pray individual petitions or smaller sections with more focus. Even using them as a spring board for private prayers or concerns.
 
 ## Later Follow Up
@@ -71,4 +73,4 @@ And pull me up by the hand to deliver me  (petition seven)
 
 This is way more engaging and even a nice little meditation on who and what Jesus is and does according to the Lord's Prayer.
 
-\[^1]: Psalms: The Prayer Book of the Bible by Dietrich Bonhoeffer
+[^1]: Psalms: The Prayer Book of the Bible by Dietrich Bonhoeffer

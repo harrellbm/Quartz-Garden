@@ -2,11 +2,13 @@
 publish: true
 created: 2024-10-22
 modified: 2026-04-01T14:26:56.678-07:00
-published: 2026-04-01T14:26:56.686-07:00
+published: 2026-04-09T15:00:26.624-07:00
 tags:
   - 🌱Seed
   - 🙂Agree
   - 🔥Doctrine-Poetry-Story
+edited_seconds: 0
+updated: 2026-04-01T14:26:56.678-07:00
 ---
 
 _**The Big Idea**_: Various Scriptures that pertain to the Role of Pastor.

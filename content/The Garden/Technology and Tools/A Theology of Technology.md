@@ -1,33 +1,32 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-02-02 14:10:45.436000-08:00
-published: 2026-04-01T14:07:58.770-07:00
+modified: 2026-05-11T12:17:58.648-07:00
+published: 2026-05-11T12:18:56.255-07:00
 tags:
-  - 🌿Sapling
   - 🙂Agree
   - 🟢Conviction
-  - 🔥Doctrine-Poetry-Story
   - 📃Epistle
----
-
-\#🌿Sapling   #🙂Agree   #🟢Conviction      #🔥Doctrine-Poetry-Story   #🛠️BringingLifeintotheWorld
-
+edited_seconds: 120
+updated: 2026-05-11T12:17:58.648-07:00
 ---
 
 > [!Summary] Thesis
 > Technology is not value neutral. Every piece of technology works to realize a particular picture of human thriving and existence. Therefore, it is clearly not outside the realm of theology or applying Scriptural truth.
 
 > [!note]
-> Used as LCOS #📃Epistle Feb 2025
+> Used as epistle LCOS Feb 2025
 
-### Related Notes
+Similar Notes:
 
 - [[Principles for Working with Tech Tools]]
 - [[Stream of Consciousness on AI, Technostress, and Faith]]
 - [[Ritual Technology]]
+- [[Rituals and Technology]]
 - [[Metaphor of the Stream vs the Garden]]
 - [[Religion of Technology]]
+- [Technology as a Narrative Tool](Technology%20as%20a%20Narrative%20Tool)
+- [[Principles for Working with Tech Tools]]
 
 ---
 
@@ -45,9 +44,9 @@ As you read this, I highly doubt you have particularly formed opinions about cot
 
 On the other end of things are people who have a very different outlook on technology. A particularly striking job title in the Amazon Alexa team is: "Techno Evangelist." This job is exactly what it sounds like, a person who is here to "convert" you into a user of their technology. The pseudo religious language makes it clear how this perspective can quickly turn technology into the savior of the world. Technology (not Jesus) is put forward as the magic key to solve world problems and usher in an as yet unrealized utopia. It is not hard to see that deep adherence to this worldview quite literally makes a false god out of technology. David reminds us that this kind of false hope has always been among us: “The king is not saved by his great army; a warrior is not delivered by his great strength. The war horse is a false hope for salvation, and by its great might it cannot rescue.“ - Psalm 33:16-18
 
-However, technological "salvation" is not always so brazen. Humans quickly latch on to technology that will make our life better in some way. Yet the line between better and necessary-for-existence is harder to draw and is redrawn more often than we like to admit. For example, I doubt very few reading this are willing to remove indoor plumbing from your house or forgo any electrical lighting. Part of this is caused by personal choice, yet part is also pressed on to us because the physical structure of the world around us is often restructured to accommodate, and ultimately rely, on new technologies. For example, if all of us still had outhouses and wells in our backyards, it might be more reasonable to remove indoor plumbing.
+However, technological "salvation" is not always so brazen. Humans quickly latch on to technology that will make our life better in some way. Yet the line between better and necessary-for-existence is harder to draw and is redrawn more often than we like to admit. For example, I doubt very few reading this are willing to remove indoor plumbing from your house or forgo any electrical lighting. Part of this is caused by personal choice, yet part is also pressed on to us because the physical structure of the world around us is often restructured to accommodate, and ultimately rely on new technologies. For example, if all of us still had outhouses and wells in our backyards, it might be more reasonable to remove indoor plumbing.
 
-Whether we like it or not, we are enmeshed with many and various technological systems. As Christians, our task is to chart a middle course between the extremes of luddite anger and the false hope of techno salvation. Technology often serves legitimate and useful functions throughout our lives, but it is also not a reliable hope for the future. Just like the simple brick and mortar used to build the tower of Babel, much of the technology's impact comes back to the way we chose and allow it to be used within our lives.
+Whether we like it or not, we are enmeshed with many and various technological systems. As Christians, our task is to chart a middle course between the extremes of luddite anger and the false hope of techno salvation. Technology often serves legitimate and useful functions throughout our lives, but it is also not a reliable hope for the future. Just like the simple brick and mortar used to build the tower of Babel, much of technology's impact comes back to the way we chose and allow it to be used within our lives.
 
 # Technology to Spread the Gospel
 
@@ -57,7 +56,7 @@ Yet while Luther and Paul made good uses of these technologies, this does not me
 
 # Thresholds of Technology
 
-One helpful way to sort through this dichotomy is the idea of "thresholds." Every technology has a threshold after which it begins to demand more maintenance and investment than the value it gives.\[^1] A personal experience with identifying a threshold has been abandoning the dishwasher in our apartment. We realized that the effort it took to load and start and (when it didn't clean it well or got moldy inside because the heating element was funky) load and rewash/re-rewash. Ended up taking just as much time and effort as hand washing our dishes.
+One helpful way to sort through this dichotomy is the idea of "thresholds." Every technology has a threshold after which it begins to demand more maintenance and investment than the value it gives.[^1] A personal experience with identifying a threshold has been abandoning the dishwasher in our apartment. We realized that the effort it took to load and start and (when it didn't clean it well or got moldy inside because the heating element was funky) load and rewash/re-rewash. Ended up taking just as much time and effort as hand washing our dishes.
 
 Every piece of technology has a similar threshold at which it no longer serves as an aid but becomes a liability, and even an addiction. Therefore thresholds help us avoid unhelpful extremes. Every piece of technology has potential to help share the Gospel, but at the same time cannot be allowed to become an idol, or a resource drain. This navigation is ongoing and one that must be rooted in the core of our Christian identity. We seek salvation from Christ and Him alone.
 
@@ -65,11 +64,4 @@ One way to continue this navigation is to keep conversations going surrounding t
 
 "Jesus said to her, 'Everyone who drinks of this water will be thirsty again, but whoever drinks of the water that I will give him will never be thirsty again'" - John 4:13-14
 
----
-
-> [!note]
-> Below is an unfinished addition to this essay
-
-[[Technology as a Narrative Tool]]
-
-\[^1]: [Care, Friendship, Hospitality: Reflections on the Thought of Ivan Illich](https://theconvivialsociety.substack.com/p/care-friendship-hospitality-reflections?r=3is6vw\&utm_medium=ios\&triedRedirect=true) by [L. M. Sacasas](https://substack.com/@theconvivialsociety)
+[^1]: [Care, Friendship, Hospitality: Reflections on the Thought of Ivan Illich](https://theconvivialsociety.substack.com/p/care-friendship-hospitality-reflections?r=3is6vw\&utm_medium=ios\&triedRedirect=true) by [L. M. Sacasas](https://substack.com/@theconvivialsociety)

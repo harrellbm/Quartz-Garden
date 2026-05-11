@@ -2,15 +2,15 @@
 publish: true
 created: 2025-05-20
 modified: 2025-06-17 13:40:11.285000-07:00
-published: 2026-04-01T14:08:00.321-07:00
+published: 2026-04-09T15:00:25.820-07:00
 tags:
   - 🌱Seed
   - 🙂Agree
   - 🟢Conviction
   - 🔥Doctrine-Poetry-Story
+edited_seconds: 37
+updated: 2025-06-17 13:40:11.285000-07:00
 ---
-
-\#🌱Seed   #🙂Agree   #🟢Conviction   #🔥Doctrine-Poetry-Story
 
 ---
 
@@ -19,11 +19,11 @@ tags:
 
 ---
 
-παροιμία, a brief communication containing truths designed for initiates, veiled saying, figure of speech, in which esp. lofty ideas are concealed\[^1]
+παροιμία, a brief communication containing truths designed for initiates, veiled saying, figure of speech, in which esp. lofty ideas are concealed[^1]
 
-παρρησία, a use of speech that conceals nothing and passes over nothing, outspokenness, frankness, plainness\[^2]
+παρρησία, a use of speech that conceals nothing and passes over nothing, outspokenness, frankness, plainness[^2]
 
 Something I'll be taking into my contemplations as I prepare for the week and thought you might think it is interesting as well.
 
-\[^1]: Arndt, William, et al. A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed., University of Chicago Press, 2000, pp. 779–80.
-\[^2]: Arndt, William, et al. A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed., University of Chicago Press, 2000, p. 781.
+[^1]: Arndt, William, et al. A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed., University of Chicago Press, 2000, pp. 779–80.
+[^2]: Arndt, William, et al. A Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed., University of Chicago Press, 2000, p. 781.

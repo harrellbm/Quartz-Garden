@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-04-01T14:07:59.127-07:00
-published: 2026-04-01T14:07:59.127-07:00
+modified: 2026-04-09T15:00:24.515-07:00
+published: 2026-04-09T15:00:24.515-07:00
 tags:
   - 🌱Seed
   - 🙂Agree
@@ -10,12 +10,10 @@ tags:
   - 📃Epistle
 ---
 
-\#🌱Seed  #🙂Agree   #🥾SpiritualPractices-EmbodiedLiving
-
 ---
 
 > [!note]
-> Used as OS #📃Epistle in Series _Mediation on Scripture_, October 2021.
+> Used as OS in Series _Mediation on Scripture_, October 2021.
 
 ---
 

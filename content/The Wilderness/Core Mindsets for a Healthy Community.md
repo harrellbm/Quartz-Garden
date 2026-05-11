@@ -2,11 +2,13 @@
 publish: true
 created: 2024-10-22
 modified: 2026-04-01T14:37:23.215-07:00
-published: 2026-04-01T14:37:23.222-07:00
+published: 2026-04-09T15:00:27.400-07:00
 tags:
   - 🌿Sapling
   - 🙂Agree
   - 🟢Conviction
+edited_seconds: 0
+updated: 2026-04-01T14:37:23.215-07:00
 ---
 
 > [!Summary] The Big Idea

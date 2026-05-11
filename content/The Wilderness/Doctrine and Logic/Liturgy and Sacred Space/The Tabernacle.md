@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-04-01T14:16:29.985-07:00
-published: 2026-04-01T14:16:29.985-07:00
+modified: 2026-04-09T15:00:26.057-07:00
+published: 2026-04-09T15:00:26.057-07:00
 tags:
   - 🌱Seed
   - 🙂Agree
@@ -10,7 +10,7 @@ tags:
   - 📝Essay
 ---
 
-_**The Big Idea**_: An #📝Essay I wrote in seminary about the tabernacle.
+_**The Big Idea**_: An I wrote in seminary about the tabernacle.
 
 ---
 
@@ -56,7 +56,7 @@ for the Hebrew word ןַכ ָּש) shakan) that means to settle, rest, or lie do
 given as the purely divine and holy place for God to settle and rest in the midst of His people
 Israel. The pattern and even the crafting of it was all inspired by God. This made the Tabernacle
 the center of God’s presence for his people. It was also a movable center as the Israelites traveled/wandered around the wilderness. This made it an ever imminent place of God’s
-presence and a physical place that they could point to and know that God was with them. \[^1]
+presence and a physical place that they could point to and know that God was with them. [^1]
 
 Jesus is the ultimate fulfillment of this abiding presence of God. In John 1:14 John uses
 the Greek equivalent of tabernacle to get across the idea that Christ came and tabernacled with
@@ -83,7 +83,7 @@ people. After Jesus resurrection the covenant promise of dwelling is wonderfully
 the personal indwelling of the Holy Spirit with believers. This is a truly unimaginable and
 humbling move for God to move his place of dwelling to the actual individual. He does not just
 dwell with or near but in, a kind of intimacy that can hardly be imagined possible but is
-accomplished by the strong work of our Savior Jesus Christ. \[^2]
+accomplished by the strong work of our Savior Jesus Christ. [^2]
 
-\[^1]: Milinovich, Timothy. “Religious and Ritual Objects.” Edited by John D. Barry, David Bomar, Derek R. Brown, Rachel Klippenstein, Douglas Mangum, Carrie Sinclair Wolcott, Lazarus Wentz, Elliot Ritzema, and Wendy Widder. The Lexham Bible Dictionary. (Bellingham, WA: Lexham Press, 2016).
-\[^2]: Selvaggio, Anthony T. From Bondage to Liberty: The Gospel according to Moses. Edited by Iain M. Duguid. The Gospel according to the Old Testament. (Phillipsburg, NJ: P\&R Publishing, 2014).
+[^1]: Milinovich, Timothy. “Religious and Ritual Objects.” Edited by John D. Barry, David Bomar, Derek R. Brown, Rachel Klippenstein, Douglas Mangum, Carrie Sinclair Wolcott, Lazarus Wentz, Elliot Ritzema, and Wendy Widder. The Lexham Bible Dictionary. (Bellingham, WA: Lexham Press, 2016).
+[^2]: Selvaggio, Anthony T. From Bondage to Liberty: The Gospel according to Moses. Edited by Iain M. Duguid. The Gospel according to the Old Testament. (Phillipsburg, NJ: P\&R Publishing, 2014).

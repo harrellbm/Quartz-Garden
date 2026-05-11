@@ -2,11 +2,13 @@
 publish: true
 created: 2024-10-22
 modified: 2026-04-01T14:39:06.954-07:00
-published: 2026-04-01T14:39:06.959-07:00
+published: 2026-04-09T15:00:26.276-07:00
 tags:
   - 🪴Sprout
   - 🙂Agree
   - 🟡Consideration
+edited_seconds: 0
+updated: 2026-04-01T14:39:06.954-07:00
 ---
 
 > [!Summary] The Big Idea

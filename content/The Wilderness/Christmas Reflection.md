@@ -2,21 +2,21 @@
 publish: true
 created: 2024-10-22
 modified: 2025-11-26 11:46:34.513000-08:00
-published: 2026-04-01T14:08:01.812-07:00
+published: 2026-04-09T15:00:27.540-07:00
 tags:
   - 🍋Fruit
   - 🙂Agree
   - 🔥Doctrine-Poetry-Story
   - 📃Epistle
+edited_seconds: 30
+updated: 2025-11-26 11:46:34.513000-08:00
 ---
-
-\#🍋Fruit  #🙂Agree  #🔥Doctrine-Poetry-Story
 
 ---
 
 > [!note]
-> Used in OS #📃Epistle Dec 2022 
-> Used as LCOS #📃Epistle Dec 2025
+> Used in OS Dec 2022 
+> Used as LCOS Dec 2025
 
 ---
 

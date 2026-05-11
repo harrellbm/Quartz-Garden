@@ -2,9 +2,21 @@
 publish: true
 created: 2024-10-22
 modified: 2025-10-15 13:41:47.018000-07:00
-published: 2026-04-01T15:21:28.574-07:00
+published: 2026-04-09T15:00:25.620-07:00
 tags:
   - 📕Book
+author: Christopher Alexander
+comment:
+cover:
+edited_seconds: 50
+isbn:
+lists:
+  - Interesting Read
+pages:
+rating:
+read: true
+updated: 2025-10-15 13:41:47.018000-07:00
+url: http://www.natureoforder.com/overview.html
 ---
 
 > [!note]

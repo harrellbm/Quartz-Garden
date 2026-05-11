@@ -2,13 +2,15 @@
 publish: true
 created: 2025-04-09
 modified: 2026-04-01T14:40:35.585-07:00
-published: 2026-04-01T14:40:35.591-07:00
+published: 2026-04-09T15:00:26.681-07:00
 tags:
   - 🌱Seed
   - 🙂Agree
   - 🟢Conviction
   - 📓Journal
   - 🥾SpiritualPractices-EmbodiedLiving
+edited_seconds: 1
+updated: 2026-04-01T14:40:35.585-07:00
 ---
 
 > [!Summary] The Big Idea

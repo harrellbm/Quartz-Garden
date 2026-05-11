@@ -2,14 +2,14 @@
 publish: true
 created: 2024-11-04
 modified: 2025-06-17 14:48:24.988000-07:00
-published: 2026-04-01T14:08:01.724-07:00
+published: 2026-04-09T15:00:27.454-07:00
 tags:
   - 🌱Seed
   - 😐Neutral
   - 📘BookNotes
+edited_seconds: 4
+updated: 2025-06-17 14:48:24.988000-07:00
 ---
-
-\#🌱Seed  #😐Neutral  #📘BookNotes
 
 ---
 

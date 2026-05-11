@@ -2,11 +2,13 @@
 publish: true
 created: 2025-12-22
 modified: 2026-04-01 08:39:00.951000-07:00
-published: 2026-04-01T14:07:58.701-07:00
+published: 2026-04-09T15:00:24.602-07:00
 tags:
   - 😐Neutral
   - 🟡Consideration
   - 📚Definition
+edited_seconds: 67
+updated: 2026-04-01 08:39:00.951000-07:00
 ---
 
 > [!Summary] The Big Idea

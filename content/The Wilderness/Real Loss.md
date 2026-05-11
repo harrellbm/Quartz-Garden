@@ -2,10 +2,12 @@
 publish: true
 created: 2024-10-23
 modified: 2026-04-01T14:29:27.073-07:00
-published: 2026-04-01T14:29:27.079-07:00
+published: 2026-04-09T15:00:26.754-07:00
 tags:
   - 🌱Seed
   - 😐Neutral
+edited_seconds: 3
+updated: 2026-04-01T14:29:27.073-07:00
 ---
 
 ## Real Loss

@@ -2,22 +2,24 @@
 publish: true
 created: 2024-10-22
 modified: 2026-04-01T14:44:06.598-07:00
-published: 2026-04-01T14:44:06.603-07:00
+published: 2026-04-09T15:00:24.595-07:00
 tags:
   - 🍋Fruit
   - 😁Strongly-Agree
   - 🟢Conviction
   - 🥾SpiritualPractices-EmbodiedLiving
   - 📃Epistle
+edited_seconds: 55
+updated: 2026-04-01T14:44:06.598-07:00
 ---
 
 > [!summary] The Big Idea
 > A guided meditation through Psalm 8.
 
 > [!note]
-> Presented to Springfield Pastor's Winkle in March 2023. Also used as OS #📃Epistle in the same month.
+> Presented to Springfield Pastor's Winkle in March 2023. Also used as OS in the same month.
 >
-> Also used as LCOS #📃Epistle in Sept 2025.
+> Also used as LCOS in Sept 2025.
 
 ---
 

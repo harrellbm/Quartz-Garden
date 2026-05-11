@@ -2,11 +2,13 @@
 publish: true
 created: 2024-10-22
 modified: 2026-04-01T14:34:50.670-07:00
-published: 2026-04-01T14:34:50.676-07:00
+published: 2026-04-09T15:00:27.104-07:00
 tags:
   - 🌱Seed
   - 🙂Agree
   - 🔥Doctrine-Poetry-Story
+edited_seconds: 0
+updated: 2026-04-01T14:34:50.670-07:00
 ---
 
 > [!summary] The Big Idea

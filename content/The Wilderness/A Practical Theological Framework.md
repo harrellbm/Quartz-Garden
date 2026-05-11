@@ -2,13 +2,13 @@
 publish: true
 created: 2024-10-22
 modified: 2026-03-05 08:52:02.248000-08:00
-published: 2026-04-01T14:08:01.919-07:00
+published: 2026-04-09T15:00:27.650-07:00
 tags:
   - 🌱Seed
   - 😐Neutral
+edited_seconds: 111
+updated: 2026-03-05 08:52:02.248000-08:00
 ---
-
-\#🌱Seed  #😐Neutral
 
 ---
 
@@ -27,7 +27,7 @@ There are a variety of pastoral ministry resources that provide advice and guide
 diversity of ministry related topics. These resources are useful in providing answers for how to conduct worship, how to do evangelism, how to provide counseling, how to care for the dying, how to conduct a congregational meeting, and many other topics that might arise in ministry. However, no resource is able to address each specific aspect of ministry in a given context. Every ministry context is unique and requires an appropriate Godly approach. There are variables in ministry that can’t be anticipated while sitting in a seminary classroom or reading a pastoral theology textbook. Ministry is not simply organized
 into easily understood categories with easy answers. Ministry can be messy and complicated because we are serving people with unique personalities, behaviors, thoughts, and passions. And these people live in communities that have their own personalities, behaviors, thoughts, and passions. Yes, we proclaim Christ, and we bring Christ to bear upon every situation that we encounter. Yet how do we faithfully attend to matters in the congregation and community in a way that will give God glory and serve our neighbor?
 
-During medieval times, the approach to attending to matters of church and society was called scholasticism. Scholasticism was a pedagogical framework used primary in the university setting with a dialectical learning approach. The approach included the following steps: identify a question, make arguments for and against, refer to philosophers, provide possible answers that bring the various disciplines together and demonstrate they are really saying the same thing. \[^1]
+During medieval times, the approach to attending to matters of church and society was called scholasticism. Scholasticism was a pedagogical framework used primary in the university setting with a dialectical learning approach. The approach included the following steps: identify a question, make arguments for and against, refer to philosophers, provide possible answers that bring the various disciplines together and demonstrate they are really saying the same thing. [^1]
 
 Martin Luther was trained in scholasticism but rejected the approach in his 1517 Disputation Against Scholastic Theology. Luther was clear that scholasticism lacked the theological depth and relied too heavily upon philosophy for determining how we did theology. Luther stated in thesis 41 of his Disputation Against Scholastic Theology, “virtually the entire ethics of Aristotle is the worst enemy of grace. This in opposition to the
 scholastics.” And in thesis 44, “Indeed, no one can become a theologian unless he becomes one without Aristotle.” The scholastic way of doing theology provided a framework, but with a philosophical foundation that left little room for Christ.
@@ -38,7 +38,7 @@ Richard Osmer and his four tasks of practical theology. The four tasks included
 1. The Descriptive Empirical Task of Priestly Listening,
 2. The Interpretive Task of Sagely Wisdom,
 3. The Normative task of Prophetic Discernment
-4. The Pragmatic task of Servant Leadership.\[^2]
+4. The Pragmatic task of Servant Leadership.[^2]
 
 However, the limitations of this approach have provided an opportunity to develop a Lutheran framework. The Practical Theological Framework will give us a Lutheran structure to address the unique needs of the particular context in which we serve. The four pillars of the framework are:
 
@@ -476,5 +476,5 @@ leadership you might need to address additional questions that were not clear wh
 work. The Practical Theological Framework provides a way to do theology that attends to the whole
 council of God when addressing topics of church and society that might come about in ministry.
 
-\[^1]: Paul Robinson provides a summary of scholasticism in a video series provided by Concordia Seminary
-\[^2]: Osmer, Richard R. Practical theology: An introduction. Wm. B. Eerdmans Publishing, 2008.
+[^1]: Paul Robinson provides a summary of scholasticism in a video series provided by Concordia Seminary
+[^2]: Osmer, Richard R. Practical theology: An introduction. Wm. B. Eerdmans Publishing, 2008.

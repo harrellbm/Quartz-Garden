@@ -2,7 +2,7 @@
 publish: true
 created: 2024-10-22
 modified: 2025-06-17 14:43:53.220000-07:00
-published: 2026-04-01T14:07:58.819-07:00
+published: 2026-04-09T15:00:24.363-07:00
 tags:
   - 🌿Sapling
   - 😁Strongly-Agree
@@ -10,9 +10,9 @@ tags:
   - 🟢Conviction
   - 🔥Doctrine-Poetry-Story
   - 📃Epistle
+edited_seconds: 1
+updated: 2025-06-17 14:43:53.220000-07:00
 ---
-
-\#🌿Sapling   #😁Strongly-Agree   #📚Definition   #🟢Conviction  #🔥Doctrine-Poetry-Story
 
 ---
 
@@ -22,8 +22,8 @@ tags:
 ---
 
 > [!note]
-> Used as OS June/July 2023 #📃Epistle
-> Used as LCOS Dec 2025 #📃Epistle
+> Used as OS June/July 2023
+> Used as LCOS Dec 2025
 
 As Lutherans we are often familiar with the wonderful teaching of the [[Law and Gospel]]. We know that the Law shows us our sin and how far the world has fallen away from the good plan of God. But the Gospel speaks of the forgiveness and renewal that Jesus offers through His death and resurrection. It helps us to see how much we need Jesus and His life giving message of peace and hope.   
 

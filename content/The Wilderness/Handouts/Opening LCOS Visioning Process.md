@@ -1,16 +1,14 @@
 ---
 publish: true
 created: 2024-10-23
-modified: 2026-04-01T14:07:58.983-07:00
-published: 2026-04-01T14:07:58.983-07:00
+modified: 2026-04-09T15:00:27.169-07:00
+published: 2026-04-09T15:00:27.169-07:00
 tags:
   - 🌱Seed
   - 🙂Agree
   - 🟢Conviction
   - 📰Handout
 ---
-
-\#🌱Seed  #🙂Agree   #🟢Conviction   #📰Handout
 
 ---
 

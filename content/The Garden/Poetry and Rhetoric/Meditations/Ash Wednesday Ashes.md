@@ -2,10 +2,12 @@
 publish: true
 created: 2026-02-18
 modified: 2026-04-01T14:43:54.322-07:00
-published: 2026-04-01T14:43:54.327-07:00
+published: 2026-04-09T15:00:24.583-07:00
 tags:
   - 😁Strongly-Agree
   - 🟢Conviction
+edited_seconds: 422
+updated: 2026-04-01T14:43:54.322-07:00
 ---
 
 > [!Summary] The Big Idea

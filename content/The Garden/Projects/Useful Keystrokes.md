@@ -1,13 +1,13 @@
 ---
 publish: true
-aliases:
-  - Hotkeys
-  - Keyboard Shortcuts
+aliases: Hotkeys,Keyboard Shortcuts
 created: 2024-10-22
 modified: 2026-04-01T14:24:14.691-07:00
-published: 2026-04-01T14:24:14.698-07:00
+published: 2026-04-09T15:00:24.843-07:00
 tags:
   - 🔗index
+edited_seconds: 55
+updated: 2026-04-01T14:24:14.691-07:00
 ---
 
 > [!Summary] The Big Idea

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-04-01
-modified: 2026-04-01T14:17:19.406-07:00
-published: 2026-04-01T14:17:19.406-07:00
+modified: 2026-04-09T15:00:26.000-07:00
+published: 2026-04-09T15:00:26.000-07:00
 tags:
   - 🌱Seed
   - 😐Neutral

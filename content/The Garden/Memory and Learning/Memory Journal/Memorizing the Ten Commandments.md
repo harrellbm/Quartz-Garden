@@ -2,7 +2,7 @@
 publish: true
 created: 2025-05-06
 modified: 2026-02-02 12:55:38.001000-08:00
-published: 2026-04-01T13:57:10.980-07:00
+published: 2026-04-09T15:00:24.289-07:00
 tags:
   - 💭Memory
   - 🌱Seed
@@ -11,6 +11,8 @@ tags:
   - 📊Project
   - 📓Journal
   - 🥾SpiritualPractices-EmbodiedLiving
+edited_seconds: 0
+updated: 2026-02-02 12:55:38.001000-08:00
 ---
 
 > [!Summary] The Big Idea

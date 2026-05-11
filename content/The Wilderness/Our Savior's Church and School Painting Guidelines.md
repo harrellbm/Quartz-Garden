@@ -2,11 +2,13 @@
 publish: true
 created: 2024-10-22
 modified: 2026-04-01T14:31:16.358-07:00
-published: 2026-04-01T14:31:16.364-07:00
+published: 2026-04-09T15:00:26.842-07:00
 tags:
   - 🌱Seed
   - 🙂Agree
   - 📊Project
+edited_seconds: 2
+updated: 2026-04-01T14:31:16.358-07:00
 ---
 
 _**The Big Idea**_: Guidelines for applying the pallet designed in [[Our Savior's Church and School Selection Criteria 2023]]

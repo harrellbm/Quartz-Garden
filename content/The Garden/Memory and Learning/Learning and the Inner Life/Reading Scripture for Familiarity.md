@@ -2,20 +2,22 @@
 publish: true
 created: 2025-04-02
 modified: 2025-07-24 11:38:10.866000-07:00
-published: 2026-04-01T14:17:45.650-07:00
+published: 2026-04-09T15:00:24.257-07:00
 tags:
   - 🌿Sapling
   - 🙂Agree
   - 🟢Conviction
   - 🥾SpiritualPractices-EmbodiedLiving
   - 📃Epistle
+edited_seconds: 1426
+updated: 2025-07-24 11:38:10.866000-07:00
 ---
 
 > [!Summary] The Big Idea
 > How can we understand Scripture if we are not first familiar with it? How will we know if we are indeed inline or not unless we see how scripture speaks as a whole?
 
 > [!note]
-> Used as LCOS #📃Epistle in series Mediation on Scripture, July 2025.
+> Used as LCOS in series Mediation on Scripture, July 2025.
 
 ---
 

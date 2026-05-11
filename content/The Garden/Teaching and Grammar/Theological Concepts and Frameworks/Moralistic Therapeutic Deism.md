@@ -2,14 +2,14 @@
 publish: true
 created: 2024-10-22
 modified: 2025-09-29 08:48:08.879000-07:00
-published: 2026-04-01T14:07:58.886-07:00
+published: 2026-04-09T15:00:24.427-07:00
 tags:
   - 🌱Seed
   - 🤢Strongly-Disagree
   - 📚Definition
+edited_seconds: 0
+updated: 2025-09-29 08:48:08.879000-07:00
 ---
-
-\#🌱Seed   #🤢Strongly-Disagree   #📚Definition
 
 ---
 

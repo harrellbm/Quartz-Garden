@@ -3,6 +3,8 @@ publish: true
 created: 2024-12-30
 modified: 2026-04-01T14:28:08.167-07:00
 published: 2026-04-01T14:28:08.174-07:00
+edited_seconds: 7
+updated: 2026-04-01T14:28:08.167-07:00
 ---
 
 Overview of how to think of and Use Technology:

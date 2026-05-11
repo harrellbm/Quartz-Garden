@@ -1,11 +1,13 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-04-01T14:39:13.858-07:00
-published: 2026-04-01T14:39:13.863-07:00
+modified: 2026-04-09T14:59:09.329-07:00
+published: 2026-04-09T15:00:24.938-07:00
 tags:
   - 🙂Agree
   - 🟡Consideration
+edited_seconds: 163
+updated: 2026-04-09T14:59:09.329-07:00
 ---
 
 > [!summary] The Big Idea

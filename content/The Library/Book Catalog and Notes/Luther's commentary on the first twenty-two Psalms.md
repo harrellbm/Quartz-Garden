@@ -3,9 +3,21 @@ publish: true
 title: Luther's commentary on the first twenty-two Psalms
 created: 2026-03-23
 modified: 2026-03-23 11:39:51.233000-07:00
-published: 2026-04-01T15:21:29.212-07:00
+published: 2026-04-09T15:00:25.116-07:00
 tags:
   - 📕Book
+author: Martin Luther
+comment:
+cover:
+edited_seconds: 398
+isbn:
+lists:
+  - Reference Work
+pages:
+rating:
+read: false
+updated: 2026-03-23 11:39:51.233000-07:00
+url: https://archive.org/details/lutherscommentar01luth
 ---
 
 Similar Works: [[Letter to Marcellinus]], [[A Manuel on the Book of Psalms]]

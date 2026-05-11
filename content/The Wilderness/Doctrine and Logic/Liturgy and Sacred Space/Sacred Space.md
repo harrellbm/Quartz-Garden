@@ -2,13 +2,15 @@
 publish: true
 created: 2024-10-22
 modified: 2025-06-17 14:41:01.587000-07:00
-published: 2026-04-01T14:16:14.907-07:00
+published: 2026-04-09T15:00:26.076-07:00
 tags:
   - 🍋Fruit
   - 😁Strongly-Agree
   - 🟢Conviction
   - 📝Essay
   - 🥾SpiritualPractices-EmbodiedLiving
+edited_seconds: 2
+updated: 2025-06-17 14:41:01.587000-07:00
 ---
 
 > [!summary] The Big Idea
@@ -16,7 +18,7 @@ tags:
 
 > [!NOTE]
 >
-> - Posted to Substack as #📝Essay in its current state Jan 2025
+> - Posted to Substack as in its current state Jan 2025
 
 Related Essay: [[Shaping Space]]
 

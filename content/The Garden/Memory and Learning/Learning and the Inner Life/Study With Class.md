@@ -2,11 +2,13 @@
 publish: true
 created: 2025-12-22
 modified: 2026-02-18 11:29:14.591000-08:00
-published: 2026-04-01T14:07:58.637-07:00
+published: 2026-04-09T15:00:24.108-07:00
 tags:
   - 🙂Agree
   - 🟡Consideration
   - 📊Project
+edited_seconds: 1731
+updated: 2026-02-18 11:29:14.591000-08:00
 ---
 
 > [!Summary] The Big Idea

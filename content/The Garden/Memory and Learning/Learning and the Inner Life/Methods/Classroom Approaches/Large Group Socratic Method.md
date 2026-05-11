@@ -2,11 +2,13 @@
 publish: true
 created: 2024-10-22
 modified: 2026-04-01T14:41:42.958-07:00
-published: 2026-04-01T14:41:42.966-07:00
+published: 2026-04-09T15:00:24.128-07:00
 tags:
   - 🌱Seed
   - 🙂Agree
   - 📚Definition
+edited_seconds: 0
+updated: 2026-04-01T14:41:42.958-07:00
 ---
 
 > [!Summary] The Big Idea

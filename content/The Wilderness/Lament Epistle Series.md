@@ -2,13 +2,15 @@
 publish: true
 created: 2024-10-22
 modified: 2026-04-01T14:34:46.655-07:00
-published: 2026-04-01T14:34:46.691-07:00
+published: 2026-04-09T15:00:27.023-07:00
 tags:
   - 🌿Sapling
   - 😁Strongly-Agree
   - 🟢Conviction
   - 🥾SpiritualPractices-EmbodiedLiving
   - 📃Epistle
+edited_seconds: 2
+updated: 2026-04-01T14:34:46.655-07:00
 ---
 
 > [!summary] The Big Idea
@@ -33,7 +35,7 @@ tags:
 
 # What’s in a Lament?
 
-(Used in OS #📃Epistle April 2022)
+(Used in OS April 2022)
 
 When we think and talk about the shape and cadence of Chrstian life, we rarely hear the word lament. And if you have heard the word lament thrown around, you probably associate it with the book of the Bible literally named Lamentations.  It is a dark and eerie book that Christians often leave on the shelf.  
 
@@ -66,7 +68,7 @@ As we run to God with the raw experience of our lives something amazing happens.
 
 # Can I talk to a Manager?
 
-(Used in OS #📃Epistle May 2022)
+(Used in OS May 2022)
 
 Last month we laid out the basic ideas behind the practice of lament.  At its core, a lament is a form of art as well as a tool to help faithfully process through even the darkest times of life. 
 
@@ -98,7 +100,7 @@ Psalm 22:1-2 "My God, my God, why have you forsaken me? Why are you so far from 
 
 # The One Who Never Changes
 
-(Used in OS #📃Epistle June/July 2022)
+(Used in OS June/July 2022)
 
 As we continue our walk through the practice of lament we now come to the second element: an affirmation of God’s Holiness. As a refresher the six main elements found within a lament are:
 
@@ -128,7 +130,7 @@ As we process through the hardships of life, it is vitally important to come bac
 
 # More than History
 
-(Used in OS #📃Epistle August 2022)
+(Used in OS August 2022)
 
 I hope that your Summer has been filed with times of refreshment and community! As the summer begins to wind down and the school year approaches, I would like to resume our discussion of the practice of lament (if this is the first time you have heard of this you can reach out to Pastor Harrell for a copy of the full discussion). 
 
@@ -160,7 +162,7 @@ God is a God of history and promise.  He has rescued our forefathers in the pas
 
 # Without a Leg to Stand On 
 
-(Used in OS #📃Epistle September  2022)
+(Used in OS September  2022)
 
 As life begins to pick up for our teachers and students, I pray that every family finds peace and joy in this new Fall season! It is amazing to see how our [[Life Together]] here at Our Saviors continues to grow under the continued provision of the Holy Spirit. We continue our discussion around the practice of lament by taking a look into the sobering reality of where we stand before God. 
 
@@ -176,7 +178,7 @@ Just like Adam and Eve in the garden, we so often start to point fingers. We may
 
 # Hear Me O Lord! 
 
-(Used in OS #📃Epistle  October 2022)
+(Used in OS  October 2022)
 
 As time continues its steady march, I hope this epistle finds you well and steadily founded in the fact that you are a precious child of God. As we get close to the end of our series on Lament, I want to revisit the big picture briefly.  Up to this point, we have taken time to look at the first four elements of a lament and how they can engage us during times of difficulty and suffering. The whole point of a lament is to give us tools to approach the dark realities of our life, and world, in a way that is Christ focused and healing. A lament is aimed at taking us from a place of complaining and discontent to a place where we can stand on the precious promises of God - not out of obligation or compulsion - but through the wrestling and honest confrontation of our situation with Jesus by our side. Here is a brief refresher of the elements a lament can lead us through:
 
@@ -201,7 +203,7 @@ May we reach out to our Savior with this kind of raw reliance.  No matter what 
 
 # A Hope that never Fades
 
-(Used in OS #📃Epistle November 2022)
+(Used in OS November 2022)
 
 As we approach the Christmas season we have come to the end of this series on the practice of lament. The final element of a lament brings things full circle.  We started in the depths of doubt and pain but have slowly worked our way here, to standing on God’s promises. 
 

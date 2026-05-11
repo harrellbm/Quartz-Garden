@@ -2,15 +2,19 @@
 publish: true
 created: 2025-07-02
 modified: 2026-01-27 14:27:24.574000-08:00
-published: 2026-04-01T14:07:59.032-07:00
+published: 2026-04-12T13:10:33.466-07:00
 tags:
   - 🪴Sprout
   - 🙂Agree
   - 📓Journal
   - 📊Project
+edited_seconds: 3134
+updated: 2026-01-27 14:27:24.574000-08:00
 ---
 
-\#🪴Sprout   #🙂Agree  #📓Journal    #📊Project  #🛠️BringingLifeintotheWorld
+```
+    #🛠️BringingLifeintotheWorld 
+```
 
 ---
 
@@ -33,7 +37,7 @@ tags:
 
 Related Notes:
 [[A Tea Garden]]
-[[Plant Care]]
+[[A Biblical Garden]]
 [[Plants Around Church]]
 [[LCOS Facility Pattern Language]]
 

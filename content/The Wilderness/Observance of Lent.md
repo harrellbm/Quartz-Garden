@@ -2,7 +2,7 @@
 publish: true
 created: 2025-02-19
 modified: 2026-04-01T14:32:06.454-07:00
-published: 2026-04-01T14:32:06.460-07:00
+published: 2026-04-09T15:00:26.878-07:00
 tags:
   - 🍋Fruit
   - 🙂Agree
@@ -10,6 +10,8 @@ tags:
   - 🔥Doctrine-Poetry-Story
   - 📃Epistle
   - 📝Essay
+edited_seconds: 1
+updated: 2026-04-01T14:32:06.454-07:00
 ---
 
 > [!Summary] The Big Idea
@@ -17,8 +19,8 @@ tags:
 
 > [!note]
 >
-> - Used for LCOS #📃Epistle March 2025
-> - Posted to Substack as #📝Essay in its current state Feb 2025
+> - Used for LCOS March 2025
+> - Posted to Substack as in its current state Feb 2025
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-04-01T14:07:58.235-07:00
-published: 2026-04-01T14:07:58.235-07:00
+modified: 2026-04-09T15:00:26.168-07:00
+published: 2026-04-09T15:00:26.168-07:00
 tags:
   - 🌿Sapling
   - 🙂Agree
@@ -11,16 +11,14 @@ tags:
   - 📃Epistle
 ---
 
-\#🌿Sapling #🙂Agree #🟢Conviction #🔥Doctrine-Poetry-Story
-
 ---
 
 > [!summary] The Big Idea
 > The connection between dirt and the human person is deeply meaningful and worth investigating.
 
 > [!note]
-> used for OS #📃Epistle May 2023
-> Edited and used for LCOS #📃Epistle June 2025
+> used for OS May 2023
+> Edited and used for LCOS June 2025
 
 ---
 

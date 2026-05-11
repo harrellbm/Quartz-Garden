@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-04-01T14:52:45.084-07:00
-published: 2026-04-01T14:52:45.084-07:00
+modified: 2026-04-09T15:00:24.076-07:00
+published: 2026-04-09T15:00:24.076-07:00
 tags:
   - 🍋Fruit
   - 😁Strongly-Agree
@@ -58,7 +58,7 @@ As you can see, this is a very different way of approaching the Bible than what 
 ---
 
 > [!note]
-> The following section used as OS #📃Epistle Jan 2023.
+> The following section used as OS Jan 2023.
 
 > “I have asked one thing from the Lord; it is what I desire: to dwell in the house of the Lord all the days of my life, gazing on the beauty of the Lord and seeking him in his temple”
 >

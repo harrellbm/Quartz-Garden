@@ -2,16 +2,16 @@
 publish: true
 created: 2025-06-17
 modified: 2026-02-02 13:02:00.317000-08:00
-published: 2026-04-01T14:07:59.000-07:00
+published: 2026-04-09T15:00:27.194-07:00
 tags:
   - 🌿Sapling
   - 🙂Agree
   - 🟢Conviction
   - 📰Handout
   - 🥾SpiritualPractices-EmbodiedLiving
+edited_seconds: 85
+updated: 2026-02-02 13:02:00.317000-08:00
 ---
-
-\#🌿Sapling    #🙂Agree    #🟢Conviction   #📰Handout  #🥾SpiritualPractices-EmbodiedLiving
 
 ---
 
@@ -50,7 +50,7 @@ Did one way feel more challenging or comfortable?
 
 ## Breathing with the Holy Spirit
 
-Another important part of our bodies is breathing. The Hebrew word for Spirit (as in the Holy Spirit) also means breath. In Genesis 2:7 God breathes life into Adam. As our Creator, God has breathed life into us as well. All of this means that our breathing is a special part of us where we can be reminded of our connection with God. One way to do this is using an ancient type of prayer called a breath prayer or the Jesus prayer.\[^1] Early church fathers in the third to fifth centuries developed a very simple breath prayer that became known as the “Jesus Prayer.” This prayer comes from the story of the blind man calling out to Jesus saying: “Jesus, Son of David, have mercy on me!”- Mark 4:10
+Another important part of our bodies is breathing. The Hebrew word for Spirit (as in the Holy Spirit) also means breath. In Genesis 2:7 God breathes life into Adam. As our Creator, God has breathed life into us as well. All of this means that our breathing is a special part of us where we can be reminded of our connection with God. One way to do this is using an ancient type of prayer called a breath prayer or the Jesus prayer.[^1] Early church fathers in the third to fifth centuries developed a very simple breath prayer that became known as the “Jesus Prayer.” This prayer comes from the story of the blind man calling out to Jesus saying: “Jesus, Son of David, have mercy on me!”- Mark 4:10
 
 Here are the words of the prayer: “Lord Jesus Christ, have mercy on me.”
 
@@ -78,4 +78,4 @@ When would be a good time during your day to pray like this?
 
 ---
 
-\[^1]: Hester, David. The Jesus Prayer: A Gift from the Fathers. Ancient Faith Publishing, 2001, p. 5.
+[^1]: Hester, David. The Jesus Prayer: A Gift from the Fathers. Ancient Faith Publishing, 2001, p. 5.

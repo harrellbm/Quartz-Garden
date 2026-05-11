@@ -2,12 +2,14 @@
 publish: true
 created: 2025-12-22T09:38:53.176-08:00
 modified: 2026-04-01T14:34:55.619-07:00
-published: 2026-04-01T14:34:55.643-07:00
+published: 2026-04-09T15:00:27.114-07:00
 tags:
   - 🌱Seed
   - 🙂Agree
   - 🟡Consideration
   - 📘BookNotes
+edited_seconds: 260
+updated: 2026-04-01T14:34:55.619-07:00
 ---
 
 > [!quote] St. Francis DeSales, Bishop of Geneva 1602-1622, Introduction to the Devout Life

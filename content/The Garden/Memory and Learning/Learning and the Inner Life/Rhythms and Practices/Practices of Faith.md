@@ -2,16 +2,18 @@
 publish: true
 created: 2024-10-22
 modified: 2026-03-04 15:17:32.876000-08:00
-published: 2026-04-01T14:52:45.085-07:00
+published: 2026-04-09T15:00:24.043-07:00
 tags:
   - 🪴Sprout
   - 🙂Agree
   - 🥾SpiritualPractices-EmbodiedLiving
   - 📃Epistle
+edited_seconds: 116
+updated: 2026-03-04 15:17:32.876000-08:00
 ---
 
 > [!note]
-> An #📃Epistle used for OS in Jan 2023 covering a basic look at healthy Christian living.
+> An used for OS in Jan 2023 covering a basic look at healthy Christian living.
 
 ---
 

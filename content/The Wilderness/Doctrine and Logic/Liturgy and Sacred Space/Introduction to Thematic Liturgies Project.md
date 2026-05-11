@@ -2,7 +2,7 @@
 publish: true
 created: 2024-10-22
 modified: 2025-06-17 14:33:03.506000-07:00
-published: 2026-04-01T14:15:35.395-07:00
+published: 2026-04-09T15:00:26.113-07:00
 tags:
   - 🌿Sapling
   - 🙂Agree
@@ -10,6 +10,9 @@ tags:
   - 📊Project
   - 📝Essay
   - 🥾SpiritualPractices-EmbodiedLiving
+  - 11
+edited_seconds: 6
+updated: 2025-06-17 14:33:03.506000-07:00
 ---
 
 > [!Summary] The Big Idea
@@ -25,13 +28,13 @@ tags:
 
 ## Our Heart Language
 
-The Psalms can be thought of as the Christian’s handbook for navigating life.\[^1]  In it God’s people of old have expressed their joys and woes, struggles and convictions.  They speak the language of a godly life in all it’s rich beauty and pain.  A language we as God’s people should learn to speak ourselves.  However, “we are often guilty of speaking the strange words of a lament or enthronement Psalm without serious attempts to help worshipers understand what they are saying.”\[^2]
+The Psalms can be thought of as the Christian’s handbook for navigating life.[^1]  In it God’s people of old have expressed their joys and woes, struggles and convictions.  They speak the language of a godly life in all it’s rich beauty and pain.  A language we as God’s people should learn to speak ourselves.  However, “we are often guilty of speaking the strange words of a lament or enthronement Psalm without serious attempts to help worshipers understand what they are saying.”[^2]
 
 Out of this conviction, the Psalms should be an integral part of weekly worship.  Their language and timber should shape our worship from week to week.  This means that every element of the liturgical order should express the full range of emotion, struggle, but ultimately hope and assurance taught by the Psalms.  
 
 ## Connection to the Story of Everything
 
-The common language of the Psalms should shape our stories.  Yet more importantly they should connect us to the grand narrative found in Scripture’s story of everything.\[^3]  It is by this story of God’s salvation, and coming recreation, that we seek to pattern our lives.  Our lives have meaning and purpose because we are a part of this story and are heading toward this wonderful and beautiful recreation.  This story connects us to each other and, most importantly, to God and His continued work in our lives.  Sunday morning is a unique opportunity to realize this identity by bringing the all powerful Word of the [[Word Made Flesh]] to our people in engaging and meaningful ways.  Liturgy is a pattern for life into which we seek to habituate our people.\[^4]  In other words, the way we live and worship should be shaped and connected to the narrative of salvation history. 
+The common language of the Psalms should shape our stories.  Yet more importantly they should connect us to the grand narrative found in Scripture’s story of everything.[^3]  It is by this story of God’s salvation, and coming recreation, that we seek to pattern our lives.  Our lives have meaning and purpose because we are a part of this story and are heading toward this wonderful and beautiful recreation.  This story connects us to each other and, most importantly, to God and His continued work in our lives.  Sunday morning is a unique opportunity to realize this identity by bringing the all powerful Word of the [[Word Made Flesh]] to our people in engaging and meaningful ways.  Liturgy is a pattern for life into which we seek to habituate our people.[^4]  In other words, the way we live and worship should be shaped and connected to the narrative of salvation history. 
 
 ## Centrality of the Gospel
 
@@ -84,9 +87,9 @@ Liturgies in this collection can be broken into two main types.  Those organize
 
 ## Liturgies Focused on the Prayers and Cries of God’s People
 
-Psalms and canticles are a unique meeting of art and doctrine found in Scripture.  They are the record prayers and cries of God’s people who lived in many different circumstances.  They carry emotion and thought in ways other genres of Scripture cannot (not to mention music aids memory and engagement).  Psalms and canticles give us a unique window into the thoughts and struggles of prominent biblical figures as well as unnamed ancestors of the faith.  Not only this, but they offer an authoritative and inspired pattern of devotional life in the midst of all life’s ups and downs.  They help form our expectations and experience of life’s rhythms and the cycle of lament to hope. \[^7] On top of all of this, they also bring us into holy conversation with God.\[^8]  Because psalms and canticles are so deep and multifaceted no single liturgy can hope to cover the vast ground contained inside each.  This alone seems to be ample justification for a multiplicity of liturgical forms to express and expound these deep truths to our people.  Therefore, liturgies written focusing on the prayers and cries of God’s people seek to model and practice deep meaningful engagement with the joy and pain of life.  This is accomplished through learning and understanding the story of our ancestors and learning to pray and cry out to God along with them over the joy and pain in our lives.    
+Psalms and canticles are a unique meeting of art and doctrine found in Scripture.  They are the record prayers and cries of God’s people who lived in many different circumstances.  They carry emotion and thought in ways other genres of Scripture cannot (not to mention music aids memory and engagement).  Psalms and canticles give us a unique window into the thoughts and struggles of prominent biblical figures as well as unnamed ancestors of the faith.  Not only this, but they offer an authoritative and inspired pattern of devotional life in the midst of all life’s ups and downs.  They help form our expectations and experience of life’s rhythms and the cycle of lament to hope. [^7] On top of all of this, they also bring us into holy conversation with God.[^8]  Because psalms and canticles are so deep and multifaceted no single liturgy can hope to cover the vast ground contained inside each.  This alone seems to be ample justification for a multiplicity of liturgical forms to express and expound these deep truths to our people.  Therefore, liturgies written focusing on the prayers and cries of God’s people seek to model and practice deep meaningful engagement with the joy and pain of life.  This is accomplished through learning and understanding the story of our ancestors and learning to pray and cry out to God along with them over the joy and pain in our lives.    
 
-> “History teaches, the Law instructs, prophecy proclaims, reproach chastens and moralizing persuades; in the Book of the Psalms there is the successful accomplishment of all this along with a kind of balm of human salvation” (St. Ambrose).\[^9]
+> “History teaches, the Law instructs, prophecy proclaims, reproach chastens and moralizing persuades; in the Book of the Psalms there is the successful accomplishment of all this along with a kind of balm of human salvation” (St. Ambrose).[^9]
 
 ## Liturgies of Biblical Narrative
 
@@ -96,23 +99,23 @@ Psalms and canticles are a unique meeting of art and doctrine found in Scripture
 
 No matter the order, style, music, etc. there are certain foci that should be in every service.  These include:
 
-Focus on the Trinity.\[^10]
+Focus on the Trinity.[^10]
 
 - Every service should be careful to speak and worship God in His trinitarian fullness as understood from the creeds.   
 
-Focus on Christ.\[^11] 
+Focus on Christ.[^11] 
 
 - Jesus is everything.  Consequently, every service should teach and confirm our Christo centricity.  
 
-Focus on Word and Sacramental.\[^12]
+Focus on Word and Sacramental.[^12]
 
 - Word and Sacrament are our God given delivery system for the grace and salvation of Christ.  It is essential that these means of grace be put in their proper place in every service.
 
-Focus on the Gospel. \[^13]
+Focus on the Gospel. [^13]
 
 - Every service should proclaim our dependence and faith in the person and work of Christ for our salvation.
 
-Focus on our Creedal Faith.\[^14] 
+Focus on our Creedal Faith.[^14] 
 
 - We have been entrusted with the confession of our common faith as passed down in the creeds.  We should not lose sight of the importance of teaching and regularly confessing these core aspects of our faith. 
 
@@ -120,7 +123,7 @@ Focus on our connection to the Story of Everything. 
 
 - As God’s people we habitate a unique place in God’s grand story of salvation.  It is vital that we teach and experience where we came from, who we are, and where we are going in its fullness as expressed in the narrative of Scripture. 
 
-Focus on the [[Two Kinds of Righteousness]] that order our lives.\[^15]
+Focus on the [[Two Kinds of Righteousness]] that order our lives.[^15]
 
 - Expressing the uniqueness of our relationship with/before God is vital for understanding the wonderful free gift of salvation.  In addition, clearly articulating our role and responsibility as neighbors in relationship with other humans is important in order to avoid lazy, or extreme, forms of Chrsitian living.
 
@@ -138,7 +141,7 @@ As a project aimed to be carried out within the Missouri Synod ecosystem, the mo
 
 The first half of the divine service is the service of the word which focuses on the proclamation of the written word.  
 
-The Invocation - Begins the service by “calling in” or invoking the reality that the triune God is with us as his church.  He is truly present where two or three are gathered in His name.  It also serves as a reminder of who’s name we were baptized into.\[^16]
+The Invocation - Begins the service by “calling in” or invoking the reality that the triune God is with us as his church.  He is truly present where two or three are gathered in His name.  It also serves as a reminder of who’s name we were baptized into.[^16]
 
 - Goal/Function: To open the service focused on the reality of God’s presence and our communion as His Church.
 
@@ -146,64 +149,64 @@ Opening Litany - Quite simply, a set of call and response prayers.  Sometimes i
 
 - Goal/Function: To confess and dwell on the realities of the invocation and themes for the day.
 
-Confession and Absolution - We lay bare our sins before God and humbly ask for forgiveness. Then the pastor as God’s spokesman in that place, declares God’s forgiveness and love as a sure reality.\[^17]
+Confession and Absolution - We lay bare our sins before God and humbly ask for forgiveness. Then the pastor as God’s spokesman in that place, declares God’s forgiveness and love as a sure reality.[^17]
 
 - Goal/Function: To deliver the goods of God’s forgiveness and love.
 
-Introit (LSB 186) or Entrance Hymn - Musical transition often used with processions. Introit is a Psalm that is normally sung/chanted.  Traditionally marks the end of preparation and beginning of the service of the word.\[^18]
+Introit (LSB 186) or Entrance Hymn - Musical transition often used with processions. Introit is a Psalm that is normally sung/chanted.  Traditionally marks the end of preparation and beginning of the service of the word.[^18]
 
 - Goal/Function: To Musically set the tone for the worship service.
 
-Litany (LSB 249-251)/Kyrie (LSB 152-153, 168-169, 186, 204, 227, 233, 944) - We cry for mercy and peace to God in the midst of a sinful and broken world. We seek His help and highlight our reliance on Him.\[^19]
+Litany (LSB 249-251)/Kyrie (LSB 152-153, 168-169, 186, 204, 227, 233, 944) - We cry for mercy and peace to God in the midst of a sinful and broken world. We seek His help and highlight our reliance on Him.[^19]
 
 - Goal/Function: To come before God humbly and acknowledge our dependence on Him.
 
-Hymn of Praise - Also usually after absolution to express our thankfulness for God’s strong forgiveness. Traditionally the Gloria in Excelsis or This is the Feast.\[^20]
+Hymn of Praise - Also usually after absolution to express our thankfulness for God’s strong forgiveness. Traditionally the Gloria in Excelsis or This is the Feast.[^20]
 
 - Goal/Function: To praise God musically.
 
-Salutation/Apostolic Greeting - A short blessing and response. Traditionally pulled from the words written by Paul in 2 Cor 13:14.\[^21]
+Salutation/Apostolic Greeting - A short blessing and response. Traditionally pulled from the words written by Paul in 2 Cor 13:14.[^21]
 
 - Goal/Function: To establish the relationship between Pastor and Flock in mutual blessing.
 
-Collect (LSB 228) or Prayer of the Day - This prayer collects what we seek to receive from God in this service. What we seek is based on who He is and our trust in His promises drawn from the readings for the day, as well as the overall theme of the service.\[^22]
+Collect (LSB 228) or Prayer of the Day - This prayer collects what we seek to receive from God in this service. What we seek is based on who He is and our trust in His promises drawn from the readings for the day, as well as the overall theme of the service.[^22]
 
 - Goal/Function: To come before God prayerfully seeking Him in His promises.
 
-Readings - This is time to publicly read the Scriptures as a community.\[^23]
+Readings - This is time to publicly read the Scriptures as a community.[^23]
 
 - Goal/Function: To spend intentional time in God’s written word.
 
-Reading Response - Intentionally states whose words have just been read and seeks the congregation's faith filled response.\[^24] 
+Reading Response - Intentionally states whose words have just been read and seeks the congregation's faith filled response.[^24] 
 
 - Goal/Function: To highlight the importance and value of God’s written word.
 
-Gradual of the Season - This is usually a part of a psalm or anthem sung as a prayerful pause.  It links to the theme of the service for the day/church season.  Usually inserted after the first lesson or Old Testament lesson.\[^25]
+Gradual of the Season - This is usually a part of a psalm or anthem sung as a prayerful pause.  It links to the theme of the service for the day/church season.  Usually inserted after the first lesson or Old Testament lesson.[^25]
 
 - Goal/Function: To musically meditate on the themes of the service.
 
-Alleluia Verse and Gospel Acclamation (LSB 157, 173, 190, 205) - Usually a short verse/set of verses that are said or sung before the gospel reading.\[^26] 
+Alleluia Verse and Gospel Acclamation (LSB 157, 173, 190, 205) - Usually a short verse/set of verses that are said or sung before the gospel reading.[^26] 
 
 - Goal/Function: To highlight the importance of the Gospel and the reality of Jesus' presence in His word now read.
 
-Hymn of the Day - Traditionally this is the hymn that connects the most directly to the scriptures and theme for the day.\[^27]  
+Hymn of the Day - Traditionally this is the hymn that connects the most directly to the scriptures and theme for the day.[^27]  
 
 - Goal/Function: To summarize and contemplate the themes and truths for the day musically.
 
-Sermon - The spoken word is delivered to the people.  The Gospel is proclaimed and truths of Scripture are explained and applied to daily life.\[^28]
+Sermon - The spoken word is delivered to the people.  The Gospel is proclaimed and truths of Scripture are explained and applied to daily life.[^28]
 
 - Goal/Function: To deliver the goods of the Gospel as well as guidance for daily living.
 
-Creed - We with all the saints across time and space confess our common faith in Jesus and His work of salvation.\[^29]
+Creed - We with all the saints across time and space confess our common faith in Jesus and His work of salvation.[^29]
 
 - Goal/Function: To summarize and confess the core of our faith publicly.
 
-Prayers of the Church - We bring our thanksgivings as well as the needs of creation, our neighbors, our congregation, and those we love.\[^30]
+Prayers of the Church - We bring our thanksgivings as well as the needs of creation, our neighbors, our congregation, and those we love.[^30]
 
 - Types: responsive, collect form, etc.
 - Goal/Function: To bring everything before God in prayer as a community.
 
-Offering/Offertory (LSB 159, 176, 192) - The people of God respond to Him in thankful giving.  This usually involves a song and/or prayer during or after the collection of the offering.  It is meant to acknowledge our thankfulness to God expressed in the offerings.\[^31]
+Offering/Offertory (LSB 159, 176, 192) - The people of God respond to Him in thankful giving.  This usually involves a song and/or prayer during or after the collection of the offering.  It is meant to acknowledge our thankfulness to God expressed in the offerings.[^31]
 
 - Goal/Function: To frame the environment and intentions we should have while giving offerings to God.
 
@@ -211,55 +214,55 @@ Offering/Offertory (LSB 159, 176, 192) - The people of God respond to Him in tha
 
 The Second half of the Divine service focuses on the celebration of communion and the physical participation in Jesus' active word in the elements.  
 
-Preface (LSB 160, 177, 194) - An exchange between the presider and congregation that transitions into the service of communion.  It marks this as a special part of the service that is different than what came before.\[^32]
+Preface (LSB 160, 177, 194) - An exchange between the presider and congregation that transitions into the service of communion.  It marks this as a special part of the service that is different than what came before.[^32]
 
 - Goal/Function: To highlight the importance and weight of the sacrament that will be taken shortly. 
 
-Salutation - The second short blessing and response.\[^33]
+Salutation - The second short blessing and response.[^33]
 
 - Goal/Function: To continue and encourage the relationship between Pastor and Flock in mutual blessing.
 
-Sursum Corda - “Lift up your hearts,” comes from Lamentations 3:41 and Psalm 86:4.  Short time to reflect on the holy moment that is happening.\[^34]
+Sursum Corda - “Lift up your hearts,” comes from Lamentations 3:41 and Psalm 86:4.  Short time to reflect on the holy moment that is happening.[^34]
 
 - Goal/Function: To continue the approach to the sacrament with awe and reverence. 
 
-Eucharist - Thanksgiving for the gift of Christ Himself in the coming sacrament.\[^35]
+Eucharist - Thanksgiving for the gift of Christ Himself in the coming sacrament.[^35]
 
 - Goal/Function: To remember the deep thanksgiving we should have for the sacrament.
 
-Proper Preface (LSB Altar Book, p. 161, 200, 241) - Traditionally changes with the church season and focuses on a particular part of the salvation narrative.  Early forms also started with creation and moved through the whole salvation story.  Ends with acknowledgment of the congregation joining with the whole church across time and space in communion.\[^36]
+Proper Preface (LSB Altar Book, p. 161, 200, 241) - Traditionally changes with the church season and focuses on a particular part of the salvation narrative.  Early forms also started with creation and moved through the whole salvation story.  Ends with acknowledgment of the congregation joining with the whole church across time and space in communion.[^36]
 
 - Goal/Function:  To set the stage for the words of institution and place the congregation in our place in the story.
 
-Sanctus and Benedictus  (LSB 161, 178, 208, 961) - The sanctus echoes the praises of the angels from Isaiah’s vision of God (Is 6:1-3).  This is often paired with the biblical canticle of Zechariah.  Together they encompass the praises of the whole heavenly host and communion of saints for this holy meal.\[^37]
+Sanctus and Benedictus  (LSB 161, 178, 208, 961) - The sanctus echoes the praises of the angels from Isaiah’s vision of God (Is 6:1-3).  This is often paired with the biblical canticle of Zechariah.  Together they encompass the praises of the whole heavenly host and communion of saints for this holy meal.[^37]
 
 - Goal/Function: To join with the whole creation in praising God for his gifts given in the sacrament.
 
-Lord’s Prayer - The foundational prayer Jesus taught his disciples that has been passed on to us.  There are two usual places for the Lord’s prayer in the service.  One is after the prayers of the church as a summary and grounding in Jesus’ divinely given prayer.  The second is right before the words of institution to remember how it is fulfilled in this sacrament.\[^38]  
+Lord’s Prayer - The foundational prayer Jesus taught his disciples that has been passed on to us.  There are two usual places for the Lord’s prayer in the service.  One is after the prayers of the church as a summary and grounding in Jesus’ divinely given prayer.  The second is right before the words of institution to remember how it is fulfilled in this sacrament.[^38]  
 
 - Goal/Function: To join as one body in the prayer Jesus taught us.
 
-Words of Institution/the Words of our Lord - The words Jesus spoke during his last supper instituting communion.  These same words are God’s active ingredient in the elements we receive.  He spoke them once for all at that last supper and we enter into that same reality now as the pastor speaks them afresh.\[^39]
+Words of Institution/the Words of our Lord - The words Jesus spoke during his last supper instituting communion.  These same words are God’s active ingredient in the elements we receive.  He spoke them once for all at that last supper and we enter into that same reality now as the pastor speaks them afresh.[^39]
 
 - Goal/Function: To officially enter into the sacrament of communion.
 
-Sharing of the Peace - This is a time for the community of believers to share the peace of absolution horizontally among their relationships with each other.  It is meant to be a time of setting aside differences and disagreements.  Usually placed after absolution or right before distribution.\[^40]
+Sharing of the Peace - This is a time for the community of believers to share the peace of absolution horizontally among their relationships with each other.  It is meant to be a time of setting aside differences and disagreements.  Usually placed after absolution or right before distribution.[^40]
 
 - Goal/Function: To promote Christian love and unity among the believers present.
 
-Pax Domini (LSB 163, 180, 197-198) and Agnus Dei (LSB 163, 180, 197-198, 210, 962, 963) - In song the peace of the Lord and Lamb of God is proclaimed and confessed.  Often sung right before distribution.\[^41]
+Pax Domini (LSB 163, 180, 197-198) and Agnus Dei (LSB 163, 180, 197-198, 210, 962, 963) - In song the peace of the Lord and Lamb of God is proclaimed and confessed.  Often sung right before distribution.[^41]
 
 - Goal/Function: To continue thanking, praising and contemplating on the goodness of God in this sacrament.  
 
-Te Deum (LSB 223-225) - 5th century hymn that proclaims the majesty and glory of God with thanksgiving and joy. Usually after distribution.\[^42]
+Te Deum (LSB 223-225) - 5th century hymn that proclaims the majesty and glory of God with thanksgiving and joy. Usually after distribution.[^42]
 
 - Goal/Function: To respond with thankfulness for the gift just received in communion.  
 
-Post-Communion Collect - Wraps up the service of the sacrament pointing the congregation toward the realities they have just received and the strength and forgiveness they have just been given.\[^43]
+Post-Communion Collect - Wraps up the service of the sacrament pointing the congregation toward the realities they have just received and the strength and forgiveness they have just been given.[^43]
 
 - Goal/Function: To wind down the service of the sacrament in prayer and thanksgiving.
 
-Benediction (LSB 166, 183, 200-202, 228, 234, 258-259) - Final blessing coming from God’s promises found particularly in the Aaronic benediction of Numbers 6:22-27.  This final proclamation of God’s name over the people is a way to end the service in God’s name just like it began.\[^44]
+Benediction (LSB 166, 183, 200-202, 228, 234, 258-259) - Final blessing coming from God’s promises found particularly in the Aaronic benediction of Numbers 6:22-27.  This final proclamation of God’s name over the people is a way to end the service in God’s name just like it began.[^44]
 
 - Goal/Function:  To leave God’s people in the peace and blessing of Christ.
 
@@ -269,7 +272,7 @@ Canticles - Songs taken directly out of the Scriptural narrative. Used various p
 
 - Mary’s Magnificat (Luke 1:46-55; LSB 231, 248-249).
 
-- Simeon’s Nunc Dimittis (Luke 2:29-32; LSB 165, 182, 199-200, 211, 258-259; LW 230, #11).
+- Simeon’s Nunc Dimittis (Luke 2:29-32; LSB 165, 182, 199-200, 211, 258-259; LW 230,).
 
 - Zechariah’s Benedictus (Luke 1:68-79; LW 217).
 
@@ -289,45 +292,45 @@ Canticles - Songs taken directly out of the Scriptural narrative. Used various p
 
 ### Footnotes
 
-\[^1]: **Athanasius Patriarch of Alexandria, Life of Antony and Letter to Marcellinus (New York, Paulist Press, 1980), 101-14, ESP. 112.**
-\[^2]: **John Witvliet, The Biblical Psalms in Christian Worship: A Brief Introduction & Guide to Resources (Grand Rapids: William B. Eerdmans Publishing Company, 2007), 4.**
-\[^3]: **Joel Okamoto,”The Word of the Cross and the Story of Everything” Concordia Journal Summer 2019 Volume number, Issue number (Year): page number(s).Concordia Journal Summer 2019 54.**
-\[^4]:  **James Smith, Desiring the Kingdom: Worship, Worldview, and Cultural Formation (Grand Rapids: Baker Academic, 2009), 75-88.**
-\[^7]: **James Smith, Desiring the Kingdom, 155-59.**
-\[^8]:  **John Witvliet, The Biblical Psalms in Christian Worship, 11-15.**
-\[^9]:  **Ibid., 4.**
-\[^10]: **Timothy Maschke, Gathering Guests: A Guide to Worship in the Lutheran Church (Saint Louis: Concordia Publishing House, 2003), 111.**
-\[^11]: **Ibid., 111.**
-\[^12]: **Ibid., 109.**
-\[^13]: **Ibid., 112.  Also see [[Variety in Gospel Metaphors]]).**
-\[^14]: **Ibid., 113.**
-\[^15]: **Joel Biermann, A Case for Character: Towards a Lutheran Virtue Ethics (Minneapolis: Fortress Press, 2014), 118-133.**
-\[^16]: **Maschke, Gathering Guests, 117-8.**
-\[^17]: **Ibid., 119-21.**
-\[^18]: **Ibid., 121-2.**
-\[^19]:  **Ibid., 123-4.**
-\[^20]:  **Ibid., 124.**
-\[^21]: **Ibid., 125.**
-\[^22]: **Ibid., 125.**
-\[^23]: **Ibid., 126-30.**
-\[^24]: **Ibid., 126.**
-\[^25]: **Ibid., 126-7.**
-\[^26]: **Ibid., 128-30.**
-\[^27]: **Ibid., 130.**
-\[^28]:  **Ibid., 130-31.**
-\[^29]:  **Ibid., 132-34.**
-\[^30]: **Ibid., 134-35.**
-\[^31]: **Ibid., 135-37.**
-\[^32]: **Ibid., 141-42.**
-\[^33]: **Ibid., 142.**
-\[^34]: **Ibid., 142.**
-\[^35]: **Ibid., 142.**
-\[^36]:  **Ibid., 142-43.**
-\[^37]:  **Ibid., 143-44.**
-\[^38]:  **Ibid., 145.**
-\[^39]: **Ibid., 145-46.**
-\[^40]: **Ibid., 146.**
-\[^41]: **Ibid., 146-47.**
-\[^42]: **Ibid., 150.**
-\[^43]: **Ibid., 150.**
-\[^44]: **Ibid., 150-51.**
+[^1]: **Athanasius Patriarch of Alexandria, Life of Antony and Letter to Marcellinus (New York, Paulist Press, 1980), 101-14, ESP. 112.**
+[^2]: **John Witvliet, The Biblical Psalms in Christian Worship: A Brief Introduction & Guide to Resources (Grand Rapids: William B. Eerdmans Publishing Company, 2007), 4.**
+[^3]: **Joel Okamoto,”The Word of the Cross and the Story of Everything” Concordia Journal Summer 2019 Volume number, Issue number (Year): page number(s).Concordia Journal Summer 2019 54.**
+[^4]:  **James Smith, Desiring the Kingdom: Worship, Worldview, and Cultural Formation (Grand Rapids: Baker Academic, 2009), 75-88.**
+[^7]: **James Smith, Desiring the Kingdom, 155-59.**
+[^8]:  **John Witvliet, The Biblical Psalms in Christian Worship, 11-15.**
+[^9]:  **Ibid., 4.**
+[^10]: **Timothy Maschke, Gathering Guests: A Guide to Worship in the Lutheran Church (Saint Louis: Concordia Publishing House, 2003), 111.**
+[^11]: **Ibid., 111.**
+[^12]: **Ibid., 109.**
+[^13]: **Ibid., 112.  Also see [[Variety in Gospel Metaphors]]).**
+[^14]: **Ibid., 113.**
+[^15]: **Joel Biermann, A Case for Character: Towards a Lutheran Virtue Ethics (Minneapolis: Fortress Press, 2014), 118-133.**
+[^16]: **Maschke, Gathering Guests, 117-8.**
+[^17]: **Ibid., 119-21.**
+[^18]: **Ibid., 121-2.**
+[^19]:  **Ibid., 123-4.**
+[^20]:  **Ibid., 124.**
+[^21]: **Ibid., 125.**
+[^22]: **Ibid., 125.**
+[^23]: **Ibid., 126-30.**
+[^24]: **Ibid., 126.**
+[^25]: **Ibid., 126-7.**
+[^26]: **Ibid., 128-30.**
+[^27]: **Ibid., 130.**
+[^28]:  **Ibid., 130-31.**
+[^29]:  **Ibid., 132-34.**
+[^30]: **Ibid., 134-35.**
+[^31]: **Ibid., 135-37.**
+[^32]: **Ibid., 141-42.**
+[^33]: **Ibid., 142.**
+[^34]: **Ibid., 142.**
+[^35]: **Ibid., 142.**
+[^36]:  **Ibid., 142-43.**
+[^37]:  **Ibid., 143-44.**
+[^38]:  **Ibid., 145.**
+[^39]: **Ibid., 145-46.**
+[^40]: **Ibid., 146.**
+[^41]: **Ibid., 146-47.**
+[^42]: **Ibid., 150.**
+[^43]: **Ibid., 150.**
+[^44]: **Ibid., 150-51.**

@@ -1,16 +1,14 @@
 ---
 publish: true
 created: 2024-12-05
-modified: 2026-04-01T14:08:00.316-07:00
-published: 2026-04-01T14:08:00.316-07:00
+modified: 2026-04-09T15:00:25.814-07:00
+published: 2026-04-09T15:00:25.814-07:00
 tags:
   - 🌱Seed
   - 😁Strongly-Agree
   - 📓Journal
   - 🥾SpiritualPractices-EmbodiedLiving
 ---
-
-\#🌱Seed  #😁Strongly-Agree #📓Journal  #🥾SpiritualPractices-EmbodiedLiving
 
 ---
 

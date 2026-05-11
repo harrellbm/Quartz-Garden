@@ -6,11 +6,13 @@ aliases:
 title: Base Camp 🏕️
 created: 2024-10-22
 modified: 2026-03-26 10:30:54.543000-07:00
-published: 2026-04-01T14:08:01.953-07:00
+published: 2026-04-09T15:00:27.739-07:00
 tags:
   - 🌲Evergreen
   - 🟢Conviction
   - 📝Essay
+edited_seconds: 593
+updated: 2026-03-26 10:30:54.543000-07:00
 ---
 
 Hello!
@@ -46,7 +48,7 @@ Here are some basic suggestions for using this garden:
 - Follow a path of ideas by clicking on imbedded links as you read. See where my mind has wandered and where yours might too.
 - Use the search bar to see if I have notes on something specific. If not you could email me and see what I think!
 - Look at a particular note tag and see what other notes have the same tag.
-  - \#🟢Conviction or #📝Essay are good ones to try first.
+  - or are good ones to try first.
 - Or you can look at my [[Wonder List]] a collection of things that I am thinking about.
 - If you run into a 404 page it means I haven't made that note yet or haven't uploaded it. If it is interesting to you reach out to me and start a conversation about it.
 
@@ -56,14 +58,14 @@ Here are some basic suggestions for using this garden:
 - [[The Garden/Technology and Tools/Concepts and Definitions/Pace Layers.md|Pace Layers]]
 - [[The Garden/Technology and Tools/Concepts and Definitions/Reality Filter.md|Reality Filter]]
 - [[The Library/Book Catalog and Notes/Unlimited Memory.md|Unlimited Memory]]
-- [[The Library/Book Catalog and Notes/Unlock Your Amazing Memory.md|Unlock Your Amazing Memory]]
 - [[The Library/Book Catalog and Notes/Luther's Small Catechism.md|Luther's Small Catechism]]
 - [[The Library/Book Catalog and Notes/British Folk Tales.md|British Folk Tales]]
 - [[The Library/Ebooks and Articles/Memory and Remembering/Magnetic Memory Mini course/A. Magnetic Memory Method Mini Class.md|A. Magnetic Memory Method Mini Class]]
-- [[The Library/Book Catalog and Notes/How to Develop a Brilliant Memory Week by Week.md|How to Develop a Brilliant Memory Week by Week]]
 - [[The Library/Online Libraries.md|Online Libraries]]
-- [[In Process/Personal Memory Method.md|Personal Memory Method]]
-- [[In Process/Core Memory Principles.md|Core Memory Principles]]
-- [[In Process/Jack and the Magic Cellar.md|Jack and the Magic Cellar]]
 - [[The Library/Ebooks and Articles/Memory and Remembering/1--Index- Memory and Remembering - Loose Resources.md|1--Index- Memory and Remembering - Loose Resources]]
 - [[The Library/Quotes/John Chrysostom on the Lord's Supper.md|John Chrysostom on the Lord's Supper]]
+- [[The Library/Book Catalog and Notes/The Art or Crafte of Rhetoryke.md|The Art or Crafte of Rhetoryke]]
+- [[The Library/Book Catalog and Notes/Philipp Melanchthon’s Humanist concept of philosophy.md|Philipp Melanchthon’s Humanist concept of philosophy]]
+- [[The Library/Book Catalog and Notes/Verbatim Memory Tool for Memorizing Paul’s Epistle to the Ephesians.md|Verbatim Memory Tool for Memorizing Paul’s Epistle to the Ephesians]]
+- [[The Library/Book Catalog and Notes/Learn the Art of Memory.md|Learn the Art of Memory]]
+- [[The Garden/Memory and Learning/Memory Journal/Memorizing the Psalms.md|Memorizing the Psalms]]

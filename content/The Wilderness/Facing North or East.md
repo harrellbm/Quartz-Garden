@@ -2,12 +2,14 @@
 publish: true
 created: 2025-01-13
 modified: 2026-04-01T14:36:07.037-07:00
-published: 2026-04-01T14:36:07.125-07:00
+published: 2026-04-09T15:00:27.264-07:00
 tags:
   - 🌱Seed
   - 😐Neutral
   - 🟡Consideration
   - 🔥Doctrine-Poetry-Story
+edited_seconds: 1
+updated: 2026-04-01T14:36:07.037-07:00
 ---
 
 > [!Summary] The Big Idea
