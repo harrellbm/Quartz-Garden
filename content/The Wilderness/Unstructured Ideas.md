@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2024-10-22
-modified: 2026-04-01T14:24:21.417-07:00
-published: 2026-04-09T15:00:26.426-07:00
+modified: 2026-05-18T13:16:31.002-07:00
+published: 2026-05-18T13:16:31.009-07:00
 tags:
   - 🌱Seed
   - 🙂Agree
   - 📓Journal
-edited_seconds: 3
-updated: 2026-04-01T14:24:21.417-07:00
+edited_seconds: 15
+updated: 2026-05-18T13:16:31.002-07:00
 ---
 
 > [!Summary] The Big Idea
@@ -66,12 +66,13 @@ Both poetry and prose discourse look back at the stories to explain and grow our
 
 The logical progression of Scriptural introduction then is: narrative, poetry, prose discourse. Yet we often jump straight to prose discourse in the way we even teach the narrative or think about the poetry. An alternative model could be pulled from the organization of the New Testament itself. Narrative, discourse, poetry. While Old Testament has barely any prose discourse other than legal an ceremonial statements. Regardless of exactly how this shakes out it seems clear that prose discourse is not the primary means of communication that the Scriptures present the word of God through. How should that shape the way we think about teaching God’s word to a world that has increasingly less time to sit and debate with level heads? 
 
-Poetry 
+# Verb for creating Eve
 
-Art
+Gen 2:22 Word for making the woman means to build or construct בנה
 
-Reading 
+Romans 9:20-21 assumed description of humans as lumps of clay formed by the potter
 
-Calisthenics 
+Isaiah 29:16
+You turn things upside down! Shall the potter be regarded as the clay, that the thing made should say of its maker, “He did not make me”; or the thing formed say of him who formed it, “He has no understanding”?
 
-Gardening/plants
+Isaiah 44:24 God forms from the womb

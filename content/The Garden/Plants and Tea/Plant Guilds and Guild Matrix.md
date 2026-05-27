@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-05-13
-modified: 2026-05-13T15:11:52.235-07:00
-published: 2026-05-13T15:24:22.698-07:00
+modified: 2026-05-18T10:39:07.434-07:00
+published: 2026-05-18T10:39:07.444-07:00
 tags:
   - 😐Neutral
   - 🟡Consideration
-updated: 2026-05-13T15:11:52.235-07:00
-edited_seconds: 62
+updated: 2026-05-18T10:39:07.434-07:00
+edited_seconds: 297
 ---
 
 > [!Summary] The Big Idea
@@ -19,7 +19,10 @@ Related Notes:\
 
 ---
 
-A **plant guild** is an assemblage of plants that, through their complementary ecological functions, mutually support a central species—most often a fruit or nut tree—while collectively improving soil fertility, suppressing weeds, attracting beneficial fauna, and maximizing vertical and horizontal space. The guild concept is derived from ecological succession theory and guild ecology [^1] and was formalized for applied agroforestry by Mollison (1988).[^2] Each plant in a guild occupies a distinct _ecological niche_ defined by its physical layer (vertical stratification) see: [[Food Forest]] and functional role (nutrient dynamics, pest ecology, yield). The ten canonical roles are detailed below.
+Substack Article Explaining Plant Guilds:
+[What is a Guild? The 7-Partners in a Permaculture Garden System.](https://angelaferrarofanning.substack.com/p/what-is-a-guild-the-7-partners-in?r=3is6vw\&utm_medium=ios\&triedRedirect=true)
+
+A **plant guild** is an assemblage of plants that, through their complementary ecological functions, mutually support a central species—most often a fruit or nut tree—while collectively improving soil fertility, suppressing weeds, attracting beneficial fauna, and maximizing vertical and horizontal space. The guild concept is derived from ecological succession theory and guild ecology [^1] and was formalized for applied agroforestry by Mollison (1988).[^2] Each plant in a guild occupies a distinct _ecological niche_ defined by its physical layer (vertical stratification) see: [[Food Forest]] and functional role (nutrient dynamics, pest ecology, yield).
 
 # Guild Roles
 
@@ -69,13 +72,26 @@ Source:
 
 Source site: [plantanywhere](https://plantanywhere.net/guides/permaculture-guilds)
 
+# Design Principles
+
+1. **Stack Functions:** Each plant should serve two or more roles. Stacking functions maximizes output per unit area[^2] and is a cornerstone of permaculture design.
+2. **Vertical Layering:** Guilds exploit all canopy layers—canopy, sub-canopy, shrub, herbaceous, ground cover, vine, and root—mirroring forest stratification.[^3]
+3. **Succession Awareness:** Pioneer species prepare conditions for climax species. Nitrogen-fixers are often planted first, then removed as the guild matures.[^4]
+4. **Local Ecotype Preference:** Native or locally adapted cultivars are more likely to support indigenous invertebrate communities and require less external input.[^5]
+
 # The Idea of a Guild Matrix
 
-https://transformativeadventures.org/2021/03/30/on-guild-matrixes-and-allstar-plants/
+The idea that you have a core group of plants that play well together that you use as the "dough" and then you plant in others like "chocolate chips" to make a full cookie.
+
+Source article and longer explanation: [Guild Matrix and All Star Plants](https://transformativeadventures.org/2021/03/30/on-guild-matrixes-and-allstar-plants/)
 
 # Central California Nitrogen Fixers
 
-Nitrogen fixing roots. <https://www.laspilitas.com/advanced/nitrogen-fixing-roots.html>
+Plant lists that fix nitrogen in their roots: 
+
+- [las pilitas list ](https://www.laspilitas.com/advanced/nitrogen-fixing-roots.html)
+- [calscape list]([https://www.calscape.org/myplantlist/15711]\(https://www.calscape.org/myplantlist/15711\))
+-
 
 # Rough Ideas for Back Yard Plant Guilds
 
@@ -130,3 +146,9 @@ A starting guild matrix that I would like to try:
 [^1]: Root, R. B. (1967). The niche exploitation pattern of the Blue-gray Gnatcatcher. _Ecological Monographs, 37_(4), 317–350.
 
 [^2]: Mollison, B. (1988). _Permaculture: A Designers' Manual._ Tagari Publications.
+
+[^3]: Jacke, D., & Toensmeier, E. (2005). Edible Forest Gardens, Vol. 1: Vision and Practice. Chelsea Green Publishing.
+
+[^4]: Hemenway, T. (2009). Gaia’s Garden: A Guide to Home-Scale Permaculture (2nd ed.). Chelsea Green Publishing.
+
+[^5]: Tallamy, D. W. (2009). Bringing Nature Home: How You Can Sustain Wildlife with Native Plants. Timber Press.

@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-02-17
-modified: 2026-03-26 09:13:22.027000-07:00
-published: 2026-04-09T15:00:24.997-07:00
+modified: 2026-05-26T14:40:28.674-07:00
+published: 2026-05-26T14:40:28.679-07:00
 tags:
   - 🔗index
-edited_seconds: 487
-updated: 2026-03-26 09:13:22.027000-07:00
+edited_seconds: 503
+updated: 2026-05-26T14:40:28.674-07:00
 ---
 
 > [!Summary] The Big Idea
@@ -15,6 +15,8 @@ updated: 2026-03-26 09:13:22.027000-07:00
 ---
 
 # PDF Readings
+
+Look into McLuhan and Ong
 
 ## Books
 
@@ -39,7 +41,7 @@ updated: 2026-03-26 09:13:22.027000-07:00
 - [How to Memorize Paragraphs, Sentences, and Passages Fast](https://www.magneticmemorymethod.com/how-to-memorize-a-paragraph/)
 - [How to Memorize Vocabulary](https://www.magneticmemorymethod.com/how-to-memorize-vocabulary/)
 - [How to Learn & Memorize Names & Faces: Using a Memory Palace Specifically Designed for Social Success, Magnetic Memory Series](https://www.amazon.com/dp/B00FAC762I?ref=cm_sw_r_ffobk_apin_dp_BV39GXPBV2PS2EK4PZR7\&ref_=cm_sw_r_ffobk_apin_dp_BV39GXPBV2PS2EK4PZR7\&social_share=cm_sw_r_ffobk_apin_dp_BV39GXPBV2PS2EK4PZR7\&bestFormat=true#averageCustomerReviewsAnchor)
-- [15 Brain Exercises & Memory Exercises For Rapid Remembering](https://www.magneticmemorymethod.com/brain-exercises/?vgo_ee=f2K39qQQ7nFPIphvhPFADk0SnT%2BkmHsHojm9qoCw9XNwT8cKPiIGb3g%3D%3AyPe8XAzXCGJJsQQRE%2BAsoV3Z3p262SmF)
+- [15 Brain Exercises & Memory Exercises For Rapid Remembering](https://www.magneticmemorymethod.com/brain-exercises/?vgo_ee=f2K39qQQ7nFPIphvhPFADk0SnT%2BkmHsHojm9qoCw9XNwT8cKPiIGb3g%3D%3AyPe8XAzXCGJJsQQRE%2BAsoV3Z3p262SmF) - Especially points out Exercise 1, 2, 5, in this video [video](https://magneticmemorymethod.samcart.com/upsell/l4A3FDPrPxuWMOquAvn6SMcK/brain-exercise-bootcamp-black-friday?cart=WQkn2O4bycSI5yZFkpb5GOyA)
 
 * [Mnemonic Devices: Top 10 Tools For Boosting Your Memory Fast](https://www.magneticmemorymethod.com/mnemonic-devices/)
 * [The 8 Step Bible Memorization Plan That Leads to Success](https://www.magneticmemorymethod.com/bible-memorization-plan/)

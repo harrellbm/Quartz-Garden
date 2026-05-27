@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-04-12
-modified: 2026-04-12T13:12:07.999-07:00
-published: 2026-04-21T16:54:12.057-07:00
+modified: 2026-05-26T11:33:49.612-07:00
+published: 2026-05-26T11:33:49.621-07:00
 tags:
   - 🔗index
-updated: 2026-04-12T13:12:07.999-07:00
-edited_seconds: 67
+updated: 2026-05-26T11:33:49.612-07:00
+edited_seconds: 88
 ---
 
 > [!Summary] The Big Idea
@@ -54,7 +54,7 @@ Similar Ideas:\
 - Hummingbird mint - agastache “kudos mandarin” for tea
 - English Thyme
 - Strawberries
--
+- Blueberry Bush - Vaccinium corymbosum “Misty”
 
 # Plans I Want
 
@@ -64,6 +64,11 @@ Avocado Tree
 
 Want Cleveland and Sonoma sage
 Coyote mint
+
+Perennial marigolds
+
+- Mexican Marigold (T. lemmonii)
+- Mexican Mint Marigold (T. lucida)
 
 Wood strawberries
 <https://www.laspilitas.com/nature-of-california/plants/311–fragaria-californica>

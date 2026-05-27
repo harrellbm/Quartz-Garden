@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2025-05-05
-modified: 2026-04-09T14:59:00.392-07:00
-published: 2026-04-09T15:00:24.933-07:00
+modified: 2026-05-26T14:41:51.677-07:00
+published: 2026-05-26T14:41:51.682-07:00
 tags:
   - 🌱Seed
   - 🙂Agree
   - 🟡Consideration
   - 🔥Doctrine-Poetry-Story
-edited_seconds: 1111
-updated: 2026-04-09T14:59:00.392-07:00
+edited_seconds: 1117
+updated: 2026-05-26T14:41:51.677-07:00
 ---
 
 > [!Summary] The Big Idea
@@ -136,3 +136,9 @@ Telling the eternal stories
 Singing/praying/imagining the eternal poems
 
 Teaching the eternal truths summarized in doctrines
+
+Mythic is way to make a story big enough to live in. It directly informs my life and how to world works around me 
+
+Historical is important but not all there is for the long haul of faith in Christ 
+
+Parable is a good place to start accessing mythos from Jesus as he actually uses it

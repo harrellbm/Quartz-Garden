@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2025-04-23
-modified: 2026-04-16T14:08:08.424-07:00
-published: 2026-04-16T14:08:08.429-07:00
+modified: 2026-05-26T11:30:07.500-07:00
+published: 2026-05-26T11:30:07.504-07:00
 tags:
   - 📊Project
   - 📓Journal
-edited_seconds: 66
-updated: 2026-04-16T14:08:08.424-07:00
+edited_seconds: 72
+updated: 2026-05-26T11:30:07.500-07:00
 ---
 
 > [!Summary] The Big Idea
@@ -18,6 +18,9 @@ Similar Notes:
 [[Plants Around Church]]
 
 ---
+
+A Helpful Article:
+[DIY Herbal Teas (The Giant Tutorial)  |  Northwest Edible Life](https://nwedible.com/herbal-tea/)
 
 # Tea Log
 
