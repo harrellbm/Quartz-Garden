@@ -1,0 +1,29 @@
+---
+publish: true
+created: 2024-10-22
+modified: 2025-09-29 10:06:26.751000-07:00
+published: 2026-04-09T15:00:24.356-07:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
+  - 🟡Consideration
+edited_seconds: 20
+updated: 2025-09-29 10:06:26.751000-07:00
+---
+
+---
+
+> [!Summary] The Big Idea
+> God's Kingdom/Kingdom of Light vs. Satan's Kingdom/Kingdom of Darkness
+
+---
+
+There are two overall kingdoms in the world. God’s and Satan’s. Everyone belongs to one of them. 
+
+### Colossians 1:13
+
+“He has delivered us from the domain of darkness and transferred us to the kingdom of his beloved Son,”
+
+### Apology of the Augsburg Confession Articles VII and VIII para 17.
+
+“If the church, which is truly the kingdom of Christ, is distinguished from the kingdom of the devil, it necessarily follows that the ungodly, since they are in the kingdom of the devil, are not the church—although in this life, because the kingdom of Christ has not yet been revealed, they intermingle with the church and hold offices in the church.”
