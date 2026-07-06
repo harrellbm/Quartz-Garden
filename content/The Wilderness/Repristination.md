@@ -1,0 +1,14 @@
+---
+created: 2024-10-22
+edited_seconds: 6
+publish: true
+tags: [🪴Sprout, 🤢Strongly-Disagree, 📚Definition]
+updated: 2026-04-01T14:29:00.391-07:00
+---
+
+> [!The Big Idea]
+> the unrealistic view that Christians or anyone can go back to living exactly like people from another era by doing the same things or thinking the same way.
+
+****
+
+An example is going back to a “Christian” America of the 1950s by just having people go to church more, etc.
