@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: The Aspen Grove
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -16,28 +16,28 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Special Elite
+      body: Architects Daughter
+      code: Patrick Hand SC
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        light: "#efeeea"
+        lightgray: "#b8c5be"
+        gray: "#8f9fa9"
+        darkgray: "#100e08"
+        dark: "#3b4747"
+        secondary: "#7a8f2b"
+        tertiary: "#c0ce81"
+        highlight: rgba(61, 61, 55, 0.05)
         textHighlight: "#fff23688"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
+        light: "#3d3d37"
+        lightgray: "#7d886e"
+        gray: "#767f7f"
+        darkgray: "#efeeea"
+        dark: "#e4fcf7"
+        secondary: "#c0ce81"
+        tertiary: "#7a8f2b"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
@@ -110,6 +110,18 @@ plugins:
     order: 92
   - source: github:quartz-community/fonts
     enabled: true
+    options:
+      useThemeFonts: false
+      fontOrigin: googleFonts
+      header:
+        name: Special Elite
+        weights: [400]
+      body:
+        name: Architects Daughter
+      interface:
+        name: Architects Daughter
+      code:
+        name: Patrick Hand SC
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
@@ -214,10 +226,22 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: false
+    enabled: true
     options:
       provider: giscus
-      options: {}
+      options: {
+        #from data-repo
+        repo: 'harrellbm/Quartz-Garden',
+        #from data-repo-id
+        repoId: 'R_kgDOMhMnDQ',
+        #from data-category
+        category: 'Announcements',
+        #from data-category-id
+        categoryId: 'DIC_kwDOMhMnDc4Ciuq4',
+        #where to put the comment input box relative to the comments
+        #defaults to 'bottom'
+        inputPosition: "top",
+      }
     layout:
       position: afterBody
       priority: 10
@@ -225,8 +249,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/harrellbm/Quartz-Garden
+        Email: brendenharrell1@gmail.com
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
