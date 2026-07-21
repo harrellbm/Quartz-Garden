@@ -119,7 +119,7 @@ plugins:
       body:
         name: Architects Daughter
       interface:
-        name: Architects Daughter
+        name: Patrick Hand SC
       code:
         name: Patrick Hand SC
   - source: github:quartz-community/remove-draft
