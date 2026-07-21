@@ -1,5 +1,0 @@
----
-created: 2026-03-09
----
-
-Lord’s Prayer petitions as way to categorize psalms Also beatitudes Also which if psalm 1 or 2 or the opening enemy suffering cycle Vindicate me starts 26,35,43 28 and 31 have rock imagery to start Ascribe to the lord 29 and 96 I will extol you 30, 118, 145 Take refuge 5,7,11,16,18,25,31,34,36,37 The machine with human parts Always trying to transcend limits is the Tower of Babel coming out Living within limits is a first step to being human Against the machine as a source The fight between modernity and post modernity More and more filters between us and everything around us Enclosure of the mind or the hollowing out of the modern mind More than just the mind our whole body and being is being hollowed out by the way modern society teaches us to live Memory sidelined Physical face to face sidelined Space is redesigned around efficiency and speed
