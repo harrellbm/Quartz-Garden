@@ -1,29 +1,18 @@
 ---
-author: Philip Melanchthon
-comment: 
-cover: 
-created: 2025-10-21
-edited_seconds: 138
-isbn: 
-lists:
-  - Interesting Read
-pages: 
 publish: true
-published: 
-rating: 
-read: true
-tags: [📕Book]
 title: On the Distinction between the Old and New Testament
-updated: 2026-04-01T14:31:58.006-07:00
-url: https://open.substack.com/pub/treasuresfromthelutheranchurch/p/on-the-distinction-between-the-old?utm_campaign=post&utm_medium=email
+created: 2025-10-21
+modified: 2026-04-01T14:31:58.006-07:00
+tags:
+  - 📕Book
 ---
 
 > [!cite] Translated Text
 > Philip Melanchthon, “Vom underschied deß alten und Neuwen Testaments,” in Veit Dietrich, _Summaria uber die gantze Biblia des alten und neuen Testaments_ (1567 edition)
-> 
-> Source Link:  [Part 1](https://open.substack.com/pub/treasuresfromthelutheranchurch/p/on-the-distinction-between-the-old?utm_campaign=post&utm_medium=email) [Part 2](https://treasuresfromthelutheranchurch.substack.com/p/on-the-distinction-between-the-old-e42?utm_source=publication-search)
+>
+> Source Link:  [Part 1](https://open.substack.com/pub/treasuresfromthelutheranchurch/p/on-the-distinction-between-the-old?utm_campaign=post\&utm_medium=email) [Part 2](https://treasuresfromthelutheranchurch.substack.com/p/on-the-distinction-between-the-old-e42?utm_source=publication-search)
 
-****
+---
 
 # On the Distinction between the Old and New Testament
 

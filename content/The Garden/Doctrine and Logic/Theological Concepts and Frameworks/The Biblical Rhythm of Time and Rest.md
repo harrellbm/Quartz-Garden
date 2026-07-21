@@ -1,13 +1,18 @@
 ---
-created: 2025-04-01
 publish: true
-tags: [🌱Seed, 😐Neutral, 🟡Consideration, 🥾SpiritualPractices-EmbodiedLiving]
+created: 2025-04-01
+modified: 2026-04-09T15:00:26.000-07:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
+  - 🟡Consideration
+  - 🥾SpiritualPractices-EmbodiedLiving
 ---
 
 > [!Summary] The Big Idea
 > Starting to collect ideas around Sabbath and Rest and the use of time from a biblical perspective.
 
-****
+---
 
 [[7.25.21 Living in the Grind]]
 

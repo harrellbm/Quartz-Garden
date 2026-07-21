@@ -1,18 +1,21 @@
 ---
-created: 2025-11-24
-edited_seconds: 120
 publish: true
-tags: ["\U0001F610Neutral", "\U0001F7E1Consideration"]
-updated: 2025-11-24 09:32:30.978000-08:00
+created: 2025-11-24
+modified: 2025-11-24 09:32:30.978000-08:00
+tags:
+  - 😐Neutral
+  - 🟡Consideration
 ---
 
 > [!Summary] The Big Idea
 
-****
+---
 
 # Commonalities in the Passion Story
+
 In the NIV Application Commentary on John, Gary Burge notes that all four Gospels share a
 common outline with regard to the Passion Story. The 12 main points of his outline are:
+
 1. Jesus and the disciples depart from the city for a location on the West side of the Mount of Olives (John 18:1, Matthew 26:30, Mark 14:26, Luke 22:39)
 2. Judas arrives with a crowd to take Jesus into custody (John 18:3-5, Matthew 26:47, Mark 14:43, Luke 22:47)
 3. Jesus is examined by the high priest (John 18:19-24, Matthew 26:57-66, Mark 14:53-65, Luke 22:66-71)
@@ -25,8 +28,11 @@ common outline with regard to the Passion Story. The 12 main points of his outli
 10. Jesus is offered wine (John 19:29, Matthew 27:48, Mark 15:36, Luke 23:36)
 11. Jesus dies (John 19:30, Matthew 27:50, Mark 15:37, Luke 23:46)
 12. Joseph of Arimathea requests Jesus’ body for burial.[^1] (John 19:38, Matthew 27:57-58, Mark 15:43-46, Luke 23:50-52)
+
 # Distinguishing Characteristics Between Gospels
+
 John is unique both in the chiastic arrangement of the episodes and in the exclusive concentration on episodes of theological import. Each of the Johannine vignettes is carefully drawn, and the narrative is stripped of all that could distract. It is interesting to make a list of the details of the Synoptic narratives not found in John:
+
 - Simon of Cyrene (Matthew 27:32, Mark 15:21, Luke 23:26)
 - Wailing women on the way to Calvary (Mark 15:40-41)
 - Offering of drugged potion (Mark 15:23, Matthew 27:34)
@@ -50,4 +56,4 @@ John is unique both in the chiastic arrangement of the episodes and in the exclu
 
 [^1]: Gary M. Burge, John (NIV Application Commentary; Grand Rapids: Zondervan, 2000), 485-486.
 [^2]: Raymond E. Brown, The Gospel according to John: Introduction, Translation, and Notes (Anchor Bible,
-	Volume 29A; Garden City: Doubleday, 1970), 914.
+Volume 29A; Garden City: Doubleday, 1970), 914.

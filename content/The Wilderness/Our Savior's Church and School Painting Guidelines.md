@@ -1,14 +1,16 @@
 ---
-created: 2024-10-22
-edited_seconds: 2
 publish: true
-tags: [🌱Seed, 🙂Agree, 📊Project]
-updated: 2026-04-01T14:31:16.358-07:00
+created: 2024-10-22
+modified: 2026-04-01T14:31:16.358-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 📊Project
 ---
 
-***The Big Idea***: Guidelines for applying the pallet designed in [[Our Savior's Church and School Selection Criteria 2023]]
+_**The Big Idea**_: Guidelines for applying the pallet designed in [[Our Savior's Church and School Selection Criteria 2023]]
 
-****
+---
 
 | Feature Color                                                         | Feature Color                                                         | Neutral Color                                                         | Neutral Color                                                         | Neutral Color                                                         |
 | --------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
@@ -17,7 +19,7 @@ updated: 2026-04-01T14:31:16.358-07:00
 
 The functioning of color is an important element within a teaching environment. Too much high saturation color can be overwhelming and counterproductive especially for individuals with particular processing difficulties. 
 
- ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcPQJgZa8QI6WJiU-bishjru3BLVgTYDMQ0WyF_IHPQnBLYMIp5c9PYyUml63NN4hKIcbth-GVklFE0aAKiKi1YdQ3BJGNiLm-sWZtkptWUCEGbzMg-JGbnLhNOHVfCQ-eUKNW4eQsyS1BdRAROpLVBL5KI?key=uaf1vTJ8tYoYSWt-tq87Rg)
+![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcPQJgZa8QI6WJiU-bishjru3BLVgTYDMQ0WyF_IHPQnBLYMIp5c9PYyUml63NN4hKIcbth-GVklFE0aAKiKi1YdQ3BJGNiLm-sWZtkptWUCEGbzMg-JGbnLhNOHVfCQ-eUKNW4eQsyS1BdRAROpLVBL5KI?key=uaf1vTJ8tYoYSWt-tq87Rg)
 
 In addition, painting rules help set guidelines for a coherent and unified facility.
 

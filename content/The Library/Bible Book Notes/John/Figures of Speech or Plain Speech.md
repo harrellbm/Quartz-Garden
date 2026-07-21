@@ -1,17 +1,20 @@
 ---
-created: 2025-05-20
-edited_seconds: 37
 publish: true
-tags: [🌱Seed, 🙂Agree, 🟢Conviction, 🔥Doctrine-Poetry-Story]
-updated: 2025-06-17 13:40:11.285000-07:00
+created: 2025-05-20
+modified: 2025-06-17 13:40:11.285000-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🟢Conviction
+  - 🔥Doctrine-Poetry-Story
 ---
 
-****
+---
 
 > [!Summary] The Big Idea
 > Did a little digging around our discussion between figures of speech and speaking plainly in John 16:23–33. Seems like Jesus is pointing out the relationship between shorter more compact speaking and getting them ready to hear about His relationship with the Father in its fullness.  Also a bit of hidden poetry between the two words:
 
-****
+---
 
 παροιμία, a brief communication containing truths designed for initiates, veiled saying, figure of speech, in which esp. lofty ideas are concealed[^1]
 

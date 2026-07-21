@@ -1,10 +1,15 @@
 ---
-created: 2024-10-22
 publish: true
-tags: [🌱Seed, 🙂Agree, 📓Journal, 📘BookNotes]
+created: 2024-10-22
+modified: 2026-04-09T15:00:27.496-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 📓Journal
+  - 📘BookNotes
 ---
 
-****
+---
 
 # Book Suggestions
 
@@ -17,7 +22,7 @@ The Domestication of Transcendence by William C. Plancher
 Personal Boundaries need to come from a clear definition of who I am and what I stand for. These boundaries should be flexible and able to adjust based on life and what is happening but not become nonexistent or so rigid that I refuse to do things based on the boundary and not for the reason the boundary was created.
 
 It is natural to feel guilty or anxious about boundaries especially when you receive push back from the people and family systems that you live in. 
-  
+
 It is important that you respect your boundaries as a way to honor yourself so that you can show others how to do it as well as honor who they are as people as well. 
 
 If you only ever do the things others ask or want you to do then you will never live the life you want or that is healthy for you but will instead look and act according to others ideas of who you should be.
@@ -41,7 +46,7 @@ Level one conflict is where there is no conflict, everything is boring and dead.
 Level two conflict is when there are underlying issues but no one talks about them and there are no resolutions; they just kinda sit under the surface.
 
 Level three conflict is the healthy place to be. It is when conflict can be voiced and processed but with a focus on the problem and no personal attacks. What this means is that I can disagree with you and the way you think we should solve this problem but as people we are still in a good trusting relationship.  Therefore conflict is a variation in opinion and perspective that can be discussed and navigated in a positive way. 
-  
+
 Level four conflict is where conflict stops being about the problems and issues that need to be solved and ends up being about the personal character of the people involved. This is where conflict becomes toxic because instead of us having a disagreement that we want to become stronger because of the conflict becomes a weapon to start attacking each other with.  This is the most common level of conflict that ends up being talked about and how to avoid slipping into deeper conflict from level four.
 
 What this means is that a healthy group of Christians needs to work from the perspective that conflict is not bad, what is bad is personal attacks. It is good to be able to tell someone when their behavior upsets or concerns you. If that is then turned into a healthy conversation about why that is the case and a way to work together in a way that is healthy for both people then conflict pushes the team forward in a healthy way. But if that same conversation devolves into name calling and blaming each other, what was an opportunity to grow has now become a reason for division and further hurt. 
@@ -55,7 +60,9 @@ It all comes back to separating problems from people. We can fix problems, not p
 Meditation 
 
 # Lament 
+
 Repent and lament are options for responding to suffering
 
 # Integrating Church and School 
+
 Katie sees the church and school as not super integrated

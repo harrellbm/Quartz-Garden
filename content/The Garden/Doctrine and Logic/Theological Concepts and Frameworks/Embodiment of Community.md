@@ -1,22 +1,26 @@
 ---
-created: 2024-10-22
-edited_seconds: 3
 publish: true
-tags: [🍋Fruit, 🙂Agree, 📝Essay, 🟡Consideration]
-updated: 2025-06-17 14:30:26.417000-07:00
+created: 2024-10-22
+modified: 2025-06-17 14:30:26.417000-07:00
+tags:
+  - 🍋Fruit
+  - 🙂Agree
+  - 📝Essay
+  - 🟡Consideration
 ---
 
-> [!Quote] 
+> [!Quote]
 > “So we, though many, are one body in Christ, and individually members one of another.” 
+>
 > - Romans 12:5
 
-> [!abstract] Thesis 
+> [!abstract] Thesis
 > Ministry should be thought of, organized, and communicated in terms of created rhythms (i.e. liturgical patterns) rather than programs or contrived roles. 
 
 > [!note]
 > Current form finished November 2023
 
-****
+---
 
 # Introduction 
 
@@ -136,7 +140,7 @@ When we view the world through this lens, the groaning of creation (Romans 8:22)
 
 When speaking of Christ’s work in this way, salvation is the reshaping and  restoration of not only human, but all of creation’s rhythms. The way this work of restoration is carried out day by day is through a new set of rhythms (or liturgy). These redeeming rhythms are the ways God calls his people to redeem and reshape the broken pieces of the natural rhythms around and within us toward the restoration project of the Gospel. It is this kind of rhythm we find within the liturgy of the Divine Service and throughout the vocations and call of God’s people.
 
-In his book *Creation and Fall* Dietrich Bonhoeffer describes the goal of Christian living as walking within the groove cut out for us by God’s will [^3]. The categories of natural and redeeming rhythms fit nicely within this description. Natural rhythms are those remnants of God’s good created groove that make life possible. Redeeming rhythms are the patterns by which the Children of God participate in God’s gifts and by the work of the Holy Spirit, little by little, re-dig the groove within which we were created to live. 
+In his book _Creation and Fall_ Dietrich Bonhoeffer describes the goal of Christian living as walking within the groove cut out for us by God’s will [^3]. The categories of natural and redeeming rhythms fit nicely within this description. Natural rhythms are those remnants of God’s good created groove that make life possible. Redeeming rhythms are the patterns by which the Children of God participate in God’s gifts and by the work of the Holy Spirit, little by little, re-dig the groove within which we were created to live. 
 
 # Commissioned for Rhythms 
 
@@ -205,7 +209,7 @@ May His liturgy grab our heart and imagination. May it call us into new life eac
 > The young lions roar for their prey, seeking their food from God.
 > When the sun rises, they steal away and lie down in their dens.
 > Man goes out to his work and to his labor until the evening.” 
-> 
+>
 > - Psalm 104:19-13
 
 [^1]:  Article on Liturgy and discipleship, James Marriott, 10. [link](https://drive.google.com/file/d/1d5CYDp1PlyT-sHoIG9Wx41NfbU37ws7s/view?usp=sharing)

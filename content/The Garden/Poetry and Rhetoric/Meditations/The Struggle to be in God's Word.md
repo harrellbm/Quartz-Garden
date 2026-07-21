@@ -1,28 +1,27 @@
 ---
-created: 2024-10-22
-edited_seconds: 581
 publish: true
+created: 2024-10-22
+modified: 2026-06-17T09:26:34.044-07:00
 tags:
   - 🪴Sprout
   - 🙂Agree
   - 🟢Conviction
   - 🥾SpiritualPractices-EmbodiedLiving
   - 📃Epistle
-updated: 2026-06-17T09:26:34.044-07:00
 ---
 
 > [!Summary] The Big Idea
 > There are so many pressures that get in the way of just being in Scripture each day.
 
 > [!note]
-> used Feb 2023 for OS #📃Epistle 
-> Edited and used June 2026 for LCOS #📃Epistle 
+> used Feb 2023 for OS #📃Epistle
+> Edited and used June 2026 for LCOS #📃Epistle
 
-***Related Epistle***: [[Love the Lord Your God with all Your Heart]] 
+_**Related Epistle**_: [[Love the Lord Your God with all Your Heart]]
 
-****
+---
 
-# The Struggle to be in God's word 
+# The Struggle to be in God's word
 
 Have you ever found the end of yourself? That place where you just don’t have any more energy, capacity, or understanding. So often we get lost in our own thoughts or worries, our todo lists and deadlines, that finding the end of yourself often comes as a jolt. 
 
@@ -34,11 +33,11 @@ The more Christians I have seen and talked to about their faith journey, the mor
 
 If there was one simple solution to this human struggle, our world would be a beautiful blossoming place.  But the reality is that we are in a constant battle with ourselves and this broken world to keep our lives centered around what really matters.
 
-If you are reading this now, and you feel like you too have gotten distracted from regularly reading God’s word, I want to share one small thing I do to get myself back on track. Whenever I realize that I am drifting away from consistent time in Scripture, I stop and think of one or two times during my week when I will be doing something specific. Things that you know you will do like sitting at a desk, driving in a car, or simply completing household chores. These very normal and necessary things often become the very things that “get in the way” of having time to sit down and read God’s word. But if you choose one or two of them to intentionally be a time for Scripture, you will be surprised how easy it is to encounter God's word in some form throughout every day. 
+If you are reading this now, and you feel like you too have gotten distracted from regularly reading God’s word, I want to share one small thing I do to get myself back on track. Whenever I realize that I am drifting away from consistent time in Scripture, I stop and think of one or two times during my week when I will be doing something specific. Things that you know you will do like sitting at a desk, driving in a car, or simply completing household chores. These very normal and necessary things often become the very things that “get in the way” of having time to sit down and read God’s word. But if you choose one or two of them to intentionally be a time for Scripture, you will be surprised how easy it is to encounter God's word in some form throughout every day.
 
-For example, if you already play music in the background while driving, why not switch it up? Listen to an audio reading of the Psalms. Or even better, memorize a psalm and recite it out loud in the car. All of us have many cracks and dead spots in the routines of our weeks. Yet how quickly we tend to fill them with anything but God's word.  
+For example, if you already play music in the background while driving, why not switch it up? Listen to an audio reading of the Psalms. Or even better, memorize a psalm and recite it out loud in the car. All of us have many cracks and dead spots in the routines of our weeks. Yet how quickly we tend to fill them with anything but God's word.
 
-If we are willing to challenge ourselves and let his word into our life. These very simple practices will give you a fuller and living perspective. I may be while writing an email, or turning onto a busy road and suddenly a phrase of God’s word pops out of the background and grabs me. God's word is living and full of the Holy Spirit. The closer His words dwell with you, the closer He is too. God is always speaking to us through His Word. 
+If we are willing to challenge ourselves and let his word into our life. These very simple practices will give you a fuller and living perspective. I may be while writing an email, or turning onto a busy road and suddenly a phrase of God’s word pops out of the background and grabs me. God's word is living and full of the Holy Spirit. The closer His words dwell with you, the closer He is too. God is always speaking to us through His Word.
 
 We know and believe this. Yet our experience of it is often cut short because of the pressures of life. Alone this struggle is overwhelming, even depressing, but that is why God calls us to be a part of His family within the church. Together - not alone - is how we encourage and pull each other up no matter how many times we fall or simply just get distracted. So I invite you to join me, join us here at Our Savior, as we take on this journey of life. 
 

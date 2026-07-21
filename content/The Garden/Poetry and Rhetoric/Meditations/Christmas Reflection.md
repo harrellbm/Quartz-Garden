@@ -1,18 +1,21 @@
 ---
-created: 2024-10-22
-edited_seconds: 30
 publish: true
-tags: [🍋Fruit, 🙂Agree, 🔥Doctrine-Poetry-Story, 📃Epistle]
-updated: 2025-11-26 11:46:34.513000-08:00
+created: 2024-10-22
+modified: 2025-11-26 11:46:34.513000-08:00
+tags:
+  - 🍋Fruit
+  - 🙂Agree
+  - 🔥Doctrine-Poetry-Story
+  - 📃Epistle
 ---
 
-****
+---
 
 > [!note]
 > Used in OS Dec 2022 
 > Used as LCOS Dec 2025
 
-*** 
+---
 
 Ah the wonderful, busy, crazy Christmas season is here! As we think about spending time with our families and preparing for traditions. I would like to take a few moments to reflect on this time of year with you.  
 
@@ -25,5 +28,5 @@ Not only that, but this time of year has a special way of bringing up the past. 
 In the world these darker realities of the Christmas season get swept under the rug. “Just be happy”, “Why aren’t you over this yet”, “I think you’re being dramatic.”  But within God’s church we have a different message to share. You are not alone. You have brothers and sisters who care about you no matter what you may be going through.  If you find yourself dealing with a less than happy Christmas, reach out to your church family. Because after all, Jesus is the reason for the season and He died to make us His family for this Christmas and an eternity to come.  
 
  >“Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, who comforts us in all our affliction, so that we may be able to comfort those who are in any affliction, with the comfort with which we ourselves are comforted by God.” 
->
+
 > - 2 Corinthians 1:3-4

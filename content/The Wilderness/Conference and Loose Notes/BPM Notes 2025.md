@@ -1,49 +1,56 @@
 ---
-created: 2025-02-13
 publish: true
-tags: [🌱Seed, 😐Neutral, 🟡Consideration, 📓Journal, 📘BookNotes]
+created: 2025-02-13
+modified: 2026-04-09T15:00:27.491-07:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
+  - 🟡Consideration
+  - 📓Journal
+  - 📘BookNotes
 ---
 
-****
+---
 
 > [!Summary] The Big Idea
 > session notes from BPM
 
-****
+---
 
-# A Practiced Faith 
-Faith life practices 
+# A Practiced Faith
 
-Psalm 46 - Fortress of God inspire of the world 
+Faith life practices
 
-Formation happens in community 
+Psalm 46 - Fortress of God inspire of the world
 
-There is a way to do ministry that is full of life 
+Formation happens in community
 
-Disciplines are embodied practices that are hard and difficult but they open us up to the transformative work of God 
+There is a way to do ministry that is full of life
 
-They are simply the trellis that helped the plant grow but they are not the end goal 
+Disciplines are embodied practices that are hard and difficult but they open us up to the transformative work of God
+
+They are simply the trellis that helped the plant grow but they are not the end goal
 
 Henri Nouwen
 
-William Dillard 
+William Dillard
 
-Start where you are at not where you want to be 
+Start where you are at not where you want to be
 
-Away notice on day off 
+Away notice on day off
 
-Worship slide need to harmonize with the church’s worship [[Aesthetic]] 
+Worship slide need to harmonize with the church’s worship [[Aesthetic]]
 
-Worship slides Must respects the balance between function and aesthetic 
+Worship slides Must respects the balance between function and aesthetic
 
-Worship slides need to 
+Worship slides need to
 
-The idea of living stained glass 
+The idea of living stained glass
 
-White background with black text hard on the eyes 
+White background with black text hard on the eyes
 
-Less words on the screen with a slow song and more with a fast song 
+Less words on the screen with a slow song and more with a fast song
 
-You are present the words forward to the congregation to participate 
+You are present the words forward to the congregation to participate
 
 Further notes have been moved to: [[Spiritual Disciplines]]

@@ -1,12 +1,15 @@
 ---
-created: 2024-10-22
-edited_seconds: 0
 publish: true
-tags: [🌱Seed, 🙂Agree, 🟢Conviction, 🔥Doctrine-Poetry-Story]
-updated: 2025-06-17 14:43:17.101000-07:00
+created: 2024-10-22
+modified: 2025-06-17 14:43:17.101000-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🟢Conviction
+  - 🔥Doctrine-Poetry-Story
 ---
 
-****
+---
 
 > [!Summary] The Big Idea
 > Collected resources around Communion
@@ -15,15 +18,20 @@ Related Notes:
 [[John Chrysostom on the Lord's Supper]]
 [[First Communion]]
 
-****
+---
 
-# Connection one: 
+# Connection one:
+
 to Passover, unleavened bread way to remember the rush of leaving. 
-# Connection two: 
+
+# Connection two:
+
 sacrificial system
 
-# Connection three: 
+# Connection three:
+
 meal together, [[Hospitality]]
 
-# Connection four: 
+# Connection four:
+
 real presence physical experience

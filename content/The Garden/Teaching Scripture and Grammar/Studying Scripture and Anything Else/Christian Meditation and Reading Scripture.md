@@ -1,17 +1,16 @@
 ---
-created: 2024-10-22
-edited_seconds: 174
 publish: true
+created: 2024-10-22
+modified: 2026-06-10T09:18:30.505-07:00
 tags:
   - 🪴Sprout
   - 😁Strongly-Agree
   - 🟢Conviction
   - 🥾SpiritualPractices-EmbodiedLiving
-updated: 2026-06-10T09:18:30.505-07:00
 ---
 
 > [!Summary] The Big Idea
-> I need to do a fuller write up around this some time but here are some hastily collected resources around Christian Meditation. 
+> I need to do a fuller write up around this some time but here are some hastily collected resources around Christian Meditation.
 
 A core picture to have in mind as we engage with and meditate on scripture is that we are having [[A Conversation with God (Epistle)]]. This is an active living relationship to an active loving Word that came to free us from sin, death and the devil.
 
@@ -28,9 +27,10 @@ Meditate - הָגָה hagah is to mutter or even growl and coo the idea that wha
 
 Joshua is told to do the same thing as he prepares to lead the people into the promised land. Literally to meditate day and night on the torah of God. Joshua 1:8
 
-****
+---
 
 Here are some other notes around Meditation and Reading Scripture:
+
 - [[Quiet Muttering]]
 - [[Psalms-The Language of Our Heart]]
 - [[Reading Scripture Devotionally]]
@@ -41,10 +41,11 @@ Here are some other notes around Meditation and Reading Scripture:
 - [[Reading Scripture Devotionally]]
 - [[Reading Scripture for Familiarity]]
 
-Here is a Bible Project Video that describes key features of the Bible as Jewish Meditation Literature: 
-[Bible as Jewish Meditation Literature](https://bibleproject.com/explore/video/bible-jewish-meditation-literature-h2r/?utm_source=web_social_share&medium=shared_video)
+Here is a Bible Project Video that describes key features of the Bible as Jewish Meditation Literature:
+[Bible as Jewish Meditation Literature](https://bibleproject.com/explore/video/bible-jewish-meditation-literature-h2r/?utm_source=web_social_share\&medium=shared_video)
 
 Some methods for Christian Meditation:
+
 - [Ways to Engage Scripture](Ways%20to%20Engage%20Scripture)
 - [[Lectio Divina]]
 - Luther's [[Oratio, Meditatio, Tentatio]]
@@ -55,11 +56,13 @@ Some methods for Christian Meditation:
 - [[Bible Tools]]
 
 A couple applications of Christian Meditation:
+
 - [[Meditation on Psalm 8]]
 - [[Treasure of Heaven Sermon Outline]]
 
-# Books I want to read around this Subject 
+# Books I want to read around this Subject
+
 - Henri Nouwen - Making All Things New
 - Ruth Haley Barton - Invitation to Solitude and Silence: Experiencing God's Transforming Presence
-- Dietrich Bonhoeffer - Meditating on The Word 
+- Dietrich Bonhoeffer - Meditating on The Word
 - John Kleinig - Grace upon Grace: Spirituality for Today

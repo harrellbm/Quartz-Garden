@@ -1,15 +1,18 @@
 ---
-created: 2024-10-22
-edited_seconds: 0
 publish: true
-tags: [🌱Seed, 🙂Agree, 🥾SpiritualPractices-EmbodiedLiving, 📃Epistle]
-updated: 2026-04-01T14:30:46.735-07:00
+created: 2024-10-22
+modified: 2026-04-01T14:30:46.735-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🥾SpiritualPractices-EmbodiedLiving
+  - 📃Epistle
 ---
 
 > [!summary] The Big Idea
 > A list of possible subjects to turn into an form.
 
-****
+---
 
 Breath prayer practice and history 
 

@@ -1,195 +1,197 @@
 ---
-created: 2024-10-22
-edited_seconds: 9
 publish: true
-tags: [🌱Seed, 🙂Agree, 📊Project]
-updated: 2026-04-01T14:36:53.740-07:00
+created: 2024-10-22
+modified: 2026-04-01T14:36:53.740-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 📊Project
 ---
 
 > [!Summary] The Big Idea
-> If I close my eyes and see what I am thinking about. I see a beautifully drawn map that is easy and a joy to pour over. But rather than a real geographical or imaginary world map, this map is one that represents the contents of my digital garden. 
+> If I close my eyes and see what I am thinking about. I see a beautifully drawn map that is easy and a joy to pour over. But rather than a real geographical or imaginary world map, this map is one that represents the contents of my digital garden.
 
-I have found the graph of obsidian and quartz to be nice for the sake of getting a big picture look at the contents of a garden but the problem becomes that it is not very inviting or useable for someone who does not have a good idea of how a particular garden is organized. 
+I have found the graph of obsidian and quartz to be nice for the sake of getting a big picture look at the contents of a garden but the problem becomes that it is not very inviting or useable for someone who does not have a good idea of how a particular garden is organized.
 
-But I want something that will not be a lot of work to maintain and end up getting in the way of the ideas themselves. 
+But I want something that will not be a lot of work to maintain and end up getting in the way of the ideas themselves.
 
-****
+---
 
-My first imaginings kind of got out of control into making a full on video game that is an immersive first person experience. That might be worth following at some point just for fun but I think this first attempt needs to be as simple and straightforward as possible. 
+My first imaginings kind of got out of control into making a full on video game that is an immersive first person experience. That might be worth following at some point just for fun but I think this first attempt needs to be as simple and straightforward as possible.
 
 So for the sake of this here are some of the more technical specs I have come up with:
+
 - Simple scrolling map that is clickable
-- Maybe a hover over preview for notes 
+- Maybe a hover over preview for notes
 - Clicking opens up a note for reading
 - Would like for it to be a drop in for quartz as a plugin
 
 # How the map helps signal Ideas
 
-- Sentiment to create certain biomes. 
-	- Strongly disagreed makes a salt flat
-	- disagree being a sandy desert. 
-	- An idea that is neutral being a flat plane
-	- Agreed with ideas being a forest
-	- Strongly agreed being mountains.
+- Sentiment to create certain biomes.
+  - Strongly disagreed makes a salt flat
+  - disagree being a sandy desert.
+  - An idea that is neutral being a flat plane
+  - Agreed with ideas being a forest
+  - Strongly agreed being mountains.
 - Epidemic disclosure creating the density of plant life
-	- Seed are small plants
-	- sprout is medium plants
-	- sapling larger plants
-	- tree fully grown
-	- fruit being a special kind of tree that stands out
-	- I'm not sure what evergreen should be
+  - Seed are small plants
+  - sprout is medium plants
+  - sapling larger plants
+  - tree fully grown
+  - fruit being a special kind of tree that stands out
+  - I'm not sure what evergreen should be
 - Word length to create the amount of space a note takes
-	- add more tiles for an idea the more words it is would be a good physical way to denote the difference between a really short note and a long essay
+  - add more tiles for an idea the more words it is would be a good physical way to denote the difference between a really short note and a long essay
 - note type may be a fun way to add special graphics to the tile like a building or somethings eventually
-- also not sure how confidence could be shown maybe by adding water features? like strong confidence has pools considerations have streams and uncertain has no water. But that might end up looking weird with water everywhere in some places. 
+- also not sure how confidence could be shown maybe by adding water features? like strong confidence has pools considerations have streams and uncertain has no water. But that might end up looking weird with water everywhere in some places.
+
 # Approaches
+
 It seems that the most well established way to make something like this that is not hand draw bit by bit is to use a grid that populates tiles with image content.
 
 I want this map to be static so that it does not need to be generated every time it is opened but only on building the website
 
-Algorithms for placing tiles on a grid pattern typically involve strategies like greedy placement, backtracking, or a combination of both, where you iteratively choose a tile to place based on its compatibility with already placed tiles, checking for valid connections and adjusting if necessary, often utilizing techniques like checking edge matching or color constraints depending on the desired pattern; common approaches include: recursive backtracking, divide-and-conquer, and randomized placement with checks for validity at each step. [[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [2](https://www.geeksforgeeks.org/tiling-problem-using-divide-and-conquer-algorithm/), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [4](https://www.geeksforgeeks.org/tiling-problem/#:~:text=Using%20Recursion%20%E2%80%93%20O(2%5En)%20Time%20and%20O(n),sum%20of%20ways%20for%20the%20smaller%20subproblems.), [5](https://stoneandtileshoppe.com/blogs/construction-renovation/best-tile-patterns)] 
+Algorithms for placing tiles on a grid pattern typically involve strategies like greedy placement, backtracking, or a combination of both, where you iteratively choose a tile to place based on its compatibility with already placed tiles, checking for valid connections and adjusting if necessary, often utilizing techniques like checking edge matching or color constraints depending on the desired pattern; common approaches include: recursive backtracking, divide-and-conquer, and randomized placement with checks for validity at each step. \[[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [2](https://www.geeksforgeeks.org/tiling-problem-using-divide-and-conquer-algorithm/), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [4](https://www.geeksforgeeks.org/tiling-problem/#:~:text=Using%20Recursion%20%E2%80%93%20O\(2%5En\)%20Time%20and%20O\(n\),sum%20of%20ways%20for%20the%20smaller%20subproblems.), [5](https://stoneandtileshoppe.com/blogs/construction-renovation/best-tile-patterns)] 
 
-  
+Key aspects of tile placement algorithms: \[[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [6](https://www.thebathoutlet.com/how-tile-random-pattern/article/191#:~:text=A%20good%20random%20tile%20design%20will%20include,and%20mix%20them%20up%20in%20several%20boxes.)] 
 
-Key aspects of tile placement algorithms: [[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [6](https://www.thebathoutlet.com/how-tile-random-pattern/article/191#:~:text=A%20good%20random%20tile%20design%20will%20include,and%20mix%20them%20up%20in%20several%20boxes.)] 
+- Tile Set: The collection of different tile types with defined properties like shape, color, and edge matching rules. \[[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [6](https://www.thebathoutlet.com/how-tile-random-pattern/article/191#:~:text=A%20good%20random%20tile%20design%20will%20include,and%20mix%20them%20up%20in%20several%20boxes.)] 
+- Grid: The underlying structure where tiles are placed, usually represented as a 2D array. \[[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [2](https://www.geeksforgeeks.org/tiling-problem-using-divide-and-conquer-algorithm/), [7](https://www.geeksforgeeks.org/count-number-of-ways-to-fill-a-n-x-4-grid-using-1-x-4-tiles/#:~:text=We%20can%20fill%20a%205%20x%204,Place%20first%201%20horizontally%20and%204%20vertically.)] 
+- Validity Check: A function to determine if a tile can be placed at a specific position based on existing tiles and rules. \[[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [8](https://westerninterlock.com/how-to-square-a-corner-3-4-5-method/#:~:text=To%20get%20a%20perfectly%20square%20corner%2C%20you,correct%2C%20you'll%20have%20a%20perfectly%20square%20corner.)] 
 
-- Tile Set: The collection of different tile types with defined properties like shape, color, and edge matching rules. [[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [6](https://www.thebathoutlet.com/how-tile-random-pattern/article/191#:~:text=A%20good%20random%20tile%20design%20will%20include,and%20mix%20them%20up%20in%20several%20boxes.)] 
-- Grid: The underlying structure where tiles are placed, usually represented as a 2D array. [[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [2](https://www.geeksforgeeks.org/tiling-problem-using-divide-and-conquer-algorithm/), [7](https://www.geeksforgeeks.org/count-number-of-ways-to-fill-a-n-x-4-grid-using-1-x-4-tiles/#:~:text=We%20can%20fill%20a%205%20x%204,Place%20first%201%20horizontally%20and%204%20vertically.)] 
-- Validity Check: A function to determine if a tile can be placed at a specific position based on existing tiles and rules. [[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [8](https://westerninterlock.com/how-to-square-a-corner-3-4-5-method/#:~:text=To%20get%20a%20perfectly%20square%20corner%2C%20you,correct%2C%20you'll%20have%20a%20perfectly%20square%20corner.)] 
+Common Tile Placement Algorithms: \[[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [9](https://www.tileshop.com/resources/installation-videos-and-guides/preparation-and-layout/how-to-plan-the-layout-of-a-shower)] 
 
-Common Tile Placement Algorithms: [[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [9](https://www.tileshop.com/resources/installation-videos-and-guides/preparation-and-layout/how-to-plan-the-layout-of-a-shower)] 
+- Greedy Placement: \[[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [9](https://www.tileshop.com/resources/installation-videos-and-guides/preparation-and-layout/how-to-plan-the-layout-of-a-shower)] 
+  - Start with an empty grid. \[[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [9](https://www.tileshop.com/resources/installation-videos-and-guides/preparation-and-layout/how-to-plan-the-layout-of-a-shower)] 
+  - At each step, choose the "best" available tile based on a heuristic (e.g., maximizing compatibility with existing tiles) and place it in a valid position. \[[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [5](https://stoneandtileshoppe.com/blogs/construction-renovation/best-tile-patterns)] 
+  - This is a simple approach but can get stuck in local optima, potentially leading to incomplete or invalid patterns. \[[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [5](https://stoneandtileshoppe.com/blogs/construction-renovation/best-tile-patterns)] 
+- Backtracking: \[[4](https://www.geeksforgeeks.org/tiling-problem/#:~:text=Using%20Recursion%20%E2%80%93%20O\(2%5En\)%20Time%20and%20O\(n\),sum%20of%20ways%20for%20the%20smaller%20subproblems.), [7](https://www.geeksforgeeks.org/count-number-of-ways-to-fill-a-n-x-4-grid-using-1-x-4-tiles/#:~:text=We%20can%20fill%20a%205%20x%204,Place%20first%201%20horizontally%20and%204%20vertically.)] 
+  - Explore potential tile placements recursively. \[[4](https://www.geeksforgeeks.org/tiling-problem/#:~:text=Using%20Recursion%20%E2%80%93%20O\(2%5En\)%20Time%20and%20O\(n\),sum%20of%20ways%20for%20the%20smaller%20subproblems.), [7](https://www.geeksforgeeks.org/count-number-of-ways-to-fill-a-n-x-4-grid-using-1-x-4-tiles/#:~:text=We%20can%20fill%20a%205%20x%204,Place%20first%201%20horizontally%20and%204%20vertically.)] 
+  - If a placement leads to an invalid state, backtrack to a previous decision and try another option. \[[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [4](https://www.geeksforgeeks.org/tiling-problem/#:~:text=Using%20Recursion%20%E2%80%93%20O\(2%5En\)%20Time%20and%20O\(n\),sum%20of%20ways%20for%20the%20smaller%20subproblems.)] 
+  - Can guarantee a valid solution if all possibilities are explored, but might be computationally expensive for large grids. \[[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [4](https://www.geeksforgeeks.org/tiling-problem/#:~:text=Using%20Recursion%20%E2%80%93%20O\(2%5En\)%20Time%20and%20O\(n\),sum%20of%20ways%20for%20the%20smaller%20subproblems.), [7](https://www.geeksforgeeks.org/count-number-of-ways-to-fill-a-n-x-4-grid-using-1-x-4-tiles/#:~:text=We%20can%20fill%20a%205%20x%204,Place%20first%201%20horizontally%20and%204%20vertically.)] 
+- Recursive Divide and Conquer: \[[2](https://www.geeksforgeeks.org/tiling-problem-using-divide-and-conquer-algorithm/), [4](https://www.geeksforgeeks.org/tiling-problem/#:~:text=Using%20Recursion%20%E2%80%93%20O\(2%5En\)%20Time%20and%20O\(n\),sum%20of%20ways%20for%20the%20smaller%20subproblems.)] 
+  - Divide the grid into smaller sub-grids. \[[2](https://www.geeksforgeeks.org/tiling-problem-using-divide-and-conquer-algorithm/), [4](https://www.geeksforgeeks.org/tiling-problem/#:~:text=Using%20Recursion%20%E2%80%93%20O\(2%5En\)%20Time%20and%20O\(n\),sum%20of%20ways%20for%20the%20smaller%20subproblems.)] 
+  - Recursively place tiles in each sub-grid, ensuring compatibility with neighboring sub-grids. \[[2](https://www.geeksforgeeks.org/tiling-problem-using-divide-and-conquer-algorithm/), [4](https://www.geeksforgeeks.org/tiling-problem/#:~:text=Using%20Recursion%20%E2%80%93%20O\(2%5En\)%20Time%20and%20O\(n\),sum%20of%20ways%20for%20the%20smaller%20subproblems.), [7](https://www.geeksforgeeks.org/count-number-of-ways-to-fill-a-n-x-4-grid-using-1-x-4-tiles/#:~:text=We%20can%20fill%20a%205%20x%204,Place%20first%201%20horizontally%20and%204%20vertically.)] 
+  - This can be efficient for certain patterns where dividing the problem into smaller parts is easily manageable. \[[2](https://www.geeksforgeeks.org/tiling-problem-using-divide-and-conquer-algorithm/), [4](https://www.geeksforgeeks.org/tiling-problem/#:~:text=Using%20Recursion%20%E2%80%93%20O\(2%5En\)%20Time%20and%20O\(n\),sum%20of%20ways%20for%20the%20smaller%20subproblems.), [7](https://www.geeksforgeeks.org/count-number-of-ways-to-fill-a-n-x-4-grid-using-1-x-4-tiles/#:~:text=We%20can%20fill%20a%205%20x%204,Place%20first%201%20horizontally%20and%204%20vertically.)] 
+- Randomized Placement with Validation: \[[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [6](https://www.thebathoutlet.com/how-tile-random-pattern/article/191#:~:text=A%20good%20random%20tile%20design%20will%20include,and%20mix%20them%20up%20in%20several%20boxes.)] 
+  - Randomly select a tile and a position on the grid. \[[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [6](https://www.thebathoutlet.com/how-tile-random-pattern/article/191#:~:text=A%20good%20random%20tile%20design%20will%20include,and%20mix%20them%20up%20in%20several%20boxes.)] 
+  - Check if the tile can be placed at that position without violating rules. \[[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [8](https://westerninterlock.com/how-to-square-a-corner-3-4-5-method/#:~:text=To%20get%20a%20perfectly%20square%20corner%2C%20you,correct%2C%20you'll%20have%20a%20perfectly%20square%20corner.)] 
+  - If valid, place the tile, otherwise, try another random tile and position. \[[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [6](https://www.thebathoutlet.com/how-tile-random-pattern/article/191#:~:text=A%20good%20random%20tile%20design%20will%20include,and%20mix%20them%20up%20in%20several%20boxes.)] 
+  - Can be useful for generating more natural-looking patterns, but might require additional checks to avoid invalid configurations. \[[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [6](https://www.thebathoutlet.com/how-tile-random-pattern/article/191#:~:text=A%20good%20random%20tile%20design%20will%20include,and%20mix%20them%20up%20in%20several%20boxes.)] 
 
-- Greedy Placement: [[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [9](https://www.tileshop.com/resources/installation-videos-and-guides/preparation-and-layout/how-to-plan-the-layout-of-a-shower)] 
-    - Start with an empty grid. [[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [9](https://www.tileshop.com/resources/installation-videos-and-guides/preparation-and-layout/how-to-plan-the-layout-of-a-shower)] 
-    - At each step, choose the "best" available tile based on a heuristic (e.g., maximizing compatibility with existing tiles) and place it in a valid position. [[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [5](https://stoneandtileshoppe.com/blogs/construction-renovation/best-tile-patterns)] 
-    - This is a simple approach but can get stuck in local optima, potentially leading to incomplete or invalid patterns. [[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [5](https://stoneandtileshoppe.com/blogs/construction-renovation/best-tile-patterns)] 
-- Backtracking: [[4](https://www.geeksforgeeks.org/tiling-problem/#:~:text=Using%20Recursion%20%E2%80%93%20O(2%5En)%20Time%20and%20O(n),sum%20of%20ways%20for%20the%20smaller%20subproblems.), [7](https://www.geeksforgeeks.org/count-number-of-ways-to-fill-a-n-x-4-grid-using-1-x-4-tiles/#:~:text=We%20can%20fill%20a%205%20x%204,Place%20first%201%20horizontally%20and%204%20vertically.)] 
-    - Explore potential tile placements recursively. [[4](https://www.geeksforgeeks.org/tiling-problem/#:~:text=Using%20Recursion%20%E2%80%93%20O(2%5En)%20Time%20and%20O(n),sum%20of%20ways%20for%20the%20smaller%20subproblems.), [7](https://www.geeksforgeeks.org/count-number-of-ways-to-fill-a-n-x-4-grid-using-1-x-4-tiles/#:~:text=We%20can%20fill%20a%205%20x%204,Place%20first%201%20horizontally%20and%204%20vertically.)] 
-    - If a placement leads to an invalid state, backtrack to a previous decision and try another option. [[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [4](https://www.geeksforgeeks.org/tiling-problem/#:~:text=Using%20Recursion%20%E2%80%93%20O(2%5En)%20Time%20and%20O(n),sum%20of%20ways%20for%20the%20smaller%20subproblems.)] 
-    - Can guarantee a valid solution if all possibilities are explored, but might be computationally expensive for large grids. [[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [4](https://www.geeksforgeeks.org/tiling-problem/#:~:text=Using%20Recursion%20%E2%80%93%20O(2%5En)%20Time%20and%20O(n),sum%20of%20ways%20for%20the%20smaller%20subproblems.), [7](https://www.geeksforgeeks.org/count-number-of-ways-to-fill-a-n-x-4-grid-using-1-x-4-tiles/#:~:text=We%20can%20fill%20a%205%20x%204,Place%20first%201%20horizontally%20and%204%20vertically.)] 
-- Recursive Divide and Conquer: [[2](https://www.geeksforgeeks.org/tiling-problem-using-divide-and-conquer-algorithm/), [4](https://www.geeksforgeeks.org/tiling-problem/#:~:text=Using%20Recursion%20%E2%80%93%20O(2%5En)%20Time%20and%20O(n),sum%20of%20ways%20for%20the%20smaller%20subproblems.)] 
-    - Divide the grid into smaller sub-grids. [[2](https://www.geeksforgeeks.org/tiling-problem-using-divide-and-conquer-algorithm/), [4](https://www.geeksforgeeks.org/tiling-problem/#:~:text=Using%20Recursion%20%E2%80%93%20O(2%5En)%20Time%20and%20O(n),sum%20of%20ways%20for%20the%20smaller%20subproblems.)] 
-    - Recursively place tiles in each sub-grid, ensuring compatibility with neighboring sub-grids. [[2](https://www.geeksforgeeks.org/tiling-problem-using-divide-and-conquer-algorithm/), [4](https://www.geeksforgeeks.org/tiling-problem/#:~:text=Using%20Recursion%20%E2%80%93%20O(2%5En)%20Time%20and%20O(n),sum%20of%20ways%20for%20the%20smaller%20subproblems.), [7](https://www.geeksforgeeks.org/count-number-of-ways-to-fill-a-n-x-4-grid-using-1-x-4-tiles/#:~:text=We%20can%20fill%20a%205%20x%204,Place%20first%201%20horizontally%20and%204%20vertically.)] 
-    - This can be efficient for certain patterns where dividing the problem into smaller parts is easily manageable. [[2](https://www.geeksforgeeks.org/tiling-problem-using-divide-and-conquer-algorithm/), [4](https://www.geeksforgeeks.org/tiling-problem/#:~:text=Using%20Recursion%20%E2%80%93%20O(2%5En)%20Time%20and%20O(n),sum%20of%20ways%20for%20the%20smaller%20subproblems.), [7](https://www.geeksforgeeks.org/count-number-of-ways-to-fill-a-n-x-4-grid-using-1-x-4-tiles/#:~:text=We%20can%20fill%20a%205%20x%204,Place%20first%201%20horizontally%20and%204%20vertically.)] 
-- Randomized Placement with Validation: [[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [6](https://www.thebathoutlet.com/how-tile-random-pattern/article/191#:~:text=A%20good%20random%20tile%20design%20will%20include,and%20mix%20them%20up%20in%20several%20boxes.)] 
-    - Randomly select a tile and a position on the grid. [[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [6](https://www.thebathoutlet.com/how-tile-random-pattern/article/191#:~:text=A%20good%20random%20tile%20design%20will%20include,and%20mix%20them%20up%20in%20several%20boxes.)] 
-    - Check if the tile can be placed at that position without violating rules. [[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [8](https://westerninterlock.com/how-to-square-a-corner-3-4-5-method/#:~:text=To%20get%20a%20perfectly%20square%20corner%2C%20you,correct%2C%20you'll%20have%20a%20perfectly%20square%20corner.)] 
-    - If valid, place the tile, otherwise, try another random tile and position. [[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [6](https://www.thebathoutlet.com/how-tile-random-pattern/article/191#:~:text=A%20good%20random%20tile%20design%20will%20include,and%20mix%20them%20up%20in%20several%20boxes.)] 
-    - Can be useful for generating more natural-looking patterns, but might require additional checks to avoid invalid configurations. [[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [6](https://www.thebathoutlet.com/how-tile-random-pattern/article/191#:~:text=A%20good%20random%20tile%20design%20will%20include,and%20mix%20them%20up%20in%20several%20boxes.)] 
+Example Tile Placement Scenarios: \[[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [5](https://stoneandtileshoppe.com/blogs/construction-renovation/best-tile-patterns)] 
 
-Example Tile Placement Scenarios: [[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [5](https://stoneandtileshoppe.com/blogs/construction-renovation/best-tile-patterns)] 
-
-- Matching Edges: Tiles must connect along their edges with matching colors or patterns. [[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [5](https://stoneandtileshoppe.com/blogs/construction-renovation/best-tile-patterns)] 
-- Grid-Based Patterns: Placing tiles to create specific grid patterns like brick, herringbone, or basket weave. [[5](https://stoneandtileshoppe.com/blogs/construction-renovation/best-tile-patterns), [10](https://www.emser.com/pages/tile-patterns-square-grid#:~:text=A%20square%20grid%20pattern%2C%20where%20square%20tiles,in%20an%20abundance%20of%20colors%20and%20sizes.), [11](https://propcheck.in/construction/detailed-tile-installation-steps-and-essentials/)] 
-- Procedural World Generation: Using tile placement algorithms to create complex environments in games, where tiles represent different terrain types. [[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [5](https://stoneandtileshoppe.com/blogs/construction-renovation/best-tile-patterns)] 
-
-  
+- Matching Edges: Tiles must connect along their edges with matching colors or patterns. \[[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [5](https://stoneandtileshoppe.com/blogs/construction-renovation/best-tile-patterns)] 
+- Grid-Based Patterns: Placing tiles to create specific grid patterns like brick, herringbone, or basket weave. \[[5](https://stoneandtileshoppe.com/blogs/construction-renovation/best-tile-patterns), [10](https://www.emser.com/pages/tile-patterns-square-grid#:~:text=A%20square%20grid%20pattern%2C%20where%20square%20tiles,in%20an%20abundance%20of%20colors%20and%20sizes.), [11](https://propcheck.in/construction/detailed-tile-installation-steps-and-essentials/)] 
+- Procedural World Generation: Using tile placement algorithms to create complex environments in games, where tiles represent different terrain types. \[[1](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html), [3](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.), [5](https://stoneandtileshoppe.com/blogs/construction-renovation/best-tile-patterns)] 
 
 _Generative AI is experimental._
 
-[1] [https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html)
+\[1] <https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html>
 
-[2] [https://www.geeksforgeeks.org/tiling-problem-using-divide-and-conquer-algorithm/](https://www.geeksforgeeks.org/tiling-problem-using-divide-and-conquer-algorithm/)
+\[2] <https://www.geeksforgeeks.org/tiling-problem-using-divide-and-conquer-algorithm/>
 
-[3] [https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.)
+\[3] [https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html#:~:text=The%20first%20approach%20I%20took%20to%20creating,cannot%20be%20completed%20without%20removing%20existing%20tiles.)
 
-[4] [https://www.geeksforgeeks.org/tiling-problem/](https://www.geeksforgeeks.org/tiling-problem/#:~:text=Using%20Recursion%20%E2%80%93%20O(2%5En)%20Time%20and%20O(n),sum%20of%20ways%20for%20the%20smaller%20subproblems.)
+\[4] [https://www.geeksforgeeks.org/tiling-problem/](https://www.geeksforgeeks.org/tiling-problem/#:~:text=Using%20Recursion%20%E2%80%93%20O\(2%5En\)%20Time%20and%20O\(n\),sum%20of%20ways%20for%20the%20smaller%20subproblems.)
 
-[5] [https://stoneandtileshoppe.com/blogs/construction-renovation/best-tile-patterns](https://stoneandtileshoppe.com/blogs/construction-renovation/best-tile-patterns)
+\[5] <https://stoneandtileshoppe.com/blogs/construction-renovation/best-tile-patterns>
 
-[6] [https://www.thebathoutlet.com/how-tile-random-pattern/article/191](https://www.thebathoutlet.com/how-tile-random-pattern/article/191#:~:text=A%20good%20random%20tile%20design%20will%20include,and%20mix%20them%20up%20in%20several%20boxes.)
+\[6] [https://www.thebathoutlet.com/how-tile-random-pattern/article/191](https://www.thebathoutlet.com/how-tile-random-pattern/article/191#:~:text=A%20good%20random%20tile%20design%20will%20include,and%20mix%20them%20up%20in%20several%20boxes.)
 
-[7] [https://www.geeksforgeeks.org/count-number-of-ways-to-fill-a-n-x-4-grid-using-1-x-4-tiles/](https://www.geeksforgeeks.org/count-number-of-ways-to-fill-a-n-x-4-grid-using-1-x-4-tiles/#:~:text=We%20can%20fill%20a%205%20x%204,Place%20first%201%20horizontally%20and%204%20vertically.)
+\[7] [https://www.geeksforgeeks.org/count-number-of-ways-to-fill-a-n-x-4-grid-using-1-x-4-tiles/](https://www.geeksforgeeks.org/count-number-of-ways-to-fill-a-n-x-4-grid-using-1-x-4-tiles/#:~:text=We%20can%20fill%20a%205%20x%204,Place%20first%201%20horizontally%20and%204%20vertically.)
 
-[8] [https://westerninterlock.com/how-to-square-a-corner-3-4-5-method/](https://westerninterlock.com/how-to-square-a-corner-3-4-5-method/#:~:text=To%20get%20a%20perfectly%20square%20corner%2C%20you,correct%2C%20you'll%20have%20a%20perfectly%20square%20corner.)
+\[8] [https://westerninterlock.com/how-to-square-a-corner-3-4-5-method/](https://westerninterlock.com/how-to-square-a-corner-3-4-5-method/#:~:text=To%20get%20a%20perfectly%20square%20corner%2C%20you,correct%2C%20you'll%20have%20a%20perfectly%20square%20corner.)
 
-[9] [https://www.tileshop.com/resources/installation-videos-and-guides/preparation-and-layout/how-to-plan-the-layout-of-a-shower](https://www.tileshop.com/resources/installation-videos-and-guides/preparation-and-layout/how-to-plan-the-layout-of-a-shower)
+\[9] <https://www.tileshop.com/resources/installation-videos-and-guides/preparation-and-layout/how-to-plan-the-layout-of-a-shower>
 
-[10] [https://www.emser.com/pages/tile-patterns-square-grid](https://www.emser.com/pages/tile-patterns-square-grid#:~:text=A%20square%20grid%20pattern%2C%20where%20square%20tiles,in%20an%20abundance%20of%20colors%20and%20sizes.)
+\[10] [https://www.emser.com/pages/tile-patterns-square-grid](https://www.emser.com/pages/tile-patterns-square-grid#:~:text=A%20square%20grid%20pattern%2C%20where%20square%20tiles,in%20an%20abundance%20of%20colors%20and%20sizes.)
 
-[11] [https://propcheck.in/construction/detailed-tile-installation-steps-and-essentials/](https://propcheck.in/construction/detailed-tile-installation-steps-and-essentials/)
+\[11] <https://propcheck.in/construction/detailed-tile-installation-steps-and-essentials/>
 
-Interesting algorithm approach: 
-http://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html
+Interesting algorithm approach:
+http://ijdykeman.github.io/procedural\_generation/2019/11/08/generate-worlds-algorithm.html
 
-This is an older but open source version of that same algorithm: 
+This is an older but open source version of that same algorithm:
 http://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html
 
 ## CSS Grid
-so for that we need a kind of static grid that will be made with the grid css framework. Which could make for some interesting abilities to change views and reorient stuff without reloading all the tiles. 
+
+so for that we need a kind of static grid that will be made with the grid css framework. Which could make for some interesting abilities to change views and reorient stuff without reloading all the tiles.
 
 ## HTML Canvas
+
 This would be the most able to generate elements and literally paint the map from scratch. The problem and really hard thing to program would be making the map clickable and static. Because I am pretty sure with this approach it would need to be drawn each frame even.
 
 Because of the observations above I am going to choose to go with the css grid for a first implementation and see how it goes
+
 # Attempt 1
 
 > [!todo] Current Step or Problem
 > Parse markdown files and pull out necessary attributes for each note
-> Process into a json array of objects  
+> Process into a json array of objects\
 > This can then all be in a single array of json objects so that we can iterate over it easily while building the map
-> 
+>
 > const markdownText = `This is some text with #tag1 and #tag2.`;
-> const tags = markdownText.match(regex); console.log(tags); // Output: ["#tag1", "#tag2"]
+> const tags = markdownText.match(regex); console.log(tags); // Output: \["#tag1", "#tag2"]
+>
 > - maybe look at quartz parser to see how it grabs things out of the files
-> - I think for a prototype look at a stand alone parsing library for getting it running faster since this will probably get thrown away later during integration. 
-> 	- Attributes:
-> 		- Note's name
-> 		- List of Tags
-> 		- Length of note
-> 		- List of all internal links to other notes
-> - Simple spiral placement of basic tiles 
-> - Decide how big of a grid based on notes 
-> - Decide where center of grid is based on that 
-> - Then simple spiral placement starting from most mature to least 
+> - I think for a prototype look at a stand alone parsing library for getting it running faster since this will probably get thrown away later during integration.
+>   - Attributes:
+>     - Note's name
+>     - List of Tags
+>     - Length of note
+>     - List of all internal links to other notes
+> - Simple spiral placement of basic tiles
+> - Decide how big of a grid based on notes
+> - Decide where center of grid is based on that
+> - Then simple spiral placement starting from most mature to least
 
 - Construct html div
-	- nested in it are anchor links id with the name of the note
-	- each anchor then can get filled with image links that correspond to the attributes of the note
-	- 
-	- This means that each note will kind of have it's own object that can get an image or images attached to it
-  
+  - nested in it are anchor links id with the name of the note
+  - each anchor then can get filled with image links that correspond to the attributes of the note
+  -
+  - This means that each note will kind of have it's own object that can get an image or images attached to it
 
-Maybe the idea of not starting with any grid but constructing is as we go. Start from center and then decide what next tile to place up, down, right or left. filter out spots that are already filled and then it is just a matter of choosing the order of notes to lay down. 
+Maybe the idea of not starting with any grid but constructing is as we go. Start from center and then decide what next tile to place up, down, right or left. filter out spots that are already filled and then it is just a matter of choosing the order of notes to lay down.
 
-If sentiment is how biomes are made then it makes sense to start from index as base camp. then each biome is laid down randomly together. One tile per note this go so that we can try it out. This would be a good first implementation that at least gets the idea working kind of. 
+If sentiment is how biomes are made then it makes sense to start from index as base camp. then each biome is laid down randomly together. One tile per note this go so that we can try it out. This would be a good first implementation that at least gets the idea working kind of.
 
+Render array into html canvas
 
-Render array into html canvas  
-  
-Add interactivity to map  
-  
-  
-How can it be made with the idea of unfolding and differentiation  
-  
-So am empty garden starts at zero but use the base map  
-  
-Each note is represented as a landmark  
-  
-The idea of being able to remember and recognize landmarks in the garden and how they relate to  
-  
-So the idea of unfolding can generate the map from the index note and then unfolds other notes in space near it based on connections  
-  
-Each connection represents a path but have to figure out how to make an actual map from it  
-  
-The experience should be that of exploration so there needs to be variety and unexpectedness around the corner  
-  
-  
-Maps the feeling, certainty and level of growth of an idea to the environment that is generated around it  
-  
-Also use word count to generate a larger landmark feature for “bigger” ideas  
-  
-Tags are the things that make a note’s landmark change in character that way what the note is actually relates to how it looks on the map  
-  
+Add interactivity to map
+
+How can it be made with the idea of unfolding and differentiation
+
+So am empty garden starts at zero but use the base map
+
+Each note is represented as a landmark
+
+The idea of being able to remember and recognize landmarks in the garden and how they relate to
+
+So the idea of unfolding can generate the map from the index note and then unfolds other notes in space near it based on connections
+
+Each connection represents a path but have to figure out how to make an actual map from it
+
+The experience should be that of exploration so there needs to be variety and unexpectedness around the corner
+
+Maps the feeling, certainty and level of growth of an idea to the environment that is generated around it
+
+Also use word count to generate a larger landmark feature for “bigger” ideas
+
+Tags are the things that make a note’s landmark change in character that way what the note is actually relates to how it looks on the map
+
 Higher up is more important
 
 https://github.com/amirgamil/flora?tab=readme-ov-file
 
-[http://www.createafreewebsite.net/anchor_tag_image.html#top-test](http://www.createafreewebsite.net/anchor_tag_image.html#top-test)
+<http://www.createafreewebsite.net/anchor_tag_image.html#top-test>
 
 https://blog.alexdevero.com/interactive-image-overlay-tutorial/
 
 # AI Generated Notes
+
 **Crafting a Digital Garden Map: A Technical Breakdown**
 
 **Understanding the Vision:**
@@ -208,71 +210,69 @@ Given your preference for a static, efficient approach, **CSS Grid** seems to be
 **1. Data Preparation:**
 
 - **Parse Notes:** Use a tool like `remark-parse` or a custom script to extract relevant information from your notes:
-    - Title
-    - Tags
-    - Word count
-    - Sentiment
-    - Links to other notes
+  - Title
+  - Tags
+  - Word count
+  - Sentiment
+  - Links to other notes
 - **Assign Visual Attributes:** Based on the extracted information, assign visual attributes to each note:
-    - **Biome:** Determine the biome based on sentiment (e.g., strongly disagreed = salt flat, agreed = forest).
-    - **Density:** Determine the density of plant life based on epidemic disclosure (e.g., seed = low density, tree = high density).
-    - **Size:** Determine the size of the note's tile based on word count.
-    - **Style:** Determine the style of the tile based on tags or other factors (e.g., buildings, special markers).
+  - **Biome:** Determine the biome based on sentiment (e.g., strongly disagreed = salt flat, agreed = forest).
+  - **Density:** Determine the density of plant life based on epidemic disclosure (e.g., seed = low density, tree = high density).
+  - **Size:** Determine the size of the note's tile based on word count.
+  - **Style:** Determine the style of the tile based on tags or other factors (e.g., buildings, special markers).
 
 **2. HTML Structure:**
 
 - Create a grid container:HTML
-    
-    ```
-    <div class="garden-map">
-      </div>
-    ```
-    
-- For each note, create a grid item:HTML
-    
-    ```
-    <div class="grid-item">
-      <a href="note.md">
-        <img src="biome-image.png" alt="Biome Image">
-        <p class="note-title">Note Title</p>
-      </a>
+
+  ```
+  <div class="garden-map">
     </div>
-    ```
-    
+  ```
+
+- For each note, create a grid item:HTML
+
+  ```
+  <div class="grid-item">
+    <a href="note.md">
+      <img src="biome-image.png" alt="Biome Image">
+      <p class="note-title">Note Title</p>
+    </a>
+  </div>
+  ```
 
 **3. CSS Styling:**
 
 - Define the grid layout using CSS Grid properties:CSS
-    
-    ```
-    .garden-map {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-      grid-gap: 10px;
-    }
-    ```
-    
+
+  ```
+  .garden-map {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 10px;
+  }
+  ```
+
 - Style the grid items based on the assigned visual attributes:CSS
-    
-    ```
-    .grid-item {
-      /* Styles for the default grid item */
-    }
-    
-    .salt-flat .grid-item {
-      /* Styles for salt flat biome */
-    }
-    
-    /* ... other biome styles ... */
-    ```
-    
+
+  ```
+  .grid-item {
+    /* Styles for the default grid item */
+  }
+
+  .salt-flat .grid-item {
+    /* Styles for salt flat biome */
+  }
+
+  /* ... other biome styles ... */
+  ```
 
 **4. JavaScript Interaction:**
 
 - Use JavaScript to dynamically generate the HTML structure based on the parsed note data.
 - Add event listeners to the grid items for hover and click interactions:
-    - On hover, show a tooltip with a preview of the note.
-    - On click, open the note in a new tab or modal.
+  - On hover, show a tooltip with a preview of the note.
+  - On click, open the note in a new tab or modal.
 
 **Additional Considerations:**
 
@@ -297,50 +297,50 @@ To achieve a map-like layout where notes from the same biome are grouped togethe
 **2. HTML Structure:**
 
 - Create a grid container:HTML
-    
-    ```
-    <div class="garden-map">
-      </div>
-    ```
-    
+
+  ```
+  <div class="garden-map">
+    </div>
+  ```
+
 - For each note, create a grid item with the assigned coordinates:HTML
-    
-    ```
-    <div class="grid-item" style="grid-row: 3; grid-column: 5;">
-      </div>
-    ```
-    
+
+  ```
+  <div class="grid-item" style="grid-row: 3; grid-column: 5;">
+    </div>
+  ```
 
 **3. CSS Styling:**
 
-- **Define the Grid:**CSS
-    
-    ```
-    .garden-map {
-      display: grid;
-      grid-template-columns: repeat(10, 1fr); /* Adjust the number of columns as needed */
-      grid-template-rows: repeat(10, 1fr); /* Adjust the number of rows as needed */
-      gap: 10px; /* Adjust the gap between grid items */
-    }
-    ```
-    
+- \*\*Define the Grid:\*\*CSS
+
+  ```
+  .garden-map {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr); /* Adjust the number of columns as needed */
+    grid-template-rows: repeat(10, 1fr); /* Adjust the number of rows as needed */
+    gap: 10px; /* Adjust the gap between grid items */
+  }
+  ```
+
 - **Position Grid Items:** Use the `grid-row` and `grid-column` properties to position each grid item according to its assigned coordinates. For example:CSS
-    
-    ```
-    .grid-item[data-x="3"][data-y="5"] {
-      grid-row: 3;
-      grid-column: 5;
-    }
-    ```
-    You can use JavaScript to dynamically add these styles to each grid item based on its coordinates.
+
+  ```
+  .grid-item[data-x="3"][data-y="5"] {
+    grid-row: 3;
+    grid-column: 5;
+  }
+  ```
+
+  You can use JavaScript to dynamically add these styles to each grid item based on its coordinates.
 
 **4. JavaScript Implementation:**
 
 - **Generate Grid Items:** Iterate through the note data and create HTML elements for each note.
 - **Assign Coordinates and Styles:** For each note:
-    - Assign x and y coordinates based on the biome and other factors.
-    - Calculate the corresponding grid row and column.
-    - Add the `grid-row` and `grid-column` styles to the grid item element.
+  - Assign x and y coordinates based on the biome and other factors.
+  - Calculate the corresponding grid row and column.
+  - Add the `grid-row` and `grid-column` styles to the grid item element.
 - **Append Grid Items to the Container:** Add the generated grid items to the `.garden-map` container.
 
 **Additional Tips:**
@@ -504,91 +504,98 @@ The best algorithm depends on the specific characteristics of your digital garde
 By carefully considering these factors and experimenting with different algorithms, you can create a visually appealing and informative digital garden map.
 
 Certainly, here's a breakdown of how to create a rule-based procedural generation framework for 2D tilemaps in JavaScript, along with relevant libraries and examples:
+
 1. Core Concepts
- * Grid Representation:
-   * 2D Array: The most common approach. Each element in the array represents a tile (e.g., `[["grass", "grass", "water"], ["grass", "tree", "grass"]]`).
- * Tile Types:
-   * Define a set of tile types (e.g., "grass", "water", "tree", "rock", "sand").
-   * Each tile type can have associated properties (e.g., walkable, passable, height).
- * Rules:
-   * Context-Based: Rules determine the probability or conditions for placing a specific tile type based on the surrounding tiles.
-     * Example: "If all adjacent tiles are 'grass', place a 'tree' with 20% probability."
-     * Example: "If two adjacent tiles are 'water', place a 'sand' tile."
-   * Constraints: Rules can also enforce constraints, such as:
-     * "Water tiles must always be adjacent to other water tiles."
-     * "Trees cannot be placed adjacent to rocks."
+
+- Grid Representation:
+  - 2D Array: The most common approach. Each element in the array represents a tile (e.g., `[["grass", "grass", "water"], ["grass", "tree", "grass"]]`).
+- Tile Types:
+  - Define a set of tile types (e.g., "grass", "water", "tree", "rock", "sand").
+  - Each tile type can have associated properties (e.g., walkable, passable, height).
+- Rules:
+  - Context-Based: Rules determine the probability or conditions for placing a specific tile type based on the surrounding tiles.
+    - Example: "If all adjacent tiles are 'grass', place a 'tree' with 20% probability."
+    - Example: "If two adjacent tiles are 'water', place a 'sand' tile."
+  - Constraints: Rules can also enforce constraints, such as:
+    - "Water tiles must always be adjacent to other water tiles."
+    - "Trees cannot be placed adjacent to rocks."
+
 2. JavaScript Implementation
- * Basic Framework (Conceptual)
-function generateMap(width, height, rules) {
-  const map = []; 
+
+- Basic Framework (Conceptual)
+  function generateMap(width, height, rules) {
+  const map = \[];
   for (let y = 0; y < height; y++) {
-    map.push([]); 
-    for (let x = 0; x < width; x++) {
-      map[y][x] = getTileType(x, y, map, rules); 
-    }
+  map.push(\[]);
+  for (let x = 0; x < width; x++) {
+  map\[y]\[x] = getTileType(x, y, map, rules);
+  }
   }
   return map;
-}
-
-function getTileType(x, y, map, rules) {
-  // 1. Get neighboring tiles
-  const neighbors = getNeighbors(x, y, map); 
-
-  // 2. Apply rules
-  let candidateTiles = ["grass"]; // Start with a default tile
-  for (const rule of rules) {
-    if (rule.condition(neighbors)) {
-      candidateTiles = rule.result; 
-      break; // Stop if a rule matches
-    }
   }
 
-  // 3. Choose a tile randomly from candidates
-  return candidateTiles[Math.floor(Math.random() * candidateTiles.length)];
+function getTileType(x, y, map, rules) {
+// 1. Get neighboring tiles
+const neighbors = getNeighbors(x, y, map);
+
+// 2. Apply rules
+let candidateTiles = \["grass"]; // Start with a default tile
+for (const rule of rules) {
+if (rule.condition(neighbors)) {
+candidateTiles = rule.result;
+break; // Stop if a rule matches
+}
+}
+
+// 3. Choose a tile randomly from candidates
+return candidateTiles\[Math.floor(Math.random() \* candidateTiles.length)];
 }
 
 function getNeighbors(x, y, map) {
-  // Implement logic to get neighboring tiles (up, down, left, right, diagonals)
+// Implement logic to get neighboring tiles (up, down, left, right, diagonals)
 }
 
- * Example Rules (Simplified)
-const rules = [
+- Example Rules (Simplified)
+  const rules = \[
   {
-    condition: (neighbors) => neighbors.includes("water"),
-    result: ["sand", "grass"] 
+  condition: (neighbors) => neighbors.includes("water"),
+  result: \["sand", "grass"]
   },
   {
-    condition: (neighbors) => neighbors.every(n => n === "grass"),
-    result: ["tree"],
+  condition: (neighbors) => neighbors.every(n => n === "grass"),
+  result: \["tree"],
   },
   // ... more rules
-];
+  ];
 
 3. Libraries and Tools
- * No Specific Libraries: You can build this framework from scratch using plain JavaScript.
- * Game Engines: If you're building a game, game engines like Phaser, PixiJS, or Babylon.js provide tools for:
-   * Tilemap Rendering: Easily display your generated map visually.
-   * Collision Detection: Implement game logic based on tile properties.
- * Noise Libraries: Consider using libraries like Simplex Noise or Perlin Noise to generate initial heightmaps or other base layers for your rules to work upon.
-4. Key Considerations
- * Rule Order: The order of rules in your array can significantly impact the final map.
- * Randomness: Use pseudorandom number generators (PRNGs) for consistent results across runs.
- * Iterative Refinement: Generate the map in multiple passes, applying rules repeatedly to refine the layout.
- * Visualizations: Create tools to visualize the map generation process, which helps in debugging and fine-tuning rules.
-Example (Simplified - Using a 2D Array)
-const mapWidth = 10;
-const mapHeight = 10;
 
-const map = [];
+- No Specific Libraries: You can build this framework from scratch using plain JavaScript.
+- Game Engines: If you're building a game, game engines like Phaser, PixiJS, or Babylon.js provide tools for:
+  - Tilemap Rendering: Easily display your generated map visually.
+  - Collision Detection: Implement game logic based on tile properties.
+- Noise Libraries: Consider using libraries like Simplex Noise or Perlin Noise to generate initial heightmaps or other base layers for your rules to work upon.
+
+4. Key Considerations
+
+- Rule Order: The order of rules in your array can significantly impact the final map.
+- Randomness: Use pseudorandom number generators (PRNGs) for consistent results across runs.
+- Iterative Refinement: Generate the map in multiple passes, applying rules repeatedly to refine the layout.
+- Visualizations: Create tools to visualize the map generation process, which helps in debugging and fine-tuning rules.
+  Example (Simplified - Using a 2D Array)
+  const mapWidth = 10;
+  const mapHeight = 10;
+
+const map = \[];
 for (let y = 0; y < mapHeight; y++) {
-  map.push([]);
-  for (let x = 0; x < mapWidth; x++) {
-    // Simple rule: Alternate between "grass" and "water"
-    map[y][x] = (x + y) % 2 === 0 ? "grass" : "water"; 
-  }
+map.push(\[]);
+for (let x = 0; x < mapWidth; x++) {
+// Simple rule: Alternate between "grass" and "water"
+map\[y]\[x] = (x + y) % 2 === 0 ? "grass" : "water";
+}
 }
 
-console.log(map); 
+console.log(map);
 
 This is a basic foundation. You'll need to expand on this with more complex rules, tile types, and map generation algorithms to create interesting and diverse worlds.
 I hope this helps! Let me know if you have any further questions.

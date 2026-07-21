@@ -1,11 +1,15 @@
 ---
-created: 2025-04-10
 publish: true
-tags: [🍋Fruit, 🔥Doctrine-Poetry-Story]
+created: 2025-04-10
+modified: 2026-04-09T15:00:24.539-07:00
+tags:
+  - 🍋Fruit
+  - 🔥Doctrine-Poetry-Story
 ---
-   #✒️Poem  
 
-****
+#✒️Poem
+
+---
 
 <center>Snap!  The fetters charged to hold firm this world fail – reality is lost in light.</center>
 <center>Eyes see yet closed, or do eyes see at all?  Crisp haze covers all.</center>

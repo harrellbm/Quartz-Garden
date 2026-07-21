@@ -1,20 +1,25 @@
 ---
-created: 2024-10-22
-edited_seconds: 2
 publish: true
-tags: [🍋Fruit, 😁Strongly-Agree, 🟢Conviction, 📝Essay, 🥾SpiritualPractices-EmbodiedLiving]
-updated: 2025-06-17 14:41:01.587000-07:00
+created: 2024-10-22
+modified: 2025-06-17 14:41:01.587000-07:00
+tags:
+  - 🍋Fruit
+  - 😁Strongly-Agree
+  - 🟢Conviction
+  - 📝Essay
+  - 🥾SpiritualPractices-EmbodiedLiving
 ---
 
 > [!summary] The Big Idea
-> An Essay that develops some thoughts about Sacred Space. 
+> An Essay that develops some thoughts about Sacred Space.
 
 > [!NOTE]
+>
 > - Posted to Substack as in its current state Jan 2025
 
 Related Essay: [[Shaping Space]]
 
-****
+---
 
 # Living in the Expanse
 
@@ -55,9 +60,10 @@ As God created the cosmos we read this description of space’s origin: 
 > And separated the waters that were under the expanse 
 > From the waters that were above the expanse. 
 > And it was so.
- > And God called the expanse Heaven.
+>  > And God called the expanse Heaven.
 > And there was evening and there was morning, 
 > The second day. 
+>
 > - Genesis 1:6-8
 
 At the very dawn of creation, God scoops out a space between two masses of water.  A space within which He will paint and sculpt the rest of His masterpiece.  The hand of God shapes the horizon to hold the hues of sunsets. A place where light and dark dance to burst forth into color.   As the days of creation unfold, the empty expanse becomes a world brimming with life.  With the flash of fish’s scales in the ocean deep, and the smell of dripping dew over fresh earth.  The space God creates becomes so much more, it becomes a home. 
@@ -74,11 +80,9 @@ To get a sense of what this looks like, imagine having a conversation with someo
 
 Now imagine that conversation in different spaces:
 
-
 Imagine sitting across from each other 
 
 calmly sipping coffee in a quiet cafe. 
-  
 
 Now imagine that same conversation at 
 
@@ -101,8 +105,9 @@ The answer to this question is woven throughout the fabric of Scripture. Story a
 In a world that is often dark and broken, Sacred space is something all together otherworldly. One story that captures the power and majesty of Sacred space comes to us from Exodus 3:
 
 > Now Moses was tending the flock of Jethro his father-in-law, the priest of Midian, and he led the flock to the far side of the wilderness and came to Horeb, the mountain of God. There the angel of the Lord appeared to him in flames of fire from within a bush. Moses saw that though the bush was on fire it did not burn up. So Moses thought, 
-> 
+>
 > “I will go over and see this strange sight—why the bush does not burn up.” When the Lord saw that he had gone over to look, God called to him from within the bush, “Moses! Moses!” And Moses said, “Here I am.” “Do not come any closer,” God said. “Take off your sandals, for the place where you are standing is holy ground.” Then he said, “I am the God of your father, the God of Abraham, the God of Isaac and the God of Jacob.” At this, Moses hid his face, because he was afraid to look at God. 
+>
 > - Exodus 3:1-6
 
 Sacred space is a place of meeting. While humans meet in offices or living rooms, God meets humanity in sacred spaces. Throughout the Old Testament, sacred space is described and created in awe and reverence. One example of this, are the detailed plans for [[The Tabernacle]].  Page after page have been meticulously preserved for us.  We can read through the measurements and materials that were all carefully crafted into a space where God comes to meet man.   
@@ -129,7 +134,8 @@ Jesus flooded creation with sacred space, there is no place the gospel cannot re
 
 The physical encounter of baptism and communion bring us face to face with the Holy presence of God. But unlike Isaiah, we often move on unphased.  We sit in sanctuaries, spaces designed as sacred.  We see the altar for the supper, the font for the water, the walls are designed for singing and music. Even pulpits are made for preaching. Surrounded by reminder after reminder of the earth shattering power we dare stare in the eyes ― and carry on as if nothing is different. 
 
-> “Tremble, O earth, at the presence of the Lord, at the presence of the God of Jacob,” 
+> “Tremble, O earth, at the presence of the Lord, at the presence of the God of Jacob,”
+>
 > - Psalm 114:7
 
 So we hear the call of the ancient [[Prophets]], the call to enter the presence of the Almighty with awe.  If we take this reality seriously, it changes things. As we meet every Sunday as God’s people, gathered in God’s space.  We step before the throne to meet Him and hear His words to us. The ethereal audience with the Alpha and the Omega is ours every Sunday. 

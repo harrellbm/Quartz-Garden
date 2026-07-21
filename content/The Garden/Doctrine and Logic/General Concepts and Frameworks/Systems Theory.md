@@ -1,9 +1,10 @@
 ---
-created: 2024-10-22
-edited_seconds: 13
 publish: true
-tags: [😐Neutral, 📚Definition]
-updated: 2026-04-01T14:38:06.509-07:00
+created: 2024-10-22
+modified: 2026-04-01T14:38:06.509-07:00
+tags:
+  - 😐Neutral
+  - 📚Definition
 ---
 
 > [!summary] The Big Idea

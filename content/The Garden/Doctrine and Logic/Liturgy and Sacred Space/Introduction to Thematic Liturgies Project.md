@@ -1,17 +1,25 @@
 ---
-created: 2024-10-22
-edited_seconds: 6
 publish: true
-tags: [🌿Sapling, 🙂Agree, 🟡Consideration, 📊Project, 📝Essay, 🥾SpiritualPractices-EmbodiedLiving, 11]
-updated: 2025-06-17 14:33:03.506000-07:00
+created: 2024-10-22
+modified: 2025-06-17 14:33:03.506000-07:00
+tags:
+  - 🌿Sapling
+  - 🙂Agree
+  - 🟡Consideration
+  - 📊Project
+  - 📝Essay
+  - 🥾SpiritualPractices-EmbodiedLiving
+  - 11
 ---
 
 > [!Summary] The Big Idea
 > This project hopes to be a resource as well as a place to collaborate and learn the art of crafting thematic liturgical forms.
+>
 > ### Initial Goal 
+>
 > To write an initial set of 55 liturgical settings to cover a little over a year.  Each service will be organized around either a psalm or narrative from Scripture.  The elements of the service will be written and organized using traditional worship forms as models.
 
-****
+---
 
 # Assumptions and Underlying Intentions
 
@@ -49,13 +57,11 @@ Our place in God’s story sits uniquely after His crucifixion and resurrection,
 
 Yet we need to be careful to also hold on to translation.  Our people are a product of their time.  The things of beauty and meaning from tradition do not always land the same way they used to among Christians in a different time dealing with different struggles and life experiences.  Consequently, it is of utmost importance that liturgy be translated into forms that reach our people so that they can actually be formed by it.  This is a pull in two directions.  Striving to proclaim the alien ideas and power of God’s Gospel in its fullness, while also being sensitive to the hearer.   
 
-
 ![[Ritual Efficacy versus Sacramental Efficacy#Ritual Efficacy versus Sacramental Efficacy]]
 
 ## Variety versus Regularity 
 
 A practice done regularly makes a habit, and a habit has a way of sticking within a person.  This basic human truth is an important consideration as we seek to grow our people using liturgical forms.  There needs to be a sense of continuity and repetition for things to sink into people.  However, this need to habituate people into a regular pattern of worship and practice, should not exclude the legitimacy and importance of variety.  Scripture alone (not to mention liturgical history) brings to light a huge variety of musical and ritual expression.  We should seek to bring our people into this fullness, not at the expense of regularity, but in concert with it.  One noteworthy example of this is the practice of lament.  Lament comes directly out of the pages of Scripture but is something the church rarely practices.  We possess this very powerful practice to wrestle and deal with grief and brokenness.  Yet we often leave it on the shelf and rob our people of it.   
-
 
 ![[Real Loss#Real Loss]]
 
@@ -63,8 +69,9 @@ A practice done regularly makes a habit, and a habit has a way of sticking withi
 
 All this to say that if this attempt to write meaningful liturgical settings for God’s people today is to hit its mark, it must bring the Word and Sacrament to bear on the whole human person.  Each element, from prayer to confession, should live and breath with our people just as the Risen Savior does this very moment.  The grand story is our story.  The language of the Psalms should be our language.  We seek to see, hear, taste and touch the realities of God.  For they are realities at work in God’s people even when they stand veiled in the not-yet.  
 
- >May He work in us what is pleasing to Him, through Jesus Christ, to whom be glory for ever and ever. Amen 
+ >May He work in us what is pleasing to Him, through Jesus Christ, to whom be glory for ever and ever. Amen
  >- Hebrews 13:21
+
 # Liturgical Order
 
 Authors: Brenden Harrell 
@@ -257,16 +264,25 @@ Benediction (LSB 166, 183, 200-202, 228, 234, 258-259) - Final blessing coming f
 - Goal/Function:  To leave God’s people in the peace and blessing of Christ.
 
 ### Miscellaneous Elements
+
 Canticles - Songs taken directly out of the Scriptural narrative. Used various places in the liturgy. 
 
 - Mary’s Magnificat (Luke 1:46-55; LSB 231, 248-249).
+
 - Simeon’s Nunc Dimittis (Luke 2:29-32; LSB 165, 182, 199-200, 211, 258-259; LW 230,).
+
 - Zechariah’s Benedictus (Luke 1:68-79; LW 217).
+
 - Miriam’s song (Exod. 15:1-18).
+
 - Deborah’s song (Judges 5).
+
 - Hannah’s song (1Sam. 2:1-10).
+
 - David’s songs (2 Sam. 22:2-51, 1 Chronicles 16:8-36).
+
 - Songs in Isaiah (Example Isaiah 12, 25).
+
 - The whole book of Lamentations. 
 
 - Goal/Function: To enter the Scriptural narrative as our narrative.  Singing the songs of God’s people of old as our own.

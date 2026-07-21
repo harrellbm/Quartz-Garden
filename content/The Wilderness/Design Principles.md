@@ -1,19 +1,20 @@
 ---
-created: 2024-10-22
-edited_seconds: 1
 publish: true
-tags: [🪴Sprout, 🙂Agree]
-updated: 2026-04-01T14:36:57.660-07:00
+created: 2024-10-22
+modified: 2026-04-01T14:36:57.660-07:00
+tags:
+  - 🪴Sprout
+  - 🙂Agree
 ---
 
 > [!summary] The Big Idea
 > Good design can be analyzed and learned using foundational principles.
-> 
-> The Purpose of good design is not just to look nice but to actually have a space function well and offer a space for healthy living. 
+>
+> The Purpose of good design is not just to look nice but to actually have a space function well and offer a space for healthy living.
 
 Related Notes: [[Our Savior's Church and School Painting Guidelines]], [[Our Savior's Church and School Selection Criteria 2023]], [[Christopher Alexander (Architect, Author)]]
 
-****
+---
 
 # Perspective Laid Out By Christopher Alexander
 
@@ -24,11 +25,11 @@ Looking to history and nature are two places to help find inspiration as well as
 Principles are a framework to help refine and analyze not a blind checklist 
 
 ## Basic principles from Frank Jackson
-  
+
 **Contrast** - color differences. The most stark being black on white 
 
 **Variety** - circle example of no variety, oval example of shape with variety 
-  
+
 **Repetition** - taking the same line or shape and repeating it 
 
 **Symmetry** - the same thing on both sides of a base line 
@@ -48,9 +49,11 @@ Balance of imitative principle of copying things from nature and the inventive p
 ## From Architecture as Pedagogy by David Orr 
 
 Basically makes the argument that building teach us about what we think about the earth and the world around us and how we relate to other humans
+
 ## From Mapping a sense of place by hicks and king
 
 Mapping experiences are a way to think through the meaning embedded in the natural and built parts of our environment and see how it differs from others 
+
 ## From Personal and Public Place by Guinan
 
-Hearing and learning about the stories of people who have built or live in a place helps make [[Architecture]] more meaningful and helps us be more empathetic**
+Hearing and learning about the stories of people who have built or live in a place helps make [[Architecture]] more meaningful and helps us be more empathetic\*\*

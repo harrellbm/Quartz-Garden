@@ -1,21 +1,26 @@
 ---
-created: 2024-10-22
-edited_seconds: 1
 publish: true
-tags: [🌿Sapling, 😁Strongly-Agree, 📚Definition, 🟢Conviction, 🔥Doctrine-Poetry-Story, 📃Epistle]
-updated: 2025-06-17 14:43:53.220000-07:00
+created: 2024-10-22
+modified: 2025-06-17 14:43:53.220000-07:00
+tags:
+  - 🌿Sapling
+  - 😁Strongly-Agree
+  - 📚Definition
+  - 🟢Conviction
+  - 🔥Doctrine-Poetry-Story
+  - 📃Epistle
 ---
 
-****
+---
 
 > [!summary] The Big Idea
-> Life can be thought of along two major plains of activity Coram Deo (before God) and Coram Mundo (before Man). It is only when we keep these areas of activity in their proper place that we avoid either trying to climb up to God using our Active Righteousness. While also avoiding using the Passive Righteousness we receive through Christ as an excuse to ignore our neighbor. 
+> Life can be thought of along two major plains of activity Coram Deo (before God) and Coram Mundo (before Man). It is only when we keep these areas of activity in their proper place that we avoid either trying to climb up to God using our Active Righteousness. While also avoiding using the Passive Righteousness we receive through Christ as an excuse to ignore our neighbor.
 
-****
+---
 
 > [!note]
-> Used as OS June/July 2023 
-> Used as LCOS Dec 2025 
+> Used as OS June/July 2023
+> Used as LCOS Dec 2025
 
 As Lutherans we are often familiar with the wonderful teaching of the [[Law and Gospel]]. We know that the Law shows us our sin and how far the world has fallen away from the good plan of God. But the Gospel speaks of the forgiveness and renewal that Jesus offers through His death and resurrection. It helps us to see how much we need Jesus and His life giving message of peace and hope.   
 

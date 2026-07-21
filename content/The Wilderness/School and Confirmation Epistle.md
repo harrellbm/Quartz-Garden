@@ -1,12 +1,15 @@
 ---
-created: 2024-10-22
-edited_seconds: 7
 publish: true
-tags: [🌱Seed, 🙂Agree, 📰Handout, 📃Epistle]
-updated: 2026-04-01T14:27:37.475-07:00
+created: 2024-10-22
+modified: 2026-04-01T14:27:37.475-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 📰Handout
+  - 📃Epistle
 ---
 
-***The Big Idea***: Used in OS September 2023
+_**The Big Idea**_: Used in OS September 2023
 
 Our Savior’s is full of the hum of school life once again.  It is exciting to be embarking on another school year where the love and grace of Jesus can be shared with our school children big and small. It is such a blessing to be able to provide a Christ centered education for these children as a Church and School community.  
 
@@ -17,6 +20,7 @@ The lives of our young people are not only being shaped within our School but al
 As we embark on this journey together, we appreciate your continued support in prayer and encouragement as we share the good gifts of Jesus.  The gifts that He has freely given to each of us. 
 
 > “Freely you have received; freely give.” 
+>
 > - Matthew 10:8b
 
-****
+---

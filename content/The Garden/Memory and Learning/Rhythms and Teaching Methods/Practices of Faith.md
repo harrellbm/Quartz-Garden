@@ -1,15 +1,18 @@
 ---
-created: 2024-10-22
-edited_seconds: 116
 publish: true
-tags: [🪴Sprout, 🙂Agree, 🥾SpiritualPractices-EmbodiedLiving, 📃Epistle]
-updated: 2026-03-04 15:17:32.876000-08:00
+created: 2024-10-22
+modified: 2026-03-04 15:17:32.876000-08:00
+tags:
+  - 🪴Sprout
+  - 🙂Agree
+  - 🥾SpiritualPractices-EmbodiedLiving
+  - 📃Epistle
 ---
 
 > [!note]
-> An used for OS in Jan 2023 covering a basic look at healthy Christian living.  
+> An used for OS in Jan 2023 covering a basic look at healthy Christian living.
 
-****
+---
 
 As we continue through this Lenten season. I am reminded that we are people who have received an incredible gift. Salvation from sin, death, and the devil! This salvation makes us children of God and heirs of His coming kingdom which will have no end. Amen.
 
@@ -21,7 +24,7 @@ Our Christian answer to this question is one that has been formulated in various
 
 The Church has a long history of [[Spiritual Disciplines]] as the specific activities with which to live out “training in godliness.” These Christian practices range from different ways to pray, eat, read the Bible, and even sleep. 
 
-Beginning in the 500s St. Benedict composed a "rule," or set of guidelines, to lay out a particular way of life. Monks using this rule ordered their days around nine set hours called the daily offices.  During these special hours, the whole community stopped to pray, sing, and read Scripture. Over time these daily offices became more and more complex until Luther pointed out that monks no longer brought the gift of salvation into the midst of their days, but had completely gotten rid of a normal day to day schedule. In response to this, we see in the small catechism intentional examples of how to pray as families, during meals, and before and after work. Once again bringing Christ’s gift of salvation into the midst of *all* life, not just for those who are locked in a monastery.
+Beginning in the 500s St. Benedict composed a "rule," or set of guidelines, to lay out a particular way of life. Monks using this rule ordered their days around nine set hours called the daily offices.  During these special hours, the whole community stopped to pray, sing, and read Scripture. Over time these daily offices became more and more complex until Luther pointed out that monks no longer brought the gift of salvation into the midst of their days, but had completely gotten rid of a normal day to day schedule. In response to this, we see in the small catechism intentional examples of how to pray as families, during meals, and before and after work. Once again bringing Christ’s gift of salvation into the midst of _all_ life, not just for those who are locked in a monastery.
 
 As Christians today, we often struggle with the opposite problem. In fact, I have yet to meet anyone currently alive that struggles with stopping to pray so much they never get anything else done! Rather, we often go about our days being sucked into so many cares and worries that the gift of salvation is a distant reality. 
 

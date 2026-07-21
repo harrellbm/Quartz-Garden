@@ -1,18 +1,22 @@
 ---
-created: 2024-10-22
 publish: true
-tags: [🌱Seed, 🙂Agree]
+created: 2024-10-22
+modified: 2026-04-09T15:00:24.733-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
 ---
-  #🗣Sermon 
 
-****
+\#🗣Sermon
+
+---
 
 > `Importance`: 10%
 
 > [!summary]
 > Outline of a sermon given at OS
 
-****
+---
 
 Jesus talks about how valuable the kingdom of heaven is and he zeros in on Scripture near the end of our reading for today. 
 
@@ -47,7 +51,7 @@ During Martin Luther’s time as a monk would have no doubt used this lectio div
 
 Psalm 119 is the longest of the Psalms and has a line of poetry for every letter of the Hebrew alphabet. Throughout Luther points out three main things the Psalmist does over and over with Gods word 
 
-Oratio or Prayer - we start with prayer we read with prayer. It mingles with and is an essential part of our reading scripture   
+Oratio or Prayer - we start with prayer we read with prayer. It mingles with and is an essential part of our reading scripture 
 
 Meditatio or Meditation- example of a kid that can’t get enough of something. It’s about reputation speaking reading seeking. Having a conversation with God by asking questions and paying attention to what is happening inside you 
 
@@ -67,4 +71,4 @@ Let’s try it out on some of the parables we read today. They are nice and shor
 > [!Cite] Matthew 13:45–46 (ESV):
 > Again, the kingdom of heaven is like a merchant in search of fine pearls, who, on finding one pearl of great value, went and sold all that he had and bought it.
 
-There are so many ways to read scripture that bring us into a place where we can absorb what scripture is telling us. But ultimately they all have the same goal that we would not just acknowledge but deeply proclaim that the kingdoms of Heaven is more valuable than anything else in life**
+There are so many ways to read scripture that bring us into a place where we can absorb what scripture is telling us. But ultimately they all have the same goal that we would not just acknowledge but deeply proclaim that the kingdoms of Heaven is more valuable than anything else in life\*\*

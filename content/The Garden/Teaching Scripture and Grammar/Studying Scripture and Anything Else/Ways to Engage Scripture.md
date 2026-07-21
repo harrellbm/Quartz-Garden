@@ -1,30 +1,31 @@
 ---
-created: 2024-10-22
-edited_seconds: 58
 publish: true
+created: 2024-10-22
+modified: 2026-06-10T09:13:10.667-07:00
 tags:
   - 🌱Seed
   - 🙂Agree
   - 🟢Conviction
   - 🥾SpiritualPractices-EmbodiedLiving
-updated: 2026-06-10T09:13:10.667-07:00
 ---
 
-****
+---
 
 > [!summary] The Big Idea
 > A collection of a few various ways to engage Scripture. Also see: [[Christian Meditation and Reading Scripture]]
 
-Similar Notes: 
+Similar Notes:
 [[Metaphor in Scripture]]
 [[Reading Scripture for Familiarity]]
 [[Reading Scripture Devotionally]]
 [[Lectio Divina]]
 
-****
+---
 
-# Christian Meditation 
+# Christian Meditation
+
 This is a very deep and broad way to engage scripture. Here are some notes about it: [[Christian Meditation and Reading Scripture]]
+
 # Listening styles:
 
 Ethos - relationships with speaker
@@ -32,6 +33,7 @@ Ethos - relationships with speaker
 Logos - logical flow of material
 
 Pathos - feelings evoked by material and speaker
+
 # Basic Learning styles:
 
 Auditory - listen to spoken word

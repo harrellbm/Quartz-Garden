@@ -1,15 +1,16 @@
 ---
-created: 2026-03-19
-edited_seconds: 36
 publish: true
-tags: ["\U0001F7E1Consideration", "\U0001F642Agree"]
-updated: 2026-03-19 11:12:02.188000-07:00
+created: 2026-03-19
+modified: 2026-03-19 11:12:02.188000-07:00
+tags:
+  - 🟡Consideration
+  - 🙂Agree
 ---
 
 > [!Summary] The Big Idea
 > A collection of nice quotes about the Psalms.
 
-****
+---
 
 "Now the Prophets teach certain things, the Historians, and the Law teach others, and Proverbs provide still a different sort of advice, but the book of Psalms encompasses the benefit of the mall." - Basil (lived c. 330-379)
 

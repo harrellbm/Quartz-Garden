@@ -1,11 +1,15 @@
 ---
-created: 2025-04-10
 publish: true
-tags: [🌿Sapling, 🔥Doctrine-Poetry-Story]
+created: 2025-04-10
+modified: 2026-04-09T15:00:24.527-07:00
+tags:
+  - 🌿Sapling
+  - 🔥Doctrine-Poetry-Story
 ---
-   #✒️Poem  
 
-****
+#✒️Poem
+
+---
 
 <center>A story without teeth won't do anything much.</center>
 <center>Just like a knife without an edge,</center>

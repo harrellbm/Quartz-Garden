@@ -1,14 +1,14 @@
 ---
-created: 2025-07-02
-edited_seconds: 513
 publish: true
+created: 2025-07-02
+modified: 2026-05-13T15:09:40.609-07:00
 tags:
   - 😐Neutral
   - 🟡Consideration
-updated: 2026-05-13T15:09:40.609-07:00
 ---
+
 > [!Summary] The Big Idea
-> I am really digging the idea of a food forest especially the idea of a plant guild or basically a group of plants that all work together as a small ecosystem. 
+> I am really digging the idea of a food forest especially the idea of a plant guild or basically a group of plants that all work together as a small ecosystem.
 
 Related Notes:
 [[Wild Edible Garden Design Pattern]]
@@ -16,8 +16,8 @@ Related Notes:
 [[Plants Around Church]]
 [[Plant Guilds and Guild Matrix]]
 
-****
-  
+---
+
 # **Definition**
 
 A **food forest** (also called a _forest garden_ or _edible woodland garden_) is a designed, multi-layered perennial polyculture that mimics the architecture and ecological processes of a natural woodland ecosystem while producing food, medicine, fiber, and other yields for human use.[^1] The concept was systematized by Robert Hart in the 1980s[^2] and further developed by Jacke & Toensmeier [^3] and Crawford.[^4]
@@ -36,7 +36,9 @@ Hart adapted the concept of forest stratification[^5] into a design framework co
 | **Rhizosphere**        | Below ground — root crops        | _Oca, Skirret, Jerusalem artichoke, Horseradish_     |
 | **Vertical / Climber** | Climbing & scrambling            | _Hardy kiwi, Grape, Hops, Nasturtium_                |
 | **Mycelial**           | Substrate level — fungi          | _Wine cap (Stropharia), Oyster mushroom, Truffle_    |
+
 # **Key Ecological Principles**
+
 - **Closed Nutrient Cycles:** Leaf litter, chop-and-drop mulching, and nitrogen-fixing species return nutrients to the soil, reducing or eliminating external fertility inputs.[^3][^4]
 - **Successional Management:** Food forests are dynamic systems that pass through early, mid, and late successional stages. Design must account for changing light, competition, and species turnover over time.[^3]
 - **Biodiversity & Resilience:** High species diversity buffers against pest outbreaks and climate variability—a principle supported by island biogeography and ecological stability theory.[^6]
@@ -47,14 +49,14 @@ Hart adapted the concept of forest stratification[^5] into a design framework co
 
 While both are forms of agroforestry, food forests differ from conventional alley-cropping systems in their intentional complexity and polyculture design philosophy. Conventional agroforestry often optimizes for one or two yields with simplified species assemblages, whereas food forests priorities _system-level resilience_, stacked yields across all layers, and self-regulating ecological processes that reduce management intensity over time.[^3],[^5]
 
-# Resources 
+# Resources
+
 - How to repair broken fruit trees – Grow Great Fruit https://growgreatfruit.com/pruning-fruit-trees/shaping-and-repairing-fruit-trees/
-- Learn more about Food Forests - Central Coast Edible Garden Trail [https://centralcoastediblegardentrail.org.au/garden-tips/learn-more-about-food-forests/](https://centralcoastediblegardentrail.org.au/garden-tips/learn-more-about-food-forests/)
+- Learn more about Food Forests - Central Coast Edible Garden Trail <https://centralcoastediblegardentrail.org.au/garden-tips/learn-more-about-food-forests/>
 - Also an interesting site that has all kinds of resources from stuff like making beet sugar and who knows what else. https://permies.com/
 
-
 > [!note]
-> Need to verify citations. 
+> Need to verify citations.
 
 [^1]: Kumar, B. M., & Nair, P. K. R. (2006). Tropical Homegardens: A Time-Tested Example of Sustainable Agroforestry. Springer.
 
@@ -68,6 +70,6 @@ While both are forms of agroforestry, food forests differ from conventional alle
 
 [^6]: Tilman, D., et al. (2001). Diversity and productivity in a long-term grassland experiment. Science, 294(5543), 843–845.
 
-[^7]:  Chapin, F. S., et al. (2002). Principles of Terrestrial Ecosystem Ecology. Springer. 
+[^7]:  Chapin, F. S., et al. (2002). Principles of Terrestrial Ecosystem Ecology. Springer.
 
-[^8]: 
+[^8]:

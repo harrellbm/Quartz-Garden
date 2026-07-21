@@ -1,24 +1,32 @@
 ---
-created: 2024-10-22
 publish: true
-tags: [🍋Fruit, 🙂Agree, 🟢Conviction, 🥾SpiritualPractices-EmbodiedLiving, 📃Epistle, 📝Essay]
+created: 2024-10-22
+modified: 2026-04-09T15:00:26.100-07:00
+tags:
+  - 🍋Fruit
+  - 🙂Agree
+  - 🟢Conviction
+  - 🥾SpiritualPractices-EmbodiedLiving
+  - 📃Epistle
+  - 📝Essay
 ---
 
 > [!summary] The Big Idea
-> Essay on the use of Liturgy and how it influence our lives. 
+> Essay on the use of Liturgy and how it influence our lives.
 
 > [!note]
+>
 > - Used for OS Oct 2023.
 > - Used for LCOS Jan 2025.
 > - Posted to Substack as in its current state Jan 2025
 
-***Related Notes***: [[Models of Human Rhythms]], [[Personal Reflections on My Personal Rhythms]], [[Rhythm Reset]], [[Thoughts on Liturgy and Rhythm]], [[Basic Philosophies of Community Rhythm and Project Lifecycle]]
+_**Related Notes**_: [[Models of Human Rhythms]], [[Personal Reflections on My Personal Rhythms]], [[Rhythm Reset]], [[Thoughts on Liturgy and Rhythm]], [[Basic Philosophies of Community Rhythm and Project Lifecycle]]
 
-****
+---
 
 # The Rhythm of Life 
 
-Liturgy is a very churchy word. To many liturgy, or liturgical practices, are a very specific set of prayers, and words said every Sunday over and over. In this context, liturgy is either dearly beloved or apathetically repeated. Using the word liturgy in this way has led to many empty debates ending with disagreement over subjective personal taste or selective historical adherence. Martin Luther clearly taught that the core of a Christian life consists not primarily in specific things said in a church but in our daily walk with Jesus: 
+Liturgy is a very churchy word. To many liturgy, or liturgical practices, are a very specific set of prayers, and words said every Sunday over and over. In this context, liturgy is either dearly beloved or apathetically repeated. Using the word liturgy in this way has led to many empty debates ending with disagreement over subjective personal taste or selective historical adherence. Martin Luther clearly taught that the core of a Christian life consists not primarily in specific things said in a church but in our daily walk with Jesus:
 
 > [!quote] Book of Concord, Large Catechism, p. 428.
 > It seems to me that we shall have our hands full to keep these commandments, practicing gentleness, patience, love toward enemies, chastity, kindness, etc., and all that is involved in doing so. But such works are not important or impressive in the eyes of the world. They are not uncommon and showy, reserved to certain special times, places, rites, and ceremonies, but are common, everyday domestic duties of one neighbor to another, with nothing glamorous about them.
@@ -28,7 +36,7 @@ This everyday definition of liturgical duty arises out of its Greek origins. As 
 > [!quote] Book of Concord, Apology of the Augsburg Confession, Article 24, p. 273
 > the verb leitourgeo means, "I attend to or I administer public goods."
 
-Before its Christian use, the word liturgy originally described the public duties of individuals according to Greek and Roman law. Paul later uses it in 2 Corinthians 9:12 to describe the Corinthian's generous collection to aid the Macedonians. 
+Before its Christian use, the word liturgy originally described the public duties of individuals according to Greek and Roman law. Paul later uses it in 2 Corinthians 9:12 to describe the Corinthian's generous collection to aid the Macedonians.
 
 As can be seen, liturgy is so much more than a set of practices or a few pages in a hymnal. It brings together a tapestry of meaning from across the whole story of Scripture. It voices patterns and rhythms that flow from God and His grace into every corner of our lives. Liturgy does not happen only on Sundays. It is the heartbeat of every Christian life. A public and visible embodiment of Jesus' promise that believers' hearts will spill over with "rivers of living water" (John 7:38).
 
@@ -48,11 +56,9 @@ Until - "It is finished" - and the earth itself heaves a deep and mournful sigh.
 
 Then everything stops.
 
-
 The mad frenzy melts away with nothing but stillness in its wake.
 
 The sabbath rest no one expected.
-
 
 The heartbeat of God silent... cold... dark....
 
@@ -62,13 +68,13 @@ The eighth day - Easter morning - begins just like the first day of creation. Th
 
 Then Jesus leaves. He ascends into heaven, but leaves His church on earth. He calls His disciples to live lives after the pattern. The pattern He spoke into existence at the dawn of time, and restored through His death and resurrection. A liturgy that beats in step with the Father’s heart. 
 
-As we seek to live lives shaped by the liturgy of Scripture, we enter into these patterns. We gather on the day of rest as a community. We pray and care. We eat together and cry together.  All seeking to dance with the rhythm of Jesus' heart.  As you enter into worship, or get out of bed.  Keep an eye peeled for the liturgies of God. His patterns have shaped the very fabric of the universe. A liturgy that calls us into a reality not yet fully realized.  
+As we seek to live lives shaped by the liturgy of Scripture, we enter into these patterns. We gather on the day of rest as a community. We pray and care. We eat together and cry together.  All seeking to dance with the rhythm of Jesus' heart.  As you enter into worship, or get out of bed.  Keep an eye peeled for the liturgies of God. His patterns have shaped the very fabric of the universe. A liturgy that calls us into a reality not yet fully realized. 
 
-The return to Eden. 
+The return to Eden.
 The celebration of Cana.
 The security of Zion.
-The coming of Heaven on earth. 
-The day we see Him face to face. 
+The coming of Heaven on earth.
+The day we see Him face to face.
 
 Liturgy is a window through which we catch glimpses of eternity. 
 
@@ -79,4 +85,5 @@ May His liturgy grab your heart and imagination. May it call you into new life e
 > The young lions roar for their prey, seeking their food from God.
 > When the sun rises, they steal away and lie down in their dens.
 > Man goes out to his work and to his labor until the evening.” 
+>
 > - Psalm 104:19-13

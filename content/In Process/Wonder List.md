@@ -1,34 +1,37 @@
 ---
-created: 2025-04-02
-edited_seconds: 250
 publish: true
-tags: [🌲Evergreen, 📓Journal]
-updated: 2026-03-02 09:17:16.288000-08:00
+created: 2025-04-02
+modified: 2026-03-02 09:17:16.288000-08:00
+tags:
+  - 🌲Evergreen
+  - 📓Journal
 ---
 
 > [!Summary] The Big Idea
-> A running list of random things I am wondering about right now. 
+> A running list of random things I am wondering about right now.
 
-****
+---
 
-- How do we actually have a confessional position on worship and practice that is not in the extreme of imposition of tradition on consciences or the prideful jettisoning of heritage. [[What is Liturgy]] 
+- How do we actually have a confessional position on worship and practice that is not in the extreme of imposition of tradition on consciences or the prideful jettisoning of heritage. [[What is Liturgy]]
 
-- 
+-
 
 > [!cite] [Britannica](https://www.britannica.com/technology/technology)
-> The word technology is a combination of the Greek technē, which means “art, craft,” and logos, which means “word, speech.” 
+> The word technology is a combination of the Greek technē, which means “art, craft,” and logos, which means “word, speech.”
 
-- What is the proper use of a church library in a digital, AI drive, "easy" data access culture. [[The Purpose of a Church Library]] 
+- What is the proper use of a church library in a digital, AI drive, "easy" data access culture. [[The Purpose of a Church Library]]
+
 - What is the Role of new technology: Cars, Social media, Phones,
+
 - What is the Role of ancient technology: memory, imagination and logic: Memory tools, Logic tools. They open up imagination
-	- Grammar, logic and rhetoric as core goals of education (even for emotive based content) [[Trivium Learning]]
+  - Grammar, logic and rhetoric as core goals of education (even for emotive based content) [[Trivium Learning]]
 
 - What are we actually as humans and how do we hold the tension of scripture and how it describes us as multifaceted beings. [[A Creature Among Machines]], [[Creatureliness]], [[My Thoughts on Cosmology]], [[A Grounded Cosmology and a Creaturely Anthropology]]
 
 - What it is to be human who has an innately categorical mind. We live within categories that make choices of how to world holds together Categories are never lossless but no categories is impossible and would be utter chaos Cycles of certainty and uncertainty in categories [[A Categorical Mind]]
 
 - How can care for the earth and a communities physical well as a door way into actually caring for and being connected with the people of an area as well? [[LCOS Facility Pattern Language]]
-	- What are the specific uses of space or patterns that could be used in the life of LCOS or even my own personal life to most fully align the use and constructions of space for our stated goals of mission and ministry?  [[LCOS Community Notes]], [[Living Process for LCOS]]
+  - What are the specific uses of space or patterns that could be used in the life of LCOS or even my own personal life to most fully align the use and constructions of space for our stated goals of mission and ministry?  [[LCOS Community Notes]], [[Living Process for LCOS]]
 
 - It seems like church fellowship has been over condensed in many circles in two directions. There is "all about love" that ends up becoming a "you do you" mentality that is not actually any kind of true or meaningful working and living together on shared beliefs or confession. Or there is a puritanical and almost legalistic focus on doctrine and confession that is so focused on doctrinal purity that there is no room for real living breathing human relationships. It basically becomes its own kind of group think that is unable to challenge and be challenged by others in a loving and constructive way. [[Confessions and Decentralization]], [[Cooperative Learning]]
 
@@ -41,7 +44,7 @@ updated: 2026-03-02 09:17:16.288000-08:00
 - How to actually build and encourage a creative community that lets arts and beauty thrive. In the forms of music, art, etc. [[Aesthetic]]
 
 - I desperately want to get better at [[Storytelling]] and the way that emotion, meaning and content are all transmitted through a well told story that actually affects the way the hearer things and feels about the world. [[Story Questions and Existential Questions]] Deeply connected with this is our answer to the question [[Why Learn]]
-	- This has also gotten me thinking about memorization and keeping Scripture in my mind but in a functional way not just a bunch of rote memorized material. [[Memory, the Things We Keep with Us]] and [[Memorizing the Psalms]] and [[Reading Scripture for Familiarity]]
+  - This has also gotten me thinking about memorization and keeping Scripture in my mind but in a functional way not just a bunch of rote memorized material. [[Memory, the Things We Keep with Us]] and [[Memorizing the Psalms]] and [[Reading Scripture for Familiarity]]
 
 - How can our local churches be connected and work together in meaningful ways that transcend the island mentality of congregations?
 

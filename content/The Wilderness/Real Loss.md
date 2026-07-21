@@ -1,20 +1,22 @@
 ---
-created: 2024-10-23
-edited_seconds: 3
 publish: true
-tags: [🌱Seed, 😐Neutral]
-updated: 2026-04-01T14:29:27.073-07:00
+created: 2024-10-23
+modified: 2026-04-01T14:29:27.073-07:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
 ---
 
 ## Real Loss
 
 > [!Quote] The Big Idea
 > No matter how well intentioned or effective.  All translation and change brings loss.
+>
 > - **Tod Bolsinger, Canoeing the Mountains: Christian Leadership in Uncharted Territory (Downer Grove: IVP Books, 2015), 120-122.**
 
-****
+---
 
- This is most easily seen in the psalms themselves.  No amount of skill can preserve the full poetic quality of each psalm as it is translated into English or any other language.  Things are lost in translation.  Whether these losses are significant or not, it is important that they be carefully ascertained.  This is true on a broader scale with liturgy as well.  Any change, no matter how small, will lose something.
+This is most easily seen in the psalms themselves.  No amount of skill can preserve the full poetic quality of each psalm as it is translated into English or any other language.  Things are lost in translation.  Whether these losses are significant or not, it is important that they be carefully ascertained.  This is true on a broader scale with liturgy as well.  Any change, no matter how small, will lose something.
 
 This conviction makes it clear that changing and/or generating liturgical forms is not something to be taken lightly.   In fact, many argue that the risk of loss is too great to allow for variety in liturgical forms.  This project, however, does not agree with this assessment.  While loss is real and needs to be appreciated and acknowledged, it should not bind the church from worshiping God with all the skill and talent He has placed within His body.  
 

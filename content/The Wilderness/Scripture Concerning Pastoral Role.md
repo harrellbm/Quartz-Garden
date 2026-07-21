@@ -1,18 +1,20 @@
 ---
-created: 2024-10-22
-edited_seconds: 0
 publish: true
-tags: [🌱Seed, 🙂Agree, 🔥Doctrine-Poetry-Story]
-updated: 2026-04-01T14:26:56.678-07:00
+created: 2024-10-22
+modified: 2026-04-01T14:26:56.678-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🔥Doctrine-Poetry-Story
 ---
 
-***The Big Idea***: Various Scriptures that pertain to the Role of Pastor.
+_**The Big Idea**_: Various Scriptures that pertain to the Role of Pastor.
 
-* * *
+---
 
 ## Role/Qualifications of Pastor and Role of Congregation
 
-- 1 Peter 5:1-4 “So I exhort the elders among you, as a fellow elder and a witness of the sufferings of Christ, as well as a partaker in the glory that is going to be revealed: 2 shepherd the flock of God that is among you, exercising oversight,[a] not under compulsion, but willingly, as God would have you;[b] not for shameful gain, but eagerly; 3 not domineering over those in your charge, but being examples to the flock. 4 And when the chief Shepherd appears, you will receive the unfading crown of glory.”
+- 1 Peter 5:1-4 “So I exhort the elders among you, as a fellow elder and a witness of the sufferings of Christ, as well as a partaker in the glory that is going to be revealed: 2 shepherd the flock of God that is among you, exercising oversight,\[a] not under compulsion, but willingly, as God would have you;\[b] not for shameful gain, but eagerly; 3 not domineering over those in your charge, but being examples to the flock. 4 And when the chief Shepherd appears, you will receive the unfading crown of glory.”
 - 1 Timothy 3:1-7 “The saying is trustworthy: If anyone aspires to the office of overseer, he desires a noble task. 2 Therefore an overseer must be above reproach, the husband of one wife, sober-minded, self-controlled, respectable, hospitable, able to teach, 3 not a drunkard, not violent but gentle, not quarrelsome, not a lover of money. 4 He must manage his own household well, with all dignity keeping his children submissive, 5 for if someone does not know how to manage his own household, how will he care for God's church? 6 He must not be a recent convert, or he may become puffed up with conceit and fall into the condemnation of the devil. 7 Moreover, he must be well thought of by outsiders, so that he may not fall into disgrace, into a snare of the devil.”
 - 2 Timothy 2:24-25 “And the Lord's servant must not be quarrelsome but kind to everyone, able to teach, patiently enduring evil, 25 correcting his opponents with gentleness. God may perhaps grant them repentance leading to a knowledge of the truth,”
 - 2 Timothy 4:2-5 “preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. 3 For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions, 4 and will turn away from listening to the truth and wander off into myths. 5 As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.”
@@ -73,28 +75,45 @@ updated: 2026-04-01T14:26:56.678-07:00
 - Acts 2:42-47 “And they devoted themselves to the apostles' teaching and the fellowship, to the breaking of bread and the prayers. 43 And awe came upon every soul, and many wonders and signs were being done through the apostles. 44 And all who believed were together and had all things in common. 45 And they were selling their possessions and belongings and distributing the proceeds to all, as any had need. 46 And day by day, attending the temple together and breaking bread in their homes, they received their food with glad and generous hearts, 47 praising God and having favor with all the people. And the Lord added to their number day by day those who were being saved.”
 
 - Apostles Teaching (Bible Study and listening to sermons)
+
 - Breaking of Bread (Communion) 
+
 - Prayers 
+
 - Watch miracles happen (faith being created in baptism) 
+
 - Were in unity with one another
+
 - Giving of an offering (tithe)
+
 - Praising God
+
 - Adding to their numbers (evangelism and baptism)
 
 - Listened to Sermons Acts 2:14 “But Peter, standing with the eleven, lifted up his voice and addressed them: “Men of Judea and all who dwell in Jerusalem, let this be known to you, and give ear to my words.”
+
 - Eph. 5:15-21 “Look carefully then how you walk, not as unwise but as wise, 16 making the best use of the time, because the days are evil. 17 Therefore do not be foolish, but understand what the will of the Lord is. 18 And do not get drunk with wine, for that is debauchery, but be filled with the Spirit, 19 addressing one another in psalms and hymns and spiritual songs, singing and making melody to the Lord with your heart, 20 giving thanks always and for everything to God the Father in the name of our Lord Jesus Christ, 21 submitting to one another out of reverence for Christ.
 
 - Reading Psalms
+
 - Singing hymns
+
 - Singing spiritual songs
+
 - Giving thanks always to God (through prayer) 
+
 - Submitting to one another out of reverence for Christ (server)
 
 - James 3:7-10 “7 For every kind of beast and bird, of reptile and sea creature, can be tamed and has been tamed by mankind, 8 but no human being can tame the tongue. It is a restless evil, full of deadly poison. 9 With it we bless our Lord and Father, and with it we curse people who are made in the likeness of God. 10 From the same mouth come blessing and cursing. My brothers, these things ought not to be so.”
+
 - 1 Chronicles 16:23-31 “23 Sing to the Lord, all the earth!    Tell of his salvation from day to day. 24 Declare his glory among the nations, his marvelous works among all the peoples! 25 For great is the Lord, and greatly to be praised, and he is to be feared above all gods. 26 For all the gods of the peoples are worthless idols,    but the Lord made the heavens. 27 Splendor and majesty are before him; strength and joy are in his place 28 Ascribe to the Lord, O families of the peoples ascribe to the Lord glory and strength! 29 Ascribe to the Lord the glory due his name;    bring an offering and come before him! Worship the Lord in the splendor of holiness; 30 tremble before him, all the earth; yes, the world is established; it shall never be moved 31 Let the heavens be glad, and let the earth rejoice, and let them say among the nations, “The Lord reigns!”
+
 - Deuteronomy 10:21 “He is your praise. He is your God, who has done for you these great and terrifying things that your eyes have seen.
+
 - Jeremiah 20:13 “Sing to the Lord;    praise the Lord! For he has delivered the life of the needy    from the hand of evildoers.
+
 - Psalm 75:1 “We give thanks to you, O God;    we give thanks, for your name is near. We recount your wondrous deeds.”
+
 - Psalm 99 “The Lord reigns; let the peoples tremble!
 
     He sits enthroned upon the cherubim; let the earth quake!
@@ -107,7 +126,7 @@ updated: 2026-04-01T14:26:56.678-07:00
 
     Holy is he!
 
-4 The King in his might loves justice.[a]
+4 The King in his might loves justice.\[a]
 
     You have established equity;
 
@@ -121,8 +140,6 @@ you have executed justice
 
     Holy is he!
 
-  
-
 6 Moses and Aaron were among his priests,
 
     Samuel also was among those who called upon his name.
@@ -134,8 +151,6 @@ you have executed justice
     they kept his testimonies
 
     and the statute that he gave them.
-
-  
 
 8 O Lord our God, you answered them;
 
@@ -155,23 +170,17 @@ you have executed justice
 
     Come into his presence with singing!
 
-  
-
 3 Know that the Lord, he is God!
 
-    It is he who made us, and we are his;[a]
+    It is he who made us, and we are his;\[a]
 
     we are his people, and the sheep of his pasture.
-
-  
 
 4 Enter his gates with thanksgiving,
 
     and his courts with praise!
 
     Give thanks to him; bless his name!
-
-  
 
 5 For the Lord is good;
 

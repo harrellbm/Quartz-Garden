@@ -1,17 +1,19 @@
 ---
-created: 2024-10-22
-edited_seconds: 0
 publish: true
-tags: [🌱Seed, 🙂Agree]
-updated: 2026-04-01T14:36:16.712-07:00
+created: 2024-10-22
+modified: 2026-04-01T14:36:16.712-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
 ---
 
 > [!Summary] The Big Idea
-> Event planning is not super natural for me. So here are some basic notes and observations I have gathered from people who are good at it. 
+> Event planning is not super natural for me. So here are some basic notes and observations I have gathered from people who are good at it.
 
-****
+---
 
 # Flow of Planning
+
 Audience
 
 Numbers

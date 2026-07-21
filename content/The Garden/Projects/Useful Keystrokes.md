@@ -1,16 +1,18 @@
 ---
-aliases: Hotkeys,Keyboard Shortcuts
-created: 2024-10-22
-edited_seconds: 55
 publish: true
-tags: [🔗index]
-updated: 2026-04-01T14:24:14.691-07:00
+aliases:
+  - Hotkeys
+  - Keyboard Shortcuts
+created: 2024-10-22
+modified: 2026-04-01T14:24:14.691-07:00
+tags:
+  - 🔗index
 ---
 
 > [!Summary] The Big Idea
-> A Short list of useful key strokes 
+> A Short list of useful key strokes
 
-****
+---
 
 `Shift + Arrows` - Up and down selects lines of text from the cursor. Left and right selects single characters from the cursor.
 

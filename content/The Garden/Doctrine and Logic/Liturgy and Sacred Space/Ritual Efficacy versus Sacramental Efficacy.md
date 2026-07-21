@@ -1,13 +1,18 @@
 ---
-created: 2024-12-17
 publish: true
-tags: [🪴Sprout, 🙂Agree, 🟢Conviction, 🔥Doctrine-Poetry-Story]
+created: 2024-12-17
+modified: 2026-04-09T15:00:26.082-07:00
+tags:
+  - 🪴Sprout
+  - 🙂Agree
+  - 🟢Conviction
+  - 🔥Doctrine-Poetry-Story
 ---
 
 > [!Summary] The Big Idea
 > A useful distinction for keeping liturgical practices where they need to be in our thinking and valuing.
 
-****
+---
 
 ## Ritual Efficacy versus Sacramental Efficacy
 

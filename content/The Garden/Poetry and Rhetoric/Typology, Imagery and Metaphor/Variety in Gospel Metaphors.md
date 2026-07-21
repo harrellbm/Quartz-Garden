@@ -1,21 +1,23 @@
 ---
-created: 2024-10-22
-edited_seconds: 32
 publish: true
-tags: [🌱Seed, 🙂Agree, 🔥Doctrine-Poetry-Story]
-updated: 2026-02-26 09:44:34.637000-08:00
+created: 2024-10-22
+modified: 2026-02-26 09:44:34.637000-08:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🔥Doctrine-Poetry-Story
 ---
 
-****
+---
 
-> [!The Big Idea]
+> \[!The Big Idea]
 > The Gospel is spoken of in many ways throughout Scripture.  Each paints a particular picture of the good news we proclaim.
 
-Original Sources: 
+Original Sources:
 [Gospel Metaphors](https://drive.google.com/file/d/1JeQPDmR-xuTyDbopzn-RSyghc3-SZPbZ/view?usp=sharing) - Rossow
 [Preaching Metaphor](https://drive.google.com/file/d/1U69H2WGgy9h-J1H7qNf1yOxmJLTZ7jG8/view?usp=sharing) - Rossow
 
-****
+---
 
 # Gospel Metaphors to Consider
 

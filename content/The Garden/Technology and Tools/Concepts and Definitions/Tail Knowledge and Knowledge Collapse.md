@@ -1,9 +1,10 @@
 ---
-created: 2024-10-22
-edited_seconds: 27
 publish: true
-tags: [🌱Seed, 🙂Agree]
-updated: 2026-04-01T14:50:00.206-07:00
+created: 2024-10-22
+modified: 2026-04-01T14:50:00.206-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
 ---
 
 > [!summary] The Big Idea
@@ -11,14 +12,15 @@ updated: 2026-04-01T14:50:00.206-07:00
 
 Related Notes: [[Notes - How AI Destroys Institutions]]
 
-****
+---
 
 ## Reference Article
 
 > [!Note]
-> 
+>
 > This article defined a few important terms including:
+>
 > - Tail Knowledge
 > - Knowledge Collapse
 
-![[Peterson - 2024 - AI and the Problem of Knowledge Collapse.pdf]]
+![[The Library/Ebooks and Articles/Technology and Tools/Peterson - 2024 - AI and the Problem of Knowledge Collapse.pdf]]

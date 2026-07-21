@@ -1,9 +1,12 @@
 ---
-created: 2024-10-22
-edited_seconds: 0
 publish: true
-tags: [🌱Seed, 🙂Agree, 🟢Conviction, 📚Definition]
-updated: 2026-04-01T14:33:09.880-07:00
+created: 2024-10-22
+modified: 2026-04-01T14:33:09.880-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🟢Conviction
+  - 📚Definition
 ---
 
 > [!summary] The Big Idea
@@ -11,8 +14,8 @@ updated: 2026-04-01T14:33:09.880-07:00
 
 What this means is that the "Mission Trumps"[^1]
 
-In other words, the core guiding principle of what we should do where we should put our money, etc. all comes down to what best furthers and supports our mission. 
+In other words, the core guiding principle of what we should do where we should put our money, etc. all comes down to what best furthers and supports our mission.
 
-* * *
+---
 
 [^1]: Canoeing the Mountains, Bolsinger

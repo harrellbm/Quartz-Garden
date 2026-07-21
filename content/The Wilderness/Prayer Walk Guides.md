@@ -1,15 +1,17 @@
 ---
-created: 2024-10-22
-edited_seconds: 0
 publish: true
-tags: [🌱Seed, 🙂Agree, 🥾SpiritualPractices-EmbodiedLiving]
-updated: 2026-04-01T14:30:42.337-07:00
+created: 2024-10-22
+modified: 2026-04-01T14:30:42.337-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🥾SpiritualPractices-EmbodiedLiving
 ---
 
 > [!summary] The Big Idea
 > Some collected Ideas and thoughts about writing prayer walk guides
 
-****
+---
 
 # Physical Form Factor
 

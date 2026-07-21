@@ -1,9 +1,11 @@
 ---
-created: 2024-10-22
-edited_seconds: 0
 publish: true
-tags: [🌿Sapling, 🙂Agree, 🟢Conviction]
-updated: 2026-04-01T14:37:23.215-07:00
+created: 2024-10-22
+modified: 2026-04-01T14:37:23.215-07:00
+tags:
+  - 🌿Sapling
+  - 🙂Agree
+  - 🟢Conviction
 ---
 
 > [!Summary] The Big Idea
@@ -11,7 +13,7 @@ updated: 2026-04-01T14:37:23.215-07:00
 
 The categories we use to understand our world matter: [[A Categorical Mind]]
 
-* * *
+---
 
 - [[Scriptural Mindset]] - Scripture remains our sure and final foundation of life and practice. All other sources of wisdom must be subservient to God’s pure word. 
 

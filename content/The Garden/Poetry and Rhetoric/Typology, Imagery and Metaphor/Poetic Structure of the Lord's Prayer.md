@@ -1,16 +1,16 @@
 ---
 publish: true
 created: 2026-05-21
-updated: 2026-04-09T14:53:37.473-07:00
-edited_seconds: 20
+modified: 2026-04-09T14:53:37.473-07:00
 tags:
   - 🟢Conviction
   - 🙂Agree
 ---
->[!Summary] The Big Idea
+
+> [!Summary] The Big Idea
 > Do you know how to pray?
 
-****
+---
 
 My answer to that question may surprise you. I do not know how to pray.  Or as Paul puts it in Romans 8:26: “we do not know what to pray for as we ought.” I, like all Christians before and after me, am in the process of learning how to pray. And like a child who first speaks in babble and broken language, so are my prayers before God. Dietrich Bonhoeffer beautifully expresses this sentiment:
 

@@ -1,11 +1,15 @@
 ---
-created: 2025-05-23
 publish: true
-tags: [🍋Fruit, 🔥Doctrine-Poetry-Story]
+created: 2025-05-23
+modified: 2026-04-09T15:00:24.533-07:00
+tags:
+  - 🍋Fruit
+  - 🔥Doctrine-Poetry-Story
 ---
-   #✒️Poem   
 
-****
+#✒️Poem
+
+---
 
 <center>You are my Portion and relief</center>
 

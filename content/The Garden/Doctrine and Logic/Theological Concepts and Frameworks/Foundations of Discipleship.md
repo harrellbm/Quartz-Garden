@@ -1,27 +1,31 @@
 ---
-created: 2024-10-22
-edited_seconds: 0
 publish: true
-tags: [🌱Seed, 🙂Agree]
-updated: 2025-06-17 14:32:19.187000-07:00
+created: 2024-10-22
+modified: 2025-06-17 14:32:19.187000-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
 ---
-   #🍽️Community-Mission 
 
-****
+\#🍽️Community-Mission
+
+---
 
 > [!quote]
 > “Can a blind man lead a blind man? 
-Will they not both fall into a pit? 
-A disciple is not above his teacher, 
-but everyone when he is fully trained will be like his teacher.”
+> Will they not both fall into a pit? 
+> A disciple is not above his teacher, 
+> but everyone when he is fully trained will be like his teacher.”
+>
 > - Luke 6:39-40
 
 > [!abstract] Thesis
 > Discipleship and Christian formation is a holistic process that involves more than knowing the right things. 
 
-****
+---
 
 # Towards an Integrated Life
+
 What is the goal of discipleship? So often we get lost in the weeds of [[Event Planning]], or the pressures of day to day ministry that taking time to reflect on the end goal of discipleship slips into the background. In our rush to do, we forget what we are meant to be.
 
 The following discussion embodies my written thoughts on this question. Through prayer, study and continued reflection, I have become increasingly convinced that being a Christian is so much more than just knowing the right things. For after all, “Even the demons believe—and shudder!” (James 2:19).
@@ -31,9 +35,12 @@ So much of modernity has shrunk humanity down to brains on sticks.  If you just
 This topic in and of itself could take up many pages.  It seeks the core of our existence and the purpose for living.  Things no one can quite get away from, no matter the life one may choose.  Because of this, we will use three defining moments from salvation history to anchor our description of humanity.  
 
 # The Two Commissions
+
 ![[The Two Commissions]]
 The God given purpose of human living.
+
 # The Full Picture
+
 As we pull these pieces together, the call to become a disciple of Jesus takes on flesh and bone.  To be a disciple means to be a co-creator and a lover.  A follower that answers the ancient call of the creator to live life in the Gospel. This call speaks of a compelling, even enrapturing experience and dependence on God. 
 
 Yet this description does not always ring true in experience. Ever since the enlightenment movement of the 1800s, Lutheran education and practice has targeted the minds of its pupils.  This approach has been carried out effectively, producing generations of well informed and educated people. However, in the reduction of discipleship to the life of the mind, we have lost the bigger picture. 
@@ -41,6 +48,7 @@ Yet this description does not always ring true in experience. Ever since the enl
 This discussion has aimed to illuminate the deep seated, earthy, gut wrenching nature of the call to follow Christ. Humans are not primarily shaped by thoughts.  Some of our most foundational years of development are years we do not even remember.  Humans are rather primarily co-creators and lovers.  It is through these lenses that we seek to plan and enact future Christian discipleship. 
 
 # Discipleship as Christian Formation 
+
 The Hebrew word to know (Yada) continues the line of anthropology we have started down. To know is to experience.  Without experience there is no true knowledge.  If this is true, and humans are primarily co-creators and lovers, then the orientation and direction of Christian instruction and practice should take on a much different shape than a data dump. But what shape is that? 
 
 As co-creators we are physical beings connected to a physical earth.  Earthen vessels tilling and caring for the ground from which we were formed. We are connected to the rhythms of nature (just ask a teacher if they can tell when the moon is full).  We reorient and reconfigure the materials of this earth to create and build.  Our Lutheran theology prepares us nicely to understand the implications of this reality. 
@@ -94,6 +102,7 @@ Another way to conceptualize the practices we are after is the idea of thick and
 •	Thick Habits - These habits are what we are after. They bring meaning into our life and push us toward our image of an ideal life. 
 
 ## Forming Thick Habits and Liturgies 
+
 As we continue to think through how we access the chain of formation and promote deep change of desire. We can turn to the liturgy we practice every Sunday. Church liturgy is a pattern for living. It carries us along on the journey of the church year. In it we receive all the good gifts of God. Sunday liturgy composes and compiles so many elements from the story of Scripture and helps us begin to practice the thick habits of faith.  
 
 The movement of discipleship should therefore be animated and flow out from our Sunday liturgy. The thick habits of our daily life should be informed and corrected by the words and practices of Scripture. To this end, what follows is a short list of thick habits to think through bringing into our discipleship efforts:
@@ -124,6 +133,9 @@ To summarize, the end goal of discipleship is about forming and shaping the deep
 “If Scholarship is the goal of discipleship, then we end up with scholars who make more scholars who know right answers. If joining Jesus is the goal of discipleship, then we end up with disciples who make more disciples who participate in the redemption and restoration of all things.” 
 
 # How should we think?
+
 ![[Core Mindsets for a Healthy Community]]
+
 # Starting Small and Growing from There
+
 ![[The Edge of the Wedge]]

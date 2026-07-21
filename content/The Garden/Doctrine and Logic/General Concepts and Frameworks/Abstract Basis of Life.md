@@ -1,29 +1,36 @@
 ---
-created: 2024-10-22
 publish: true
-tags: [🌱Seed, 🙂Agree]
+created: 2024-10-22
+modified: 2026-04-09T15:00:26.263-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
 ---
-    #🏖️Universe-Humans 
 
-****
+```
+#🏖️Universe-Humans 
+```
+
+---
 
 > [!summary] The Big Idea
- Life can be zoomed out to four main types of forces 
+> Life can be zoomed out to four main types of forces
 
-Basically we can think along two axises: time and space. 
+Basically we can think along two axises: time and space.
 
-## Time 
+## Time
+
 **Processes**: the long-term path ways, cycles, and forces that shape knowingly or not.
 
 **Rhythms**: the regular occurrence of practices and events that build the processes we live in. Processes are made up of rhythms. And a rhythm can be embodied by any number of different practices.
 
-**Practices**: the things we do in a particular way 
+**Practices**: the things we do in a particular way
 
 ## Space
-Spacial Configuration: like in 
-[[The Quality of Life in Environments and Objects]]
 
+Spacial Configuration: like in
+[[The Quality of Life in Environments and Objects]]
 
 Related Notes: [[Models of Human Rhythms]], [[Patterns of Liturgy-The Rhythm of Life]]
 
-****
+---

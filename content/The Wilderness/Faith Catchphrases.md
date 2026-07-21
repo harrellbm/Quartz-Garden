@@ -1,26 +1,30 @@
 ---
-created: 2024-11-30
-edited_seconds: 0
 publish: true
-tags: [🌱Seed, 🙂Agree, 🥾SpiritualPractices-EmbodiedLiving]
-updated: 2026-04-01T14:36:01.555-07:00
+created: 2024-11-30
+modified: 2026-04-01T14:36:01.555-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🥾SpiritualPractices-EmbodiedLiving
 ---
 
 > [!Summary] The Big Idea
-> Some nice and quick catch phrases to teach important postures of the Christian life. The first is being thankful you need to stop and remember what you are grateful for. 
+> Some nice and quick catch phrases to teach important postures of the Christian life. The first is being thankful you need to stop and remember what you are grateful for.
 
-****
+---
 
 # How to prepare God's Kingdom
 
 > [!important] Catchphrase
-> ## Repent and Believe 
+>
+> ## Repent and Believe
 
 “The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel.”- Mark 1:15
 
 # How to give Thanks
 
 > [!important] Catchphrase
+>
 > ## Stop and Remember
 
 Psalm 9:1-2

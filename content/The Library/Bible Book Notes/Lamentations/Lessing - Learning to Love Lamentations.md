@@ -1,15 +1,17 @@
 ---
-created: 2026-02-17
-edited_seconds: 84
 publish: true
-tags: ["\U0001F331Seed", "\U0001F610Neutral", "\U0001F7E1Consideration"]
-updated: 2026-02-17 10:50:43.660000-08:00
+created: 2026-02-17
+modified: 2026-02-17 10:50:43.660000-08:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
+  - 🟡Consideration
 ---
 
 > [!Summary] The Big Idea
 > Notes written by Dr. Lessing from Concordia St. Paul
 
-****
+---
 
 Learning to Love Lamentations
 
@@ -23,13 +25,13 @@ Director of the Center for Biblical Studies 
 
 Director of the Pre-Seminary Program 
 
-Bloodshed and famine and terror and weeping,  
-Death all around me because of my sin:  
-Lord, I deserve it; Thy wrath, I have earned it;  
-Thy anger burns, because faithless I’ve been.  
-Great is Thy faithfulness! Great is Thy faithfulness!  
-On Easter morning, Thy true heart I see.  
-Though Thou afflict me, Thy purpose is mercy:  
+Bloodshed and famine and terror and weeping,\
+Death all around me because of my sin:\
+Lord, I deserve it; Thy wrath, I have earned it;\
+Thy anger burns, because faithless I’ve been.\
+Great is Thy faithfulness! Great is Thy faithfulness!\
+On Easter morning, Thy true heart I see.\
+Though Thou afflict me, Thy purpose is mercy:\
 Great is Thy faithfulness, Lord, unto me.
 
 **Introduction**
@@ -98,16 +100,13 @@ Trauma, by its nature, tends to get people stuck in circularity. It is not helpf
 
 Acrostics, therefore, demonstrate more than aesthetic beauty. They function pastorally, providing stability amid instability, order amid massive disorder. Eugene Peterson writes:
 
-Evil is not inexhaustible. It is not infinite. It is not worthy of a lifetime of attention. Timing is important. If a terminus is proposed too soon, people know that their suffering has not been taken seriously and conclude that it is therefore without significant. But if it goes on too long … [it may become] a crippled adjustment to life which frustrates wholeness.[10](#sdfootnote10sym)
+Evil is not inexhaustible. It is not infinite. It is not worthy of a lifetime of attention. Timing is important. If a terminus is proposed too soon, people know that their suffering has not been taken seriously and conclude that it is therefore without significant. But if it goes on too long … \[it may become] a crippled adjustment to life which frustrates wholeness.[10](#sdfootnote10sym)
 
 When going through grief and loss we need to avoid two extremes. The first is to allow the experience to overwhelm us. We do not go through the valley of the shadow of death; instead, we build a house in the valley and live there for the rest of our lives. The second extreme is to rush towards resolution too quickly. We want to show others that we are in control and everything now is “just fine.” When we do not allow grief and anger to surface it comes out in other ways that are destructive—to us and the people we love. Peterson observes,
 
 One of the commonest ways to deal with another’s suffering is to make light of it, to gloss it over, to attempt shortcuts through it. Because it is so painful, we try to get to the other side quickly. Lamentations provides a structure to guarantee against that happening.[11](#sdfootnote11sym)
 
 There are no shortcuts to healing;, from chapter to chapter, Lamentations’ acrostic poems reiterate several of the same motifs. Leslie Allen maintains, “Repetition is necessary, and never vain, for those who grieve.”[12](#sdfootnote12sym) Federico Villanueva’s observation is perfect, “An acrostic is a brilliant way of expressing pain while also imposing some form on it.”[13](#sdfootnote13sym)
-
-  
-  
 
 **Lamentations 1**
 
@@ -119,7 +118,7 @@ It is tempting to read Lamentations 1 and look for a progression of thought and 
 
 … was not to write a poem moving to an obvious climax of action or thought, but rather to create one of essentially uniform tone, corresponding to the one appalling catastrophe and the unvarying misery that came with it and followed it. A man who has just lost a wife or a child cannot keep his mind off it, and that is how this poet writes, ever returning to the source of grief.[15](#sdfootnote15sym)
 
-Lam 1:1–11 sets forth the book’s major themes. They include loneliness, abandonment, the destruction of and desecration of the temple, guilt, and loss—all set within dirges, laments, and protests. More specifically, in 1:1–6 Jeremiah describes the city’s current condition while in 1:7–11 he reflects upon what brought about the horrid situation, with Zion’s first cry in the book coming in 1:9c. She then gives voice to her pain in 1:12–20 (with the exceptions of 1:15c and 1:17)—chronicling Yahweh’s judgments and rehearsing her deep hurt. Zion’s tone in these verses is less caustic and more submissive for “Yahweh he [is] righteous” (1:18a). At the end of the chapter, she addresses the nations (1:18–19) and then Yahweh (1:20–22)—petitioning him to punish her adversaries (1:21–22).
+Lam 1:1–11 sets forth the book’s major themes. They include loneliness, abandonment, the destruction of and desecration of the temple, guilt, and loss—all set within dirges, laments, and protests. More specifically, in 1:1–6 Jeremiah describes the city’s current condition while in 1:7–11 he reflects upon what brought about the horrid situation, with Zion’s first cry in the book coming in 1:9c. She then gives voice to her pain in 1:12–20 (with the exceptions of 1:15c and 1:17)—chronicling Yahweh’s judgments and rehearsing her deep hurt. Zion’s tone in these verses is less caustic and more submissive for “Yahweh he \[is] righteous” (1:18a). At the end of the chapter, she addresses the nations (1:18–19) and then Yahweh (1:20–22)—petitioning him to punish her adversaries (1:21–22).
 
 Jeremiah and Zion address the same event—Jerusalem’s destruction, but they do so from different angles. Jeremiah’s is more objective, describing what he sees—the death of a city. Zion, on the other hand, is more subjective, expressing her emotions—what it feels like when death surrounds you. to Combining the voices creates a broader perspective of what happened.
 
@@ -137,21 +136,21 @@ Three times in chapter one Zion pleads with God to look (1:9c; 1:11c; 1:20a). He
 
 **1:1** _**Aleph**_
 
-**a** עָ֔ם אֵיכָ֣ה׀ יָשְׁבָ֣ה בָדָ֗ד הָעִיר֙ רַבָּ֣תִי —“How could it be? She sits alone, the city [once] full of people.”
+**a** עָ֔ם אֵיכָ֣ה׀ יָשְׁבָ֣ה בָדָ֗ד הָעִיר֙ רַבָּ֣תִי —“How could it be? She sits alone, the city \[once] full of people.”
 
-Forms of the interrogative pronoun אֵיכָ֣ה appear in funeral dirges (e.g., David employs אֵ֖יךְ when he laments the deaths’ of Saul and Jonathan [2 Sam 1:19, 25, 27]). Lam 1:1–11 thus exhibits the following features from a funeral dirge: [22](#sdfootnote22sym) 1) the opening cry, “how could it be?” (אֵיכָ֣ה); 2) the contrast between what once was (e.g., a queen sitting in splendor) to what now is (a lonely, comfortless widow); and 3) the qinah meter, though employed sporadically. Missing, though, is any notification that someone has actually died.
+Forms of the interrogative pronoun אֵיכָ֣ה appear in funeral dirges (e.g., David employs אֵ֖יךְ when he laments the deaths’ of Saul and Jonathan \[2 Sam 1:19, 25, 27]). Lam 1:1–11 thus exhibits the following features from a funeral dirge: [22](#sdfootnote22sym) 1) the opening cry, “how could it be?” (אֵיכָ֣ה); 2) the contrast between what once was (e.g., a queen sitting in splendor) to what now is (a lonely, comfortless widow); and 3) the qinah meter, though employed sporadically. Missing, though, is any notification that someone has actually died.
 
 Leslie Allen renders אֵיכָ֣ה, with “how terrible that …”[23](#sdfootnote23sym) Delbert Hillers suggests, “How can it be that …?”[24](#sdfootnote24sym) Christopher Wright maintains, “It carries a sense of ‘How come? How can this possibly have happened?’”[25](#sdfootnote25sym) The interjection throbs with shock and despair. “Oh! Alas! Woe! Ah!” However English translations render אֵיכָ֣ה, it is much more than the ESV, NASB, and NRSV, “How.” This is overly bland. The cry אֵיכָ֣ה is more like an elongated Eykaaaah—erupting from a heart racked by ruin. The rabbinic Targum of Lamentations 1:1 likewise understands אֵיכָ֣ה to be a deep sigh, a mournful, visceral cry—equating it with God’s response to the Fall:
 
-The third word in the book is the absolute noun בָדָ֗ד, “alone,” employed adverbially (GKC §118n). The once thriving and bustling city of Jerusalem was now a ghost town. Yahweh abandoned Zion in anger (Is 54:5–7). Zion’s angst of loneliness is accented in Lam 1:4a (“none come to the festival”), Lam 1:5c (“her children have gone away”), and Lam 1:6c (“they fled without power”). Zion sits by herself, much like a person with leprosy: “He will live alone (בָּדָ֣ד יֵשֵׁ֔ב), his dwelling outside the camp.” (Lev 13:46) The afflicted psalmist’s sentiments are similar: he feels, “Like a bird living alone (בּוֹדֵ֥ד) upon a roof.” (Ps 102:8 [EN 102:7])
+The third word in the book is the absolute noun בָדָ֗ד, “alone,” employed adverbially (GKC §118n). The once thriving and bustling city of Jerusalem was now a ghost town. Yahweh abandoned Zion in anger (Is 54:5–7). Zion’s angst of loneliness is accented in Lam 1:4a (“none come to the festival”), Lam 1:5c (“her children have gone away”), and Lam 1:6c (“they fled without power”). Zion sits by herself, much like a person with leprosy: “He will live alone (בָּדָ֣ד יֵשֵׁ֔ב), his dwelling outside the camp.” (Lev 13:46) The afflicted psalmist’s sentiments are similar: he feels, “Like a bird living alone (בּוֹדֵ֥ד) upon a roof.” (Ps 102:8 \[EN 102:7])
 
-To be בָּדָד, “alone,” normally connotes isolation and exclusion (e.g., Is 27:10; Jer 15:17; Mic 7:14). Abandonment is a typical grievance in OT laments (e.g., Pss 38:12 [EN 38:11]; 88:9, 19 [EN 88:8, 18]).
+To be בָּדָד, “alone,” normally connotes isolation and exclusion (e.g., Is 27:10; Jer 15:17; Mic 7:14). Abandonment is a typical grievance in OT laments (e.g., Pss 38:12 \[EN 38:11]; 88:9, 19 \[EN 88:8, 18]).
 
 The city/woman laments that all אֹהֲבֶ֑יהָ, “her lovers”—or covenant allies—failed to extend comfort. While there is often a theological component to Israel’s compacts with foreign nations (e.g., 2 Ki 16:10–18), allies were expected to assist one another when another country attacked. Berlin writes, “A nation was obligated to mourn the loss of an ally, and to provide comfort to his survivors.”[26](#sdfootnote26sym) Because Jeremiah personifies Jerusalem, these “lovers” connote political relationships. Note, for instance, 1 Ki 5:15 (EN 5:1) כִּ֣י אֹהֵ֗ב הָיָ֥ה חִירָ֛ם לְדָוִ֖ד, “for Hiram became David’s lover/ally.”
 
 In Lam 1:19a לַֽמְאַהֲבַי֙, “to my lovers,” also has this meaning, though the accent in this verse includes Judah’s infidelity to Yahweh. Deut 6:5 states, “And you shall love (וְאָ֣הַבְתָּ֔) Yahweh your God with all your heart and with all your soul and with all your strength.” Zion’s misplaced love lies at the heart of her downfall.
 
-Antanaclasis is prominent in Lamentations—that is, a word that takes different shades of meaning. In this case, the verb _**אָהֵב**_ comes in the Piel in Lam 1:19a where it connotes romantic lovers; a meaning that appears in Ezek 23:5, “Oholah became a prostitute while she was mine, and she lusted after her lovers (מְאַהֲבֶ֔יהָ) the warriors of Assyria.” The same Piel form and meaning of אָהֵב recurs in Ezek 23:9. Christopher Wright observes, “The _lovers_, in the language of the prophets, were the gods and governments of surrounding nations.”[27](#sdfootnote27sym) Note, also, this use of _**אָהֵב**_ in Hosea: “She said, “I will go after my lovers” (מְאַהֲבַי֙, Hos 2:7 [EN 2:5]). “Lovers” here likewise refers to political alliances which Hosea condemns (e.g., Hos 7:11).
+Antanaclasis is prominent in Lamentations—that is, a word that takes different shades of meaning. In this case, the verb _**אָהֵב**_ comes in the Piel in Lam 1:19a where it connotes romantic lovers; a meaning that appears in Ezek 23:5, “Oholah became a prostitute while she was mine, and she lusted after her lovers (מְאַהֲבֶ֔יהָ) the warriors of Assyria.” The same Piel form and meaning of אָהֵב recurs in Ezek 23:9. Christopher Wright observes, “The _lovers_, in the language of the prophets, were the gods and governments of surrounding nations.”[27](#sdfootnote27sym) Note, also, this use of _**אָהֵב**_ in Hosea: “She said, “I will go after my lovers” (מְאַהֲבַי֙, Hos 2:7 \[EN 2:5]). “Lovers” here likewise refers to political alliances which Hosea condemns (e.g., Hos 7:11).
 
 With the expression מִכָּל־אֹהֲבֶ֑יהָ, “from among all her lovers,” we meet the first of sixteen uses of _**כֹּל**_, “all,” in Lamentations 1; they come in thirteen separate verses.[28](#sdfootnote28sym) “Its negative repetition tolls the totality of Zion’s tragedy.”[29](#sdfootnote29sym) Paul House observes:
 
@@ -159,15 +158,15 @@ Lam 1:3 is replete with echoes from the book of Exodus. The first two links come
 
 The second connection with the exodus is in Lam 1:3b (כָּל־רֹדְפֶ֥יהָ הִשִּׂיג֖וּהָ, “all pursuing her have overtaken her”); see Ex 14:9; 15:9. The third comes in Lam 1:3c הַמְּצָרִֽים, “narrow straights,” a pun with the proper noun מִצְרַיִם, “Egypt”—_mĕṣārîm_ and _miṣrayim_, respectively.[30](#sdfootnote30sym) The upshot? “The vassalage of Judah to Babylonia is likened to the enslavement in Egypt.”[31](#sdfootnote31sym) Further echoes of Israel’s Egyptian slavery appear in Lam 1:1c, 3c, 4c, 9b, c, 12a, b, c, 15b, 18b, 22a, b. There is, however, one monumental difference. Moses and his generation were saved. Lamentations does not end with that assurance (Lam 5:22). All is not lost, however. The Gospel comes in Isaiah 40–55 where the prophet announces that God will deliver Babylonian exiles just as he delivered Moses’ generation from Egypt.[32](#sdfootnote32sym)
 
-**1:9** רְאֵ֤ה יְהוָה֙ אֶת־עָנְיִ֔י כִּ֥י הִגְדִּ֖יל אוֹיֵֽב׃ —“Look Yahweh at my affliction for [the] enemy has acted boastfully.” Literarily, Zion’s speech is prosopopoeia—when an abstract object speaks. “Comprehensive loss, excessive personal violation, public humiliation, and failure to understand why prompt Woman Zion’s oration.”[33](#sdfootnote33sym)
+**1:9** רְאֵ֤ה יְהוָה֙ אֶת־עָנְיִ֔י כִּ֥י הִגְדִּ֖יל אוֹיֵֽב׃ —“Look Yahweh at my affliction for \[the] enemy has acted boastfully.” Literarily, Zion’s speech is prosopopoeia—when an abstract object speaks. “Comprehensive loss, excessive personal violation, public humiliation, and failure to understand why prompt Woman Zion’s oration.”[33](#sdfootnote33sym)
 
-Zion interrupts Jeremiah, going over his head and addressing Yahweh, “the father of orphans and defender of widows” (Ps 68:6 [EN 68:5]). Though it is a heart wrenching plea, the words are full of hope. The lady is not dead! “The very fact that Zion cries out her anger attests to a future for the two.”[34](#sdfootnote34sym)
+Zion interrupts Jeremiah, going over his head and addressing Yahweh, “the father of orphans and defender of widows” (Ps 68:6 \[EN 68:5]). Though it is a heart wrenching plea, the words are full of hope. The lady is not dead! “The very fact that Zion cries out her anger attests to a future for the two.”[34](#sdfootnote34sym)
 
 The imperative רְאֵ֤ה, “see,” does not imply Yahweh is blind; instead, it demands he act graciously toward his people.[35](#sdfootnote35sym) 2 Ki 9:26 gets at the idea where Yahweh sees innocent people murdered and indicates that he is going to respond. Esther 8:6 is similar.
 
 Zion’s command transforms the dirge in Lam 1:1–9b into a lament—albeit a short one with just two words, רְאֵ֤ה יְהוָה֙, “Look, Yahweh.”
 
-**1:20** _**Resh**_ **a** רְאֵ֨ה יְהוָ֤ה כִּֽי־צַר־לִי֙ מֵעַ֣י חֳמַרְמָ֔רוּ —“Look Yahweh indeed [at] my distress; my insides churn.” Because Zion has lost her children, youths, priests, and elders, she turns to Yahweh, her afflicter (1:5b, 12c), hoping for comfort. Zion thus repeats her earlier petitions for Yahweh to look upon her (cf. 1:9c, 11c).
+**1:20** _**Resh**_ **a** רְאֵ֨ה יְהוָ֤ה כִּֽי־צַר־לִי֙ מֵעַ֣י חֳמַרְמָ֔רוּ —“Look Yahweh indeed \[at] my distress; my insides churn.” Because Zion has lost her children, youths, priests, and elders, she turns to Yahweh, her afflicter (1:5b, 12c), hoping for comfort. Zion thus repeats her earlier petitions for Yahweh to look upon her (cf. 1:9c, 11c).
 
 Not only is Zion spent physically; she is also emotionally wrung out. This is what trauma does; it often locates itself in our stomach or מֵעֶה, “**belly, womb, gut(s), entrails, bowel(s), inner organs**” (_DCH_).
 
@@ -201,16 +200,13 @@ Does the church sometimes value emotions too much? Do we let them control us? Do
 
 Are the choices either a focus on our emotional life or our rational life? Is it either our heart or our head? The decision is not an either/or. It is a both/and—with Holy Scripture directing how to express both.
 
-  
-  
-
 **Divine Emotions in the Old Testament**
 
 Theology (what we say about God) impacts anthropology (what we say about people). If God has no emotions, then the goal for people is to become stoic-like, passionless, and devoid of feelings. Is this the biblical God? Not even close. Jesus weeps over Lazarus (Jn 11:35) and Jerusalem (Lk 19:41); and feels great dread in Gethsemane (e.g., Lk 22:44). And Yahweh? He feels heart-piercing sorrow (Gen 6:6), deep pain (Ex 3:7), and the affliction of his people (Is 63:9). And he laments, “My people have forgotten me, days without number” (Jer 2:32) Matthew Elliot maintains: “God’s emotions are always correct, righteous and moral because he is always correct, righteous and moral.”[49](#sdfootnote49sym)
 
 Yahweh does not view the pain permeating Lamentations with detached objectivity. He is not aloof. There is more to Yahweh than rational reflection, critical analysis, and blazing judgment. He has great passion and emotion. The Triune God is holy, sovereign, and utterly removed from us. Yet, at the same time, he is imminent, personal, and relational. Jürgen Moltmann writes: “A God who cannot suffer is poorer than any human. For a God who is incapable of suffering is a being who cannot be involved.”[50](#sdfootnote50sym)
 
-This has not always been the church’s teaching. Dennis Ngien observes, “Virtually all the early church fathers took it for granted [that God could not suffer], denying God any emotions because they might interrupt his tranquility.”[51](#sdfootnote51sym) Influenced by Stoicism, the church taught that divine perfection denotes perfect reason devoid of feelings.
+This has not always been the church’s teaching. Dennis Ngien observes, “Virtually all the early church fathers took it for granted \[that God could not suffer], denying God any emotions because they might interrupt his tranquility.”[51](#sdfootnote51sym) Influenced by Stoicism, the church taught that divine perfection denotes perfect reason devoid of feelings.
 
 Beginning with Abraham Heschel (1907–1972), both Jews and Christians began to argue against seeing God as an Aristotelian unmoved-mover. Heschel differentiated between passion and divine _pathos_.[52](#sdfootnote52sym) Passion is losing control, being overcome and overwhelmed by feelings. Conversely, _pathos_ entails God’s willingness to relate to his creation wholistically—with both thoughts and emotions. Thus, Yahweh is not an emotionless chess player who moves pieces on a board. Neither is he a detached scientist watching an experiment blow up. Yahweh is a jilted Lover, a frustrated Father, a covenant partner whose heart breaks over his wayward people.
 
@@ -218,7 +214,7 @@ Note, for example, Judg 10:11–13—a record of God’s frustration with Israel
 
 God’s grief does not entail being emotionally overwhelmed or embittered by the barrage of rejection. Through it all, God’s faithfulness and gracious purposes remain constant and undiminished.[53](#sdfootnote53sym)
 
-Yahweh’s suffering with his people is one of the hallmark truths in the burning bush theophany. The end of Exodus 2 ends with the cryptic phrase, “and God knew” (וַיֵּ֖דַע אֱלֹהִֽים, Ex 2:23). God knew what? Ex 3:7 provides the answer, straight from Yahweh’s heart, “Indeed, I know his [Israel’s] pain” (כִּ֥י יָדַ֖עְתִּי אֶת־מַכְאֹבָֽיו). In this context, the verb “know” (יָדַע) denotes more than “know about.” Instead, it means “experience.” Fretheim comments:
+Yahweh’s suffering with his people is one of the hallmark truths in the burning bush theophany. The end of Exodus 2 ends with the cryptic phrase, “and God knew” (וַיֵּ֖דַע אֱלֹהִֽים, Ex 2:23). God knew what? Ex 3:7 provides the answer, straight from Yahweh’s heart, “Indeed, I know his \[Israel’s] pain” (כִּ֥י יָדַ֖עְתִּי אֶת־מַכְאֹבָֽיו). In this context, the verb “know” (יָדַע) denotes more than “know about.” Instead, it means “experience.” Fretheim comments:
 
 God is thus portrayed not as a king dealing with an issue at some distance, nor even as one who sends a subordinate to cope with the problem, nor as one who issues an edict designed to alleviate the suffering. God sees the suffering from the inside.[54](#sdfootnote54sym)
 
@@ -266,15 +262,15 @@ The term מֵעַ֔י, “my internal organs”—a plural noun with a first-per
 
 **b** נִשְׁפַּ֤ךְ לָאָ֙רֶץ֙ כְּבֵדִ֔י עַל־שֶׁ֖בֶר בַּת־עַמִּ֑י כְּבֵדִ֔י—“My liver-bile was poured out on the ground over the breaking of the daughter of my people.” The term כְּבֵדִ֔י literally denotes “my liver,” yet by metonymy, here it means “bile”—a digestive fluid produced by the liver. This is how the NAB and ESV render the word.[67](#sdfootnote67sym) A bile reflux occurs when fluid backs up in the stomach and into the esophagus; hence, as outrage and shock overtake him, Jeremiah becomes so sick to his stomach that he vomits. The suffering of Zion’s children (Lam 2:11c) triggers the prophet’s strong emotional response.
 
-Note these connections. The prophet’s bile “is poured out” (Lam נִשְׁפַּ֤ךְ, 2:11b) because the children’s lives “are poured out” (בְּהִשְׁתַּפֵּ֣ךְ, Lam 2:12c).[68](#sdfootnote68sym) The verb שָׁפַךְ, “pour out,” also tethers the prophet to Zion (cf. Lam 2:4c; 4:1b, 11a, 13b). Compare Job 16:13, “He [God] pours out to the ground my gall [a bitter secretion of the liver] (יִשְׁפֹּ֥ךְ לָ֝אָ֗רֶץ מְרֵרָֽתִי).
+Note these connections. The prophet’s bile “is poured out” (Lam נִשְׁפַּ֤ךְ, 2:11b) because the children’s lives “are poured out” (בְּהִשְׁתַּפֵּ֣ךְ, Lam 2:12c).[68](#sdfootnote68sym) The verb שָׁפַךְ, “pour out,” also tethers the prophet to Zion (cf. Lam 2:4c; 4:1b, 11a, 13b). Compare Job 16:13, “He \[God] pours out to the ground my gall \[a bitter secretion of the liver] (יִשְׁפֹּ֥ךְ לָ֝אָ֗רֶץ מְרֵרָֽתִי).
 
 **2:11** God invites us to listen to those whose hearts are broken, to empathize with their pain, “to weep with those who weep” (Rom 12:15; cf. 1 Cor 12:26).[69](#sdfootnote69sym) This is Jeremiah in Lam 2:11. It is time to cry (cf. Eccl 3:4); to demonstrate to Zion that he knows about _lacrimae rerum_, “the tears of things.”
 
-In the first ten verses of Lamentations 2, Jeremiah mostly functions as a third party, describing the disastrous impact of the Day of the LORD upon Zion. With 2:11, however, the chapter shifts gears. The prophet changes from a neutral observer and begins seeing things Zion’s way. Her weeping shook the prophet “from his marbled numbness.”[70](#sdfootnote70sym) Jeremiah turns from relating only with his mind and starts addressing Zion with his heart. “His [Jeremiah’s] conversion results from being able to let her unspeakable reality into his being. When he does that, everything changes.”[71](#sdfootnote71sym) The outcome? A meshing of hearts; a communion of spirits; a mingling of tears and deep sighs between Jeremiah and Zion—Judah’s beleaguered survivors. “The scream of Zion has, almost literally, become the scream of the poet.”[72](#sdfootnote72sym) The prophet’s eyes cloud with tears; his voice chokes with sorrow.
+In the first ten verses of Lamentations 2, Jeremiah mostly functions as a third party, describing the disastrous impact of the Day of the LORD upon Zion. With 2:11, however, the chapter shifts gears. The prophet changes from a neutral observer and begins seeing things Zion’s way. Her weeping shook the prophet “from his marbled numbness.”[70](#sdfootnote70sym) Jeremiah turns from relating only with his mind and starts addressing Zion with his heart. “His \[Jeremiah’s] conversion results from being able to let her unspeakable reality into his being. When he does that, everything changes.”[71](#sdfootnote71sym) The outcome? A meshing of hearts; a communion of spirits; a mingling of tears and deep sighs between Jeremiah and Zion—Judah’s beleaguered survivors. “The scream of Zion has, almost literally, become the scream of the poet.”[72](#sdfootnote72sym) The prophet’s eyes cloud with tears; his voice chokes with sorrow.
 
 Jeremiah “walks a mile in her shoes” and begins to identify with Zion’s deep hurt. No longer willing to keep his emotions in check, the prophet changes from an onlooker and objective observer to a participant.[73](#sdfootnote73sym) He made a choice; not to move away from Zion’s emotions but instead to enter into them. _He sees._ Jeremiah identifies with Zion’s pain from the very bowels of his being. He vomits because of the intensity of his emotions. Zion had been alone (1:1a). She is alone no longer.
 
-Tears bring us back to life. Tears awaken us out of our numbed stupor. Tears are God’s gifts. Calm and cool heads have a place; but calm and cool head do not work in every place. There are times and places when tears help us recover our humanity and open our hearts to God and others. They cleanse our spirits and release tension, fear, and anxiety. God preserves our tears and records them in a book (Ps 56:9 [EN 56:8]). Lamentations is such a book—for Daughter Zion and for us.
+Tears bring us back to life. Tears awaken us out of our numbed stupor. Tears are God’s gifts. Calm and cool heads have a place; but calm and cool head do not work in every place. There are times and places when tears help us recover our humanity and open our hearts to God and others. They cleanse our spirits and release tension, fear, and anxiety. God preserves our tears and records them in a book (Ps 56:9 \[EN 56:8]). Lamentations is such a book—for Daughter Zion and for us.
 
 What finally prompted the prophet to engage Zion emotionally? It was not the ruined city or torched center of worship. It was the sight of children—children dying in the streets—that brought Jeremiah to weep like Zion (Lam 1:2a, 16a, 20a-b) and have a churning stomach like hers (Lam 1:20a). He saw the suffering children and began sobbing uncontrollably. Jeremiah does not “heal the wound of my people lightly” (cf. Jer 6:14; 8:11). “The recitation of facts without the accompanying emotions is a sterile exercise, without therapeutic effect.”[74](#sdfootnote74sym)
 
@@ -284,13 +280,13 @@ Everyone who has been ill, or in grief, or hurt, has experienced another’s att
 
 If we do not find a competent comforter we end up in one of two ditches. First, we may fake it, just to remain in the church—presenting a false front to God and others. Second, we may give up the faith, concluding that no one in the congregation can help us. This is why Martin Luther affirms that comforters are some of God’s greatest gifts; _mutuum colloquium et consolationem fratrum_. In his fourth article on the Gospel in the Smalcald Articles (1537) the Reformer writes:
 
-We will now return to the Gospel, which not merely in one way gives us counsel and aid against sin; for God is superabundantly rich [_überschwenglich_] in His grace. First, through the spoken Word by which the forgiveness of sins is preached in the whole world; which is the peculiar office of the Gospel. Secondly, through Baptism. Thirdly, through the holy Sacrament of the Altar. Fourthly, through the power of the keys, and also through the mutual conversation and consolation of brethren, Matt. 18, 20: Where two or three are gathered together, etc.
+We will now return to the Gospel, which not merely in one way gives us counsel and aid against sin; for God is superabundantly rich \[_überschwenglich_] in His grace. First, through the spoken Word by which the forgiveness of sins is preached in the whole world; which is the peculiar office of the Gospel. Secondly, through Baptism. Thirdly, through the holy Sacrament of the Altar. Fourthly, through the power of the keys, and also through the mutual conversation and consolation of brethren, Matt. 18, 20: Where two or three are gathered together, etc.
 
 **Summary**
 
 The shame and despair of Zion in chapter one morph into anger and accusations in chapter two—a poem that moves from grieving the loss of architecture (2:1–9a) to grieving the loss of people (2:9b–22). At the heart of Lamentations 2, though, is divine justice and not—as some argue—divine abuse.[77](#sdfootnote77sym) “The Day of the LORD” frames the chapter (2:1c, 22b) and is its guiding theological and literary idea. Delbert Hillers observes:
 
-The main point of this chapter [Lamentations 2] is that it was Yahweh himself who destroyed the city and people, and the writer seldom strays very far from this idea. Even when Zion herself finally appears and appeals to God, her words are not so much a prayer for help as a helpless restatement of the principal theme.[78](#sdfootnote78sym)
+The main point of this chapter \[Lamentations 2] is that it was Yahweh himself who destroyed the city and people, and the writer seldom strays very far from this idea. Even when Zion herself finally appears and appeals to God, her words are not so much a prayer for help as a helpless restatement of the principal theme.[78](#sdfootnote78sym)
 
 Divine wrath and indignation fall against Yahweh’s covenant-breaking people. While God is the source of Judah’s (2:1–9), he is also their solution (2:19b).
 
@@ -320,9 +316,7 @@ Divine ire is like fire (Lam 2:4c; Jer 4:4), rushing water (Is 30:27; Jer 7:20),
 
 But in order that grace may not be perverted by sinners into a ground of wantonness, justice is not wanting even here with its solemn threatenings, although it only follows mercy, to show that mercy is mightier than wrath, and that holy love does not punish till sinners despise the riches of the goodness, patience, and long-suffering of God.[89](#sdfootnote89sym)
 
-  
-
-Yahweh, when wronged, does not immediately seek retribution. While planning to refine Israel through their suffering he asks, “What else can I do?” (Jer 9:9 [EN 9:8]). It is only after he has sent prophets and been exceedingly patient, that Yahweh lowers the boom. He seeks life, not death (Ezek 18:23–32). Thus, when _ira dei_ falls upon Israel, they have been judged “not with the strict and icy indifferent of a judge, but with the pain and the anger of one who suit for a personal surrender has been rejected.”[90](#sdfootnote90sym)
+Yahweh, when wronged, does not immediately seek retribution. While planning to refine Israel through their suffering he asks, “What else can I do?” (Jer 9:9 \[EN 9:8]). It is only after he has sent prophets and been exceedingly patient, that Yahweh lowers the boom. He seeks life, not death (Ezek 18:23–32). Thus, when _ira dei_ falls upon Israel, they have been judged “not with the strict and icy indifferent of a judge, but with the pain and the anger of one who suit for a personal surrender has been rejected.”[90](#sdfootnote90sym)
 
 Divine wrath “has its roots in an awareness of the wounded love of YHWH.”[91](#sdfootnote91sym) This comports with Gen 6:6, a verse that chronicles God’s great remorse and heart-piercing anguish over his creation of humanity, while in the next verse he says, “I will blot out man from the face of the earth.” (Gen 6:7) Christopher Wright maintains: “God’s anger is saturated with God’s grief and soaked in tears both human and divine.”[92](#sdfootnote92sym)
 
@@ -334,17 +328,17 @@ Throughout the OT, authors announce that God’s anger arises because of human s
 
 Consequently, Yahweh does not judge “out of the blue” or suddenly “fly off the handle.” Prophets announce the talionic nature of God’s anger, i.e., “as you have done it will be done to you.” And the OT never describes Yahweh, believing Israelites, or righteous nations with the word חָמָס, “violence”—a term reserved for law-breaking, wicked, and unbelieving human beings who flaunt creation’s moral order.
 
-While Israel’s creed (e.g., Ex 34:6–7; Joel 2:13–14; Jonah 4:2) maintains that Yahweh is slow to anger, “his anger lasts but a moment” (Ps 30:6 [EN 30:5]; cf. Is 54:7–8). He does not stay angry forever (Ps 103:9; Is 57:16; Jer 3:12; Micah 7:18). Terrance Fretheim observes:
+While Israel’s creed (e.g., Ex 34:6–7; Joel 2:13–14; Jonah 4:2) maintains that Yahweh is slow to anger, “his anger lasts but a moment” (Ps 30:6 \[EN 30:5]; cf. Is 54:7–8). He does not stay angry forever (Ps 103:9; Is 57:16; Jer 3:12; Micah 7:18). Terrance Fretheim observes:
 
 These references to God’s wrath are coherent only if placed along a timeline, so that one can speak of delay, a time of provocation, a time of momentary execution, and a time when such wrath comes to an end.[94](#sdfootnote94sym)
 
 Divine displeasure is historical. It begins within history and ceases when history concludes.
 
-The OT accents the imbalance between Yahweh’s judgment and grace. The Gospel outlasts the Law one thousand to one (Deut 7:9–10). His anger lasts for a moment, his favor lasts a lifetime (Ps 30:6 [EN 30:5]). The day of vengeance pales in comparison to the year of favor (Is 61:2). Yahweh quickly gets over his wrath. It is intense, but temporary. His mercy endures forever (Psalm 136). He may become angry, but he _is_ love (1 Jn 4:8, 16).
+The OT accents the imbalance between Yahweh’s judgment and grace. The Gospel outlasts the Law one thousand to one (Deut 7:9–10). His anger lasts for a moment, his favor lasts a lifetime (Ps 30:6 \[EN 30:5]). The day of vengeance pales in comparison to the year of favor (Is 61:2). Yahweh quickly gets over his wrath. It is intense, but temporary. His mercy endures forever (Psalm 136). He may become angry, but he _is_ love (1 Jn 4:8, 16).
 
 **The Day of the LORD**
 
-Yahweh’s wrath against his enemies—either Israel and/or the nations—manifests itself most vividly when he appears in judgment on “the Day of the LORD.” The phrase declares God’s battle against the forces of evil. Thus, the day is synonymous with “the Day of Jezreel” (Hos 2:2 [EN 1:11]), the Day of Midian” (Is 9:3), “the day of Egypt” (Ezek 30:9), and “the Day of Jerusalem” (Ps 137:7). These refer military action; hence “the day of Yahweh” is another way to say, “the _battle_ of Yahweh.”
+Yahweh’s wrath against his enemies—either Israel and/or the nations—manifests itself most vividly when he appears in judgment on “the Day of the LORD.” The phrase declares God’s battle against the forces of evil. Thus, the day is synonymous with “the Day of Jezreel” (Hos 2:2 \[EN 1:11]), the Day of Midian” (Is 9:3), “the day of Egypt” (Ezek 30:9), and “the Day of Jerusalem” (Ps 137:7). These refer military action; hence “the day of Yahweh” is another way to say, “the _battle_ of Yahweh.”
 
 While a number verses in Lamentations attribute military loss and destruction to Yahweh, specific references to the Day of Yahweh only appear in four places—1:12c, 21c, 2:21c, and 22b.[95](#sdfootnote95sym) Zion speaks in all four verses. Lam 1:12c; 2:21c, and 22b describe a past event. On the other hand, 1:21c implies a future day of judgment for Zion’s enemies.[96](#sdfootnote96sym)
 
@@ -360,8 +354,6 @@ Sodom (Is 13:19; Lam 4:6a)
 
 Wild animals (Is 13:21–22; Amos 5:19; Lam 3:10; 5:18)
 
-  
-
 Lamentations interprets the Day of the LORD through the lens of God’s covenant curses expressed in Leviticus 26 and Deuteronomy 28. That is, it came about as a result of the vassal (Israel) rebelling against her suzerain (Yahweh). In the ancient Near East this resulted in the suzerain launching a military campaign to reassert control over his vassal.[97](#sdfootnote97sym) It follows that a number of sections in Lamentations depict Yahweh as the person behind Zion’s suffering (1:12–20; 2:1–8; 3:1–18, 42–47; 4:1–12). The book makes it clear. The Babylonian breaching of Jerusalem’s walls in 587 BC was nothing less than the Day of the LORD.
 
 Gerhard von Rad argued that the idea had its origins in Israel’s holy wars, hence it originally meant the moment when Yahweh defeated his enemies in battle.[98](#sdfootnote98sym) The opposite is also true. Yahweh could fight against Israel. This comes across clearly in places like Joshua 7, 1 Samuel 4–7, and the book of Lamentations. W.L. Moran says these texts exhibit “Anti-Holy-War.”[99](#sdfootnote99sym)
@@ -372,8 +364,6 @@ There are differences, though, between Israel’s prophetic announcements of Yah
 
 For a short time (בְּרֶ֥גַע קָטֹ֖ן) I abandoned you and in great compassion I will gather you. In overflowing wrath I hid my face for a moment (רֶ֙גַע֙) from you. And in everlasting steadfast love I will have compassion on you. (Is 54:7–8)[102](#sdfootnote102sym)
 
-  
-
 When we couple the prophetic understanding of the Day of the LORD with its usage in Lamentations, we see that there are several “days” of divine warfare envisioned in the Bible.[103](#sdfootnote103sym) Prophetic texts composed before 587 BC depict Yahweh’s day as immanent—coming soon. Lamentations, however, states that the day has come (Lam 1:21c) and describes its aftermath. This is not, however, the end of the theme—both Lam 1:21c–22 and Lam 4:21–22 pray for the nations to taste a “Day” for themselves. In the NT, Paul employs “the Day of the Lord” motif to depict the end of this evil age and the beginning of paradise restored (e.g., Phil 1:6; 1 Thess 5:2).
 
 From another perspective, though, “the Day of the LORD” is a past event. On Good Friday God acted not only as the Judge but also the one subjected to divine judgment; the Breaker as well as the One Broken. “In Christ God experienced human suffering, not simply as a divine sympathizer who stands beside us, but _as a human who suffers with, as, and for us_.”[104](#sdfootnote104sym)
@@ -381,8 +371,6 @@ From another perspective, though, “the Day of the LORD” is a past event. On 
 The OT is replete with this good news, beginning with the Proto-Evangelium in Gen 3:15 where Moses announces that the Woman’s Offspring will suffer in his combat with the Serpent. “It was Yahweh’s desire to crush him.” (Is 53:10) Hence, it is God who commands the sword to strike the Shepherd (Zech 13:7), with the term “sword” functioning as a metonym for a violent death (e.g., Jer 14:15; Amos 7:9, 11). Commenting on Mt 26:31 (cf. Mk 14:27), R.T. France writes:
 
 That so exalted a figure should nonetheless be struck down, and indeed by the sword of God himself, expresses in a remarkable way the paradox of a Messiah who is to be killed in accordance with the will of God declared in the scriptures.[105](#sdfootnote105sym)
-
-  
 
 Christ gave his life as a ransom for many (Mt 20:26; Mk 10:45) and became a curse for us (Gal 3:13). These song lyrics are most apt: “Till on that cross as Jesus died, the wrath of God was satisfied. For ev’ry sin on him was laid. Here in the death of Christ I live.”[106](#sdfootnote106sym)
 
@@ -396,21 +384,13 @@ The second approach takes the Bible’s talk of divine ire seriously; that is, G
 
 That the same terms are used for both human and divine anger shows that God’s anger is considered analogous to that of human beings. In any assessment of such an ‘anthropomorphic metaphor’ for God, it is important to claim both a ‘yes’ and a ‘no’ with respect to the human analogue.[111](#sdfootnote111sym)
 
-  
-  
-
 Both Yahweh and people get angry, yet Yahweh’s anger is always a perfect expression of his justice. It is never irrational or unreasonable. God will not remain detached or neutral in the face of evil. Lactantius (250–c. 325 AD) argues this in _De Ira Dei_:
 
 He who loves the good, by this very fact hates the evil; and he who does not hate the evil, does not love the good; because the love of goodness issues directly out of the hatred of evil, and the hatred of evil issues directly out of the love of goodness. No one can love life without abhorring death; and no one can have an appetency for light, without an antipathy to darkness.[112](#sdfootnote112sym)
 
-  
-  
-
 Yahweh’s anger is not mercurial or capricious—though it may appear that way. “God is not an executioner who can walk away from the judgment exacted, thinking, ‘I only did my duty.’”[113](#sdfootnote113sym) Divine rage materializes because he loves the world. Walter Kaiser writes:
 
 God’s anger is never explosive, unreasonable, or unexplained. It is rather His firm expression of real displeasure with our wickedness and sin. Even in God it is never a force or a ruling passion; rather it is an instrument of His will. And His anger has not, thereby, shut off His compassion to us.[114](#sdfootnote114sym)
-
-  
 
 Paul puts it this way: “Behold, then the kindness and severity of God.” (Rom 11:22) Divine severity and wrath, though very much a part of God’s nature, are not his chief characteristics. His judgment and indignation intend to drive people into the arms of his mercy.
 
@@ -426,8 +406,6 @@ We experience anger from sinful and imperfect people whose rage may be neurotic,
 
 It appears, from all the records, that though He has often rebuked us and condemned us, He has never regarded us with contempt. He has paid us the intolerable compliment of loving us, in the deepest, most tragic, most inexorable sense.[116](#sdfootnote116sym)
 
-  
-
 _Ubi amor, ibi dolor_, “where there is love, there is pain.”
 
 When God sees atrocities; when he witnesses deception and deceit; when he watches the high and mighty snuff out the poor and lowly; if he does not respond with judgment then he is not a loving God. But he who created the world and called it “very good” (Gen 1:31) springs to action when people distort and destroy his creation. Yahweh is not a benevolent deity who sees evil and merely shakes his fist. Instead, he actively judges and eradicates everything that is malevolent and vile.
@@ -435,12 +413,6 @@ When God sees atrocities; when he witnesses deception and deceit; when he watche
 The malnourished, mutilated, and violated bodies, appearing throughout the book of Lamentations, foreshadow God’s suffering in Christ when the Savior’s body underwent unparalleled torment and hell—to save us from such a fate. “Therefore, since being justified now through his blood how much more will we be saving through him from wrath.” (Rom 5:9)
 
 To rescue us from the full fury of “the Day of the LORD,” Jesus drank from the cup of divine fury (Mt 26:39; Lk 22:42). This was not a cup of suffering or a cup of sorrow or martyrdom. Jesus drained the cup of God’s wrath.[117](#sdfootnote117sym) Thus, he cries out to God, “Why have you forsaken me?” (Mt 27:46 = Mk 15:34). The answer to this question is simple, yet forever mysterious. Why did the Father turn his face away from Jesus? Because the Savior was bearing sin as well as the wrath of his Father—all out of abiding mercy for the world. “What wondrous love is this, that caused the Lord of bliss, to bear the dreadful curse for my soul, for my soul. To bear the dreadful curse for my soul?”[118](#sdfootnote118sym)
-
-  
-  
-
-  
-  
 
 **Lamentations 3**
 
@@ -484,7 +456,7 @@ Throughout Lam 3:1–17 God casts Jeremiah into the darkness, makes his flesh an
 
 Post-traumatic stress disorder paralyzes survivors of warfare—when flashbacks and nightmares show up uninvited and unsolicited. “To have lived through, and witnessed, the final chocking fires of Jerusalem and the blood-soaked slaughter or capture of its starved inhabitants must have been an ineradicable and soul-destroying memory.”[131](#sdfootnote131sym) What are Jeremiah’s options at this point? Abandon all hope or invoke Yahweh’s name. Thank God he chooses the later. It will make all the difference in the world.
 
-Although we suspect that Yahweh is the referent of the third-person masculine singular pronominal suffix “his” in, for instance, “his wrath” (עֶבְרָתֹֽו, 3:1)—along with all of the third-person singular verbs—the end of 3:18 identifies Jeremiah’s assailant. Lam 3:18, functions much like God’s disclosure of himself to Jacob during the patriarch’s all-night wrestling match at the Jabbok River (Gen 32:23–33 [EN 32:22–32]). It was not until morning broke that Jacob realized he was contending with God. What turns Jeremiah’s life around? The last word in Lam 3:18—_Yahweh_.
+Although we suspect that Yahweh is the referent of the third-person masculine singular pronominal suffix “his” in, for instance, “his wrath” (עֶבְרָתֹֽו, 3:1)—along with all of the third-person singular verbs—the end of 3:18 identifies Jeremiah’s assailant. Lam 3:18, functions much like God’s disclosure of himself to Jacob during the patriarch’s all-night wrestling match at the Jabbok River (Gen 32:23–33 \[EN 32:22–32]). It was not until morning broke that Jacob realized he was contending with God. What turns Jeremiah’s life around? The last word in Lam 3:18—_Yahweh_.
 
 It takes great faith to utter the divine name in the midst of a lament. By saying, “Yahweh,” Jeremiah turns the corner.[132](#sdfootnote132sym) _Incipit vita nova_, a new life begins. Hope is on the horizon. How do we know? The prophet’s first word in 3:19 is a cry for Yahweh to remember and, since the exodus, Israelites know that when God remembers he acts (e.g., Ex 2:24). “Yahweh’s name is a strong tower (מִגְדַּל־עֹ֭ז); the righteous man runs to it and is safe.” (Prov 18:10)
 
@@ -520,7 +492,7 @@ We must interpret Lamentations, then, through the lens Ex 34:6–7. If Yahweh ga
 
 “Steadfast-covenant love” (חֶסֶד) is the key word linking Lam 3:22 and Ex 34:6–7—the only word used more than once in Israel’s creed. It is also the only word modified by an adjective, “abounding.” Nothing will ever nullify this divine commitment. “Because of Yahweh’s covenant mercies (חַֽסְדֵ֤י יְהוָה֙) _we_ are not consumed.” (Lam 3:22) Jeremiah’s confession does not come _after_ God visited and restored his people. It comes _before_. It comes before there was any hope or any sign of new life. Hebrews 11 calls this faith.
 
-Jeremiah, Zion, and Judean exiles were living through Israel’s worst nightmare. In 597 BC Nebuchadnezzar imprisoned Jehoiachin (2 Ki 24:10–12). Attacking soldiers captured Zedekiah, Judah’s last king, in 587 BC (Lam 4:20a). Then, at Riblah, Nebuchadnezzar slaughtered his sons and blinded Zedekiah (2 Ki 25:6–7). The divine oath to the house of David appeared to have ended (Ps 89:39–52 [EN 89:38–51]). “Appeared” is the key adverb in the last sentence.
+Jeremiah, Zion, and Judean exiles were living through Israel’s worst nightmare. In 597 BC Nebuchadnezzar imprisoned Jehoiachin (2 Ki 24:10–12). Attacking soldiers captured Zedekiah, Judah’s last king, in 587 BC (Lam 4:20a). Then, at Riblah, Nebuchadnezzar slaughtered his sons and blinded Zedekiah (2 Ki 25:6–7). The divine oath to the house of David appeared to have ended (Ps 89:39–52 \[EN 89:38–51]). “Appeared” is the key adverb in the last sentence.
 
 Yahweh pledges to renew and expand his promises to David that include the weak, the weary, and the worn-down refugees in Babylon. The “with you” (לָכֶם֙) in Is 55:3 is grammatically plural. Yahweh democratizes his everlasting covenant with the house of David. “God’s capacity for kindness, compassion, and forgiveness is immense.”[139](#sdfootnote139sym) And this mercy includes everyone who believes the Seed promise (e.g., Gen 3:15; 22:17–18; cf. Gal 3:16); thus, David’s offspring will be multiplied (Jer 33:22). Yahweh’s promises go from the one to many. Brevard Childs writes, “The promise is no longer tied to David and assigned to the past, but is renewed as a present, active reality.”[140](#sdfootnote140sym)
 
@@ -536,7 +508,7 @@ What is _hesed_? It is shorthand for Yahweh’s unconditional, whatever it takes
 
 Beginning with Lam 3:22, and continuing through the end of the chapter, Jeremiah describes his highs and his lows. The highs are really high and the lows (again!) are really low. So who is the “real” Jeremiah? The man of great faith or the man of intense despair? Both. The prophet is _simul justus et peccator_—sinner and saint at the same time. The same feature appears in the book of Job, Psalm 73, Romans 7, and elsewhere. Robin Parry observes:
 
-Consequently, like the man [Jeremiah] the “Hallelujah!” of praise marks the Christian life, but so too does the “Alas!” of lament with its focus on or _present_ sufferings, and the “Maranatha!” of hope, with its focus on our deliverance _yet-to-come_.[142](#sdfootnote142sym)
+Consequently, like the man \[Jeremiah] the “Hallelujah!” of praise marks the Christian life, but so too does the “Alas!” of lament with its focus on or _present_ sufferings, and the “Maranatha!” of hope, with its focus on our deliverance _yet-to-come_.[142](#sdfootnote142sym)
 
 **3:23** After everything he has experienced, how can Jeremiah write these words? How can he pen this in light of all the pain catalogued—not only in 3:1–18—but throughout the book that bears his name? Where does his hope come from? Terrance Fretheim writes, “In the midst of the great gulf between the past and the future, the only hope is in a certain kind of God.”[143](#sdfootnote143sym)
 
@@ -572,9 +544,6 @@ It looks like laments play only a small part in the NT. After all, there is noth
 
 The early church raises a lament in Acts 4:23–30 as believers include these words from Ps 2:1 in their prayer, “Why do the nations rage and the peoples meditate on nothing?” When Stephen was stoned to death, reverent men buried him and “made great lament” (κοπετὸν μέγαν, Acts 8:2). When Dorcas died “the widows wept” (αἱ χῆραι κλαίουσαι) and displayed the tunics and clothing she had made (Acts 9:39). And Jesus? He shows solidarity with those saddened at Lazarus’ death (Jn 11:33, 35) as well as at Jerusalem’s immanent destruction (Lk 19:41–44). Noting these, and a number of other laments in the NT, at the end of the twentieth century scholars began to examine how OT laments impact the NT—a pursuit that continues to blossom well into the twenty-first century.[155](#sdfootnote155sym)
 
-  
-  
-
 **Matthew**
 
 Matthew includes laments, both early in his gospel, in the middle, as well as toward the end. The first one describes Bethlehem’s mothers agonizing over King Herod’s ruthless decree to slaughter their sons. Matthew uses the words of inconsolable Rachel to express this sorrow: “A voice is heard in Ramah, weeping and great wailing; Rachel weeping for her children. She refuses to be comforted because they are no more.” (Mt 2:18=Jer 31:15) Rachel—a literary figure here—refuses to theologize, spiritualize, ignore, deny, or explain her horror. She rejects the notion of putting the past behind her and getting on with life. Instead, Rachel looks death straight in the eye and lets it shake her to the core. Her honest brokenness reflects those who grieve over Herod’s senseless slayings in Bethlehem.
@@ -593,7 +562,7 @@ While tears are welcome in the kingdom of God, weeping and wailing are not Matth
 
 **Romans**
 
-Is there a place for laments in Paul’s theology? Yes, especially in Romans. “The echoes of OT lament resounding throughout the letter [Romans] indicate Paul sees the experience of those justified by faith in Christ commiserate with OT lamenters.”[159](#sdfootnote159sym) Shame is a prominent theme in OT laments—a motif that comes up in Lamentations a number of times (Lam 1:21b; 2:16; 3:46, 61–63; 5:1b). Shame also appears in Roman’s programmatic statement, “For I am not ashamed (Οὐ γὰρ ἐπαισχύνομαι) of the Gospel.” (Rom 1:16) Shame rears its ugly head when Christian hope runs into the wall of experience—the life of the cross.[160](#sdfootnote160sym)
+Is there a place for laments in Paul’s theology? Yes, especially in Romans. “The echoes of OT lament resounding throughout the letter \[Romans] indicate Paul sees the experience of those justified by faith in Christ commiserate with OT lamenters.”[159](#sdfootnote159sym) Shame is a prominent theme in OT laments—a motif that comes up in Lamentations a number of times (Lam 1:21b; 2:16; 3:46, 61–63; 5:1b). Shame also appears in Roman’s programmatic statement, “For I am not ashamed (Οὐ γὰρ ἐπαισχύνομαι) of the Gospel.” (Rom 1:16) Shame rears its ugly head when Christian hope runs into the wall of experience—the life of the cross.[160](#sdfootnote160sym)
 
 Shame is one reason Paul cites Hab 2:4 in Rom 1:17. Set in the larger context of Babylonian invasions in the late seventh and early sixth century BC, Habakkuk employs distinctive lament questions, “How long” (Hab 1:2) and “Why” (Hab 1:3). Channing Crisler argues, “Since OT lament plays such a significant role in the thematic statement, it stands to reason that it will have a prominent role in the rest of Romans as well.”[161](#sdfootnote161sym)
 
@@ -687,7 +656,7 @@ Davidic kings were invincible—or so Judeans thought. By divine decree, the Dav
 
 How could this be? What happened to God’s pledge in 2 Sam 7:16 where he says to David, “Your house and your kingship shall forever be secure … your throne shall be established forever”? With Zedekiah blinded and deported, his sons arrested and slaughtered, and not even a puppet king on Judah’s throne, everything looked over, done, finished, foreclosed forever.
 
-The Babylonians seized Zedekiah and that was that. We can hear the pathos in Psalm 89. The prayer begins by celebrating God’s eternal steadfast-love, faithfulness, and covenant with David who is Yahweh’s “firstborn” and “the most exalted king in the world” (Ps 89:28 [EN 89:27]). Reflecting Ps 2:7, Ps 89:27 (EN 89:26) affirms that God is even David’s “Father.” After extoling these divine commitments to the house of David, Ps 89:39 (EN 89:38) adds a startling “but now.” The poem’s mood suddenly shifts to blame Yahweh for everything gone wrong. God rejected his oath to the house of David; renounced his covenant; and defiled the royal crown (Ps 89:39–40 [EN 89:38–39)]. Cities lie in ruins and there are no more Davidic kings (Ps 89:41–46 [EN 89:40–45). The prayer ends entreating God to reverse his curse and restore David’s dynasty. While Lam 4:20 ends with Zedekiah’s capture, the chopping down of the royal tree (Is 6:13) was not God’s final act. From the burned-out stump comes a new Davidide (Is 11:1)—Jesus our Lord (Mt 1:1).
+The Babylonians seized Zedekiah and that was that. We can hear the pathos in Psalm 89. The prayer begins by celebrating God’s eternal steadfast-love, faithfulness, and covenant with David who is Yahweh’s “firstborn” and “the most exalted king in the world” (Ps 89:28 \[EN 89:27]). Reflecting Ps 2:7, Ps 89:27 (EN 89:26) affirms that God is even David’s “Father.” After extoling these divine commitments to the house of David, Ps 89:39 (EN 89:38) adds a startling “but now.” The poem’s mood suddenly shifts to blame Yahweh for everything gone wrong. God rejected his oath to the house of David; renounced his covenant; and defiled the royal crown (Ps 89:39–40 \[EN 89:38–39)]. Cities lie in ruins and there are no more Davidic kings (Ps 89:41–46 \[EN 89:40–45). The prayer ends entreating God to reverse his curse and restore David’s dynasty. While Lam 4:20 ends with Zedekiah’s capture, the chopping down of the royal tree (Is 6:13) was not God’s final act. From the burned-out stump comes a new Davidide (Is 11:1)—Jesus our Lord (Mt 1:1).
 
 Zedekiah’s capture (2 Kgs 25:6–9 = Jer 52:6–9; cf. Jer 39:1–10) prefigures Christ’s betrayal and arrest in Gethsemane.[184](#sdfootnote184sym) Lamentations, therefore, has been theologically dated on “the Holy Saturday of Israel’s life, caught between exilic death at the hands of Babylon and the desperate, though fragile, hope for resurrection.”[185](#sdfootnote185sym) What follows in Lam 4:21–22 is Jeremiah’s promise of salvation that portends Christ’s victory over death and the grave—as well as his final advent when as a Bridegroom he will return—bringing with him the New Jerusalem—to claim his Bride, the church (Rev 21:2).
 
@@ -707,9 +676,9 @@ Is there a better way? Yes. Lamentations. While the historical context of the bo
 
 **Lamentations and Trauma Studies**
 
-One popular view on working through trauma comes from Elizabeth K_ü_bler-Ross and her 1969 book _On Death and Dying_. She made famous this five-point process following loss: 1) denial and isolation, 2) rage and anger, 3) bargaining, 4) depression, and 5) acceptance.[187](#sdfootnote187sym) Kübler-Ross advanced this model based upon her study on how bereaved people coped with the loss of loved ones. She did not ground it upon empirical research.[188](#sdfootnote188sym) Originally Kübler-Ross intended her taxonomy to describe steps for people facing their own death but it quickly morphed into a process on how to cope with any kind deep trauma. Note, for instance, that Paul Joyce follows Kübler-Ross’ paradigm in his outline of Lamentations: chapter one, denial and isolation; chapter two, anger; chapter three, bargaining; chapter four depression; and chapter five acceptance.[189](#sdfootnote189sym)
+One popular view on working through trauma comes from Elizabeth K\_ü\_bler-Ross and her 1969 book _On Death and Dying_. She made famous this five-point process following loss: 1) denial and isolation, 2) rage and anger, 3) bargaining, 4) depression, and 5) acceptance.[187](#sdfootnote187sym) Kübler-Ross advanced this model based upon her study on how bereaved people coped with the loss of loved ones. She did not ground it upon empirical research.[188](#sdfootnote188sym) Originally Kübler-Ross intended her taxonomy to describe steps for people facing their own death but it quickly morphed into a process on how to cope with any kind deep trauma. Note, for instance, that Paul Joyce follows Kübler-Ross’ paradigm in his outline of Lamentations: chapter one, denial and isolation; chapter two, anger; chapter three, bargaining; chapter four depression; and chapter five acceptance.[189](#sdfootnote189sym)
 
-Dalit Rom-Shiloni doubts that reactions to trauma are so linear.[190](#sdfootnote190sym) Others agree that it is dubious to think people experience the stages of grief in such a strictly sequential manner.[191](#sdfootnote191sym) Moving beyond K_ü_bler-Ross, in 1980 the American Psychiatric Association added the term “post-traumatic stress disorder” (PTSD) to its diagnostic manual.[192](#sdfootnote192sym) Kathleen O’Connor describes trauma with these words:
+Dalit Rom-Shiloni doubts that reactions to trauma are so linear.[190](#sdfootnote190sym) Others agree that it is dubious to think people experience the stages of grief in such a strictly sequential manner.[191](#sdfootnote191sym) Moving beyond K\_ü\_bler-Ross, in 1980 the American Psychiatric Association added the term “post-traumatic stress disorder” (PTSD) to its diagnostic manual.[192](#sdfootnote192sym) Kathleen O’Connor describes trauma with these words:
 
 It so overwhelms the capacities of victims to take in, that the violence cannot be absorbed as it is happening. Traumatic violence comes as a shocking blow, a terrifying disruption of normal mental processes, distorting reality, even as it becomes the only reality.[193](#sdfootnote193sym)
 
@@ -729,7 +698,7 @@ Survivors were shocked (1:1a; 2:1a; 4:1a, 2b), isolated (e.g., 1:1a; 2c), had me
 
 But the empire could not take away Jeremiah’s pen. The prophet gives meaning to pain, words to replace silence, and he resurrects personal agency. “Medically, the binding up of the mental wounds caused by suffering is every bit as important as healing the sufferer’s physical wounds.”[199](#sdfootnote199sym)
 
-Jeremiah encourages us not to deny the past; nor to get stuck in it; instead, he invites us to work through our past. “Sharing the traumatic experience with others is a precondition for the restitution of a sense of a meaningful world.”[200](#sdfootnote200sym) But how? Trauma often prevents survivors from constructing a story about their experiences. They might have “snapshots” of moments, feelings, smells, tastes, sounds, but they are unable to put them together into a sequence that would explain what happened to them and why. “[Trauma] stops the chronological clock and fixes the moment permanently in memory and imagination.”[201](#sdfootnote201sym)
+Jeremiah encourages us not to deny the past; nor to get stuck in it; instead, he invites us to work through our past. “Sharing the traumatic experience with others is a precondition for the restitution of a sense of a meaningful world.”[200](#sdfootnote200sym) But how? Trauma often prevents survivors from constructing a story about their experiences. They might have “snapshots” of moments, feelings, smells, tastes, sounds, but they are unable to put them together into a sequence that would explain what happened to them and why. “\[Trauma] stops the chronological clock and fixes the moment permanently in memory and imagination.”[201](#sdfootnote201sym)
 
 Judith Herman suggests that,
 
@@ -783,12 +752,11 @@ To the extent that we are not shattered, we do not hope. There is in lament a de
 
 This is the way of Jesus. He welcomes honesty. “Blessed are those who mourn, for they will be comforted.” (Mt 5:4) The Greek word, translated “mourn,” suggests a sorrow that begins in the heart, takes possession of the entire person, and is outwardly manifested. This is far from superficial and sentimental sorrow.
 
-The only healthy way to address pain is to go through it_._ “I walk _through_ the valley of the shadow death.” (Ps 23:4) God pours out immeasurable comfort and consolation on those who mourn—on people who walk through their sorrows. “Remembering and telling the truth about terrible events are prerequisites both for the social order and for the healing of individual victims.”[221](#sdfootnote221sym)
+The only healthy way to address pain is to go through it\_.\_ “I walk _through_ the valley of the shadow death.” (Ps 23:4) God pours out immeasurable comfort and consolation on those who mourn—on people who walk through their sorrows. “Remembering and telling the truth about terrible events are prerequisites both for the social order and for the healing of individual victims.”[221](#sdfootnote221sym)
 
 There is something very godly about acknowledging our deep distress. In Gen 6:6 God the Father looks at the sin of the world in Noah’s day, and his heart is grieved. In Lk 19:41, Jesus approaches Jerusalem and weeps over the city. In Eph 4:30 Paul writes sin grieves the Holy Spirit.
 
-When we are tempted to appear super-Christian or super-pastor—a façade that will surely fail us—the book of Lamentations invites us to be honest, to be human. “Cast your burden upon Yahweh and he will sustain you.” (Ps 55:23 [EN 55:22])
-
+When we are tempted to appear super-Christian or super-pastor—a façade that will surely fail us—the book of Lamentations invites us to be honest, to be human. “Cast your burden upon Yahweh and he will sustain you.” (Ps 55:23 \[EN 55:22])
 
 **Lamentations 5**
 
@@ -825,7 +793,7 @@ There are three imperatives in Lam 5:1, “remember,” “take note,” and “
 
 The NT describes broken and hurting people who, in like manner, command Jesus to heal their diseases and defects (e.g., Mt 9:27; 15:22; 17:15; 20:30–31; Mk 10:47–48; Lk 17:13; 18:39). Without exception, the Savior responded with compassion and restoration.
 
-The prayer in Lam 5:1 ends with a plea for Yahweh to “see our disgrace.” Enemies asked rhetorically, and with great glee, “Where is their God?” (Ps 79:10) Further mention of scoffing and shaming at this time in Israel’s history comes in, e.g., Pss 74:10, 18, 22; 79:12. Belittling runs rampant throughout Lamentations (e.g., Lam 1:7d; 2:15–16; 3:61; 4:21a)—engulfing Judean survivors and bringing them to their knees.[235](#sdfootnote235sym) They complain both about their loss of status and their feelings of shame (e.g., Pss 79:4; 89:42, 51 [EN 89:41, 50]; 123:3, 4).
+The prayer in Lam 5:1 ends with a plea for Yahweh to “see our disgrace.” Enemies asked rhetorically, and with great glee, “Where is their God?” (Ps 79:10) Further mention of scoffing and shaming at this time in Israel’s history comes in, e.g., Pss 74:10, 18, 22; 79:12. Belittling runs rampant throughout Lamentations (e.g., Lam 1:7d; 2:15–16; 3:61; 4:21a)—engulfing Judean survivors and bringing them to their knees.[235](#sdfootnote235sym) They complain both about their loss of status and their feelings of shame (e.g., Pss 79:4; 89:42, 51 \[EN 89:41, 50]; 123:3, 4).
 
 **5:19** Lam 5:18 mourns the loss of Zion, and with it the loss of Yahweh’s presence. Everything is hopeless. It looked like Israel’s God lost to Marduk and the Babylonian pantheon. Nevertheless! There is hope! How so? The first two words of 5:19, “You Yahweh.” The differences between 5:18 and 5:19 are astounding. _God is still God_. Christopher Wright maintains:
 
@@ -835,23 +803,23 @@ Yahweh affirms Solomon’s temple. It was his idea. However, Yahweh was not boun
 
 With 5:19–22 we come to the book’s conclusion—the tone is both hopeful and uncertain. “The ending of Lamentations is not one of giving up on God, nor of the triumph of despair. Equally, it is not one of resolution. The book ends with a plea for restoration.”[238](#sdfootnote238sym)
 
-**5:21** “Create in me a clean heart, O God, and renew a right spirit within me.” (Ps 51:12 [EN 51:10]). The emphasis in Lam 3:40 is for people to turn to Yahweh (cf. Deut 4:29–30; 30:2–3). Just the opposite comes in Lam 5:21. The plea is for Yahweh to turn to his people (cf. Zech 1:3).
+**5:21** “Create in me a clean heart, O God, and renew a right spirit within me.” (Ps 51:12 \[EN 51:10]). The emphasis in Lam 3:40 is for people to turn to Yahweh (cf. Deut 4:29–30; 30:2–3). Just the opposite comes in Lam 5:21. The plea is for Yahweh to turn to his people (cf. Zech 1:3).
 
-Abandoned by lovers and friends (Lam 1:2b-c, 19a) the Judean remnant echoes these words: “I will return to my first husband for it was better for me then than now.” (Hos 2:9 [EN 2:7]). Yahweh empowers Israel’s return—indeed, he allures his people and speaks upon their heart (Hos 2:16 [EN 2:14]).
+Abandoned by lovers and friends (Lam 1:2b-c, 19a) the Judean remnant echoes these words: “I will return to my first husband for it was better for me then than now.” (Hos 2:9 \[EN 2:7]). Yahweh empowers Israel’s return—indeed, he allures his people and speaks upon their heart (Hos 2:16 \[EN 2:14]).
 
-Yahweh hid his face because of his people’s evil deeds (Jer 33:5; Micah 3:4). Their iniquities built a wall that separated them from their God (Is 59:2). Judean survivors anguish over the lack of divine presence because of their sin (e.g., Pss 44:24 [EN 44:23]; 74:1, 10; 89:47 [EN 89:46]). Like Job (Job 19:25), Asaph (Ps 73:25), Habakkuk (Hab 3:17–19), and Paul (Rom 8:38–39), Lam 5:21 affirms that having Yahweh is enough. He is more than enough.
+Yahweh hid his face because of his people’s evil deeds (Jer 33:5; Micah 3:4). Their iniquities built a wall that separated them from their God (Is 59:2). Judean survivors anguish over the lack of divine presence because of their sin (e.g., Pss 44:24 \[EN 44:23]; 74:1, 10; 89:47 \[EN 89:46]). Like Job (Job 19:25), Asaph (Ps 73:25), Habakkuk (Hab 3:17–19), and Paul (Rom 8:38–39), Lam 5:21 affirms that having Yahweh is enough. He is more than enough.
 
 Lam 5:21 announces that if the people are going to turn around, God must take the initiative. And according to Deut 30:6, he will. “Yahweh your God will circumcise your heart and the heart of your offspring, so that you will love Yahweh your God with all your heart and with all your soul, that you may live.” _If the relationship is to continue its up to Yahweh._
 
-**5:22** The Judean remnant had come to the end of their rope. Paradoxically, though, this is where healing begins—for them and for us. Admitting that we are powerless puts us in the right place—the place where renewed hope is born. “A broken and contrite heart, O God, you will not despise.” (Ps 51:19 [EN 51:17]) “Yahweh is close to the brokenhearted and saves those crushed in spirit.” (Ps 34:19 [EN 34:18]).
+**5:22** The Judean remnant had come to the end of their rope. Paradoxically, though, this is where healing begins—for them and for us. Admitting that we are powerless puts us in the right place—the place where renewed hope is born. “A broken and contrite heart, O God, you will not despise.” (Ps 51:19 \[EN 51:17]) “Yahweh is close to the brokenhearted and saves those crushed in spirit.” (Ps 34:19 \[EN 34:18]).
 
 Throughout Lamentations, emotions are expressed. Complaints aired. Tears shed. Protests conveyed. Cries shouted. Petitions prayed. And God? He is “quick to listen, slow to speak” (James 1:19) We do not often connect this verse to Yahweh, yet he is the world’s perfect listener. For five chapters God refuses to interrupt, correct, impede, shame, or scold. He lets his people have their say.
 
-But we still expect Yahweh to say something—anything. Instead, Lamentations presents one of the most abrupt endings in Holy Scripture. “Even if you have totally rejected us; [and] you are angry with us greatly.” This conclusion is right up there with Is 66:24 (the corpses of evil doers are an abhorrent to all flesh), Jonah 4:11 (God questions Jonah and the prophet does not respond), as well as Acts 28:31 (Luke does not tell us what happened in Paul’s appeal to Caesar).
+But we still expect Yahweh to say something—anything. Instead, Lamentations presents one of the most abrupt endings in Holy Scripture. “Even if you have totally rejected us; \[and] you are angry with us greatly.” This conclusion is right up there with Is 66:24 (the corpses of evil doers are an abhorrent to all flesh), Jonah 4:11 (God questions Jonah and the prophet does not respond), as well as Acts 28:31 (Luke does not tell us what happened in Paul’s appeal to Caesar).
 
 Lam 5:22 is one of the most jarring—indeed, one the of most difficult—verses in the Bible. It is an end without an ending. Nothing is resolved. Alan Minz writes, “The prayerful turning to God at the close of Lamentations represents, after all that has passed, a remarkable achievement; but it remains starkly unilateral.”[239](#sdfootnote239sym)
 
-In other OT laments, God responds (e.g., Psalms 60, 108). He directly addresses Jeremiah when the prophet weeps (Jer 11:18–12:6; 15:10–21). Then there is Job. Yahweh shows up in the storm (Job 38:1) and fires off ninety questions (Job 38:2 – 41:26 [EN 41:34]). Job becomes the speechless one, not God. But in the book of Lamentations? Nothing. Not a word. Kathleen O’Connor observes, “God does not speak, does not respond, does not heal, does not ‘see.’”[240](#sdfootnote240sym) Heaven is hushed. The divine does not speak. Lamentation is, by design, an open text.[241](#sdfootnote241sym)
+In other OT laments, God responds (e.g., Psalms 60, 108). He directly addresses Jeremiah when the prophet weeps (Jer 11:18–12:6; 15:10–21). Then there is Job. Yahweh shows up in the storm (Job 38:1) and fires off ninety questions (Job 38:2 – 41:26 \[EN 41:34]). Job becomes the speechless one, not God. But in the book of Lamentations? Nothing. Not a word. Kathleen O’Connor observes, “God does not speak, does not respond, does not heal, does not ‘see.’”[240](#sdfootnote240sym) Heaven is hushed. The divine does not speak. Lamentation is, by design, an open text.[241](#sdfootnote241sym)
 
 Though we overhear Yahweh’s voice in Lam 3:57, “Do not be afraid,” he never says anything directly in Lamentations. Why does he stay silent? Why not speak in the storm like Job 38:1—with a spectacular show of power and wisdom? Why not answer similar to Isaiah 65 when he responds to the lament in Is 63:7–64:11 (EN 64:12)? Lamentation’s divine silence is shocking. It is shocking, not only in light of OT laments that Yahweh often answers, but also when we look at Mesopotamian city laments, where deities often respond to people’s cries. Note, for instance, the god Enlil “speaks a friendly word” in “The Lamentation over the Destruction of Sumer and Ur” _ANET_, 619). Even in Mesopotamian city-laments pagan gods answer and restore ruins.[242](#sdfootnote242sym)
 
@@ -859,22 +827,21 @@ Yahweh’s refusal to talk at the end of Lamentations comports with Christ’s l
 
 Lamentations ends open-ended as it waits—indeed, longs—for God to speak. And he does! Oh my! He does! Isaiah 40–55 rings forth with Gospel affirmations.[244](#sdfootnote244sym) “‘Comfort, comfort my people,’ says your God. Speak upon the heart of Jerusalem and call out to her, ‘Truly her servitude/warfare is finished, truly her iniquity is paid for, truly she received from Yahweh’s hand double for all her sins.’” (Is 40:1–2) At last, the longed for comfort (Lam 1:2b, 9b, 16b, 17a, 21a) arrives.
 
-
 **Lamentations and Isaiah 40–55**
 
 **Introduction**
 
 The literary term for Lamentations’ abrupt ending is called a “gap.”[245](#sdfootnote245sym) The expression refers to a “lack of information about the world. It is an event, motive, causal link, character trait, plot structure or law of probability contrived by a temporal displacement.”[246](#sdfootnote246sym) A gap invites readers to ponder how to complete it. When we come to the end of Lam 5:22, we should not rush to fill its gap. Rebekah Eklund observes:
 
-Reading books for their own narrative integrity is a good practice. Just as we shouldn’t leap too quickly to the ‘hope and praise’ stage of a lament, we should resist the temptation to allow Isaiah to resolve all of Lamentations’ pain too neatly. Listen respectfully and in solidarity with the wounded and outraged voices of Lamentations’ victims. Sit awhile in silence with them.[247](#sdfootnote247sym) 
+Reading books for their own narrative integrity is a good practice. Just as we shouldn’t leap too quickly to the ‘hope and praise’ stage of a lament, we should resist the temptation to allow Isaiah to resolve all of Lamentations’ pain too neatly. Listen respectfully and in solidarity with the wounded and outraged voices of Lamentations’ victims. Sit awhile in silence with them.[247](#sdfootnote247sym)
 
-Responding to Lam 5:22 the next day might be too fast, yet this is how the Jewish _ti__š’â bĕ’ āb_ liturgy reacts. In the worship rite that mourns the atrocities of 587 BC, the following morning a lector reads Is 40:1, “Comfort, comfort, my people”—thus linking Lamentations with Isaiah 40–55.[248](#sdfootnote248sym)
+Responding to Lam 5:22 the next day might be too fast, yet this is how the Jewish _ti\_\_š’â bĕ’ āb_ liturgy reacts. In the worship rite that mourns the atrocities of 587 BC, the following morning a lector reads Is 40:1, “Comfort, comfort, my people”—thus linking Lamentations with Isaiah 40–55.[248](#sdfootnote248sym)
 
-There is no doubt that Yahweh will acknowledge Zion’s prayers. _He has spoken in the past. He will keep speaking in the future._ This is a central teaching in the book of Lamentations. Yahweh issued orders and commands in former days which Jeremiah reiterates (Lam 1:17b, 18a, 21c; 2:17a-b; 3:37–38). Also note these illusions and echoes of earlier OT texts that are ongoing; Zion’s beauty (Lam 2:15c; cf. Pss 48:2 [EN 48:1]; 50:2), the Day of the LORD (Lam 1:12c, 21c; 2:1c, 21c; cf. Is 2:6–22; Amos 5:18), as well as Israel’s creed (Lam 3:22–23; cf. Ex 34:6). The point is clear. “The grass withers and flower fades, but the Word of our God stands forever.” (Is 40:8) Yahweh will speak again.
+There is no doubt that Yahweh will acknowledge Zion’s prayers. _He has spoken in the past. He will keep speaking in the future._ This is a central teaching in the book of Lamentations. Yahweh issued orders and commands in former days which Jeremiah reiterates (Lam 1:17b, 18a, 21c; 2:17a-b; 3:37–38). Also note these illusions and echoes of earlier OT texts that are ongoing; Zion’s beauty (Lam 2:15c; cf. Pss 48:2 \[EN 48:1]; 50:2), the Day of the LORD (Lam 1:12c, 21c; 2:1c, 21c; cf. Is 2:6–22; Amos 5:18), as well as Israel’s creed (Lam 3:22–23; cf. Ex 34:6). The point is clear. “The grass withers and flower fades, but the Word of our God stands forever.” (Is 40:8) Yahweh will speak again.
 
-How can we be so sure? Israel’s God has a proven record when it comes to answering laments. He responded to Israel’s first lament (Ex 2:23–25) with the exodus (Exodus 14); to David’s plaint (Ps 22:2–22 [EN 22:1–21]) with songs of deliverance (Ps 22:23–32 [EN 22:22–31]): and to Job’s protests (Job 3–37) with a stunning theophany in the storm (Job 39–41:26 [EN 41:34]).
+How can we be so sure? Israel’s God has a proven record when it comes to answering laments. He responded to Israel’s first lament (Ex 2:23–25) with the exodus (Exodus 14); to David’s plaint (Ps 22:2–22 \[EN 22:1–21]) with songs of deliverance (Ps 22:23–32 \[EN 22:22–31]): and to Job’s protests (Job 3–37) with a stunning theophany in the storm (Job 39–41:26 \[EN 41:34]).
 
-What about the tears, cries, and protests in the book of Lamentations? “You [Yahweh] will arise and you will have mercy on Zion for [it is] time to show her favor; the appointed time has come.” (Ps 102:14 [EN 102:13]) The appointed time is after the exile and the appointed author is Isaiah—specifically, chapters forty through fifty-five in his book.
+What about the tears, cries, and protests in the book of Lamentations? “You \[Yahweh] will arise and you will have mercy on Zion for \[it is] time to show her favor; the appointed time has come.” (Ps 102:14 \[EN 102:13]) The appointed time is after the exile and the appointed author is Isaiah—specifically, chapters forty through fifty-five in his book.
 
 Though chronologically _earlier_ than Lamentations, Isaiah 40–55 explodes with divine mercy and favor. _Lamentations Rabbah_ 36.2—a Jewish Midrash—puts it this way: “All the severe prophecies that Jeremiah prophesied against Israel were anticipated and healed by Isaiah.”
 
@@ -882,17 +849,11 @@ The influence runs from Isaiah to Lamentations. Jeremiah composed Lamentations w
 
 Isaiah’s vocabulary, quotations, connections, echoes, and allusions in chapters 40–55 are too numerous to be coincidental. “Viewed against Zion’s literary history, Second Isaiah’s poems of Zion come alive as a sequel to her story in Lamentations.”[250](#sdfootnote250sym) Yahweh responds to the enormity of Zion’s pain with empathy, tenderness, and deep compassion.
 
-Beginning with _Lam. Rab._ 1:21, Jewish readers of the OT have identified textual connections between Lamentations and Isaiah 40–55. Their liturgical readings before and after _ti__š’â bĕ’ āb_ highlight Isaiah 40–63. Three Sabbath readings that lead up to _ti__š’â bĕ’ āb_ are Jer 1:1–2:3, 2:4–28, and Is 1:1–27— called the _haftaroth_ of rebuke. The _haftaroth_ of consolation for the seven Sabbaths after the holiday derives from Isaiah 40–63.[251](#sdfootnote251sym) Elsie Stern describes the liturgy as follows: “After six weeks of proffered (and implicitly rejected) consolation, Israel, speaking through the prophetic texts, accepts divine consolation (Is 61:10).”[252](#sdfootnote252sym)
+Beginning with _Lam. Rab._ 1:21, Jewish readers of the OT have identified textual connections between Lamentations and Isaiah 40–55. Their liturgical readings before and after _ti\_\_š’â bĕ’ āb_ highlight Isaiah 40–63. Three Sabbath readings that lead up to _ti\_\_š’â bĕ’ āb_ are Jer 1:1–2:3, 2:4–28, and Is 1:1–27— called the _haftaroth_ of rebuke. The _haftaroth_ of consolation for the seven Sabbaths after the holiday derives from Isaiah 40–63.[251](#sdfootnote251sym) Elsie Stern describes the liturgy as follows: “After six weeks of proffered (and implicitly rejected) consolation, Israel, speaking through the prophetic texts, accepts divine consolation (Is 61:10).”[252](#sdfootnote252sym)
 
 Within the Christian faith, Max Löhr was an early proponent of the links between Isaiah 40–55 and the book of Lamentations.[253](#sdfootnote253sym) Norman Gottwald furthered the discussion.[254](#sdfootnote254sym) Todd Linafelt writes, “To imagine a healing, a restoration, that is rooted in the rhetoric of destruction found in Lamentations is to imagine a rhetoric of survival that matches it in intensity. The poetry of Second Isaiah takes for itself exactly this task.”[255](#sdfootnote255sym) Patricia Tull-Willey likewise sees connections, especially between Is 49:1–54:17 and all five chapters of Lamentations.[256](#sdfootnote256sym)
 
 This literary feature is termed intertextuality, a term coined by Julia Kriseva who maintained that, “Any text is constructed as a mosaic of quotations; any text is the absorption and transformation of another.”[257](#sdfootnote257sym) Richard Hayes calls intertextuality, “the imbedding of fragments of an earlier text within a later one.”[258](#sdfootnote258sym) Texts, and textual fragments, reappear as quotes, allusions, and echoes. In her classic work, Susan Handelman maintains, “Texts echo, interact, and interpenetrate.”[259](#sdfootnote259sym) These are apt descriptions for how Lamentations and Isaiah 40–55 interact with each other.
-
-  
-  
-
-  
-  
 
 **Yahweh Comforts Zion**
 
@@ -901,9 +862,6 @@ The repeated plaint in Lamentations 1 is that Zion has no comforter (Lam 1:2b, 9
 Could Yahweh ever forget Zion? Not on your life! He launches into a restoration project with a two-fold command of comfort (Is 40:1). The promise recurs in Is 49:13; 51:3, 12, 19; 52:9; 54:11. Yahweh does not deny Zion’s sorrow. Neither does he side-skirt the issue or argue that the Babylonian onslaught was not that bad. Yes, there was wrath, but all the more there is abounding mercy. Robin Parry writes:
 
 The emphasis in Lamentations on pain, sorrow, groaning, desolation, bereavement, wrath, and death is balanced in Isaiah with its emphasis on compassion, comfort, redemption, joy, and salvation.[260](#sdfootnote260sym)
-
-  
-  
 
 Yahweh’s response to Zion’s feelings of abandonment is clear, “Does a woman forget (הֲתִשְׁכַּ֤ח) her nursing child, so that she has no compassion on the son of her womb? Even these forget (תִשְׁכַּ֔חְנָה), yet I will not forget you (אֶשְׁכָּחֵֽךְ).” (Is 49:15) Yahweh did dissert Zion—but only for a moment (Is 54:7). Now, however, in everlasting love he has compassion on her (Is 54:8). “While Zion spoke much in Lamentations and YHWH was silent, in Second Isaiah Zion speaks little and YHWH proves positively loquacious.”[261](#sdfootnote261sym)
 
@@ -934,23 +892,22 @@ The nation of Israel is God’s Servant in Is 49:3, but in Is 49:5–6 the Serva
 The most important connections between Isaiah 40–55 and Lamentations are the descriptions of Jeremiah (Lam 3:1–18) that foreshadow this Suffering Servant. Connections between Lamentations 3 and Isaiah’s Fourth Servant Song (Isaiah 52:13–53:12) are as follows. Both,
 
 1. Suffer in silence (Lam 3:28; Is 53:7)
-    
+
 2. Are rejected (Lam 3:46, 53, 60–63; Is 53:3)
-    
+
 3. Are stricken (Lam 3:30; Is 53:4)
-    
+
 4. Are afflicted and crushed (Lam 3:33–34; Is 53:4–5)
-    
+
 5. Suffer the perversion of justice (Lam 3:53, 55; Is 53:8)
-    
+
 6. Are cut off (Lam 3:54; Is 53:8)
-    
+
 7. Are buried (Lam 3:53, 55; Is 53:9)
-    
+
 8. Parallel Daughter Zion in a number of ways
-    
+
 9. Are linked to Christ (the man in Lamentations 3 is a type of Christ while the Suffering Servant is Christ)
-    
 
 The chief difference, however, is that Jeremiah was not innocent in an absolute way. The Servant, Christ Jesus, was without sin (Heb 4:15), making his suffering vicarious for the sin of the world. And Christ not only sympathizes with suffering and weakness (Heb 4:15) but also carries our evil and sin to the cross (1 Pet 2:24).
 
@@ -964,9 +921,6 @@ A handful of themes in Isaiah 54 also intersect with Lamentations 1–2. These i
 
 She is a figure of healing, transformed from a devastated, shamed, and abandoned woman to a central member of the family with her children bursting out around her and her husband loving and protecting her. She is the future; her new life is already imagined. Capital city, monarchical center, and divine dwelling place, her revivification and restoration lures the exiled people homeward. Her bitterness is turned to song, her despair to joy, her somnolence to awakeness.[266](#sdfootnote266sym)
 
-  
-  
-
 The book of Lamentations concludes with Zion feeling utterly abandoned (Lam 5:20, 22). Yahweh affirms this, but also says it was only “for a brief moment” (Is 54:7). His final word? “You will go out in joy and be led forth in peace; the mountains and the hills before you will break forth into singing, and all the trees of the field will clap their hands.” (Is 55:12)
 
 **Conclusions**
@@ -978,18 +932,6 @@ After Babylon, Yahweh will lift up valleys, lower hills, level uneven ground, an
 Isaiah 40–55 triumphantly reverses the curses in Lamentations. Yahweh is the consummate Shepherd who gathers lambs in his arms and carries them in his bosom (Is 40:11); turns barren heights into pasture, protects them from scorching wind and heat, while leading his people to springs of water (Is 49:9–10); who, even though they continue like sheep to go astray, became a Lamb led to the slaughter to account them righteous by grace through faith (Is 53:5, 7, 11).
 
 The book of Lamentations invites us to make Zion’s story our story; to weep over our losses, allow God to redeem them, and then boldly announce these words to the world. “Those who sow in tears will reap with shouts of joy.” (Ps 126:5)
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
 
 [1](#sdfootnote1anc) James maintains, “To use an acrostic is to call attention to one’s membership in a community marked by shared language and shared commitments (_An Invitation to Biblical Poetry_, 94).
 
@@ -1127,7 +1069,7 @@ The book of Lamentations invites us to make Zion’s story our story; to weep ov
 
 [68](#sdfootnote68anc) Mintz, _Ḥurban_, 28. “The linkage is significant because it signals a reversion to the rhetoric of personhood. As long as the poet has been lamenting the ruin of the Judean state and its institutions he has kept firm control over his voice. The breakdown comes only when the monumental height of the song is undercut by the sight of children suffering” (p. 28).
 
-[69](#sdfootnote69anc) Grund-Wittenburg writes, “Empathetic relationships help to make sure that a person’s own world of experience exists as a clear picture in the world of experience of someone else” (“‘Yes, I Know Their Pain’ [Exodus 3:7],” 148).
+[69](#sdfootnote69anc) Grund-Wittenburg writes, “Empathetic relationships help to make sure that a person’s own world of experience exists as a clear picture in the world of experience of someone else” (“‘Yes, I Know Their Pain’ \[Exodus 3:7],” 148).
 
 [70](#sdfootnote70anc) O’Connor, _Lamentations and the Tears of the World,_ 101.
 
@@ -1182,8 +1124,6 @@ The book of Lamentations invites us to make Zion’s story our story; to weep ov
 [95](#sdfootnote95anc) Gottwald was the first to develop a sustained argument that the Day of the LORD idea connects Lamentations with earlier prophetic texts (_Studies in the Book of Lamentations_, 63–89, 111–18). His primary perspective was the Deuteronomic trajectory that includes Deuteronomy through 2 Kings, along with the book of Jeremiah. Everson is one of the few scholars to consider the book of Lamentations in his discussion on the Day of the LORD (“The Days of Yahweh,” 331).
 
 [96](#sdfootnote96anc) Boase observes, “Parallel wording and chiastic structure within the unit suggests, if only by implication, that Zion’s hope is for the enemy to experience a future day of Yahweh against them” (_The Fulfillment of Doom?_, 131). The “day” is not only Yahweh’s battle against his people; it also includes the nations (e.g., Isaiah 13–23; Jeremiah 46–51; Ezekiel 25–31; Amos 1:3–2:3).
-
-  
 
 [97](#sdfootnote97anc) Compare this passage from the Annals of Ashurbanipal: “Whenever the inhabitants of Arabia asked each other: ‘On account of what have these calamities befallen Arabia?’ (they answered themselves:) ‘Because we did not keep the solemn oaths (sworn by) Ashur, because we offended the friendliness of Ashurbanipal” (_ANET_, 300).
 
@@ -1267,8 +1207,6 @@ The book of Lamentations invites us to make Zion’s story our story; to weep ov
 
 [137](#sdfootnote137anc) Berrigan, _Lamentations_, 76.
 
-  
-
 [138](#sdfootnote138anc) Goldingay calls Ex 34:6–7, “a moment of horrifying waywardness, horrifying chastisement, but manifest mercy” (_Lamentations_, 138).
 
 [139](#sdfootnote139anc) House, “Outrageous Demonstrations of Grace,” 49.
@@ -1311,7 +1249,7 @@ The book of Lamentations invites us to make Zion’s story our story; to weep ov
 
 [158](#sdfootnote158anc) Wolterstorff, _Lament for a Son_, 85.
 
-[159](#sdfootnote159anc) Crisler, _Reading Romans as Lament_, 44. He maintains that lament echoes appear in Rom 1:16–17; 3:1–20; 7:7–8:1–4; 8:18–39; 9:1–5; and 15:1–16 (p. 4). See also Seifrid’s analysis of Romans 9–11, where he maintains, “Paul’s opening lament [9:1–5] provides the conceptual framework for the entire discourse, including the hymn of praise [11:33–36], which, according to the pattern of the psalms of lament, reaffirms the hope of the promises, contrary to all outward appearances” (“Romans,” 638).
+[159](#sdfootnote159anc) Crisler, _Reading Romans as Lament_, 44. He maintains that lament echoes appear in Rom 1:16–17; 3:1–20; 7:7–8:1–4; 8:18–39; 9:1–5; and 15:1–16 (p. 4). See also Seifrid’s analysis of Romans 9–11, where he maintains, “Paul’s opening lament \[9:1–5] provides the conceptual framework for the entire discourse, including the hymn of praise \[11:33–36], which, according to the pattern of the psalms of lament, reaffirms the hope of the promises, contrary to all outward appearances” (“Romans,” 638).
 
 [160](#sdfootnote160anc) Crisler argues this point in _Reading Romans as Lament_, 46–48.
 
@@ -1391,7 +1329,7 @@ framework for interpreting biblical texts encompasses a broad range of topics an
 
 different methods” (“Deutero-Isaiah’s Daughter Zion as Survival Literature,” 104).
 
-[197](#sdfootnote197anc)  
+[197](#sdfootnote197anc)
 
 [198](#sdfootnote198anc) Herman, _Trauma and Recovery_, 74.
 
@@ -1459,7 +1397,7 @@ different methods” (“Deutero-Isaiah’s Daughter Zion as Survival Literature
 
 [230](#sdfootnote230anc) Westermann observes, “Framing a song of lamentation by elements of petition, as is being done here, means that the element of petition is being given determinative significance for the whole composition” (_Lamentations_, 213).
 
-[231](#sdfootnote231anc) Bier maintains, “Given the strong correspondence with Zion’s pleas in Lam 1, the community implied by the CV [communal voice] can be understood as the same as that of which Zion was the representative figure, the people of Jerusalem/Judah” (“Perhaps There is Hope,” 166).
+[231](#sdfootnote231anc) Bier maintains, “Given the strong correspondence with Zion’s pleas in Lam 1, the community implied by the CV \[communal voice] can be understood as the same as that of which Zion was the representative figure, the people of Jerusalem/Judah” (“Perhaps There is Hope,” 166).
 
 [232](#sdfootnote232anc) Dobbs-Allsopp, _Lamentations_, 135.
 

@@ -1,30 +1,37 @@
 ---
-created: 2024-10-22
 publish: true
-tags: [🍋Fruit, 😁Strongly-Agree, 🟢Conviction, 🔥Doctrine-Poetry-Story, 📃Epistle]
+created: 2024-10-22
+modified: 2026-06-10T09:18:20.575-07:00
+tags:
+  - 🍋Fruit
+  - 😁Strongly-Agree
+  - 🟢Conviction
+  - 🔥Doctrine-Poetry-Story
+  - 📃Epistle
 ---
 
 > [!summary] The Big Idea
-> I think oftentimes we are encouraged to act like reading, especially reading the Bible is easy. But it’s really not. I know struggling to comprehend something that I read is something that happens to me all the time. I will ready a page or two out of a book and reach the end and go wait what did that say?? That only got worse the farther along in schooling I got. Reading a thick theological book in seminary was something I felt like needed to be accompanied with tape for my eyelids. 
-> 
-> But when we enter into a practice like Lectio Divina we have a framework to help us through. The framework can help our brains relax and focus on what is in front of us in ways that can be difficult otherwise. 
-> 
+> I think oftentimes we are encouraged to act like reading, especially reading the Bible is easy. But it’s really not. I know struggling to comprehend something that I read is something that happens to me all the time. I will ready a page or two out of a book and reach the end and go wait what did that say?? That only got worse the farther along in schooling I got. Reading a thick theological book in seminary was something I felt like needed to be accompanied with tape for my eyelids.
+>
+> But when we enter into a practice like Lectio Divina we have a framework to help us through. The framework can help our brains relax and focus on what is in front of us in ways that can be difficult otherwise.
+>
 > Here is a brief outline of the four steps:
+>
 > 1. **Lectio** or Read - We begin by simply reading the passage. 
 > 2. **Mediato** or Meditate - Take time to fully allow the words of this section to sit with you. 
-> 3. **Oratio** or Pray - Spend some time talking to God about what he has spoken to you through these words. Use these words as your own prayer as well. 
+> 3. **Oratio** or Pray - Spend some time talking to God about what he has spoken to you through these words. Use these words as your own prayer as well.
 > 4. **Contemplatio** or Contemplate - Simply rest in the amazing words you have taken time to digest.
 
 We live in a world that is often go go go. Have you ever sat down and then instantly felt the urge to look at your phone?  There is no real reason, there is just the compulsion to be constantly doing something. Being still can be hard and yet being still is an important part of hearing from God in our day to day lives. Yet oftentimes even when we do sit down to read Scripture the thoughts and worries of our day crowd in.
 
-Lectio Divina as a method of reading the Bible that has been practiced all the way back to around the year 400. For the first 1500 years of church history a large swath of Christians were practically illiterate, and those who could read often did not have a Bible readily available. This meant that the public reading of Scripture at church was often their only time with the Word of God. St. Benedict began to read Scripture in a special way to help him and his listeners slow down and let the stories of Scripture speak to them. St. Benedict spoke Latin so this way of reading became known as Lectio Divina.  Which means "Divine Reading" in English. 
+Lectio Divina as a method of reading the Bible that has been practiced all the way back to around the year 400. For the first 1500 years of church history a large swath of Christians were practically illiterate, and those who could read often did not have a Bible readily available. This meant that the public reading of Scripture at church was often their only time with the Word of God. St. Benedict began to read Scripture in a special way to help him and his listeners slow down and let the stories of Scripture speak to them. St. Benedict spoke Latin so this way of reading became known as Lectio Divina.  Which means "Divine Reading" in English.
 
 Lectio Divina offered a way of meditating on Scripture so that a small phrase or memorable verse became bread for the soul throughout the week. This kind of devotional reading isn’t about deep study of the Scriptures, nor is it trying to be an alternative to deep study. Lectio Divina approaches Scripture as a meeting place where we encounter the Living God and hear His particular word for us in this particular moment.
 
 > [!important]
 > It is vital to make clear that [[Christian Meditation and Reading Scripture]] is fundamentally different from Easter Meditation. [[Christian Meditation and Reading Scripture]] is focused on filling oneself up with the Word of God while Easter meditation is aimed at "emptying ones self" or some other picture in order to get in touch with "the universe."
 
-***
+---
 
 > [!note]
 > The following section used as a meditation guide in various places and times.
@@ -36,7 +43,7 @@ Spend some time quietly preparing your heart to meet with and hear from God. Slo
 **Read**
 Read a short passage of Scripture slowly and out loud, lingering over the words so that they have time to resonate in your heart and mind. When a word or phrase catches your attention, stop reading and listen for what the Lord may be saying by alerting you to this particular section.
 
-**Meditate**  
+**Meditate**\
 Read the passage again, slowly and out loud. This time, listen for any invitation that God is extending to you in this passage. Explore what the ramifications of this passage may be for you. 
 
 **Pray**
@@ -47,12 +54,13 @@ Spend time in quiet contemplation, and allow the passage or word or phrase to si
 
 As you can see, this is a very different way of approaching the Bible than what many of us are used to. It’s a challenging and stretching experience that takes practice, but Christians for centuries have experienced amazing transformation from these quiet moments with God. So I encourage you to try it, and to try it more than once. Anything new takes practice, and this is no different.  
 
-* * *
+---
 
 > [!note]
 > The following section used as OS Jan 2023.
 
-> “I have asked one thing from the Lord; it is what I desire: to dwell in the house of the Lord all the days of my life, gazing on the beauty of the Lord and seeking him in his temple” 
+> “I have asked one thing from the Lord; it is what I desire: to dwell in the house of the Lord all the days of my life, gazing on the beauty of the Lord and seeking him in his temple”
+>
 > - Psalm 27:4
 
 Reaching back into the history of the Church, we find many helpful ideas and practices. We are not the first people to desire, or seek, to live faithful Christian lives. Christians from other times and places have also sought to better understand and practice our common faith. Not only that, but the perspectives and practices of our Brothers and Sisters from across history can help open our eyes to things we might miss with our 21st century perspective.
@@ -69,6 +77,6 @@ The most basic way to practice lectio divina is to read a section of scripture f
 
 - **Oratio**:  Prayer - Spend some time talking to God about what he has spoken to you through these words.  Ask him to continue to use this moment to grow and cultivate your relationship with Him.  How will they grow and change the way you see the world? What do they mean for the way you live you life?  Offer all these things up to God in a prayerful conversation with Him. 
 
-- **Contemplatio**:  Contemplate - Simply rest in the amazing words you have taken time to digest. Let Jesus meet you here in this place. He has been speaking to you this whole time.  Let yourself relax into this place of intimacy with God.   
+- **Contemplatio**:  Contemplate - Simply rest in the amazing words you have taken time to digest. Let Jesus meet you here in this place. He has been speaking to you this whole time.  Let yourself relax into this place of intimacy with God.
 
 I hope that you find this ancient practice something helpful to add to your personal faith life.  Think of it as one tool to help us intentionally come to God’s word, to really let Jesus speak into our lives with the live breathing words of God.

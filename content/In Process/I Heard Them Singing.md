@@ -1,26 +1,29 @@
 ---
-created: 2025-04-09
-edited_seconds: 7
 publish: true
-tags: [🌱Seed, 😐Neutral, 🟡Consideration, 🔥Doctrine-Poetry-Story]
-updated: 2025-09-15 09:00:11.213000-07:00
+created: 2025-04-09
+modified: 2025-09-15 09:00:11.213000-07:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
+  - 🟡Consideration
+  - 🔥Doctrine-Poetry-Story
 ---
 
 > [!Summary] The Big Idea
 > How do we engage liturgy and worship well?
 
-> [!quote] Book of Concord, Apology of the Augsburg Confession, Article 15, p. 230 
+> [!quote] Book of Concord, Apology of the Augsburg Confession, Article 15, p. 230
 > This topic concerning traditions involves many difficult and controversial questions, and we know from actual experience that traditions are real snares for the conscience. When they are required as necessary, they terribly torture consciences that omit any observance. At the same time, their abrogation carries with it its own evils and questions.
 
-****
+---
 
-false dichotomy of traditional and contemporary 
+false dichotomy of traditional and contemporary
 
-balance of creative response and connection to heritage 
+balance of creative response and connection to heritage
 
-my experience on the shred 
+my experience on the shred
 
-my connection with Irish music 
+my connection with Irish music
 
 ## Biblical Ways to Engage Worship
 
@@ -36,44 +39,45 @@ Our place in God’s story sits uniquely after His crucifixion and resurrection,
 
 Yet we need to be careful to also hold on to translation.  Our people are a product of their time.  The things of beauty and meaning from tradition do not always land the same way they used to among Christians in a different time dealing with different struggles and life experiences.  Consequently, it is of utmost importance that liturgy be translated into forms that reach our people so that they can actually be formed by it.  This is a pull in two directions.  Striving to proclaim the alien ideas and power of God’s Gospel in its fullness, while also being sensitive to the hearer.   
 
-
 # The Narrow Liturgical Walk (Incomplete)
-I have been trying something new lately. Well not really "new" but more new to me. Each morning when I come into my office, I take some time to sing and pray the service of Matins. Before you think about being impressed, I don't always sing all of it, or say all the prays. Sometimes I flip around the pages and sing random hymns or psalms that I like or remember. It started as a bit of an experiment but has turned into more than that. 
+
+I have been trying something new lately. Well not really "new" but more new to me. Each morning when I come into my office, I take some time to sing and pray the service of Matins. Before you think about being impressed, I don't always sing all of it, or say all the prays. Sometimes I flip around the pages and sing random hymns or psalms that I like or remember. It started as a bit of an experiment but has turned into more than that.
 
 Talk about the benefit of the practice and how it has helped shape my focus and outlook on the day
 
-I grew up in a very liturgically traditional Lutheran (LCMS) congregation and have vivid memories of attending Easter vigil services and singing along with the organ and choirs. But there was always something in me that pushed against this kind of worship. It felt boring and "useless." Even in seminary I often skipped chapel because I felt like there were other things I could be doing with my time. As I have grown, I can now identify what I was pushing against.  It was not so much the style, content, or really the use of time. I felt embroiled in a dichotomy that has long been an issue with Christian worship. A dichotomy that is not always clearly stated or honestly approached. 
+I grew up in a very liturgically traditional Lutheran (LCMS) congregation and have vivid memories of attending Easter vigil services and singing along with the organ and choirs. But there was always something in me that pushed against this kind of worship. It felt boring and "useless." Even in seminary I often skipped chapel because I felt like there were other things I could be doing with my time. As I have grown, I can now identify what I was pushing against.  It was not so much the style, content, or really the use of time. I felt embroiled in a dichotomy that has long been an issue with Christian worship. A dichotomy that is not always clearly stated or honestly approached.
 
 The dichotomy is that there is a tension between worship being a human act, or an act of God. On one side liturgy is a human tradition with particular prays, music, and ways of reading Scripture coming from specific times and places passed down from generation to generation (even contemporary worship styles come from a particular place and time). While on the other hand, Jesus says "do this" or "go and make" with clear instructions to baptize and celebrate communion. These clear instructions come with clear promises. When we are baptize, or when we eat and drink His Body and Blood, He acts and gives us His life, forgiveness, and all the good gifts He offers.
 
 So which one is it?
-Is liturgy about me acting or God acting? 
-And does the particular form of the act matter? 
-Why did Jesus not spell it out more in Scripture? 
+Is liturgy about me acting or God acting?
+And does the particular form of the act matter?
+Why did Jesus not spell it out more in Scripture?
 
-The difference between sacrament and ritual. 
-![[Ritual Efficacy versus Sacramental Efficacy#Ritual Efficacy versus Sacramental Efficacy]]  
+The difference between sacrament and ritual.
+![[Ritual Efficacy versus Sacramental Efficacy#Ritual Efficacy versus Sacramental Efficacy]]
 
-ritual as a human act (the things we do). Sacrament as what God does for us. Sacrament as the visible word of God. 
+ritual as a human act (the things we do). Sacrament as what God does for us. Sacrament as the visible word of God.
 
-It is striking that these words about worship practice and liturgy are just as true today as they were during the reformation. 
+It is striking that these words about worship practice and liturgy are just as true today as they were during the reformation.
 
-> [!quote] Book of Concord, Apology of the Augsburg Confession, Article 15, p. 230 
+> [!quote] Book of Concord, Apology of the Augsburg Confession, Article 15, p. 230
 > This topic concerning traditions involves many difficult and controversial questions, and we know from actual experience that traditions are real snares for the conscience. When they are required as necessary, they terribly torture consciences that omit any observance. At the same time, their abrogation carries with it its own evils and questions.[^1]
 
 We see two extremes to avoid in holding this dichotomy
-- making a particular form of worship tradition necessary because it can end up hurting people's consciences that think they need to do all the human acts in order to receive Jesus forgiveness. 
+
+- making a particular form of worship tradition necessary because it can end up hurting people's consciences that think they need to do all the human acts in order to receive Jesus forgiveness.
 - Throwing away liturgy and worship cause it's own problems as well
 
-Liturgical practices is a narrow walk between 
+Liturgical practices is a narrow walk between
 
-There is a balance to be struck between requiring particular forms of worship or Christian practice and throwing away too much of the wisdom passed on to us from the worship and devotional life of past generations. 
+There is a balance to be struck between requiring particular forms of worship or Christian practice and throwing away too much of the wisdom passed on to us from the worship and devotional life of past generations.
 
-It is a narrow path to walk so that we do not slip into legalism and obsession with human transition nor to we fall into intellectualism, individualism or emotionalism 
+It is a narrow path to walk so that we do not slip into legalism and obsession with human transition nor to we fall into intellectualism, individualism or emotionalism
 
 > [!quote] Book of Concord, Apology of the Augsburg Confession, Article 15, p. 225-226
 > For although the holy Fathers themselves had rites and traditions, they still did not maintain that these things were useful or necessary for justification.
-> 
+>
 > They did not obscure the glory and work of Christ. Instead, they taught that we are justified by faith on account of Christ and not on account of these human acts of worship. Moreover, they observed these human rites on account of their usefulness for the body, so that people may know at what time they should assemble, so that they may have an example of how all things in the churches might be done decently and in order, and finally, so that the common people may receive some instruction. (For different seasons and various rites are valuable in admonishing the common people.)[^1]
 
 God is the only one who justifies so the human act of worship according to a particular liturgy does not save you nor does it condemn you
@@ -81,23 +85,26 @@ God is the only one who justifies so the human act of worship according to a par
 The purpose of liturgy is for teaching and helping the church maintain a healthy balance
 
 Example
-my first few years of ministry, I realized just how easy it is to go weeks and months without ever touching a Bible (other than to put together a sermon or Bible study). There are so many things to think about, plan, talk to people, you name it. The todo list always grows with little way to actually check it all off. And boy can I tell you, that kind of separation from the Word is a good way to suck yourself dry. It is the fastest way to go from "I have a lot of cool stuff to tell you about the Bible" to "I'm exhausted and have no idea what we should talk about." And so I made it a priority to read or listen to audio of the Bible regularly. I have tried many different methods and approaches but the important thing has always come back to connection with God's word. 
+my first few years of ministry, I realized just how easy it is to go weeks and months without ever touching a Bible (other than to put together a sermon or Bible study). There are so many things to think about, plan, talk to people, you name it. The todo list always grows with little way to actually check it all off. And boy can I tell you, that kind of separation from the Word is a good way to suck yourself dry. It is the fastest way to go from "I have a lot of cool stuff to tell you about the Bible" to "I'm exhausted and have no idea what we should talk about." And so I made it a priority to read or listen to audio of the Bible regularly. I have tried many different methods and approaches but the important thing has always come back to connection with God's word.
 
-One way to think about this is using the corpus doctrine image that the things that come the most clearly from scripture are more important than things that come from tradition. 
+One way to think about this is using the corpus doctrine image that the things that come the most clearly from scripture are more important than things that come from tradition.
 
 Need to find systems lecture on body of doctrine or _Corpus doctrinae_
 
 Two complimentary approaches to liturgical practice
+
 - Liturgy as Reflection of Scriptural Rhythms
-- Liturgy as Human Tradition and long term memory 
+- Liturgy as Human Tradition and long term memory
 
 > [!important]
 > Therefore, the core purpose of liturgical practice is to teach and learn the faith in practical and down to earth ways. If a piece of liturgy is not being used for this purpose it has lost it's way. Likewise if a piece of Liturgy is thrown away without consideration for what it was meant to teach an equally poor course of action has been chose.
 
-Concern to maintain continuity with the past and the value of handed down traditions especially in celebration of the mass 
+Concern to maintain continuity with the past and the value of handed down traditions especially in celebration of the mass
+
 - Book of Concord, Augsburg Confession, Article 24, p. 69
 
 distinction between services of communion or "the mass" with other scripturally oriented "worship services"
+
 - Book of Concord, Augsburg Confession, Article 24, p. 72
 
 > [!quote] Book of Concord, Apology of the Augsburg Confession, Article 7and 8, p. 181–83.
@@ -106,7 +113,7 @@ distinction between services of communion or "the mass" with other scripturally 
 > Further, there were some in the East named Audians after the originator of the dogma, who on account of this decree of the apostles contended that the Passover must be celebrated with the Jews. In refuting them258 Epiphanius praises the decree and says that it contains nothing which deviates from the faith or rule of the church, and he blames the Audians for misunderstanding the expression. He interprets it the same way that we do, because the apostles did not consider that it made any difference when Easter was celebrated. However, because certain prominent brothers were converts from Judaism but kept their customs, the apostles wanted the rest to follow their example for the sake of harmony. The apostles wisely admonished the reader neither to destroy the liberty of the gospel nor to impose a necessity upon consciences, for they add that one must not be troubled even if there has been an error in the calculations.
 > Many examples of this kind can be collected from the histories in which it appears that differences in human observances did not undermine the unity of the faith. But what need is there for further discussion? If they think that similar observances in food, days, clothing, and similar things that do not have the mandate of God are necessary, the opponents do not at all understand what the righteousness of faith or the kingdom of Christ is. But look at how religious our opponents are! For the unity of the church they require uniformity in human ceremonies although they themselves have changed the ordinance of Christ in the use of the Lord’s Supper, which previously was certainly a universal ordinance. But if universal ordinances are necessary, why do they change the ordinance of Christ’s Supper, which is not human but divine? However, on this whole controversy we will have to say more later.[^1]
 
-Universal tradition is nice but not actually necessary 
+Universal tradition is nice but not actually necessary
 
 While one side of the coin is thinking about the human traditions that are a part of liturgical practice. The deeper reality that all this is pushing toward is the fact that Scripture pictures and encourages a particular mode of being. Humans were created to live and relate with God and one another in particular God pleasing ways.
 
@@ -114,10 +121,10 @@ Luther and the reformers pictured this as vocation. They lived in a world with t
 
 we live in a world that does not have enough, but we need to make sure to approach this carefully
 
-All of this flows from the good order of Creation God set in place in the garden of Eden and is restoring through Jesus Christ. 
+All of this flows from the good order of Creation God set in place in the garden of Eden and is restoring through Jesus Christ.
 
 Therefore, truly good and healthy liturgical practice must derive primarily from the witness of scripture with human tradition as a secondary source.
 
 > [!quote] Book of Concord, The Augsburg Confession, Article 28, p. 100–102.
-> The apostles directed that one should abstain from blood and from what is strangled. But who observes this now? Yet those who do not observe it commit no sin. For the apostles themselves did not want to burden consciences with such bondage, but prohibited such eating for a time to avoid offense. For in this ordinance one must pay attention to the chief part of Christian doctrine which is not abolished by this decree. 
+> The apostles directed that one should abstain from blood and from what is strangled. But who observes this now? Yet those who do not observe it commit no sin. For the apostles themselves did not want to burden consciences with such bondage, but prohibited such eating for a time to avoid offense. For in this ordinance one must pay attention to the chief part of Christian doctrine which is not abolished by this decree.
 > Hardly any of the ancient canons are observed according to the letter. Many of their rules fall daily into complete disuse, even among those who observe such ordinances most diligently. Consciences can neither be counseled nor helped unless we keep this moderation in mind: that such ordinances are not to be considered necessary, and even disregarding them does no harm to consciences.[^1]

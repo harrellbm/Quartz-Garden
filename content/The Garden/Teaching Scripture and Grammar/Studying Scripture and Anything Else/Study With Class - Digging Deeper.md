@@ -1,25 +1,25 @@
 ---
-created: 2025-12-22
-edited_seconds: 1947
 publish: true
+created: 2025-12-22
+modified: 2026-06-02T15:22:01.355-07:00
 tags:
   - 🙂Agree
   - 🟡Consideration
   - 📊Project
-updated: 2026-06-02T15:22:01.355-07:00
 ---
 
 > [!summary] The Big Idea
 > Rather than teach to people through lectures or delivering information. Teach by modeling and pushing people to research and learn as a group. The idea for me would be to have a Bible study where everyone is actually studying a text and then comes back to talk about it. This is then based on the research done in the class and can give feedback and guidance on actual study and research methods rather than it all being prepackaged by the teacher.
 
-> [!Summary] 
+> [!Summary]
 > The major goal of all Scripture reading should be to foster a love and commitment to
 > Christ and His word. Yet in its simplicity, this goal is very lofty in its true aspirations.
-> 
+>
 > With this in mind, most Bible classes generally have two formats:
+>
 > 1. The teacher stands up front and walks the class through what they should know about the text. 
 > 2. A group sits around and discusses the text unusually following some sort of curriculum. 
-> 
+>
 > Both of these forms are good and have their individual strengths and weaknesses. But
 > one of the skills we rarely teach or practice together is HOW to study and dig deeper
 > into a text without it being handed on a silver platter. What are the nitty gritty methods
@@ -34,7 +34,7 @@ Related Notes:
 [[Classical_Notes_Complete_Set.pdf]]
 [[Trivium Learning]]
 
-****
+---
 
 These types of harder questions are difficult to approach in the above mentioned
 formats. Therefore, I have undertaken to explore and try out additional formats for
@@ -43,7 +43,7 @@ one of "Study With" or "Study Together." We will embark on the full process of s
 from opening tasks of familiarity to deep integration.
 
 > [!quote] Luther Says, Vol 1. p. 79
-> You should diligently learn the Word of God and by no means imagine that you know it. What 
+> You should diligently learn the Word of God and by no means imagine that you know it. What
 
 # The Learning Cycle: Everything begins with Prayer
 
@@ -73,6 +73,7 @@ In addition to the overarching cycle, we can also think of various tools we have
 **Memory** - None of the above tools mean anything if they cannot be retained and used when needed. Therefore, memory is the core tool by which we internalize and carry with us the words of Scripture. For example, during His temptation, Jesus did not ask the devil to wait while He looked up needed verses. He simply said: “It is written.” Luther likewise points out the importance of memory in the Large Catechism:  “Know, therefore, that you must be concerned not only about hearing, but also about learning and retaining it {Scripture} in memory, and do not think that it is optional with you or of no great importance, but that it is God’s commandment, who will require of you how you have heard, learned, and honored His Word” (The Large Catechism, from the Third Commandment).
 
 These four basic areas make up the foundational set of tools we will seek to develop as we spend time in the study of God’s word. 
+
 # The Shape of Learning
 
 Finally, a basic procedure for inhabiting the above cycle and tools of learning is as follows:
@@ -88,6 +89,7 @@ Every course of study must first begin by defining the boundaries within which t
 Once these have been established we will have an idea of the desired scope of this Study. 
 
 The rest of the study will consist in walking through various forms of meditatio intentionally pulling in the various tools of learning is ways such as:
+
 - Attending to the Text
 - Finding and consulting secondary resources
 - Collecting observations and insights
@@ -95,56 +97,65 @@ The rest of the study will consist in walking through various forms of meditatio
 - Formulation for sharing and witness
 - Intentional memorization
 - Etc.
-# "Study With" Activities 
+
+# "Study With" Activities
+
 These three areas work together in a cycle to move between things like basic
 memorization and familiarity, to questioning and reasoning, to clear articulation and
 sharing. Here is an overview of the kinds of things we will do in this class:
+
 ## Grammar Activities
+
 We will engage in grammar style learning in order to become familiar with the pieces of
 studying Scripture and internalize their basic shape. Activities in this domain will look
 like:
+
 1. Hand write out the text and start to look for things that stand out to you.
-Highlight, underline or circle things as you go or after you are done.
+   Highlight, underline or circle things as you go or after you are done.
 2. Chart and/or divide sentences into the eight major parts of speech. Paying close
-attention to how the text is physically structured.
-a. Noun, Pronoun, Adjective (modifies nouns and pronouns)
-b. Verb, Adverb
-c. Preposition, Conjunction
-d. Interjection (word added for emotional expression)
-e. Added difficulty: [[10 Deeper Parts of Speech]]
+   attention to how the text is physically structured.
+   a. Noun, Pronoun, Adjective (modifies nouns and pronouns)
+   b. Verb, Adverb
+   c. Preposition, Conjunction
+   d. Interjection (word added for emotional expression)
+   e. Added difficulty: [[10 Deeper Parts of Speech]]
 3. Look at different translations of a text side by side. Get a sense of how they differ.
-Then look into why.
+   Then look into why.
 4. Use an interlinear Bible to take a look at the original text and how it lines up with
-its English translation.
+   its English translation.
 5. Learn how to use a lexicon and basic lexical grammar. Think a bit about the
-original words, verbs, and grammar structures.
+   original words, verbs, and grammar structures.
 6. Research classical resources such as the Confessions, Early Church Fathers,
-Luther, etc. How do they interpret the current text and why?
+   Luther, etc. How do they interpret the current text and why?
 7. Research technical resources like commentaries, concordances, and critical
-apparatus. How could these tools be useful to you?
+   apparatus. How could these tools be useful to you?
 
 ## Logic Activities
+
 1. Identify the shape and flow of the current text. Can you see its underlying
-structure? What is repeated or restated. How does it move from point a to point
-b?
+   structure? What is repeated or restated. How does it move from point a to point
+   b?
 2. How does the text sit within its rings of context (Immediate, Book, Neighboring
-Books, Whole Scripture)?
+   Books, Whole Scripture)?
 3. Where in the overall arch of Scripture does this text sit?
 4. What kind of genre considerations are their in reading this text?
 5. Are there others texts that compare or contrast to this one?
 6. What other texts across the Bible are connected with this one. Why and how?
-a. Is it through Quotations, Allusions, Common language and Metaphor, or
-Typology?
+   a. Is it through Quotations, Allusions, Common language and Metaphor, or
+   Typology?
 
 ## Rhetoric Activities
+
 1. In your own words, summarize this text.
 2. What difference does any of this make to your life? How would you share that
-with others?
+   with others?
 3. What kind of connection to personal stories or conversational elements could
-you bring with you out of the text into daily life?
+   you bring with you out of the text into daily life?
 4. Who is someone in your life that needs to hear these truths. How could you tell
-them about it?
+   them about it?
+
 ## Memory Activities
+
 1. Building associations
 2. Identify what you want to remember
 3. Think about how to remember and structure

@@ -1,9 +1,11 @@
 ---
-created: 2024-10-22
-edited_seconds: 0
 publish: true
-tags: [🌱Seed, 🙂Agree, 🥾SpiritualPractices-EmbodiedLiving]
-updated: 2026-04-01T14:35:57.984-07:00
+created: 2024-10-22
+modified: 2026-04-01T14:35:57.984-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🥾SpiritualPractices-EmbodiedLiving
 ---
 
 > [!Summary] The Big Idea
@@ -11,9 +13,10 @@ updated: 2026-04-01T14:35:57.984-07:00
 
 Related Notes: [[Bible Learning Story]]
 
-* * *
+---
 
 # Faith Milestone Progressions
+
 - [Faith Milestones for Immanuel St. Charles](https://www.immanuelstcharles.org/faith-milestones/)
 - TODO: gather mile stones from OS
 - TODO: gather mile stones from resource Joel shared
@@ -26,8 +29,6 @@ What to pray for 
 
 Practice praying 
 
-  
-
 How the Bible works
 
 Practice with bible genres 
@@ -36,12 +37,10 @@ How to research Bible questions
 
 Practice researching
 
-
 Meditative practice of reading Scripture 
 [[Lectio Divina]]
 
 Practice meditating on Scripture
-
 
 Community collaboration
 
@@ -50,7 +49,6 @@ Investigative approaches 
 How to use tools and resources to solve a problem or investigate a question
 
 Bible connections Game
-  
 
 Academic vs a [[Reading Scripture Devotionally]]
 
@@ -58,4 +56,4 @@ Academic vs a [[Reading Scripture Devotionally]]
 
 Start with Bible Project Jewish Meditation Literature:
 
-[bible-jewish-meditation-literature](https://bibleproject.com/explore/video/bible-jewish-meditation-literature-h2r/?utm_source=web_social_share&medium=shared_video)
+[bible-jewish-meditation-literature](https://bibleproject.com/explore/video/bible-jewish-meditation-literature-h2r/?utm_source=web_social_share\&medium=shared_video)

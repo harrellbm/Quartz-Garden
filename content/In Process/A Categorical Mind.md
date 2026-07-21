@@ -1,17 +1,18 @@
 ---
-created: 2024-10-22
-edited_seconds: 163
 publish: true
-tags: [🙂Agree, 🟡Consideration]
-updated: 2026-04-09T14:59:09.329-07:00
+created: 2024-10-22
+modified: 2026-04-09T14:59:09.329-07:00
+tags:
+  - 🙂Agree
+  - 🟡Consideration
 ---
 
- > [!summary] The Big Idea
-> Where a category comes from and how it understands the world is important and shapes the person who uses the category. 
+> [!summary] The Big Idea
+> Where a category comes from and how it understands the world is important and shapes the person who uses the category.
 
-****
+---
 
-All Categories are judgments about how things group together and relate. They are the hardlines in a drawing that give the white space its dimension. 
+All Categories are judgments about how things group together and relate. They are the hardlines in a drawing that give the white space its dimension.
 
 We can therefore ask and seek out where a category comes from 
 

@@ -1,15 +1,17 @@
 ---
-created: 2026-02-17
-edited_seconds: 65
 publish: true
-tags: ["\U0001F331Seed", "\U0001F610Neutral", "\U0001F7E1Consideration"]
-updated: 2026-02-17 10:46:23.287000-08:00
+created: 2026-02-17
+modified: 2026-02-17 10:46:23.287000-08:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
+  - 🟡Consideration
 ---
 
 > [!Summary] The Big Idea
-> Study Guide written by Dr. Lessing from Concordia St. Paul. 
+> Study Guide written by Dr. Lessing from Concordia St. Paul.
 
-****
+---
 
 <center>Overcoming Life’s Sorrows</center>
 <center>Learning from Jeremiah</center>

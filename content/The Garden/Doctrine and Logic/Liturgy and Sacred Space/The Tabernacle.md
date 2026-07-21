@@ -1,14 +1,17 @@
 ---
-created: 2024-10-22
 publish: true
-tags: [🌱Seed, 🙂Agree, 🔥Doctrine-Poetry-Story, 📝Essay]
+created: 2024-10-22
+modified: 2026-04-09T15:00:26.057-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
+  - 🔥Doctrine-Poetry-Story
+  - 📝Essay
 ---
 
+_**The Big Idea**_: An I wrote in seminary about the tabernacle.
 
-
-***The Big Idea***: An I wrote in seminary about the tabernacle.
-
-****
+---
 
 ## What did the Tabernacle look like?
 
@@ -17,7 +20,7 @@ of pillars of wood. These pillars were then plated in gold and fit into metal ba
 to stand upright. These pillars where joined together by horizontal cross beams which were also
 gold plated. This frame was set up in a rectangular floor plan. Curtains were hung from the
 cross beams around its perimeter and clasped together to create a solid wall. This layer of
-curtain was “finely spun linen, and blue, purple, and scarlet yarn, with a design of cherubim worked into them” (Ex. 26.1). 
+curtain was “finely spun linen, and blue, purple, and scarlet yarn, with a design of cherubim worked into them” (Ex. 26.1).
 
 The next layer was made of goat hair and set over top of the tabernacle. These were joined together and then to the frame to create the base layer of the roof. There were sections of this layer that extended beyond the top of the tabernacle and were allowed to drape over the sides. The next two layers were placed directly over this: “Make a covering for the tent from ram skins dyed red and a covering of fine leather on top of that” (Ex. 26.14).
 
@@ -52,7 +55,7 @@ for the Hebrew word ןַכ ָּש) shakan) that means to settle, rest, or lie do
 given as the purely divine and holy place for God to settle and rest in the midst of His people
 Israel. The pattern and even the crafting of it was all inspired by God. This made the Tabernacle
 the center of God’s presence for his people. It was also a movable center as the Israelites traveled/wandered around the wilderness. This made it an ever imminent place of God’s
-presence and a physical place that they could point to and know that God was with them. [^1] 
+presence and a physical place that they could point to and know that God was with them. [^1]
 
 Jesus is the ultimate fulfillment of this abiding presence of God. In John 1:14 John uses
 the Greek equivalent of tabernacle to get across the idea that Christ came and tabernacled with
@@ -82,4 +85,4 @@ dwell with or near but in, a kind of intimacy that can hardly be imagined possib
 accomplished by the strong work of our Savior Jesus Christ. [^2]
 
 [^1]: Milinovich, Timothy. “Religious and Ritual Objects.” Edited by John D. Barry, David Bomar, Derek R. Brown, Rachel Klippenstein, Douglas Mangum, Carrie Sinclair Wolcott, Lazarus Wentz, Elliot Ritzema, and Wendy Widder. The Lexham Bible Dictionary. (Bellingham, WA: Lexham Press, 2016).
-[^2]: Selvaggio, Anthony T. From Bondage to Liberty: The Gospel according to Moses. Edited by Iain M. Duguid. The Gospel according to the Old Testament. (Phillipsburg, NJ: P&R Publishing, 2014).
+[^2]: Selvaggio, Anthony T. From Bondage to Liberty: The Gospel according to Moses. Edited by Iain M. Duguid. The Gospel according to the Old Testament. (Phillipsburg, NJ: P\&R Publishing, 2014).

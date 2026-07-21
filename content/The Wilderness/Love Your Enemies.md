@@ -1,15 +1,20 @@
 ---
-created: 2025-01-28
 publish: true
-tags: [🌱Seed, 😐Neutral, 🟡Consideration, 🔥Doctrine-Poetry-Story]
+created: 2025-01-28
+modified: 2026-04-09T15:00:27.004-07:00
+tags:
+  - 🌱Seed
+  - 😐Neutral
+  - 🟡Consideration
+  - 🔥Doctrine-Poetry-Story
 ---
 
-****
+---
 
 > [!Summary] The Big Idea
 > Musings on the classic call to love your enemies and what that actually means for us today.
 
-****
+---
 
 But we do not fight for ourselves. Because God’s wrath while it destroys is also a form of creation. Like pulling the weeds out from a garden so that the garden can grow. God knows what things need to be pulled out.
 

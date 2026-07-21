@@ -1,15 +1,20 @@
 ---
-created: 2024-10-22
 publish: true
-tags: [🌱Seed, 🙂Agree]
+created: 2024-10-22
+modified: 2026-04-09T15:00:24.009-07:00
+tags:
+  - 🌱Seed
+  - 🙂Agree
 ---
-   #🍽️Community-Mission 
 
-****
+\#🍽️Community-Mission
+
+---
 
 > [!Summary] The Big Idea
+>
 > - **Story Questions** - questions you ask someone to get to know a story or detail about their life. Basically an invitation to tell a story or give personal details or dig into personal information.
-> 
-> - **Existential Questions** - more abstract questions that focus on things like “what are your dreams” etc. 
+>
+> - **Existential Questions** - more abstract questions that focus on things like “what are your dreams” etc.
 
-****
+---

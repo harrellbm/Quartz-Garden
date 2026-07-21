@@ -1,19 +1,24 @@
 ---
-created: 2024-10-22
-edited_seconds: 3
 publish: true
-tags: [🪴Sprout, 🙂Agree, 📊Project]
-updated: 2026-04-01T14:22:44.080-07:00
+created: 2024-10-22
+modified: 2026-04-01T14:22:44.080-07:00
+tags:
+  - 🪴Sprout
+  - 🙂Agree
+  - 📊Project
 ---
 
 > [!summary] The Big Idea
-> I have started to use Zotero for long term storage of resources that I would like to be able to find again. This is mainly books, software, publishers or other entities that I may have a hard time finding in a google search. 
+> I have started to use Zotero for long term storage of resources that I would like to be able to find again. This is mainly books, software, publishers or other entities that I may have a hard time finding in a google search.
 
-* * *
+---
 
 ## Todos 
-- [ ] Backup whole library in a github repo 
-- [ ] Finish cataloging physical library
+
+- Backup whole library in a github repo 
+- Finish cataloging physical library
+
 ## Collection Spec 
+
 - No more than one level of subfolders per main folder.
 - A deeply organized tag system is really hard to maintain and keep up with. Therefore I have opted for a more loose format with folders grouping major types of resources and any relevant tags being added as I go.
